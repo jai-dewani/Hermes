@@ -1,0 +1,93 @@
+# ntfy.sh topic to publish notifications to.
+# The user subscribes to this topic in the ntfy app on their phone.
+ntfy_topic: "hermes_blog_notification"
+
+# Optional: ntfy server URL. Defaults to https://ntfy.sh if omitted.
+# ntfy_server: "https://ntfy.sh"
+
+# Optional: state retention window in days. Defaults to 30 if omitted.
+# max_age_days: 30
+
+# List of feeds to monitor.
+feeds:
+  # --- .NET, C# Internals & Azure ---
+  - name: "Gérald Barré (Meziantou)"
+    url: "https://www.meziantou.net/feed.rss"
+
+  - name: "Andrew Lock (.NET)"
+    url: "https://andrewlock.net/rss.xml"
+
+  - name: "Khalid Abuhakmeh (.NET)"
+    url: "https://khalidabuhakmeh.com/feed.xml"
+
+  - name: ".NET Blog (Microsoft)"
+    url: "https://devblogs.microsoft.com/dotnet/feed/"
+
+  - name: "Microsoft Azure Blog"
+    url: "https://azure.microsoft.com/en-us/blog/feed/"
+
+  # --- Angular ---
+  - name: "Netanel Basal (Angular)"
+    url: "https://medium.com/feed/@netanelbasal"
+
+  - name: "Angular Architects (Manfred Steyer)"
+    url: "https://www.angulararchitects.io/en/blog/feed/"
+
+  - name: "Angular Blog (Official)"
+    url: "https://blog.angular.dev/feed"
+
+  # --- React & Modern Web Architecture ---
+  - name: "Dominik Dorfmeister (TkDodo)"
+    url: "https://tkdodo.eu/blog/rss.xml"
+
+  - name: "Lee Robinson (React/Next.js)"
+    url: "https://leerob.io/feed.xml"
+
+  - name: "Robin Wieruch (React/TS)"
+    url: "https://www.robinwieruch.de/index.xml"
+
+  - name: "Shruti Kapoor (Frontend/AI)"
+    url: "https://shrutikapoor.substack.com/feed"
+
+  - name: "Dan Abramov (Overreacted)"
+    url: "https://overreacted.io/rss.xml"
+
+  # --- Node.js & JavaScript/TypeScript Runtimes ---
+  - name: "Dr. Axel Rauschmayer (2ality)"
+    url: "https://2ality.com/feeds/posts/default"
+
+  - name: "Node.js Blog (Official)"
+    url: "https://nodejs.org/en/feed/blog.xml"
+
+  # --- OS, Linux, Systems & Database Performance ---
+  - name: "Marc Brooker (AWS/Systems)"
+    url: "https://brooker.co.za/blog/rss.xml"
+
+  - name: "Brendan Gregg (Systems Perf)"
+    url: "https://www.brendangregg.com/blog/rss.xml"
+
+  - name: "Julia Evans (Linux/OS)"
+    url: "https://jvns.ca/atom.xml"
+
+  - name: "Dan Luu (Hardware/Systems)"
+    url: "https://danluu.com/atom.xml"
+
+  - name: "Use The Index, Luke (DB Indexing)"
+    url: "https://use-the-index-luke.com/blog/feed"
+
+  # --- Design Systems & UI Engineering ---
+  - name: "Nathan Curtis (Design Systems)"
+    url: "https://medium.com/feed/@nathanacurtis"
+
+  - name: "Brad Frost (Design Systems)"
+    url: "https://bradfrost.com/feed/"
+
+  - name: "Heydon Pickering (Inclusive Design)"
+    url: "https://heydonworks.com/feed.xml"
+
+  # --- Emerging Tech & Engineering Practices ---
+  - name: "Simon Willison (AI/Web/SQLite)"
+    url: "https://simonwillison.net/atom/everything/"
+
+  - name: "The Pragmatic Engineer"
+    url: "https://newsletter.pragmaticengineer.com/feed"
