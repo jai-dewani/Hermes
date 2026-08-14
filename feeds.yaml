@@ -3,10 +3,14 @@
 ntfy_topic: "hermes_blog_notification"
 
 # Optional: ntfy server URL. Defaults to https://ntfy.sh if omitted.
-# ntfy_server: "https://ntfy.sh"
+ntfy_server: "https://ntfy.sh"
 
 # Optional: state retention window in days. Defaults to 30 if omitted.
-# max_age_days: 30
+max_age_days: 30
+
+# Optional: enable/disable throwback notifications when no new articles are found.
+# Defaults to true. Set to false to disable.
+throwback_enabled: true
 
 # List of feeds to monitor.
 feeds:
