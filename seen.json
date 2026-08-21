@@ -11879,6 +11879,20 @@
       "sent_count": 1,
       "title": "ChatGPT search now uses the site:operator at scale"
     },
+    "https://simonwillison.net/2026/Aug/21/llm-openrouter/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1787347243,
+      "link": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
+      "sent_count": 1,
+      "title": "llm-openrouter 0.7"
+    },
+    "https://simonwillison.net/2026/Aug/21/llm/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1787347243,
+      "link": "https://simonwillison.net/2026/Aug/21/llm/",
+      "sent_count": 1,
+      "title": "llm 0.32.1"
+    },
     "https://simonwillison.net/2026/Aug/21/matt-webb/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1787327290,
