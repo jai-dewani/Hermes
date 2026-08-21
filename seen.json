@@ -11872,6 +11872,13 @@
       "sent_count": 1,
       "title": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView"
     },
+    "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1787274347,
+      "link": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
+      "sent_count": 1,
+      "title": "ChatGPT search now uses the site:operator at scale"
+    },
     "https://simonwillison.net/2026/Aug/5/incident-report/": {
       "blog_name": "",
       "first_seen": 1786725830,
