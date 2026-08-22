@@ -9709,6 +9709,13 @@
       "sent_count": 1,
       "title": ""
     },
+    "https://danluu.com/perf-opt/": {
+      "blog_name": "Dan Luu (Hardware/Systems)",
+      "first_seen": 1787413512,
+      "link": "https://danluu.com/perf-opt/",
+      "sent_count": 1,
+      "title": "There's no reason for software to be slow anymore"
+    },
     "https://danluu.com/perf-tracing/": {
       "blog_name": "",
       "first_seen": 1786725830,
