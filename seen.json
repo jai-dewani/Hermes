@@ -11970,6 +11970,13 @@
       "sent_count": 1,
       "title": "Quoting Drew Breunig"
     },
+    "https://simonwillison.net/2026/Aug/24/llm-anthropic/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1787601263,
+      "link": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+      "sent_count": 1,
+      "title": "llm-anthropic 0.27"
+    },
     "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1787571794,
