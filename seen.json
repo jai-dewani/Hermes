@@ -10045,6 +10045,13 @@
       "sent_count": 1,
       "title": ""
     },
+    "https://devblogs.microsoft.com/dotnet/?p=60645": {
+      "blog_name": ".NET Blog (Microsoft)",
+      "first_seen": 1787599059,
+      "link": "https://devblogs.microsoft.com/dotnet/from-dotnet-run-to-foundry-hosted-agent-in-3-lines-of-csharp/",
+      "sent_count": 1,
+      "title": "From dotnet run to Foundry Hosted Agent in 3 lines of C#"
+    },
     "https://devblogs.microsoft.com/dotnet/?p=60647": {
       "blog_name": ".NET Blog (Microsoft)",
       "first_seen": 1787591724,
