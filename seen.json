@@ -8932,12 +8932,40 @@
       "sent_count": 1,
       "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Cloud-Native Application Platforms"
     },
+    "https://azure.microsoft.com/en-us/blog/?p=53462": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1787693079,
+      "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
+      "sent_count": 1,
+      "title": "The patch window is collapsing: Why security needs a new control plane"
+    },
+    "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1787693079,
+      "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
+      "sent_count": 1,
+      "title": "AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD"
+    },
+    "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1787693079,
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/",
+      "sent_count": 1,
+      "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Cloud-Native Application Platforms"
+    },
     "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/": {
       "blog_name": "",
       "first_seen": 1786725830,
       "link": "",
       "sent_count": 1,
       "title": ""
+    },
+    "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1787693079,
+      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
+      "sent_count": 1,
+      "title": "The Economics of Agent Optimization: From pilots to measurable returns"
     },
     "https://bradfrost.com/blog/post/adaptability-curiosity-creative-breadth-with-brendan-dawes/": {
       "blog_name": "",
