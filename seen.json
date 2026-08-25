@@ -8764,6 +8764,13 @@
       "sent_count": 1,
       "title": ""
     },
+    "https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/": {
+      "blog_name": "Andrew Lock (.NET)",
+      "first_seen": 1787655120,
+      "link": "https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/",
+      "sent_count": 1,
+      "title": "Finding the total number of processors on a machine with .NET"
+    },
     "https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/": {
       "blog_name": "",
       "first_seen": 1786725830,
