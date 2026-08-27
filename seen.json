@@ -8953,6 +8953,13 @@
       "sent_count": 1,
       "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Cloud-Native Application Platforms"
     },
+    "https://azure.microsoft.com/en-us/blog/?p=53414": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1787829087,
+      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/",
+      "sent_count": 1,
+      "title": "The Economics of Agent Optimization: Four ways to lower the cost"
+    },
     "https://azure.microsoft.com/en-us/blog/?p=53462": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1787693079,
