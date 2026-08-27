@@ -8960,6 +8960,13 @@
       "sent_count": 1,
       "title": "The Economics of Agent Optimization: Four ways to lower the cost"
     },
+    "https://azure.microsoft.com/en-us/blog/?p=53455": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1787864519,
+      "link": "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/",
+      "sent_count": 1,
+      "title": "Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs"
+    },
     "https://azure.microsoft.com/en-us/blog/?p=53462": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1787693079,
@@ -10128,6 +10135,13 @@
       "link": "https://devblogs.microsoft.com/dotnet/dotnet-conf-2026/",
       "sent_count": 1,
       "title": ".NET Conf 2026"
+    },
+    "https://devblogs.microsoft.com/dotnet/?p=60678": {
+      "blog_name": ".NET Blog (Microsoft)",
+      "first_seen": 1787864519,
+      "link": "https://devblogs.microsoft.com/dotnet/how-uno-platform-uses-dotnet-mcp-ai-to-build-high-quality-apps/",
+      "sent_count": 1,
+      "title": "How Uno Platform uses .NET, MCP, and AI to build high quality apps"
     },
     "https://devblogs.microsoft.com/dotnet/dotnet-11-preview-7/": {
       "blog_name": "",
@@ -11346,6 +11360,13 @@
       "link": "",
       "sent_count": 1,
       "title": ""
+    },
+    "https://newsletter.pragmaticengineer.com/p/the-pulse-meta-wanted-to-reduce-teams": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1787864519,
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-meta-wanted-to-reduce-teams",
+      "sent_count": 1,
+      "title": "The Pulse: Meta wanted to reduce teams by 60% because of AI"
     },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-metas-self-inflicted-resignation": {
       "blog_name": "The Pragmatic Engineer",
