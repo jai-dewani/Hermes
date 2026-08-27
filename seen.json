@@ -4942,6 +4942,13 @@
       "sent_count": 1,
       "title": "Node.js 26.8.0 (Current)"
     },
+    "/blog/release/v26.8.1?1787782296332": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1787792672,
+      "link": "https://nodejs.org/en/blog/release/v26.8.1",
+      "sent_count": 1,
+      "title": "Node.js 26.8.1 (Current)"
+    },
     "/blog/release/v4.0.0": {
       "blog_name": "",
       "first_seen": 1786725830,
@@ -12067,6 +12074,13 @@
       "link": "https://simonwillison.net/2026/Aug/26/paul-dix/",
       "sent_count": 1,
       "title": "Quoting Paul Dix"
+    },
+    "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1787792672,
+      "link": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
+      "sent_count": 1,
+      "title": "Qwen3.8-Flash-Next"
     },
     "https://simonwillison.net/2026/Aug/5/incident-report/": {
       "blog_name": "",
