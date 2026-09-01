@@ -8988,6 +8988,20 @@
       "sent_count": 1,
       "title": "The patch window is collapsing: Why security needs a new control plane"
     },
+    "https://azure.microsoft.com/en-us/blog/?p=53557": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1788300188,
+      "link": "https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/",
+      "sent_count": 1,
+      "title": "Inside Microsoft\u2019s marketing team: Scaling expertise with AI"
+    },
+    "https://azure.microsoft.com/en-us/blog/?p=53561": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1788300188,
+      "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/",
+      "sent_count": 1,
+      "title": "Introducing Azure Multicloud Interconnect for AWS"
+    },
     "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1787693079,
