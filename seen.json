@@ -7448,6 +7448,13 @@
       "sent_count": 1,
       "title": ""
     },
+    "bbd64a77-f19c-430c-8a4e-1d29175687ff": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1788280729,
+      "link": "https://www.meziantou.net/generate-and-review-the-public-api-of-a-dotnet-library.htm?utm_medium=social&utm_source=syndication",
+      "sent_count": 1,
+      "title": "Generate and review the public API of a .NET library"
+    },
     "c19dbbd2-cc57-4fca-ab7e-d367c1e4ab7b": {
       "blog_name": "",
       "first_seen": 1786725830,
@@ -12292,6 +12299,13 @@
       "sent_count": 1,
       "title": ""
     },
+    "https://simonwillison.net/2026/Sep/1/python-315-rc-2/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1788280729,
+      "link": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
+      "sent_count": 1,
+      "title": "Python 3.15.0 candidate 2 is here!"
+    },
     "https://tkdodo.eu/blog/2021-in-review": {
       "blog_name": "",
       "first_seen": 1786725830,
@@ -12942,6 +12956,13 @@
       "link": "",
       "sent_count": 1,
       "title": ""
+    },
+    "https://www.robinwieruch.de/ai-output-someone-elses-input/": {
+      "blog_name": "Robin Wieruch (React/TS)",
+      "first_seen": 1788280729,
+      "link": "https://www.robinwieruch.de/ai-output-someone-elses-input/",
+      "sent_count": 1,
+      "title": "Your AI Output Is Someone Else's Input"
     },
     "https://www.robinwieruch.de/freelance-developer-rate/": {
       "blog_name": "",
