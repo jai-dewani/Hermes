@@ -8778,6 +8778,13 @@
       "sent_count": 1,
       "title": ""
     },
+    "https://andrewlock.net/exploring-the-dotnet-11-preview-7-the-pain-of-serializing-unions-and-closed-class-hierarchies-with-system-text-json/": {
+      "blog_name": "Andrew Lock (.NET)",
+      "first_seen": 1788264062,
+      "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-7-the-pain-of-serializing-unions-and-closed-class-hierarchies-with-system-text-json/",
+      "sent_count": 1,
+      "title": "The pain of serializing unions and closed class hierarchies with System.Text.Json: Exploring the .NET 11 preview - Part 7"
+    },
     "https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/": {
       "blog_name": "",
       "first_seen": 1786725830,
