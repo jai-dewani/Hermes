@@ -11368,6 +11368,13 @@
       "sent_count": 1,
       "title": ""
     },
+    "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-five-years": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1788291377,
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-five-years",
+      "sent_count": 1,
+      "title": "The Pragmatic Engineer: Five years"
+    },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-big-implications-of-us": {
       "blog_name": "",
       "first_seen": 1786725830,
@@ -12299,12 +12306,26 @@
       "sent_count": 1,
       "title": ""
     },
+    "https://simonwillison.net/2026/Sep/1/codex-libreoffice/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1788291377,
+      "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "sent_count": 1,
+      "title": "Codex bundles LibreOffice"
+    },
     "https://simonwillison.net/2026/Sep/1/python-315-rc-2/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1788280729,
       "link": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
       "sent_count": 1,
       "title": "Python 3.15.0 candidate 2 is here!"
+    },
+    "https://simonwillison.net/2026/Sep/1/tarn-adams/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1788291377,
+      "link": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
+      "sent_count": 1,
+      "title": "Quoting Tarn Adams"
     },
     "https://tkdodo.eu/blog/2021-in-review": {
       "blog_name": "",
