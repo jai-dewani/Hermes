@@ -9296,6 +9296,13 @@
       "sent_count": 1,
       "title": ""
     },
+    "https://danluu.com/bug-blind/": {
+      "blog_name": "Dan Luu (Hardware/Systems)",
+      "first_seen": 1788323825,
+      "link": "https://danluu.com/bug-blind/",
+      "sent_count": 1,
+      "title": "Bug blindness"
+    },
     "https://danluu.com/bugalytics/": {
       "blog_name": "",
       "first_seen": 1786725830,
@@ -10079,6 +10086,13 @@
       "link": "",
       "sent_count": 1,
       "title": ""
+    },
+    "https://danluu.com/zitron/": {
+      "blog_name": "Dan Luu (Hardware/Systems)",
+      "first_seen": 1788323825,
+      "link": "https://danluu.com/zitron/",
+      "sent_count": 1,
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?"
     },
     "https://devblogs.microsoft.com/dotnet/?p=60481": {
       "blog_name": "",
@@ -11143,6 +11157,13 @@
       "link": "",
       "sent_count": 1,
       "title": ""
+    },
+    "https://medium.com/p/39ff8e0271a4": {
+      "blog_name": "Angular Blog (Official)",
+      "first_seen": 1788323825,
+      "link": "https://blog.angular.dev/customizing-angular-aria-tabs-quickly-with-google-antigravity-cli-39ff8e0271a4?source=rss----447683c3d9a3---4",
+      "sent_count": 1,
+      "title": "Customizing Angular Aria Tabs Quickly with Google Antigravity CLI"
     },
     "https://medium.com/p/4390870ef463": {
       "blog_name": "",
@@ -12333,6 +12354,13 @@
       "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
       "sent_count": 1,
       "title": "Codex bundles LibreOffice"
+    },
+    "https://simonwillison.net/2026/Sep/1/geojson/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1788323825,
+      "link": "https://simonwillison.net/2026/Sep/1/geojson/",
+      "sent_count": 1,
+      "title": "GeoJSON Map Viewer"
     },
     "https://simonwillison.net/2026/Sep/1/python-315-rc-2/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
