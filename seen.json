@@ -9002,6 +9002,13 @@
       "sent_count": 1,
       "title": "Introducing Azure Multicloud Interconnect for AWS"
     },
+    "https://azure.microsoft.com/en-us/blog/?p=53585": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1788388195,
+      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/",
+      "sent_count": 1,
+      "title": "The Economics of Agent Optimization: Context engineering for enterprise AI agents"
+    },
     "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1787693079,
