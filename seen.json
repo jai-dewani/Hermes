@@ -9142,6 +9142,13 @@
       "sent_count": 1,
       "title": ""
     },
+    "https://bradfrost.com/links/post/github-cli-media-in-issues-pull-requests-and-comments-github-changelog/": {
+      "blog_name": "Brad Frost (Design Systems)",
+      "first_seen": 1788379121,
+      "link": "https://bradfrost.com/links/post/github-cli-media-in-issues-pull-requests-and-comments-github-changelog/",
+      "sent_count": 1,
+      "title": "GitHub CLI: Media in issues, pull requests, and comments - GitHub Changelog"
+    },
     "https://bradfrost.com/links/post/just-you-wait-by-chris-shiflett/": {
       "blog_name": "",
       "first_seen": 1786725830,
@@ -12389,6 +12396,13 @@
       "link": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
       "sent_count": 1,
       "title": "Claude's new system prompt really doesn't want to reproduce song lyrics"
+    },
+    "https://simonwillison.net/2026/Sep/2/llm-gemini/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1788379121,
+      "link": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+      "sent_count": 1,
+      "title": "llm-gemini 0.34"
     },
     "https://simonwillison.net/2026/Sep/2/rick-brewster/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
