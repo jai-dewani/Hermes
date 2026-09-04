@@ -9009,6 +9009,27 @@
       "sent_count": 1,
       "title": "The Economics of Agent Optimization: Context engineering for enterprise AI agents"
     },
+    "https://azure.microsoft.com/en-us/blog/?p=53628": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1788558596,
+      "link": "https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/",
+      "sent_count": 1,
+      "title": "Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment"
+    },
+    "https://azure.microsoft.com/en-us/blog/?p=53653": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1788558596,
+      "link": "https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/",
+      "sent_count": 1,
+      "title": "How Microsoft\u2019s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop"
+    },
+    "https://azure.microsoft.com/en-us/blog/?p=53730": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1788558596,
+      "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/",
+      "sent_count": 1,
+      "title": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry"
+    },
     "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1787693079,
