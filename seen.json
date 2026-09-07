@@ -12446,12 +12446,33 @@
       "sent_count": 1,
       "title": "Claude's new system prompt really doesn't want to reproduce song lyrics"
     },
+    "https://simonwillison.net/2026/Sep/2/llm-anthropic/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1788825447,
+      "link": "https://simonwillison.net/2026/Sep/2/llm-anthropic/",
+      "sent_count": 1,
+      "title": "llm-anthropic 0.28"
+    },
     "https://simonwillison.net/2026/Sep/2/llm-gemini/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1788379121,
       "link": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
       "sent_count": 1,
       "title": "llm-gemini 0.34"
+    },
+    "https://simonwillison.net/2026/Sep/2/llm-openrouter/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1788825447,
+      "link": "https://simonwillison.net/2026/Sep/2/llm-openrouter/",
+      "sent_count": 1,
+      "title": "llm-openrouter 0.7.1"
+    },
+    "https://simonwillison.net/2026/Sep/2/llm/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1788825447,
+      "link": "https://simonwillison.net/2026/Sep/2/llm/",
+      "sent_count": 1,
+      "title": "llm 0.34"
     },
     "https://simonwillison.net/2026/Sep/2/rick-brewster/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
@@ -12530,12 +12551,26 @@
       "sent_count": 1,
       "title": "Quoting Zach Kehs"
     },
+    "https://simonwillison.net/2026/Sep/7/creepy-crawlies/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1788825447,
+      "link": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
+      "sent_count": 1,
+      "title": "Creepy crawlies"
+    },
     "https://simonwillison.net/2026/Sep/7/equal-earth/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1788818041,
       "link": "https://simonwillison.net/2026/Sep/7/equal-earth/",
       "sent_count": 1,
       "title": "Mercator \u2194 Equal Earth"
+    },
+    "https://simonwillison.net/2026/Sep/7/jakub-pachocki/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1788825447,
+      "link": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+      "sent_count": 1,
+      "title": "Quoting Jakub Pachocki"
     },
     "https://simonwillison.net/2026/Sep/7/video-compressor/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
