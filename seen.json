@@ -4711,6 +4711,13 @@
       "sent_count": 1,
       "title": "Node.js 24.20.0 (LTS)"
     },
+    "/blog/release/v24.21.0?1788954920945": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1788975070,
+      "link": "https://nodejs.org/en/blog/release/v24.21.0",
+      "sent_count": 1,
+      "title": "Node.js 24.21.0 (LTS)"
+    },
     "/blog/release/v24.3.0?1750806350672": {
       "blog_name": "",
       "first_seen": 1786725830,
@@ -4948,6 +4955,13 @@
       "link": "https://nodejs.org/en/blog/release/v26.8.1",
       "sent_count": 1,
       "title": "Node.js 26.8.1 (Current)"
+    },
+    "/blog/release/v26.8.2?1788970157773": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1788975070,
+      "link": "https://nodejs.org/en/blog/release/v26.8.2",
+      "sent_count": 1,
+      "title": "Node.js 26.8.2 (Current)"
     },
     "/blog/release/v4.0.0": {
       "blog_name": "",
@@ -9037,6 +9051,13 @@
       "sent_count": 1,
       "title": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry"
     },
+    "https://azure.microsoft.com/en-us/blog/?p=53782": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1788975070,
+      "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/",
+      "sent_count": 1,
+      "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery"
+    },
     "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1787693079,
@@ -9134,6 +9155,13 @@
       "link": "",
       "sent_count": 1,
       "title": ""
+    },
+    "https://bradfrost.com/blog/post/our-ai-design-systems-course-is-complete/": {
+      "blog_name": "Brad Frost (Design Systems)",
+      "first_seen": 1788975070,
+      "link": "https://bradfrost.com/blog/post/our-ai-design-systems-course-is-complete/",
+      "sent_count": 1,
+      "title": "Our AI & Design Systems Course Is COMPLETE!"
     },
     "https://bradfrost.com/blog/post/storybook-mcp-with-dominic-nguyen/": {
       "blog_name": "",
@@ -11367,6 +11395,13 @@
       "link": "",
       "sent_count": 1,
       "title": ""
+    },
+    "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1788975070,
+      "link": "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux",
+      "sent_count": 1,
+      "title": "Building Codex with Tibo Sottiaux"
     },
     "https://newsletter.pragmaticengineer.com/p/cicd-with-robert-erez": {
       "blog_name": "",
