@@ -9044,6 +9044,13 @@
       "sent_count": 1,
       "title": "How Microsoft\u2019s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop"
     },
+    "https://azure.microsoft.com/en-us/blog/?p=53717": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1789017497,
+      "link": "https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/",
+      "sent_count": 1,
+      "title": "Two zones or three? A design framework for zone-resilient Azure workloads"
+    },
     "https://azure.microsoft.com/en-us/blog/?p=53730": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1788558596,
@@ -9064,6 +9071,13 @@
       "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
       "sent_count": 1,
       "title": "AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD"
+    },
+    "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1789017497,
+      "link": "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/",
+      "sent_count": 1,
+      "title": "Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs"
     },
     "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/": {
       "blog_name": "Microsoft Azure Blog",
@@ -12509,6 +12523,13 @@
       "sent_count": 1,
       "title": "Quoting Tarn Adams"
     },
+    "https://simonwillison.net/2026/Sep/10/calif-research/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1789017497,
+      "link": "https://simonwillison.net/2026/Sep/10/calif-research/",
+      "sent_count": 1,
+      "title": "Quoting Calif Research"
+    },
     "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1788369727,
@@ -12669,6 +12690,13 @@
       "link": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
       "sent_count": 1,
       "title": "On the Navier\u2013Stokes Millennium Prize Problem"
+    },
+    "https://simonwillison.net/2026/Sep/9/blender-viewer/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1789017497,
+      "link": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
+      "sent_count": 1,
+      "title": ".blend URL Viewer"
     },
     "https://simonwillison.net/2026/Sep/9/terence-tao/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
