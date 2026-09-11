@@ -12565,6 +12565,13 @@
       "sent_count": 1,
       "title": "Any Nix package, live in your browser"
     },
+    "https://simonwillison.net/2026/Sep/11/datasette-security/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1789103788,
+      "link": "https://simonwillison.net/2026/Sep/11/datasette-security/",
+      "sent_count": 1,
+      "title": "Datasette 1.0a39 and 0.65.4 security releases"
+    },
     "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1788369727,
