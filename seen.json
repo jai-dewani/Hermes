@@ -12593,12 +12593,33 @@
       "sent_count": 1,
       "title": "Quoting Boris Cherny"
     },
+    "https://simonwillison.net/2026/Sep/11/datasette-2/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1789173524,
+      "link": "https://simonwillison.net/2026/Sep/11/datasette-2/",
+      "sent_count": 1,
+      "title": "datasette 1.0a39"
+    },
+    "https://simonwillison.net/2026/Sep/11/datasette-publish-fly/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1789173524,
+      "link": "https://simonwillison.net/2026/Sep/11/datasette-publish-fly/",
+      "sent_count": 1,
+      "title": "datasette-publish-fly 1.4"
+    },
     "https://simonwillison.net/2026/Sep/11/datasette-security/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1789103788,
       "link": "https://simonwillison.net/2026/Sep/11/datasette-security/",
       "sent_count": 1,
       "title": "Datasette 1.0a39 and 0.65.4 security releases"
+    },
+    "https://simonwillison.net/2026/Sep/11/datasette/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1789173524,
+      "link": "https://simonwillison.net/2026/Sep/11/datasette/",
+      "sent_count": 1,
+      "title": "datasette 0.65.4"
     },
     "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
@@ -12607,12 +12628,26 @@
       "sent_count": 1,
       "title": "Feeling sad about AI"
     },
+    "https://simonwillison.net/2026/Sep/11/github-to-sqlite/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1789173524,
+      "link": "https://simonwillison.net/2026/Sep/11/github-to-sqlite/",
+      "sent_count": 1,
+      "title": "github-to-sqlite 2.9.1"
+    },
     "https://simonwillison.net/2026/Sep/11/hugging-face-security/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1789148685,
       "link": "https://simonwillison.net/2026/Sep/11/hugging-face-security/",
       "sent_count": 1,
       "title": "Quoting huggingface.co/security.txt"
+    },
+    "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1789173524,
+      "link": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
+      "sent_count": 1,
+      "title": "So you want to use OpenRouter?"
     },
     "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
