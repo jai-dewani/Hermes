@@ -413,13 +413,6 @@
       "sent_count": 1,
       "title": "Trip report: Node.js collaboration summit (2026 London)"
     },
-    "/blog/events/nodejs-interactive-2026?1786665600000": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1786798236,
-      "link": "https://nodejs.org/en/blog/events/nodejs-interactive-2026",
-      "sent_count": 1,
-      "title": "Node.js Interactive 2026: A Recap"
-    },
     "/blog/feature/streams2": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1789328908,
@@ -7462,6 +7455,13 @@
       "sent_count": 1,
       "title": "Generate and review the public API of a .NET library"
     },
+    "d6dbd2bc-76f7-470e-8c6c-94d5e4286f8a": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1789403202,
+      "link": "https://www.meziantou.net/xpath-for-custom-types-in-dotnet.htm?utm_medium=social&utm_source=syndication",
+      "sent_count": 1,
+      "title": "XPath for custom types in .NET"
+    },
     "e6921c34-c757-4fae-a8b2-f57c738d6bc4": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1789328908,
@@ -12137,6 +12137,13 @@
       "link": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
       "sent_count": 1,
       "title": "commit-rewriter 0.1"
+    },
+    "https://simonwillison.net/2026/Sep/14/laurie-voss/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1789403202,
+      "link": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
+      "sent_count": 1,
+      "title": "Quoting Laurie Voss"
     },
     "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
