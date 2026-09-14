@@ -413,6 +413,13 @@
       "sent_count": 1,
       "title": "Trip report: Node.js collaboration summit (2026 London)"
     },
+    "/blog/events/nodejs-interactive-2026?1786665600000": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1789417469,
+      "link": "https://nodejs.org/en/blog/events/nodejs-interactive-2026",
+      "sent_count": 1,
+      "title": "Node.js Interactive 2026: A Recap"
+    },
     "/blog/feature/streams2": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1789328908,
@@ -10086,6 +10093,13 @@
       "link": "https://devblogs.microsoft.com/dotnet/mstest-source-generation/",
       "sent_count": 1,
       "title": "Test what you ship: MSTest and Native AOT"
+    },
+    "https://devblogs.microsoft.com/dotnet/?p=60707": {
+      "blog_name": ".NET Blog (Microsoft)",
+      "first_seen": 1789417469,
+      "link": "https://devblogs.microsoft.com/dotnet/share-your-dotnet-story/",
+      "sent_count": 1,
+      "title": "Share your .NET story with the community"
     },
     "https://devblogs.microsoft.com/dotnet/?p=60726": {
       "blog_name": ".NET Blog (Microsoft)",
