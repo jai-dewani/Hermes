@@ -11102,6 +11102,13 @@
       "sent_count": 1,
       "title": "Figma Slots for Repeating Items"
     },
+    "https://medium.com/p/6e3f43f52450": {
+      "blog_name": "Nathan Curtis (Design Systems)",
+      "first_seen": 1789351270,
+      "link": "https://medium.com/@nathanacurtis/spec-driven-ui-component-development-6e3f43f52450?source=rss-799c7c7840a------2",
+      "sent_count": 1,
+      "title": "Spec-Driven UI Component Development"
+    },
     "https://medium.com/p/743bb9bd0b0e": {
       "blog_name": "Angular Blog (Official)",
       "first_seen": 1787938507,
@@ -11164,6 +11171,13 @@
       "link": "https://medium.com/@nathanacurtis/slots-in-design-systems-f53698c2d745?source=rss-799c7c7840a------2",
       "sent_count": 1,
       "title": "Slots in Design Systems"
+    },
+    "https://medium.com/p/f7c7a6651273": {
+      "blog_name": "Nathan Curtis (Design Systems)",
+      "first_seen": 1789351270,
+      "link": "https://medium.com/@nathanacurtis/component-contracts-and-schemas-f7c7a6651273?source=rss-799c7c7840a------2",
+      "sent_count": 1,
+      "title": "Component Contracts and Schemas"
     },
     "https://medium.com/p/ff37df480574": {
       "blog_name": "Angular Blog (Official)",
@@ -12116,6 +12130,20 @@
       "link": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
       "sent_count": 1,
       "title": "California Brown Pelican"
+    },
+    "https://simonwillison.net/2026/Sep/13/shot-scraper/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1789351270,
+      "link": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
+      "sent_count": 1,
+      "title": "shot-scraper 1.12"
+    },
+    "https://simonwillison.net/2026/Sep/14/commit-rewriter/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1789351270,
+      "link": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+      "sent_count": 1,
+      "title": "commit-rewriter 0.1"
     },
     "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
