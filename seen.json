@@ -12152,12 +12152,26 @@
       "sent_count": 1,
       "title": "commit-rewriter 0.1"
     },
+    "https://simonwillison.net/2026/Sep/14/influences/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1789427840,
+      "link": "https://simonwillison.net/2026/Sep/14/influences/",
+      "sent_count": 1,
+      "title": "What blog posts influenced your thinking the most?"
+    },
     "https://simonwillison.net/2026/Sep/14/laurie-voss/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1789403202,
       "link": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
       "sent_count": 1,
       "title": "Quoting Laurie Voss"
+    },
+    "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1789427840,
+      "link": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
+      "sent_count": 1,
+      "title": "The contagion of fear"
     },
     "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
