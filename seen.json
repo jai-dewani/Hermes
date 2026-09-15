@@ -8862,6 +8862,13 @@
       "sent_count": 1,
       "title": "Trying out the Zed editor on Windows for .NET and Markdown"
     },
+    "https://andrewlock.net/understanding-device-bound-session-credentials/": {
+      "blog_name": "Andrew Lock (.NET)",
+      "first_seen": 1789474315,
+      "link": "https://andrewlock.net/understanding-device-bound-session-credentials/",
+      "sent_count": 1,
+      "title": "Understanding Device Bound Session Credentials (DBSC)"
+    },
     "https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/": {
       "blog_name": "Andrew Lock (.NET)",
       "first_seen": 1789328908,
@@ -10128,6 +10135,13 @@
       "link": "https://devblogs.microsoft.com/dotnet/dotnet-11-rc-1/",
       "sent_count": 1,
       "title": "Announcing .NET 11 Release Candidate 1"
+    },
+    "https://devblogs.microsoft.com/dotnet/?p=60786": {
+      "blog_name": ".NET Blog (Microsoft)",
+      "first_seen": 1789474315,
+      "link": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
+      "sent_count": 1,
+      "title": "Performance Improvements in .NET 11"
     },
     "https://heydonworks.com/article/a-double-edged-sword/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
