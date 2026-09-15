@@ -11249,6 +11249,13 @@
       "sent_count": 1,
       "title": "How building software is changing at Anthropic"
     },
+    "https://newsletter.pragmaticengineer.com/p/openai-software-factory": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1789491593,
+      "link": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
+      "sent_count": 1,
+      "title": "Inside OpenAI\u2019s agentic software factory"
+    },
     "https://newsletter.pragmaticengineer.com/p/optiver": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1789328908,
@@ -11759,13 +11766,6 @@
       "link": "https://overreacted.io/writing-resilient-components/",
       "sent_count": 1,
       "title": "Writing Resilient Components"
-    },
-    "https://simonwillison.net/2026/Aug/16/dario-amodei/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1786893477,
-      "link": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
-      "sent_count": 1,
-      "title": "Quoting Dario Amodei"
     },
     "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
