@@ -10150,6 +10150,13 @@
       "sent_count": 1,
       "title": "Performance Improvements in .NET 11"
     },
+    "https://devblogs.microsoft.com/dotnet/?p=60832": {
+      "blog_name": ".NET Blog (Microsoft)",
+      "first_seen": 1789596589,
+      "link": "https://devblogs.microsoft.com/dotnet/build-your-own-ai-agent-harness-in-csharp-the-maf-claw-live-series/",
+      "sent_count": 1,
+      "title": "Build Your Own AI Agent Harness in C#, the MafClaw Live Series"
+    },
     "https://heydonworks.com/article/a-double-edged-sword/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
       "first_seen": 1789328908,
