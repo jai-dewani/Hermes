@@ -11305,13 +11305,6 @@
       "sent_count": 1,
       "title": "Stop being skeptical about AI for development with Charity Majors"
     },
-    "https://newsletter.pragmaticengineer.com/p/the-great-engineering-leader-career-break": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1787070438,
-      "link": "https://newsletter.pragmaticengineer.com/p/the-great-engineering-leader-career-break",
-      "sent_count": 1,
-      "title": "Headed for the Exit: the Great Engineering Leader Career Break"
-    },
     "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-five-years": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1788291377,
@@ -12823,6 +12816,13 @@
       "link": "https://tkdodo.eu/blog/refs-events-and-escape-hatches",
       "sent_count": 1,
       "title": "Refs, Events and Escape Hatches"
+    },
+    "https://tkdodo.eu/blog/reliable-query-prefetching-with-tanstack-router": {
+      "blog_name": "Dominik Dorfmeister (TkDodo)",
+      "first_seen": 1789671668,
+      "link": "https://tkdodo.eu/blog/reliable-query-prefetching-with-tanstack-router",
+      "sent_count": 1,
+      "title": "Reliable Query Prefetching with TanStack Router"
     },
     "https://tkdodo.eu/blog/road-to-refactoring": {
       "blog_name": "Dominik Dorfmeister (TkDodo)",
