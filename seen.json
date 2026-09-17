@@ -9009,6 +9009,13 @@
       "sent_count": 1,
       "title": "AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD"
     },
+    "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1789640106,
+      "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/",
+      "sent_count": 1,
+      "title": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry"
+    },
     "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1789017497,
