@@ -11235,6 +11235,13 @@
       "sent_count": 1,
       "title": "Angular in 2026: Mid-Year Reality Check, Signals, and AI Code Quality!"
     },
+    "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1789657446,
+      "link": "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock",
+      "sent_count": 1,
+      "title": "AI Skills with Matt Pocock"
+    },
     "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1788975070,
@@ -12816,13 +12823,6 @@
       "link": "https://tkdodo.eu/blog/refs-events-and-escape-hatches",
       "sent_count": 1,
       "title": "Refs, Events and Escape Hatches"
-    },
-    "https://tkdodo.eu/blog/reliable-query-prefetching-with-tanstack-router": {
-      "blog_name": "Dominik Dorfmeister (TkDodo)",
-      "first_seen": 1787063603,
-      "link": "https://tkdodo.eu/blog/reliable-query-prefetching-with-tanstack-router",
-      "sent_count": 1,
-      "title": "Reliable Query Prefetching with TanStack Router"
     },
     "https://tkdodo.eu/blog/road-to-refactoring": {
       "blog_name": "Dominik Dorfmeister (TkDodo)",
