@@ -8897,13 +8897,6 @@
       "sent_count": 1,
       "title": "The Windows File Explorer replacement, File Pilot, is awesome"
     },
-    "https://azure.microsoft.com/en-us/blog/?p=53285": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1787089618,
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/",
-      "sent_count": 1,
-      "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Cloud-Native Application Platforms"
-    },
     "https://azure.microsoft.com/en-us/blog/?p=53414": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1787829087,
@@ -11305,6 +11298,13 @@
       "sent_count": 1,
       "title": "Stop being skeptical about AI for development with Charity Majors"
     },
+    "https://newsletter.pragmaticengineer.com/p/the-great-engineering-leader-career-break": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1789682933,
+      "link": "https://newsletter.pragmaticengineer.com/p/the-great-engineering-leader-career-break",
+      "sent_count": 1,
+      "title": "Headed for the Exit: the Great Engineering Leader Career Break"
+    },
     "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-five-years": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1788291377,
@@ -11788,13 +11788,6 @@
       "sent_count": 1,
       "title": "Writing Resilient Components"
     },
-    "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1787089618,
-      "link": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
-      "sent_count": 1,
-      "title": "Mojo\ud83d\udd25 is now open source"
-    },
     "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1787180424,
@@ -12207,6 +12200,13 @@
       "link": "https://simonwillison.net/2026/Sep/16/one-claude/",
       "sent_count": 1,
       "title": "Claude Cowork and chat are now one Claude"
+    },
+    "https://simonwillison.net/2026/Sep/17/compaction-summaries/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1789682933,
+      "link": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+      "sent_count": 1,
+      "title": "Self-generated prompt injections in compaction summaries"
     },
     "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
