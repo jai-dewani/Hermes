@@ -9261,13 +9261,6 @@
       "sent_count": 1,
       "title": "Steve Ballmer was an underrated CEO"
     },
-    "https://danluu.com/benchpocalypse/": {
-      "blog_name": "Dan Luu (Hardware/Systems)",
-      "first_seen": 1787161873,
-      "link": "https://danluu.com/benchpocalypse/",
-      "sent_count": 1,
-      "title": "The benchmarkpocalypse"
-    },
     "https://danluu.com/bimodal-compensation/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
       "first_seen": 1789328908,
@@ -11263,6 +11256,13 @@
       "sent_count": 1,
       "title": "Formal methods with Hillel Wayne"
     },
+    "https://newsletter.pragmaticengineer.com/p/from-chrome-devtools-to-ai-engineering": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1789761195,
+      "link": "https://newsletter.pragmaticengineer.com/p/from-chrome-devtools-to-ai-engineering",
+      "sent_count": 1,
+      "title": "From Chrome DevTools to AI Engineering, with Addy Osmani"
+    },
     "https://newsletter.pragmaticengineer.com/p/inside-anthropic": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1789328908,
@@ -12228,6 +12228,20 @@
       "link": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
       "sent_count": 1,
       "title": "Be alert: targeted attacks on prominent Rustaceans"
+    },
+    "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1789761195,
+      "link": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
+      "sent_count": 1,
+      "title": "Note on 18th September 2026"
+    },
+    "https://simonwillison.net/2026/Sep/18/thariq-shihipar/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1789761195,
+      "link": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
+      "sent_count": 1,
+      "title": "Quoting Thariq Shihipar"
     },
     "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
