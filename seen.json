@@ -11263,13 +11263,6 @@
       "sent_count": 1,
       "title": "Formal methods with Hillel Wayne"
     },
-    "https://newsletter.pragmaticengineer.com/p/from-chrome-devtools-to-ai-engineering": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1787158609,
-      "link": "https://newsletter.pragmaticengineer.com/p/from-chrome-devtools-to-ai-engineering",
-      "sent_count": 1,
-      "title": "From Chrome DevTools to AI Engineering, with Addy Osmani"
-    },
     "https://newsletter.pragmaticengineer.com/p/inside-anthropic": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1789328908,
@@ -11500,6 +11493,13 @@
       "link": "https://overreacted.io/how-does-the-development-mode-work/",
       "sent_count": 1,
       "title": "How Does the Development Mode Work?"
+    },
+    "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/": {
+      "blog_name": "Dan Abramov (Overreacted)",
+      "first_seen": 1789752488,
+      "link": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+      "sent_count": 1,
+      "title": "How I Vibed a Proof of Conway\u2019s Conjecture"
     },
     "https://overreacted.io/how-imports-work-in-rsc/": {
       "blog_name": "Dan Abramov (Overreacted)",
@@ -12228,6 +12228,13 @@
       "link": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
       "sent_count": 1,
       "title": "Be alert: targeted attacks on prominent Rustaceans"
+    },
+    "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1789752488,
+      "link": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
+      "sent_count": 1,
+      "title": "The Creative Spirit of Who Framed Roger Rabbit"
     },
     "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
