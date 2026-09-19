@@ -11802,27 +11802,6 @@
       "sent_count": 1,
       "title": "Writing Resilient Components"
     },
-    "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1787180424,
-      "link": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
-      "sent_count": 1,
-      "title": "Conceptual integrity and counting lines of code"
-    },
-    "https://simonwillison.net/2026/Aug/19/jeremy-morrell/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1787180424,
-      "link": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/",
-      "sent_count": 1,
-      "title": "Quoting Jeremy Morrell"
-    },
-    "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1787183878,
-      "link": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
-      "sent_count": 1,
-      "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript"
-    },
     "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1787268125,
@@ -12235,6 +12214,13 @@
       "link": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
       "sent_count": 1,
       "title": "Be alert: targeted attacks on prominent Rustaceans"
+    },
+    "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1789777438,
+      "link": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+      "sent_count": 1,
+      "title": "Gemini Hacked Three Companies in First Known Breakout by Google\u2019s AI"
     },
     "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
