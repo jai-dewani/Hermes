@@ -9163,6 +9163,13 @@
       "sent_count": 1,
       "title": "Just You Wait, by Chris Shiflett"
     },
+    "https://bradfrost.com/links/post/periodic-table-of-html-elements/": {
+      "blog_name": "Brad Frost (Design Systems)",
+      "first_seen": 1789944997,
+      "link": "https://bradfrost.com/links/post/periodic-table-of-html-elements/",
+      "sent_count": 1,
+      "title": "Periodic Table of HTML Elements"
+    },
     "https://bradfrost.com/links/post/poetic-css/": {
       "blog_name": "Brad Frost (Design Systems)",
       "first_seen": 1789328908,
@@ -11809,20 +11816,6 @@
       "sent_count": 1,
       "title": "Writing Resilient Components"
     },
-    "https://simonwillison.net/2026/Aug/21/llm-openrouter/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1787347243,
-      "link": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
-      "sent_count": 1,
-      "title": "llm-openrouter 0.7"
-    },
-    "https://simonwillison.net/2026/Aug/21/llm/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1787347243,
-      "link": "https://simonwillison.net/2026/Aug/21/llm/",
-      "sent_count": 1,
-      "title": "llm 0.32.1"
-    },
     "https://simonwillison.net/2026/Aug/22/linus-torvalds/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1787433501,
@@ -12277,6 +12270,27 @@
       "link": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
       "sent_count": 1,
       "title": "Quoting Rick Brewster"
+    },
+    "https://simonwillison.net/2026/Sep/20/datasette-explain/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1789944997,
+      "link": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
+      "sent_count": 1,
+      "title": "datasette-explain 0.2.2"
+    },
+    "https://simonwillison.net/2026/Sep/20/llm-keys-ui/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1789944997,
+      "link": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+      "sent_count": 1,
+      "title": "llm-keys-ui 0.1"
+    },
+    "https://simonwillison.net/2026/Sep/20/voxium/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1789944997,
+      "link": "https://simonwillison.net/2026/Sep/20/voxium/",
+      "sent_count": 1,
+      "title": "Quoting voxium"
     },
     "https://simonwillison.net/2026/Sep/3/gpt6-astra/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
