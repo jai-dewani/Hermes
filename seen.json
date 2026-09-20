@@ -7441,6 +7441,13 @@
       "sent_count": 1,
       "title": "Enable SHA Pinning for GitHub Actions Across Personal Repositories"
     },
+    "a013cf7e-2dac-4727-9240-74fa2f79697f": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1789917796,
+      "link": "https://www.meziantou.net/querying-roslyn-syntax-trees-with-xpath.htm?utm_medium=social&utm_source=syndication",
+      "sent_count": 1,
+      "title": "Querying Roslyn syntax trees with XPath"
+    },
     "a5db1822-ce6a-42d0-9ab9-e83d093d66dc": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1789328908,
