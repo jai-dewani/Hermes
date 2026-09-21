@@ -9821,6 +9821,13 @@
       "sent_count": 1,
       "title": "Goodhearting IQ, cholesterol, and tail latency"
     },
+    "https://danluu.com/perf-opt/": {
+      "blog_name": "Dan Luu (Hardware/Systems)",
+      "first_seen": 1790026863,
+      "link": "https://danluu.com/perf-opt/",
+      "sent_count": 1,
+      "title": "There's no reason for software to be slow anymore"
+    },
     "https://danluu.com/perf-tracing/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
       "first_seen": 1789328908,
@@ -11816,13 +11823,6 @@
       "sent_count": 1,
       "title": "Writing Resilient Components"
     },
-    "https://simonwillison.net/2026/Aug/22/linus-torvalds/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1787433501,
-      "link": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
-      "sent_count": 1,
-      "title": "Quoting Linus Torvalds"
-    },
     "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1787518079,
@@ -12263,6 +12263,13 @@
       "link": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
       "sent_count": 1,
       "title": "datasette-explain 0.2.2"
+    },
+    "https://simonwillison.net/2026/Sep/20/hn-49779718/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1790026863,
+      "link": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
+      "sent_count": 1,
+      "title": "MCP was always a bad idea?"
     },
     "https://simonwillison.net/2026/Sep/20/llm-keys-ui/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
