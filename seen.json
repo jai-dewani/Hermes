@@ -7434,6 +7434,13 @@
       "sent_count": 1,
       "title": "Generate a Kiota client at build time from an ASP.NET Core OpenAPI file"
     },
+    "5ea8dd48-6ec5-476d-8d39-b9dce811bcc7": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1790013294,
+      "link": "https://www.meziantou.net/using-jsonpath-with-system-text-json-to-query-json-in-dotnet.htm?utm_medium=social&utm_source=syndication",
+      "sent_count": 1,
+      "title": "Using JsonPath with System.Text.Json to query JSON in .NET"
+    },
     "9227ca2f-0856-4436-aa6c-616a89d52d0c": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1789328908,
@@ -9814,13 +9821,6 @@
       "sent_count": 1,
       "title": "Goodhearting IQ, cholesterol, and tail latency"
     },
-    "https://danluu.com/perf-opt/": {
-      "blog_name": "Dan Luu (Hardware/Systems)",
-      "first_seen": 1787413512,
-      "link": "https://danluu.com/perf-opt/",
-      "sent_count": 1,
-      "title": "There's no reason for software to be slow anymore"
-    },
     "https://danluu.com/perf-tracing/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
       "first_seen": 1789328908,
@@ -11822,20 +11822,6 @@
       "link": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
       "sent_count": 1,
       "title": "Quoting Linus Torvalds"
-    },
-    "https://simonwillison.net/2026/Aug/22/llm/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1787420915,
-      "link": "https://simonwillison.net/2026/Aug/22/llm/",
-      "sent_count": 1,
-      "title": "llm 0.33"
-    },
-    "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1787416443,
-      "link": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-      "sent_count": 1,
-      "title": "More than just code review"
     },
     "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
