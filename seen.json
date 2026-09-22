@@ -12285,6 +12285,20 @@
       "sent_count": 1,
       "title": "Quoting voxium"
     },
+    "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1790036250,
+      "link": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
+      "sent_count": 1,
+      "title": "Cloudflare Python Workers are now generally available"
+    },
+    "https://simonwillison.net/2026/Sep/21/jev/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1790036250,
+      "link": "https://simonwillison.net/2026/Sep/21/jev/",
+      "sent_count": 1,
+      "title": "Jev introduces a new shape of LLM - System One, aka Decision Models"
+    },
     "https://simonwillison.net/2026/Sep/3/gpt6-astra/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1788467259,
