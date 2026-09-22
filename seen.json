@@ -4886,6 +4886,13 @@
       "sent_count": 1,
       "title": "Node.js 26.1.0 (Current)"
     },
+    "/blog/release/v26.10.0?1790067829095": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1790071310,
+      "link": "https://nodejs.org/en/blog/release/v26.10.0",
+      "sent_count": 1,
+      "title": "Node.js 26.10.0 (Current)"
+    },
     "/blog/release/v26.2.0?1779282208511": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1789328908,
