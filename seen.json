@@ -10199,6 +10199,13 @@
       "sent_count": 1,
       "title": "Build Your Own AI Agent Harness in C#, the MafClaw Live Series"
     },
+    "https://devblogs.microsoft.com/dotnet/?p=60868": {
+      "blog_name": ".NET Blog (Microsoft)",
+      "first_seen": 1790101731,
+      "link": "https://devblogs.microsoft.com/dotnet/creating-a-memory-dump-in-csharp/",
+      "sent_count": 1,
+      "title": "Creating a memory dump in C#"
+    },
     "https://heydonworks.com/article/a-double-edged-sword/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
       "first_seen": 1789328908,
@@ -11424,6 +11431,13 @@
       "sent_count": 1,
       "title": "Why Ramp built its own in-house coding agent, Inspect"
     },
+    "https://newsletter.pragmaticengineer.com/p/windows-and-ai": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1790101731,
+      "link": "https://newsletter.pragmaticengineer.com/p/windows-and-ai",
+      "sent_count": 1,
+      "title": "How will AI change operating systems? Part 2: Windows"
+    },
     "https://overreacted.io/a-chain-reaction/": {
       "blog_name": "Dan Abramov (Overreacted)",
       "first_seen": 1789328908,
@@ -12312,6 +12326,20 @@
       "link": "https://simonwillison.net/2026/Sep/21/jev/",
       "sent_count": 1,
       "title": "Jev introduces a new shape of LLM - System One, aka Decision Models"
+    },
+    "https://simonwillison.net/2026/Sep/22/llm-typesafe/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1790101731,
+      "link": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
+      "sent_count": 1,
+      "title": "llm-typesafe 0.1a0"
+    },
+    "https://simonwillison.net/2026/Sep/22/therealcornpop/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1790101731,
+      "link": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
+      "sent_count": 1,
+      "title": "Quoting @therealcornpop"
     },
     "https://simonwillison.net/2026/Sep/3/gpt6-astra/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
