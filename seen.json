@@ -8820,6 +8820,13 @@
       "sent_count": 1,
       "title": "The pain of serializing unions and closed class hierarchies with System.Text.Json: Exploring the .NET 11 preview - Part 7"
     },
+    "https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/": {
+      "blog_name": "Andrew Lock (.NET)",
+      "first_seen": 1790088746,
+      "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/",
+      "sent_count": 1,
+      "title": "Experimental support for Device Bound Session Credentials (DBSC) in ASP.NET Core: Exploring the .NET 11 preview - Part 8"
+    },
     "https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/": {
       "blog_name": "Andrew Lock (.NET)",
       "first_seen": 1787655120,
