@@ -7427,6 +7427,13 @@
       "sent_count": 1,
       "title": "Snapshot testing in .NET with Meziantou.Framework.SnapshotTesting"
     },
+    "3453480d-0f10-47ad-9129-1e8c264e2da3": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1790187246,
+      "link": "https://www.meziantou.net/limit-what-nuget-packages-can-do-in-your-project.htm?utm_medium=social&utm_source=syndication",
+      "sent_count": 1,
+      "title": "Limit what NuGet packages can do in your project"
+    },
     "43c85fad-a260-4dce-9677-b7bf45e56a8e": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1789328908,
@@ -10129,13 +10136,6 @@
       "sent_count": 1,
       "title": "From dotnet run to Foundry Hosted Agent in 3 lines of C#"
     },
-    "https://devblogs.microsoft.com/dotnet/?p=60647": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1787591724,
-      "link": "https://devblogs.microsoft.com/dotnet/explore-csharp-15/",
-      "sent_count": 1,
-      "title": "Explore new features available in C# 15 preview"
-    },
     "https://devblogs.microsoft.com/dotnet/?p=60656": {
       "blog_name": ".NET Blog (Microsoft)",
       "first_seen": 1787676864,
@@ -11304,6 +11304,13 @@
       "link": "https://newsletter.pragmaticengineer.com/p/context-engineering-with-dex-horthy",
       "sent_count": 1,
       "title": "Context engineering with Dex Horthy"
+    },
+    "https://newsletter.pragmaticengineer.com/p/design-engineering-with-maggie-appleton": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1790187246,
+      "link": "https://newsletter.pragmaticengineer.com/p/design-engineering-with-maggie-appleton",
+      "sent_count": 1,
+      "title": "Design Engineering with Maggie Appleton"
     },
     "https://newsletter.pragmaticengineer.com/p/formal-methods-with-hillel-wayne": {
       "blog_name": "The Pragmatic Engineer",
