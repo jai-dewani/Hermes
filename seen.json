@@ -4410,6 +4410,13 @@
       "sent_count": 1,
       "title": "Node.js 22.23.2 (LTS)"
     },
+    "/blog/release/v22.23.3?1790187760940": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1790199159,
+      "link": "https://nodejs.org/en/blog/release/v22.23.3",
+      "sent_count": 1,
+      "title": "Node.js 22.23.3 (LTS)"
+    },
     "/blog/release/v22.3.0": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1789328908,
@@ -10129,13 +10136,6 @@
       "sent_count": 1,
       "title": "Routing and Failover for Microsoft.Extensions.AI"
     },
-    "https://devblogs.microsoft.com/dotnet/?p=60645": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1787599059,
-      "link": "https://devblogs.microsoft.com/dotnet/from-dotnet-run-to-foundry-hosted-agent-in-3-lines-of-csharp/",
-      "sent_count": 1,
-      "title": "From dotnet run to Foundry Hosted Agent in 3 lines of C#"
-    },
     "https://devblogs.microsoft.com/dotnet/?p=60656": {
       "blog_name": ".NET Blog (Microsoft)",
       "first_seen": 1787676864,
@@ -10212,6 +10212,13 @@
       "link": "https://devblogs.microsoft.com/dotnet/creating-a-memory-dump-in-csharp/",
       "sent_count": 1,
       "title": "Creating a memory dump in C#"
+    },
+    "https://devblogs.microsoft.com/dotnet/?p=60881": {
+      "blog_name": ".NET Blog (Microsoft)",
+      "first_seen": 1790199159,
+      "link": "https://devblogs.microsoft.com/dotnet/microsoft-author-signing-certificate-update-2026/",
+      "sent_count": 1,
+      "title": "Microsoft is updating its author-signing certificate starting September 23, 2026"
     },
     "https://heydonworks.com/article/a-double-edged-sword/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
@@ -11865,13 +11872,6 @@
       "sent_count": 1,
       "title": "Writing Resilient Components"
     },
-    "https://simonwillison.net/2026/Aug/24/llm-anthropic/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1787601263,
-      "link": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
-      "sent_count": 1,
-      "title": "llm-anthropic 0.27"
-    },
     "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1787700129,
@@ -12361,6 +12361,20 @@
       "link": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
       "sent_count": 1,
       "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering"
+    },
+    "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1790199159,
+      "link": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+      "sent_count": 1,
+      "title": "Gemini 3.8 TTS Playground"
+    },
+    "https://simonwillison.net/2026/Sep/23/shadow-roots/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1790199159,
+      "link": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
+      "sent_count": 1,
+      "title": "Shadow roots, explained with live examples"
     },
     "https://simonwillison.net/2026/Sep/3/gpt6-astra/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
