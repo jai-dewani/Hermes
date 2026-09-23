@@ -7427,13 +7427,6 @@
       "sent_count": 1,
       "title": "Snapshot testing in .NET with Meziantou.Framework.SnapshotTesting"
     },
-    "3453480d-0f10-47ad-9129-1e8c264e2da3": {
-      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
-      "first_seen": 1787577134,
-      "link": "https://www.meziantou.net/limit-what-nuget-packages-can-do-in-your-project.htm?utm_medium=social&utm_source=syndication",
-      "sent_count": 1,
-      "title": "Limit what NuGet packages can do in your project"
-    },
     "43c85fad-a260-4dce-9677-b7bf45e56a8e": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1789328908,
@@ -9029,6 +9022,20 @@
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
       "sent_count": 1,
       "title": "Microsoft recognized as a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Distributed Hybrid Infrastructure"
+    },
+    "https://azure.microsoft.com/en-us/blog/?p=54001": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1790171505,
+      "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/",
+      "sent_count": 1,
+      "title": "GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry"
+    },
+    "https://azure.microsoft.com/en-us/blog/?p=54023": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1790171505,
+      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051",
+      "sent_count": 1,
+      "title": "Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work"
     },
     "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/": {
       "blog_name": "Microsoft Azure Blog",
@@ -11857,13 +11864,6 @@
       "link": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
       "sent_count": 1,
       "title": "llm-anthropic 0.27"
-    },
-    "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1787571794,
-      "link": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
-      "sent_count": 1,
-      "title": "Your executable is a SQLite database"
     },
     "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
