@@ -12313,12 +12313,26 @@
       "sent_count": 1,
       "title": "Jev introduces a new shape of LLM - System One, aka Decision Models"
     },
+    "https://simonwillison.net/2026/Sep/22/llm-anthropic/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1790133099,
+      "link": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
+      "sent_count": 1,
+      "title": "llm-anthropic 0.29"
+    },
     "https://simonwillison.net/2026/Sep/22/llm-typesafe/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1790101731,
       "link": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
       "sent_count": 1,
       "title": "llm-typesafe 0.1a0"
+    },
+    "https://simonwillison.net/2026/Sep/22/llm/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1790133099,
+      "link": "https://simonwillison.net/2026/Sep/22/llm/",
+      "sent_count": 1,
+      "title": "llm 0.36"
     },
     "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
@@ -12333,6 +12347,13 @@
       "link": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
       "sent_count": 1,
       "title": "Quoting @therealcornpop"
+    },
+    "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1790133099,
+      "link": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
+      "sent_count": 1,
+      "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering"
     },
     "https://simonwillison.net/2026/Sep/3/gpt6-astra/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
