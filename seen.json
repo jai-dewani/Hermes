@@ -9037,6 +9037,20 @@
       "sent_count": 1,
       "title": "Microsoft recognized as a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Distributed Hybrid Infrastructure"
     },
+    "https://azure.microsoft.com/en-us/blog/?p=53956": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1790241447,
+      "link": "https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/",
+      "sent_count": 1,
+      "title": "Your architecture diagram is not your resilience"
+    },
+    "https://azure.microsoft.com/en-us/blog/?p=53970": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1790241447,
+      "link": "https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/",
+      "sent_count": 1,
+      "title": "Designing agent-first platforms: What changes when agents do the work"
+    },
     "https://azure.microsoft.com/en-us/blog/?p=54001": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1790171505,
@@ -9058,12 +9072,26 @@
       "sent_count": 1,
       "title": "AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD"
     },
+    "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1790241447,
+      "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/",
+      "sent_count": 1,
+      "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery"
+    },
     "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1789640106,
       "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/",
       "sent_count": 1,
       "title": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry"
+    },
+    "https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1790241447,
+      "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/",
+      "sent_count": 1,
+      "title": "GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry"
     },
     "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/": {
       "blog_name": "Microsoft Azure Blog",
@@ -9079,12 +9107,47 @@
       "sent_count": 1,
       "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Cloud-Native Application Platforms"
     },
+    "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1790241447,
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/",
+      "sent_count": 1,
+      "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Container Management"
+    },
+    "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1790241447,
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
+      "sent_count": 1,
+      "title": "Microsoft recognized as a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Distributed Hybrid Infrastructure"
+    },
     "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1787693079,
       "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
       "sent_count": 1,
       "title": "The Economics of Agent Optimization: From pilots to measurable returns"
+    },
+    "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1790241447,
+      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/",
+      "sent_count": 1,
+      "title": "The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI"
+    },
+    "https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1790241447,
+      "link": "https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/",
+      "sent_count": 1,
+      "title": "The future of infrastructure resiliency starts with modernization"
+    },
+    "https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1790241447,
+      "link": "https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/",
+      "sent_count": 1,
+      "title": "Two zones or three? A design framework for zone-resilient Azure workloads"
     },
     "https://bradfrost.com/blog/post/adaptability-curiosity-creative-breadth-with-brendan-dawes/": {
       "blog_name": "Brad Frost (Design Systems)",
@@ -12515,6 +12578,13 @@
       "link": "https://simonwillison.net/2026/Sep/9/terence-tao/",
       "sent_count": 1,
       "title": "Quoting Terence Tao"
+    },
+    "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1790241447,
+      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051",
+      "sent_count": 1,
+      "title": "Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work"
     },
     "https://tkdodo.eu/blog/2021-in-review": {
       "blog_name": "Dominik Dorfmeister (TkDodo)",
