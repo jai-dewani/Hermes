@@ -8834,6 +8834,13 @@
       "sent_count": 1,
       "title": "Experimental support for Device Bound Session Credentials (DBSC) in ASP.NET Core: Exploring the .NET 11 preview - Part 8"
     },
+    "https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/": {
+      "blog_name": "Andrew Lock (.NET)",
+      "first_seen": 1790274698,
+      "link": "https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/",
+      "sent_count": 1,
+      "title": "Finding the total number of processors on a machine with .NET"
+    },
     "https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/": {
       "blog_name": "Andrew Lock (.NET)",
       "first_seen": 1789328908,
@@ -10199,13 +10206,6 @@
       "sent_count": 1,
       "title": "Routing and Failover for Microsoft.Extensions.AI"
     },
-    "https://devblogs.microsoft.com/dotnet/?p=60656": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1787676864,
-      "link": "https://devblogs.microsoft.com/dotnet/dotnet-conf-2026/",
-      "sent_count": 1,
-      "title": ".NET Conf 2026"
-    },
     "https://devblogs.microsoft.com/dotnet/?p=60678": {
       "blog_name": ".NET Blog (Microsoft)",
       "first_seen": 1787864519,
@@ -11452,6 +11452,13 @@
       "sent_count": 1,
       "title": "The Pulse #191: a new trend of CPU shortages"
     },
+    "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1790274698,
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand",
+      "sent_count": 1,
+      "title": "The Pulse: RoR creator sparks new \u201cdeath of coding by hand\u201d debate"
+    },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-groks-cli-caught-uploading": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1789328908,
@@ -11507,13 +11514,6 @@
       "link": "https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets",
       "sent_count": 1,
       "title": "Why performant code matters (but gets widely ignored), with Casey Muratori"
-    },
-    "https://newsletter.pragmaticengineer.com/p/why-ramp-built-inspect": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1787671357,
-      "link": "https://newsletter.pragmaticengineer.com/p/why-ramp-built-inspect",
-      "sent_count": 1,
-      "title": "Why Ramp built its own in-house coding agent, Inspect"
     },
     "https://newsletter.pragmaticengineer.com/p/windows-and-ai": {
       "blog_name": "The Pragmatic Engineer",
