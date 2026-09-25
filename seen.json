@@ -4711,13 +4711,6 @@
       "sent_count": 1,
       "title": "Node.js 24.2.0 (Current)"
     },
-    "/blog/release/v24.20.0?1787754582505": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1787770618,
-      "link": "https://nodejs.org/en/blog/release/v24.20.0",
-      "sent_count": 1,
-      "title": "Node.js 24.20.0 (LTS)"
-    },
     "/blog/release/v24.21.0?1788954920945": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1788975070,
@@ -4955,13 +4948,6 @@
       "link": "https://nodejs.org/en/blog/release/v26.7.0",
       "sent_count": 1,
       "title": "Node.js 26.7.0 (Current)"
-    },
-    "/blog/release/v26.8.0?1787754588258": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1787770618,
-      "link": "https://nodejs.org/en/blog/release/v26.8.0",
-      "sent_count": 1,
-      "title": "Node.js 26.8.0 (Current)"
     },
     "/blog/release/v26.8.1?1787782296332": {
       "blog_name": "Node.js Blog (Official)",
@@ -10255,6 +10241,13 @@
       "sent_count": 1,
       "title": "Microsoft is updating its author-signing certificate starting September 23, 2026"
     },
+    "https://devblogs.microsoft.com/dotnet/?p=60885": {
+      "blog_name": ".NET Blog (Microsoft)",
+      "first_seen": 1790364279,
+      "link": "https://devblogs.microsoft.com/dotnet/ag-ui-dotnet-sdk/",
+      "sent_count": 1,
+      "title": "AG-UI Protocol now has a first-class .NET SDK"
+    },
     "https://heydonworks.com/article/a-double-edged-sword/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
       "first_seen": 1789328908,
@@ -11508,13 +11501,6 @@
       "sent_count": 1,
       "title": "What is happening with code reviews?"
     },
-    "https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1787763153,
-      "link": "https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets",
-      "sent_count": 1,
-      "title": "Why performant code matters (but gets widely ignored), with Casey Muratori"
-    },
     "https://newsletter.pragmaticengineer.com/p/why-ramp-built-inspect": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1790286541,
@@ -12236,6 +12222,13 @@
       "sent_count": 1,
       "title": "Self-generated prompt injections in compaction summaries"
     },
+    "https://simonwillison.net/2026/Sep/17/hn-49747390/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1790364279,
+      "link": "https://simonwillison.net/2026/Sep/17/hn-49747390/",
+      "sent_count": 1,
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint"
+    },
     "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1789690644,
@@ -12445,6 +12438,27 @@
       "link": "https://simonwillison.net/2026/Sep/24/datasette/",
       "sent_count": 1,
       "title": "datasette 1.0a41"
+    },
+    "https://simonwillison.net/2026/Sep/24/harder/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1790364279,
+      "link": "https://simonwillison.net/2026/Sep/24/harder/",
+      "sent_count": 1,
+      "title": "Note on 24th September 2026"
+    },
+    "https://simonwillison.net/2026/Sep/25/john-gruber/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1790364279,
+      "link": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+      "sent_count": 1,
+      "title": "Quoting John Gruber"
+    },
+    "https://simonwillison.net/2026/Sep/25/sighting-403293902/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1790364279,
+      "link": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
+      "sent_count": 1,
+      "title": "Northern Gannet, Great Blue Heron, California Brown Pelican"
     },
     "https://simonwillison.net/2026/Sep/3/gpt6-astra/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
