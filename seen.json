@@ -4711,6 +4711,13 @@
       "sent_count": 1,
       "title": "Node.js 24.2.0 (Current)"
     },
+    "/blog/release/v24.20.0?1787754582505": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1790375869,
+      "link": "https://nodejs.org/en/blog/release/v24.20.0",
+      "sent_count": 1,
+      "title": "Node.js 24.20.0 (LTS)"
+    },
     "/blog/release/v24.21.0?1788954920945": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1788975070,
@@ -4948,6 +4955,13 @@
       "link": "https://nodejs.org/en/blog/release/v26.7.0",
       "sent_count": 1,
       "title": "Node.js 26.7.0 (Current)"
+    },
+    "/blog/release/v26.8.0?1787754588258": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1790375869,
+      "link": "https://nodejs.org/en/blog/release/v26.8.0",
+      "sent_count": 1,
+      "title": "Node.js 26.8.0 (Current)"
     },
     "/blog/release/v26.8.1?1787782296332": {
       "blog_name": "Node.js Blog (Official)",
@@ -11500,6 +11514,13 @@
       "link": "https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews",
       "sent_count": 1,
       "title": "What is happening with code reviews?"
+    },
+    "https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1790375869,
+      "link": "https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets",
+      "sent_count": 1,
+      "title": "Why performant code matters (but gets widely ignored), with Casey Muratori"
     },
     "https://newsletter.pragmaticengineer.com/p/why-ramp-built-inspect": {
       "blog_name": "The Pragmatic Engineer",
