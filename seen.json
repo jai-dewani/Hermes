@@ -8932,13 +8932,6 @@
       "sent_count": 1,
       "title": "The Windows File Explorer replacement, File Pilot, is awesome"
     },
-    "https://azure.microsoft.com/en-us/blog/?p=53455": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1787864519,
-      "link": "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/",
-      "sent_count": 1,
-      "title": "Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs"
-    },
     "https://azure.microsoft.com/en-us/blog/?p=53557": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1788300188,
@@ -10177,13 +10170,6 @@
       "link": "https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/",
       "sent_count": 1,
       "title": "Routing and Failover for Microsoft.Extensions.AI"
-    },
-    "https://devblogs.microsoft.com/dotnet/?p=60678": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1787864519,
-      "link": "https://devblogs.microsoft.com/dotnet/how-uno-platform-uses-dotnet-mcp-ai-to-build-high-quality-apps/",
-      "sent_count": 1,
-      "title": "How Uno Platform uses .NET, MCP, and AI to build high quality apps"
     },
     "https://devblogs.microsoft.com/dotnet/?p=60703": {
       "blog_name": ".NET Blog (Microsoft)",
@@ -11472,13 +11458,6 @@
       "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-groks-cli-caught-uploading",
       "sent_count": 1,
       "title": "The Pulse: Grok\u2019s CLI caught uploading all your local files to the cloud"
-    },
-    "https://newsletter.pragmaticengineer.com/p/the-pulse-meta-wanted-to-reduce-teams": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1787864519,
-      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-meta-wanted-to-reduce-teams",
-      "sent_count": 1,
-      "title": "The Pulse: Meta wanted to reduce teams by 60% because of AI"
     },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-metas-self-inflicted-resignation": {
       "blog_name": "The Pragmatic Engineer",
