@@ -10773,6 +10773,13 @@
       "sent_count": 1,
       "title": "The Agreement"
     },
+    "https://heydonworks.com/article/the-ai-art-paradox/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1790531594,
+      "link": "https://heydonworks.com/article/the-ai-art-paradox/",
+      "sent_count": 1,
+      "title": "The AI Artist Paradox"
+    },
     "https://heydonworks.com/article/the-anchor-element/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
       "first_seen": 1789328908,
@@ -11172,6 +11179,13 @@
       "sent_count": 1,
       "title": "Some more things about Django I've been enjoying"
     },
+    "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/": {
+      "blog_name": "Julia Evans (Linux/OS)",
+      "first_seen": 1790531594,
+      "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "sent_count": 1,
+      "title": "Replacing the old battery on rechargeable bike lights"
+    },
     "https://medium.com/p/05440da623ad": {
       "blog_name": "Angular Blog (Official)",
       "first_seen": 1789328908,
@@ -11248,13 +11262,6 @@
       "link": "https://medium.com/@nathanacurtis/spec-driven-ui-component-development-6e3f43f52450?source=rss-799c7c7840a------2",
       "sent_count": 1,
       "title": "Spec-Driven UI Component Development"
-    },
-    "https://medium.com/p/743bb9bd0b0e": {
-      "blog_name": "Angular Blog (Official)",
-      "first_seen": 1787938507,
-      "link": "https://blog.angular.dev/styling-mastery-and-declarative-form-submissions-743bb9bd0b0e?source=rss----447683c3d9a3---4",
-      "sent_count": 1,
-      "title": "Styling Mastery and Declarative Form Submissions"
     },
     "https://medium.com/p/826bc54ae3a9": {
       "blog_name": "Angular Blog (Official)",
