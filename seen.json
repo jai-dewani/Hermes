@@ -7455,6 +7455,13 @@
       "sent_count": 1,
       "title": "Using JsonPath with System.Text.Json to query JSON in .NET"
     },
+    "79429f3e-7781-4012-9f75-ec73b0e98437": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1790614861,
+      "link": "https://www.meziantou.net/adding-jsonpath-support-to-custom-object-models-in-dotnet.htm?utm_medium=social&utm_source=syndication",
+      "sent_count": 1,
+      "title": "Adding JsonPath support to custom object models in .NET"
+    },
     "9227ca2f-0856-4436-aa6c-616a89d52d0c": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1789328908,
@@ -8652,6 +8659,13 @@
       "sent_count": 1,
       "title": "Lorenz and Little: How Much Does Your Tail Cost?"
     },
+    "http://brooker.co.za/blog/2026/09/28/engineering-system-one": {
+      "blog_name": "Marc Brooker (AWS/Systems)",
+      "first_seen": 1790614861,
+      "link": "http://brooker.co.za/blog/2026/09/28/engineering-system-one.html",
+      "sent_count": 1,
+      "title": "Small Decisions: Engineering a Leading Model"
+    },
     "http://use-the-index-luke.com/blog/2017-05/new-sql-standard-oracle-122-acidrain": {
       "blog_name": "Use The Index, Luke (DB Indexing)",
       "first_seen": 1789328908,
@@ -9379,6 +9393,13 @@
       "link": "https://danluu.com/boring-languages/",
       "sent_count": 1,
       "title": "A defense of boring languages"
+    },
+    "https://danluu.com/brain-off/": {
+      "blog_name": "Dan Luu (Hardware/Systems)",
+      "first_seen": 1790614861,
+      "link": "https://danluu.com/brain-off/",
+      "sent_count": 1,
+      "title": "There's no point at which turning your brain off will work"
     },
     "https://danluu.com/branch-prediction/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
