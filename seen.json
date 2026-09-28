@@ -10269,6 +10269,13 @@
       "sent_count": 1,
       "title": "AG-UI Protocol now has a first-class .NET SDK"
     },
+    "https://devblogs.microsoft.com/dotnet/?p=60895": {
+      "blog_name": ".NET Blog (Microsoft)",
+      "first_seen": 1790634740,
+      "link": "https://devblogs.microsoft.com/dotnet/build-agentic-ui-blazor/",
+      "sent_count": 1,
+      "title": "Build Agentic UI with the new Blazor AI components"
+    },
     "https://heydonworks.com/article/a-double-edged-sword/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
       "first_seen": 1789328908,
@@ -12515,6 +12522,20 @@
       "link": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
       "sent_count": 1,
       "title": "S3 Is the Future, S3 Is the Past"
+    },
+    "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1790634740,
+      "link": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+      "sent_count": 1,
+      "title": "Claude Sonnet 5.5"
+    },
+    "https://simonwillison.net/2026/Sep/28/joedaroo/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1790634740,
+      "link": "https://simonwillison.net/2026/Sep/28/joedaroo/",
+      "sent_count": 1,
+      "title": "Quoting @joedaroo"
     },
     "https://simonwillison.net/2026/Sep/28/muse-ai-agent/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
