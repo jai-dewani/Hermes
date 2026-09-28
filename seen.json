@@ -12418,6 +12418,13 @@
       "sent_count": 1,
       "title": "Gemini 3.8 TTS Playground"
     },
+    "https://simonwillison.net/2026/Sep/23/hn-49823961/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1790584546,
+      "link": "https://simonwillison.net/2026/Sep/23/hn-49823961/",
+      "sent_count": 1,
+      "title": "We just shipped support for the ugliest part of HTTP: Vary"
+    },
     "https://simonwillison.net/2026/Sep/23/shadow-roots/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1790199159,
@@ -12474,12 +12481,26 @@
       "sent_count": 1,
       "title": "2026 in LLMs (so far)"
     },
+    "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1790584546,
+      "link": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
+      "sent_count": 1,
+      "title": "Bluesky reply bot checker"
+    },
     "https://simonwillison.net/2026/Sep/27/hn-49871741/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1790560751,
       "link": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
       "sent_count": 1,
       "title": "S3 Is the Future, S3 Is the Past"
+    },
+    "https://simonwillison.net/2026/Sep/28/muse-ai-agent/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1790584546,
+      "link": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+      "sent_count": 1,
+      "title": "Quoting Muse AI Agent"
     },
     "https://simonwillison.net/2026/Sep/3/gpt6-astra/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
