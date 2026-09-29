@@ -9065,6 +9065,13 @@
       "sent_count": 1,
       "title": "Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work"
     },
+    "https://azure.microsoft.com/en-us/blog/?p=54069": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1790648326,
+      "link": "https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/",
+      "sent_count": 1,
+      "title": "Enhancing Microsoft Azure Virtual Machine lifecycle"
+    },
     "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1790241447,
@@ -11976,13 +11983,6 @@
       "link": "https://overreacted.io/writing-resilient-components/",
       "sent_count": 1,
       "title": "Writing Resilient Components"
-    },
-    "https://simonwillison.net/2026/Aug/29/hy4/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788049915,
-      "link": "https://simonwillison.net/2026/Aug/29/hy4/",
-      "sent_count": 1,
-      "title": "Introducing Hy4 Preview"
     },
     "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
