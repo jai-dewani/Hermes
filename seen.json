@@ -11466,6 +11466,13 @@
       "sent_count": 1,
       "title": "Pushing software engineering limits with \u201cnapkin math\u201d"
     },
+    "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1790712378,
+      "link": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
+      "sent_count": 1,
+      "title": "Why has Shopify dropped React Native?"
+    },
     "https://newsletter.pragmaticengineer.com/p/stop-being-skeptical-about-ai-for": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1789328908,
@@ -12543,6 +12550,13 @@
       "link": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
       "sent_count": 1,
       "title": "Quoting Muse AI Agent"
+    },
+    "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1790712378,
+      "link": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
+      "sent_count": 1,
+      "title": "OpenAI DevDay 2026 live blog"
     },
     "https://simonwillison.net/2026/Sep/3/gpt6-astra/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
