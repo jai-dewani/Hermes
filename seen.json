@@ -9072,6 +9072,13 @@
       "sent_count": 1,
       "title": "Enhancing Microsoft Azure Virtual Machine lifecycle"
     },
+    "https://azure.microsoft.com/en-us/blog/?p=54081": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1790758318,
+      "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/",
+      "sent_count": 1,
+      "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents"
+    },
     "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1790241447,
@@ -11990,13 +11997,6 @@
       "link": "https://overreacted.io/writing-resilient-components/",
       "sent_count": 1,
       "title": "Writing Resilient Components"
-    },
-    "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788146856,
-      "link": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-      "sent_count": 1,
-      "title": "Understanding ChatGPT Work"
     },
     "https://simonwillison.net/2026/Aug/31/andrew-digby/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
