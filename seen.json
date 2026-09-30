@@ -11431,6 +11431,13 @@
       "sent_count": 1,
       "title": "Design Engineering with Maggie Appleton"
     },
+    "https://newsletter.pragmaticengineer.com/p/distributed-databases-with-peter": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1790799504,
+      "link": "https://newsletter.pragmaticengineer.com/p/distributed-databases-with-peter",
+      "sent_count": 1,
+      "title": "Distributed databases with Peter Mattis"
+    },
     "https://newsletter.pragmaticengineer.com/p/formal-methods-with-hillel-wayne": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1789328908,
@@ -12571,6 +12578,13 @@
       "link": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
       "sent_count": 1,
       "title": "OpenAI DevDay 2026 live blog"
+    },
+    "https://simonwillison.net/2026/Sep/29/photo-scrubber/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1790799504,
+      "link": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
+      "sent_count": 1,
+      "title": "Photo Scrubber \u2014 local face blur & metadata removal"
     },
     "https://simonwillison.net/2026/Sep/3/gpt6-astra/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
