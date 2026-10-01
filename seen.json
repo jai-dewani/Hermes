@@ -7497,6 +7497,13 @@
       "sent_count": 1,
       "title": "New features and Roslyn analyzers for Meziantou.Framework.FullPath"
     },
+    "bbd64a77-f19c-430c-8a4e-1d29175687ff": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1790895286,
+      "link": "https://www.meziantou.net/generate-and-review-the-public-api-of-a-dotnet-library.htm?utm_medium=social&utm_source=syndication",
+      "sent_count": 1,
+      "title": "Generate and review the public API of a .NET library"
+    },
     "d6dbd2bc-76f7-470e-8c6c-94d5e4286f8a": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1789403202,
@@ -8938,20 +8945,6 @@
       "link": "https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/",
       "sent_count": 1,
       "title": "The Windows File Explorer replacement, File Pilot, is awesome"
-    },
-    "https://azure.microsoft.com/en-us/blog/?p=53557": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1788300188,
-      "link": "https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/",
-      "sent_count": 1,
-      "title": "Inside Microsoft\u2019s marketing team: Scaling expertise with AI"
-    },
-    "https://azure.microsoft.com/en-us/blog/?p=53561": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1788300188,
-      "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/",
-      "sent_count": 1,
-      "title": "Introducing Azure Multicloud Interconnect for AWS"
     },
     "https://azure.microsoft.com/en-us/blog/?p=53585": {
       "blog_name": "Microsoft Azure Blog",
@@ -11515,13 +11508,6 @@
       "sent_count": 1,
       "title": "Headed for the Exit: the Great Engineering Leader Career Break"
     },
-    "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-five-years": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1788291377,
-      "link": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-five-years",
-      "sent_count": 1,
-      "title": "The Pragmatic Engineer: Five years"
-    },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-191-a-new-trend-of-cpu": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1789062102,
@@ -12040,13 +12026,6 @@
       "sent_count": 1,
       "title": "Claude Fable 5.1 made me a really nice animated pelican"
     },
-    "https://simonwillison.net/2026/Sep/1/codex-libreoffice/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788291377,
-      "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-      "sent_count": 1,
-      "title": "Codex bundles LibreOffice"
-    },
     "https://simonwillison.net/2026/Sep/1/datasette-mcp/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1788339784,
@@ -12060,13 +12039,6 @@
       "link": "https://simonwillison.net/2026/Sep/1/geojson/",
       "sent_count": 1,
       "title": "GeoJSON Map Viewer"
-    },
-    "https://simonwillison.net/2026/Sep/1/tarn-adams/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788291377,
-      "link": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
-      "sent_count": 1,
-      "title": "Quoting Tarn Adams"
     },
     "https://simonwillison.net/2026/Sep/10/calif-research/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
@@ -13390,6 +13362,13 @@
       "link": "https://www.robinwieruch.de/ai-agentic-code-review/",
       "sent_count": 1,
       "title": "Agentic Code Review: Pattern Matching for AI"
+    },
+    "https://www.robinwieruch.de/ai-output-someone-elses-input/": {
+      "blog_name": "Robin Wieruch (React/TS)",
+      "first_seen": 1790895286,
+      "link": "https://www.robinwieruch.de/ai-output-someone-elses-input/",
+      "sent_count": 1,
+      "title": "Your AI Output Is Someone Else's Input"
     },
     "https://www.robinwieruch.de/freelance-developer-rate/": {
       "blog_name": "Robin Wieruch (React/TS)",
