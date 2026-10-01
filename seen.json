@@ -7497,13 +7497,6 @@
       "sent_count": 1,
       "title": "New features and Roslyn analyzers for Meziantou.Framework.FullPath"
     },
-    "bbd64a77-f19c-430c-8a4e-1d29175687ff": {
-      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
-      "first_seen": 1788280729,
-      "link": "https://www.meziantou.net/generate-and-review-the-public-api-of-a-dotnet-library.htm?utm_medium=social&utm_source=syndication",
-      "sent_count": 1,
-      "title": "Generate and review the public API of a .NET library"
-    },
     "d6dbd2bc-76f7-470e-8c6c-94d5e4286f8a": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1789403202,
@@ -8834,6 +8827,13 @@
       "sent_count": 1,
       "title": "Automatic CSRF protection based on Fetch Metadata headers: Exploring the .NET 11 preview - Part 6"
     },
+    "https://andrewlock.net/exploring-the-dotnet-11-preview-7-the-pain-of-serializing-unions-and-closed-class-hierarchies-with-system-text-json/": {
+      "blog_name": "Andrew Lock (.NET)",
+      "first_seen": 1790879453,
+      "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-7-the-pain-of-serializing-unions-and-closed-class-hierarchies-with-system-text-json/",
+      "sent_count": 1,
+      "title": "The pain of serializing unions and closed class hierarchies with System.Text.Json: Exploring the .NET 11 preview - Part 7"
+    },
     "https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/": {
       "blog_name": "Andrew Lock (.NET)",
       "first_seen": 1790088746,
@@ -9072,12 +9072,33 @@
       "sent_count": 1,
       "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents"
     },
+    "https://azure.microsoft.com/en-us/blog/?p=54217": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1790879453,
+      "link": "https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/",
+      "sent_count": 1,
+      "title": "Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware"
+    },
+    "https://azure.microsoft.com/en-us/blog/?p=54298": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1790879453,
+      "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/",
+      "sent_count": 1,
+      "title": "SQL Server on Azure Local is now generally available"
+    },
     "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1790241447,
       "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/",
       "sent_count": 1,
       "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery"
+    },
+    "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1790879453,
+      "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/",
+      "sent_count": 1,
+      "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents"
     },
     "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/": {
       "blog_name": "Microsoft Azure Blog",
@@ -11515,6 +11536,13 @@
       "sent_count": 1,
       "title": "The Pulse: RoR creator sparks new \u201cdeath of coding by hand\u201d debate"
     },
+    "https://newsletter.pragmaticengineer.com/p/the-pulse-firebases-global-outage": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1790879453,
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-firebases-global-outage",
+      "sent_count": 1,
+      "title": "The Pulse: Firebase\u2019s global outage & poor response"
+    },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-groks-cli-caught-uploading": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1789328908,
@@ -12032,13 +12060,6 @@
       "link": "https://simonwillison.net/2026/Sep/1/geojson/",
       "sent_count": 1,
       "title": "GeoJSON Map Viewer"
-    },
-    "https://simonwillison.net/2026/Sep/1/python-315-rc-2/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788280729,
-      "link": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
-      "sent_count": 1,
-      "title": "Python 3.15.0 candidate 2 is here!"
     },
     "https://simonwillison.net/2026/Sep/1/tarn-adams/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
@@ -13369,13 +13390,6 @@
       "link": "https://www.robinwieruch.de/ai-agentic-code-review/",
       "sent_count": 1,
       "title": "Agentic Code Review: Pattern Matching for AI"
-    },
-    "https://www.robinwieruch.de/ai-output-someone-elses-input/": {
-      "blog_name": "Robin Wieruch (React/TS)",
-      "first_seen": 1788280729,
-      "link": "https://www.robinwieruch.de/ai-output-someone-elses-input/",
-      "sent_count": 1,
-      "title": "Your AI Output Is Someone Else's Input"
     },
     "https://www.robinwieruch.de/freelance-developer-rate/": {
       "blog_name": "Robin Wieruch (React/TS)",
