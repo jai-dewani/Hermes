@@ -9436,13 +9436,6 @@
       "sent_count": 1,
       "title": "How often is the build broken?"
     },
-    "https://danluu.com/bug-blind/": {
-      "blog_name": "Dan Luu (Hardware/Systems)",
-      "first_seen": 1788323825,
-      "link": "https://danluu.com/bug-blind/",
-      "sent_count": 1,
-      "title": "Bug blindness"
-    },
     "https://danluu.com/bugalytics/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
       "first_seen": 1789328908,
@@ -10198,13 +10191,6 @@
       "link": "https://danluu.com/yegge-predictions/",
       "sent_count": 1,
       "title": "Steve Yegge's prediction record"
-    },
-    "https://danluu.com/zitron/": {
-      "blog_name": "Dan Luu (Hardware/Systems)",
-      "first_seen": 1788323825,
-      "link": "https://danluu.com/zitron/",
-      "sent_count": 1,
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?"
     },
     "https://devblogs.microsoft.com/dotnet/?p=60600": {
       "blog_name": ".NET Blog (Microsoft)",
@@ -11270,13 +11256,6 @@
       "sent_count": 1,
       "title": "Components as Data"
     },
-    "https://medium.com/p/39ff8e0271a4": {
-      "blog_name": "Angular Blog (Official)",
-      "first_seen": 1788323825,
-      "link": "https://blog.angular.dev/customizing-angular-aria-tabs-quickly-with-google-antigravity-cli-39ff8e0271a4?source=rss----447683c3d9a3---4",
-      "sent_count": 1,
-      "title": "Customizing Angular Aria Tabs Quickly with Google Antigravity CLI"
-    },
     "https://medium.com/p/4f1ab881b7a9": {
       "blog_name": "Nathan Curtis (Design Systems)",
       "first_seen": 1790286541,
@@ -12032,13 +12011,6 @@
       "link": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
       "sent_count": 1,
       "title": "datasette-mcp 0.2"
-    },
-    "https://simonwillison.net/2026/Sep/1/geojson/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788323825,
-      "link": "https://simonwillison.net/2026/Sep/1/geojson/",
-      "sent_count": 1,
-      "title": "GeoJSON Map Viewer"
     },
     "https://simonwillison.net/2026/Sep/10/calif-research/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
