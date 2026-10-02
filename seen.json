@@ -9436,6 +9436,13 @@
       "sent_count": 1,
       "title": "How often is the build broken?"
     },
+    "https://danluu.com/bug-blind/": {
+      "blog_name": "Dan Luu (Hardware/Systems)",
+      "first_seen": 1790952740,
+      "link": "https://danluu.com/bug-blind/",
+      "sent_count": 1,
+      "title": "Bug blindness"
+    },
     "https://danluu.com/bugalytics/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
       "first_seen": 1789328908,
@@ -10191,6 +10198,13 @@
       "link": "https://danluu.com/yegge-predictions/",
       "sent_count": 1,
       "title": "Steve Yegge's prediction record"
+    },
+    "https://danluu.com/zitron/": {
+      "blog_name": "Dan Luu (Hardware/Systems)",
+      "first_seen": 1790952740,
+      "link": "https://danluu.com/zitron/",
+      "sent_count": 1,
+      "title": "Ed Zitron's AI prediction track record"
     },
     "https://devblogs.microsoft.com/dotnet/?p=60600": {
       "blog_name": ".NET Blog (Microsoft)",
@@ -11221,6 +11235,2638 @@
       "sent_count": 1,
       "title": "Replacing the old battery on rechargeable bike lights"
     },
+    "https://khalidabuhakmeh.com/posts/a-dotnet-five-guide-from-idea-to-nuget-package/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/a-dotnet-five-guide-from-idea-to-nuget-package/",
+      "sent_count": 1,
+      "title": "A .NET 5.0 Guide: From Idea To NuGet Package"
+    },
+    "https://khalidabuhakmeh.com/posts/a-software-developers-guide-moving-to-windows-from-macos/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/a-software-developers-guide-moving-to-windows-from-macos/",
+      "sent_count": 1,
+      "title": "A Software Developer's Guide: Moving To Windows From macOS"
+    },
+    "https://khalidabuhakmeh.com/posts/access-background-services-from-aspnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/access-background-services-from-aspnet-core/",
+      "sent_count": 1,
+      "title": "Access Background Services From ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/add-a-property-to-the-top-level-statements-program-class/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/add-a-property-to-the-top-level-statements-program-class/",
+      "sent_count": 1,
+      "title": "Add a Property to the Top-level Statements Program class"
+    },
+    "https://khalidabuhakmeh.com/posts/add-custom-database-functions-for-entity-framework-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/add-custom-database-functions-for-entity-framework-core/",
+      "sent_count": 1,
+      "title": "Add Custom Database Functions For Entity Framework Core"
+    },
+    "https://khalidabuhakmeh.com/posts/add-ef-core-migrations-to-dotnet-aspire-solutions/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/add-ef-core-migrations-to-dotnet-aspire-solutions/",
+      "sent_count": 1,
+      "title": "Add EF Core Migrations to .NET Aspire Solutions"
+    },
+    "https://khalidabuhakmeh.com/posts/add-headers-to-a-response-in-aspnet-5/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/add-headers-to-a-response-in-aspnet-5/",
+      "sent_count": 1,
+      "title": "Add Headers To A Response In ASP.NET 5"
+    },
+    "https://khalidabuhakmeh.com/posts/add-ms-sql-server-json-support-to-entity-framework-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/add-ms-sql-server-json-support-to-entity-framework-core/",
+      "sent_count": 1,
+      "title": "Add MS SQL Server JSON Support To Entity Framework Core"
+    },
+    "https://khalidabuhakmeh.com/posts/add-svelte-to-aspnet-core-projects/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/add-svelte-to-aspnet-core-projects/",
+      "sent_count": 1,
+      "title": "Add Svelte To ASP.NET Core Projects"
+    },
+    "https://khalidabuhakmeh.com/posts/adding-a-readme-to-nuget-package-landing-pages/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/adding-a-readme-to-nuget-package-landing-pages/",
+      "sent_count": 1,
+      "title": "Adding a Readme to NuGet Package Landing Pages"
+    },
+    "https://khalidabuhakmeh.com/posts/adding-alt-text-to-twitter-images-using-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/adding-alt-text-to-twitter-images-using-csharp/",
+      "sent_count": 1,
+      "title": "Adding Alt Text To Twitter Images Using C#"
+    },
+    "https://khalidabuhakmeh.com/posts/adding-clarity-to-dotnet-minimal-hosting/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/adding-clarity-to-dotnet-minimal-hosting/",
+      "sent_count": 1,
+      "title": "Adding Clarity To .NET Minimal Hosting APIs"
+    },
+    "https://khalidabuhakmeh.com/posts/adding-experimental-http-methods-to-aspnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/adding-experimental-http-methods-to-aspnet-core/",
+      "sent_count": 1,
+      "title": "Adding Experimental HTTP Methods To ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/alpinejs-polling-aspnet-core-apis-for-updates/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/alpinejs-polling-aspnet-core-apis-for-updates/",
+      "sent_count": 1,
+      "title": "Alpine.Js Polling ASP.NET Core APIs For Updates"
+    },
+    "https://khalidabuhakmeh.com/posts/animate-a-mic-drop-with-xamarin-dot-forms/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/animate-a-mic-drop-with-xamarin-dot-forms/",
+      "sent_count": 1,
+      "title": "Animate A Mic Drop With Xamarin.Forms"
+    },
+    "https://khalidabuhakmeh.com/posts/asp-net-mvc-5-authentication-breakdown-part-deux/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/asp-net-mvc-5-authentication-breakdown-part-deux/",
+      "sent_count": 1,
+      "title": "ASP.NET MVC 5 Authentication Breakdown : Part Deux"
+    },
+    "https://khalidabuhakmeh.com/posts/asp-net-mvc-custom-errors-are-broken-but-here-is-the-fix/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/asp-net-mvc-custom-errors-are-broken-but-here-is-the-fix/",
+      "sent_count": 1,
+      "title": "ASP.NET MVC Custom Errors Are Broken... But Here Is The Fix"
+    },
+    "https://khalidabuhakmeh.com/posts/asp-vnext-dependency-injection-lifecycles/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/asp-vnext-dependency-injection-lifecycles/",
+      "sent_count": 1,
+      "title": "ASP vNext Dependency Injection Lifecycles"
+    },
+    "https://khalidabuhakmeh.com/posts/aspdotnet-core-localization-jump-start/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/aspdotnet-core-localization-jump-start/",
+      "sent_count": 1,
+      "title": "ASP.NET Core Localization Jump Start"
+    },
+    "https://khalidabuhakmeh.com/posts/aspnet-core-6-mvc-upgrade-systemtextjson-serialization-issues/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/aspnet-core-6-mvc-upgrade-systemtextjson-serialization-issues/",
+      "sent_count": 1,
+      "title": "ASP.NET Core 6 MVC Upgrade System.Text.Json Serialization Issues"
+    },
+    "https://khalidabuhakmeh.com/posts/aspnet-core-and-chunking-http-cookies/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/aspnet-core-and-chunking-http-cookies/",
+      "sent_count": 1,
+      "title": "ASP.NET Core and Chunking HTTP Cookies"
+    },
+    "https://khalidabuhakmeh.com/posts/aspnet-core-display-description-tag-helper/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/aspnet-core-display-description-tag-helper/",
+      "sent_count": 1,
+      "title": "ASP.NET Core Display Description Tag Helper"
+    },
+    "https://khalidabuhakmeh.com/posts/aspnet-core-interview-questions-and-answers/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/aspnet-core-interview-questions-and-answers/",
+      "sent_count": 1,
+      "title": "ASP.NET Core Interview Questions and Answers"
+    },
+    "https://khalidabuhakmeh.com/posts/aspnet-core-ioptions-configuration/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/aspnet-core-ioptions-configuration/",
+      "sent_count": 1,
+      "title": "ASP.NET Core IOptions Configuration"
+    },
+    "https://khalidabuhakmeh.com/posts/aspnet-core-javascript-collocated-taghelper/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/aspnet-core-javascript-collocated-taghelper/",
+      "sent_count": 1,
+      "title": "ASP.NET Core JavaScript Collocated TagHelper"
+    },
+    "https://khalidabuhakmeh.com/posts/aspnet-core-middleware-registration/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/aspnet-core-middleware-registration/",
+      "sent_count": 1,
+      "title": "ASP.NET Core Middleware Registration"
+    },
+    "https://khalidabuhakmeh.com/posts/aspnet-core-minimal-api-endpoint-filters/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/aspnet-core-minimal-api-endpoint-filters/",
+      "sent_count": 1,
+      "title": "ASP.NET Core Minimal API Endpoint Filters"
+    },
+    "https://khalidabuhakmeh.com/posts/aspnet-core-pdf-previews-and-downloads/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/aspnet-core-pdf-previews-and-downloads/",
+      "sent_count": 1,
+      "title": "ASP.NET Core PDF Previews and Downloads"
+    },
+    "https://khalidabuhakmeh.com/posts/aspnet-core-placeholder-images-with-imagesharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/aspnet-core-placeholder-images-with-imagesharp/",
+      "sent_count": 1,
+      "title": "ASP.NET Core Placeholder Images with ImageSharp"
+    },
+    "https://khalidabuhakmeh.com/posts/aspnet-core-ssr-web-components-and-enhance-wasm/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/aspnet-core-ssr-web-components-and-enhance-wasm/",
+      "sent_count": 1,
+      "title": "ASP.NET Core, SSR Web Components, and Enhance Wasm"
+    },
+    "https://khalidabuhakmeh.com/posts/aspnet-docker-gotchas-and-workarounds/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/aspnet-docker-gotchas-and-workarounds/",
+      "sent_count": 1,
+      "title": "ASP.NET Docker Gotchas and Workarounds"
+    },
+    "https://khalidabuhakmeh.com/posts/automate-your-blog-with-github-actions/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/automate-your-blog-with-github-actions/",
+      "sent_count": 1,
+      "title": "Automate Your Blog With GitHub Actions"
+    },
+    "https://khalidabuhakmeh.com/posts/avoid-csharp-9-record-gotchas/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/avoid-csharp-9-record-gotchas/",
+      "sent_count": 1,
+      "title": "Avoid C# 9 Record Gotchas"
+    },
+    "https://khalidabuhakmeh.com/posts/azure-functions-on-macos-with-jetbrains-rider/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/azure-functions-on-macos-with-jetbrains-rider/",
+      "sent_count": 1,
+      "title": "Azure Functions On macOS With JetBrains Rider"
+    },
+    "https://khalidabuhakmeh.com/posts/base64-encoding-with-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/base64-encoding-with-csharp/",
+      "sent_count": 1,
+      "title": "Base64 Encoding With C#"
+    },
+    "https://khalidabuhakmeh.com/posts/battling-spam-in-your-aspnet-core-applications-with-akismet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/battling-spam-in-your-aspnet-core-applications-with-akismet/",
+      "sent_count": 1,
+      "title": "Battling Spam In Your ASP.NET Core Applications with Akismet"
+    },
+    "https://khalidabuhakmeh.com/posts/bebop-with-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/bebop-with-csharp/",
+      "sent_count": 1,
+      "title": "Using Bebop With A C# TCP Server"
+    },
+    "https://khalidabuhakmeh.com/posts/being-more-productive-with-the-jetbrains-rider-debugger/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/being-more-productive-with-the-jetbrains-rider-debugger/",
+      "sent_count": 1,
+      "title": "Being More Productive With The JetBrains Rider Debugger"
+    },
+    "https://khalidabuhakmeh.com/posts/blackout/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/blackout/",
+      "sent_count": 1,
+      "title": "Blackout Tuesday"
+    },
+    "https://khalidabuhakmeh.com/posts/blazor-and-cancelling-asynchronous-calls-with-cancellationtokensource/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/blazor-and-cancelling-asynchronous-calls-with-cancellationtokensource/",
+      "sent_count": 1,
+      "title": "Blazor and Cancelling Asynchronous Calls With CancellationTokenSource"
+    },
+    "https://khalidabuhakmeh.com/posts/blazor-html-forms-submitting-and-antiforgery-tokens/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/blazor-html-forms-submitting-and-antiforgery-tokens/",
+      "sent_count": 1,
+      "title": "Blazor HTML Forms, Submitting, and Antiforgery Tokens"
+    },
+    "https://khalidabuhakmeh.com/posts/blazor-javascript-isolation-modules-and-dynamic-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/blazor-javascript-isolation-modules-and-dynamic-csharp/",
+      "sent_count": 1,
+      "title": "Blazor JavaScript Isolation, Modules, and Dynamic C#"
+    },
+    "https://khalidabuhakmeh.com/posts/blazors-css-isolation-deep-issue-and-solution/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/blazors-css-isolation-deep-issue-and-solution/",
+      "sent_count": 1,
+      "title": "Blazor's CSS isolation ::deep issue and solution"
+    },
+    "https://khalidabuhakmeh.com/posts/boost-aspnet-core-performance-with-static-content/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/boost-aspnet-core-performance-with-static-content/",
+      "sent_count": 1,
+      "title": "Boost ASP.NET Core Performance with Static Content"
+    },
+    "https://khalidabuhakmeh.com/posts/bridging-the-dotnet-cross-platform-divide-with-docker/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/bridging-the-dotnet-cross-platform-divide-with-docker/",
+      "sent_count": 1,
+      "title": "Bridging The .NET Cross-Platform Divide With Docker"
+    },
+    "https://khalidabuhakmeh.com/posts/build-a-giphy-search-with-aspnetcore/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/build-a-giphy-search-with-aspnetcore/",
+      "sent_count": 1,
+      "title": "Build A Giphy Search With ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/build-dotnet-search-experiences-with-lunr-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/build-dotnet-search-experiences-with-lunr-core/",
+      "sent_count": 1,
+      "title": "Build .NET Search Experiences With Lunr-Core"
+    },
+    "https://khalidabuhakmeh.com/posts/building-a-more-inclusive-microsoft-valuable-professional-program/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/building-a-more-inclusive-microsoft-valuable-professional-program/",
+      "sent_count": 1,
+      "title": "Building A More Inclusive Microsoft Valuable Professional Program"
+    },
+    "https://khalidabuhakmeh.com/posts/building-a-persistent-counter-with-alpinejs/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/building-a-persistent-counter-with-alpinejs/",
+      "sent_count": 1,
+      "title": "Building a Persistent Counter with Alpine.Js"
+    },
+    "https://khalidabuhakmeh.com/posts/building-html-with-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/building-html-with-csharp/",
+      "sent_count": 1,
+      "title": "Building HTML with C#"
+    },
+    "https://khalidabuhakmeh.com/posts/building-mono-repositories-with-github-actions/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/building-mono-repositories-with-github-actions/",
+      "sent_count": 1,
+      "title": "Building Mono-Repositories With GitHub Actions"
+    },
+    "https://khalidabuhakmeh.com/posts/bulk-import-records-into-sqlite-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/bulk-import-records-into-sqlite-csharp/",
+      "sent_count": 1,
+      "title": "Bulk Import Records Into SQLite With C#"
+    },
+    "https://khalidabuhakmeh.com/posts/calculate-moon-phase-with-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/calculate-moon-phase-with-csharp/",
+      "sent_count": 1,
+      "title": "Calculate the Moon Phase With C#"
+    },
+    "https://khalidabuhakmeh.com/posts/capitalize-first-letter-of-words-with-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/capitalize-first-letter-of-words-with-csharp/",
+      "sent_count": 1,
+      "title": "Capitalize First Letter Of Words With C#"
+    },
+    "https://khalidabuhakmeh.com/posts/chain-lambdas-in-dotnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/chain-lambdas-in-dotnet/",
+      "sent_count": 1,
+      "title": "Chain Actions, Funcs, and Predicates In .NET"
+    },
+    "https://khalidabuhakmeh.com/posts/change-csharp-record-comparison-with-source-generators/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/change-csharp-record-comparison-with-source-generators/",
+      "sent_count": 1,
+      "title": "Change C# Record Comparison with Source Generators"
+    },
+    "https://khalidabuhakmeh.com/posts/checked-and-unchecked-arithmetic-operations-in-dotnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/checked-and-unchecked-arithmetic-operations-in-dotnet/",
+      "sent_count": 1,
+      "title": "Checked and Unchecked Arithmetic Operations in .NET"
+    },
+    "https://khalidabuhakmeh.com/posts/client-side-image-previews-with-javascript/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/client-side-image-previews-with-javascript/",
+      "sent_count": 1,
+      "title": "Client-side Image Previews With JavaScript"
+    },
+    "https://khalidabuhakmeh.com/posts/coding-the-road-runner-while-loop-meme/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/coding-the-road-runner-while-loop-meme/",
+      "sent_count": 1,
+      "title": "Coding The Road Runner Loop Meme"
+    },
+    "https://khalidabuhakmeh.com/posts/combining-11ty-static-site-generator-with-aspnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/combining-11ty-static-site-generator-with-aspnet-core/",
+      "sent_count": 1,
+      "title": "Combining 11ty Static Site Generator with ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/common-files-dotnet-solution/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/common-files-dotnet-solution/",
+      "sent_count": 1,
+      "title": "Common Files In A .NET Solution"
+    },
+    "https://khalidabuhakmeh.com/posts/common-usecases-for-dotnet-reflection/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/common-usecases-for-dotnet-reflection/",
+      "sent_count": 1,
+      "title": "Common Use Cases For .NET Reflection"
+    },
+    "https://khalidabuhakmeh.com/posts/community-question-working-with-data-in-an-http-api/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/community-question-working-with-data-in-an-http-api/",
+      "sent_count": 1,
+      "title": "Community Question: Working With Data In An HTTP API"
+    },
+    "https://khalidabuhakmeh.com/posts/compress-strings-with-dotnet-and-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/compress-strings-with-dotnet-and-csharp/",
+      "sent_count": 1,
+      "title": "Compress Strings With .NET and C#"
+    },
+    "https://khalidabuhakmeh.com/posts/conditionally-apply-linq-clauses/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/conditionally-apply-linq-clauses/",
+      "sent_count": 1,
+      "title": "Conditionally Apply LINQ Clauses"
+    },
+    "https://khalidabuhakmeh.com/posts/confirmation-dialogs-with-htmx-and-sweetalert/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/confirmation-dialogs-with-htmx-and-sweetalert/",
+      "sent_count": 1,
+      "title": "Confirmation Dialogs with Htmx and SweetAlert"
+    },
+    "https://khalidabuhakmeh.com/posts/consuming-dotnet-webassembly-from-javascript-in-the-browser/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/consuming-dotnet-webassembly-from-javascript-in-the-browser/",
+      "sent_count": 1,
+      "title": "Consuming .NET WebAssembly From JavaScript in the Browser"
+    },
+    "https://khalidabuhakmeh.com/posts/consuming-soap-apis-in-dotnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/consuming-soap-apis-in-dotnet-core/",
+      "sent_count": 1,
+      "title": "Consuming SOAP APIs In .NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/contribute-top-ten-impactful-dotnet-oss-2020/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/contribute-top-ten-impactful-dotnet-oss-2020/",
+      "sent_count": 1,
+      "title": "Contribute To The Top 10 Impactful .NET OSS Projects 2020"
+    },
+    "https://khalidabuhakmeh.com/posts/convert-a-csharp-object-to-almost-any-format/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/convert-a-csharp-object-to-almost-any-format/",
+      "sent_count": 1,
+      "title": "Convert A C# Object To Almost Any Format"
+    },
+    "https://khalidabuhakmeh.com/posts/create-a-twitter-share-liquid-tag-for-jekyll/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/create-a-twitter-share-liquid-tag-for-jekyll/",
+      "sent_count": 1,
+      "title": "Create a Twitter Share Liquid Tag For Jekyll"
+    },
+    "https://khalidabuhakmeh.com/posts/create-a-zip-file-using-dotnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/create-a-zip-file-using-dotnet/",
+      "sent_count": 1,
+      "title": "Create A Zip File Using .NET"
+    },
+    "https://khalidabuhakmeh.com/posts/create-context-based-programming-models-with-dotnet-6/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/create-context-based-programming-models-with-dotnet-6/",
+      "sent_count": 1,
+      "title": "Create Context-based Programming Models with .NET 6"
+    },
+    "https://khalidabuhakmeh.com/posts/create-dotnet-objects-without-calling-the-constructor/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/create-dotnet-objects-without-calling-the-constructor/",
+      "sent_count": 1,
+      "title": "Create .NET Objects without Calling The Constructor"
+    },
+    "https://khalidabuhakmeh.com/posts/creating-frictionless-projects-for-contributors/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/creating-frictionless-projects-for-contributors/",
+      "sent_count": 1,
+      "title": "Creating Frictionless Projects For Contributors"
+    },
+    "https://khalidabuhakmeh.com/posts/creating-random-numbers-with-dotnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/creating-random-numbers-with-dotnet-core/",
+      "sent_count": 1,
+      "title": "Creating Random Numbers With .NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/csharp-9-covariant-return-types/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/csharp-9-covariant-return-types/",
+      "sent_count": 1,
+      "title": "C# 9 Covariant Return Types"
+    },
+    "https://khalidabuhakmeh.com/posts/csharp-converting-bytes-to-kb-mb-gb-and-tb/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/csharp-converting-bytes-to-kb-mb-gb-and-tb/",
+      "sent_count": 1,
+      "title": "C# Converting Bytes To Kilobytes and Beyond"
+    },
+    "https://khalidabuhakmeh.com/posts/csharp-pattern-matching-quick-guide-and-examples/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/csharp-pattern-matching-quick-guide-and-examples/",
+      "sent_count": 1,
+      "title": "C# Pattern Matching Quick Guide And Examples"
+    },
+    "https://khalidabuhakmeh.com/posts/csharp-preprocessor-directives/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/csharp-preprocessor-directives/",
+      "sent_count": 1,
+      "title": "Use C# Preprocessor Directives"
+    },
+    "https://khalidabuhakmeh.com/posts/csharp-records-the-with-keyword-and-reference-types/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/csharp-records-the-with-keyword-and-reference-types/",
+      "sent_count": 1,
+      "title": "C# Records, the With Keyword, and Reference Types"
+    },
+    "https://khalidabuhakmeh.com/posts/cursor-paging-with-entity-framework-core-and-aspnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/cursor-paging-with-entity-framework-core-and-aspnet-core/",
+      "sent_count": 1,
+      "title": "Cursor Paging With Entity Framework Core and ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/customize-the-authorization-pipeline-in-aspnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/customize-the-authorization-pipeline-in-aspnet-core/",
+      "sent_count": 1,
+      "title": "Customize The Authorization Pipeline In ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/decrypt-secrets-into-aspnet-core-mvc-action-arguments-using-action-filters/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/decrypt-secrets-into-aspnet-core-mvc-action-arguments-using-action-filters/",
+      "sent_count": 1,
+      "title": "Decrypt Secrets Into ASP.NET Core MVC Action Arguments Using Action Filters"
+    },
+    "https://khalidabuhakmeh.com/posts/dependency-injection-with-avalonia-ui-apps/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/dependency-injection-with-avalonia-ui-apps/",
+      "sent_count": 1,
+      "title": "Dependency Injection with Avalonia UI Apps"
+    },
+    "https://khalidabuhakmeh.com/posts/deserialize-mastodon-user-xml-rss-feed/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/deserialize-mastodon-user-xml-rss-feed/",
+      "sent_count": 1,
+      "title": "Deserialize Mastodon User XML RSS feeds with .NET"
+    },
+    "https://khalidabuhakmeh.com/posts/diagnosing-memory-leaks-in-azure-app-services-with-perfview/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/diagnosing-memory-leaks-in-azure-app-services-with-perfview/",
+      "sent_count": 1,
+      "title": "Diagnosing Memory Leaks in Azure App Services with PerfView"
+    },
+    "https://khalidabuhakmeh.com/posts/directory-browser-middleware-with-asp-net-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/directory-browser-middleware-with-asp-net-core/",
+      "sent_count": 1,
+      "title": "Directory Browser Middleware With ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/dom-parsing-query-selectors-and-javascript-with-anglesharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/dom-parsing-query-selectors-and-javascript-with-anglesharp/",
+      "sent_count": 1,
+      "title": "DOM Parsing, Query Selectors, and JavaScript with AngleSharp"
+    },
+    "https://khalidabuhakmeh.com/posts/dotnet-5-source-generators-jump-start/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/dotnet-5-source-generators-jump-start/",
+      "sent_count": 1,
+      "title": ".NET 5 Source Generators Jump Start"
+    },
+    "https://khalidabuhakmeh.com/posts/dotnet-8-interceptors/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/dotnet-8-interceptors/",
+      "sent_count": 1,
+      "title": ".NET 8 Interceptors"
+    },
+    "https://khalidabuhakmeh.com/posts/dotnet-8-timeprovider-and-unit-tests/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/dotnet-8-timeprovider-and-unit-tests/",
+      "sent_count": 1,
+      "title": ".NET 8 TimeProvider and Unit Tests"
+    },
+    "https://khalidabuhakmeh.com/posts/dotnet-class-diagrams-in-jetbrains-rider-with-plantuml/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/dotnet-class-diagrams-in-jetbrains-rider-with-plantuml/",
+      "sent_count": 1,
+      "title": ".NET Class Diagrams In JetBrains Rider with PlantUML"
+    },
+    "https://khalidabuhakmeh.com/posts/dotnet-core-3-dot-0-allowsynchronousio-workaround/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/dotnet-core-3-dot-0-allowsynchronousio-workaround/",
+      "sent_count": 1,
+      "title": ".NET Core 3.0 AllowSynchronousIO Workaround"
+    },
+    "https://khalidabuhakmeh.com/posts/dotnet-core-tab-completion-with-zsh/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/dotnet-core-tab-completion-with-zsh/",
+      "sent_count": 1,
+      "title": ".NET Core Tab Completion With Zsh"
+    },
+    "https://khalidabuhakmeh.com/posts/dotnet-database-integration-tests/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/dotnet-database-integration-tests/",
+      "sent_count": 1,
+      "title": "Writing .NET Database Integration Tests"
+    },
+    "https://khalidabuhakmeh.com/posts/dotnet-debugger-launch-for-macos-and-linux/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/dotnet-debugger-launch-for-macos-and-linux/",
+      "sent_count": 1,
+      "title": ".NET Debugger.Launch for macOS and Linux"
+    },
+    "https://khalidabuhakmeh.com/posts/dotnet-maui-app-stopped-working-help/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/dotnet-maui-app-stopped-working-help/",
+      "sent_count": 1,
+      "title": ".NET MAUI App Stopped Working -- HELP!"
+    },
+    "https://khalidabuhakmeh.com/posts/dotnet-maui-development-environment-set-up-walkthrough/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/dotnet-maui-development-environment-set-up-walkthrough/",
+      "sent_count": 1,
+      "title": ".NET MAUI Development Environment Set Up Walkthrough"
+    },
+    "https://khalidabuhakmeh.com/posts/dotnet-one-line-scoped-initializers-with-dependency-injection/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/dotnet-one-line-scoped-initializers-with-dependency-injection/",
+      "sent_count": 1,
+      "title": ".NET One-line Scoped Initializers with Dependency Injection"
+    },
+    "https://khalidabuhakmeh.com/posts/dotnet-oss-docs-with-markdownsnippets/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/dotnet-oss-docs-with-markdownsnippets/",
+      "sent_count": 1,
+      "title": ".NET OSS Docs With MarkdownSnippets"
+    },
+    "https://khalidabuhakmeh.com/posts/dotnet-source-generators-finding-class-declarations/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/dotnet-source-generators-finding-class-declarations/",
+      "sent_count": 1,
+      "title": ".NET Source Generators: Finding Class Declarations"
+    },
+    "https://khalidabuhakmeh.com/posts/dotnet-tasks-lists-foreach-and-problems/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/dotnet-tasks-lists-foreach-and-problems/",
+      "sent_count": 1,
+      "title": ".NET Tasks, List's ForEach, and Problems"
+    },
+    "https://khalidabuhakmeh.com/posts/dotnet-watch-launchsetting-for-aspnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/dotnet-watch-launchsetting-for-aspnet-core/",
+      "sent_count": 1,
+      "title": ".NET Watch Launch Setting Profile For ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/dumb-developer-tricks-fizz-buzz-with-csharp-12-and-polly/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/dumb-developer-tricks-fizz-buzz-with-csharp-12-and-polly/",
+      "sent_count": 1,
+      "title": "Dumb Developer Tricks - Fizz Buzz with C# 12 and Polly"
+    },
+    "https://khalidabuhakmeh.com/posts/dynamic-htmx-islands-with-aspnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/dynamic-htmx-islands-with-aspnet-core/",
+      "sent_count": 1,
+      "title": "Dynamic Htmx Islands with ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/ef-core-and-aspnet-core-cycle-issue-and-solution/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/ef-core-and-aspnet-core-cycle-issue-and-solution/",
+      "sent_count": 1,
+      "title": "Entity Framework Core and ASP.NET Core Cycle Issue and Solution"
+    },
+    "https://khalidabuhakmeh.com/posts/elasticsearch-indexing-of-us-phone-numbers/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/elasticsearch-indexing-of-us-phone-numbers/",
+      "sent_count": 1,
+      "title": "Analyzing U.S. Phone Numbers In Elasticsearch"
+    },
+    "https://khalidabuhakmeh.com/posts/end-to-end-test-with-aspnet-core-xunit-and-playwright/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/end-to-end-test-with-aspnet-core-xunit-and-playwright/",
+      "sent_count": 1,
+      "title": "End-to-End Tests With ASP.NET Core, XUnit, and Playwright"
+    },
+    "https://khalidabuhakmeh.com/posts/endpoint-debugging-in-asp-dot-net-core-3-applications/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/endpoint-debugging-in-asp-dot-net-core-3-applications/",
+      "sent_count": 1,
+      "title": "Endpoint Debugging in ASP.NET Core 3 Applications"
+    },
+    "https://khalidabuhakmeh.com/posts/enhance-aspdotnet-projects-with-jetbrains-annotations/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/enhance-aspdotnet-projects-with-jetbrains-annotations/",
+      "sent_count": 1,
+      "title": "Enhance ASP.NET Projects With JetBrains Annotations"
+    },
+    "https://khalidabuhakmeh.com/posts/enrich-html-aspnet-razor-taghelpers/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/enrich-html-aspnet-razor-taghelpers/",
+      "sent_count": 1,
+      "title": "Enrich HTML With ASP.NET Razor TagHelpers"
+    },
+    "https://khalidabuhakmeh.com/posts/entity-framework-6-multiple-result-sets-with-stored-procedures/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/entity-framework-6-multiple-result-sets-with-stored-procedures/",
+      "sent_count": 1,
+      "title": "Entity Framework 6 Multiple Result Sets with Stored Procedures"
+    },
+    "https://khalidabuhakmeh.com/posts/entity-framework-core-5-interceptors/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/entity-framework-core-5-interceptors/",
+      "sent_count": 1,
+      "title": "Entity Framework Core 5 Interceptors"
+    },
+    "https://khalidabuhakmeh.com/posts/entity-framework-core-5-value-converters/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/entity-framework-core-5-value-converters/",
+      "sent_count": 1,
+      "title": "Entity Framework Core 5 Value Converters"
+    },
+    "https://khalidabuhakmeh.com/posts/entity-framework-core-7-filtering-on-json-arrays/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/entity-framework-core-7-filtering-on-json-arrays/",
+      "sent_count": 1,
+      "title": "Entity Framework Core 7: Filtering on JSON Arrays"
+    },
+    "https://khalidabuhakmeh.com/posts/entity-framework-core-connectionstrings-for-dotnet-apps/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/entity-framework-core-connectionstrings-for-dotnet-apps/",
+      "sent_count": 1,
+      "title": "Entity Framework Core ConnectionStrings For .NET Apps"
+    },
+    "https://khalidabuhakmeh.com/posts/entity-framework-core-conversions-for-logical-domain-types/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/entity-framework-core-conversions-for-logical-domain-types/",
+      "sent_count": 1,
+      "title": "Entity Framework Core Conversions for Logical Domain Types"
+    },
+    "https://khalidabuhakmeh.com/posts/event-queues-and-buffering-functions-with-javascript/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/event-queues-and-buffering-functions-with-javascript/",
+      "sent_count": 1,
+      "title": "Event Queues and Buffering Functions with JavaScript"
+    },
+    "https://khalidabuhakmeh.com/posts/exceptiondispatchinfo-and-capturing-exceptions/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/exceptiondispatchinfo-and-capturing-exceptions/",
+      "sent_count": 1,
+      "title": "ExceptionDispatchInfo And Capturing Exceptions"
+    },
+    "https://khalidabuhakmeh.com/posts/faster-dotnet-database-integration-tests-with-respawn-and-xunit/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/faster-dotnet-database-integration-tests-with-respawn-and-xunit/",
+      "sent_count": 1,
+      "title": "Faster .NET Database Integration Tests with Respawn and xUnit"
+    },
+    "https://khalidabuhakmeh.com/posts/fibonacci-sequences-with-kotlin-csharp-and-fsharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/fibonacci-sequences-with-kotlin-csharp-and-fsharp/",
+      "sent_count": 1,
+      "title": "Fibonacci Sequences with Kotlin, C#, and F#"
+    },
+    "https://khalidabuhakmeh.com/posts/find-prime-numbers-with-csharp-9/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/find-prime-numbers-with-csharp-9/",
+      "sent_count": 1,
+      "title": "Find Prime Numbers With C# 9"
+    },
+    "https://khalidabuhakmeh.com/posts/find-the-next-number-in-a-sequence-with-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/find-the-next-number-in-a-sequence-with-csharp/",
+      "sent_count": 1,
+      "title": "Find The Next Number In A Sequence With C#"
+    },
+    "https://khalidabuhakmeh.com/posts/five-critical-things-before-working-with-11ty/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/five-critical-things-before-working-with-11ty/",
+      "sent_count": 1,
+      "title": "Five Critical Things To Do Before Working With 11ty"
+    },
+    "https://khalidabuhakmeh.com/posts/five-of-the-most-common-kinds-of-nuget-packages/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/five-of-the-most-common-kinds-of-nuget-packages/",
+      "sent_count": 1,
+      "title": "Five of the Most Common Kinds of NuGet Packages"
+    },
+    "https://khalidabuhakmeh.com/posts/fix-blurry-ubuntu-display-parallels-vm/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/fix-blurry-ubuntu-display-parallels-vm/",
+      "sent_count": 1,
+      "title": "Fix Blurry Ubuntu Display In A Parallels Virtual Machine"
+    },
+    "https://khalidabuhakmeh.com/posts/fix-dotnet-dependencies-with-monkey-patching/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/fix-dotnet-dependencies-with-monkey-patching/",
+      "sent_count": 1,
+      "title": "Fix .NET Dependencies With Monkey Patching"
+    },
+    "https://khalidabuhakmeh.com/posts/fix-dotnet-icu-build-issues-in-github-actions/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/fix-dotnet-icu-build-issues-in-github-actions/",
+      "sent_count": 1,
+      "title": "Fix .NET ICU Build Issues In GitHub Actions"
+    },
+    "https://khalidabuhakmeh.com/posts/fix-dotnet-maui-missingentitlement-and-provisioning-profiles-issues/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/fix-dotnet-maui-missingentitlement-and-provisioning-profiles-issues/",
+      "sent_count": 1,
+      "title": "Fix .NET MAUI MissingEntitlement and Provisioning Profiles Issues"
+    },
+    "https://khalidabuhakmeh.com/posts/fix-missing-openapi-elements-from-aspnet-core-minimal-api-apps/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/fix-missing-openapi-elements-from-aspnet-core-minimal-api-apps/",
+      "sent_count": 1,
+      "title": "Fix Missing OpenAPI Elements From ASP.NET Core Minimal API Apps"
+    },
+    "https://khalidabuhakmeh.com/posts/fix-unable-to-resolve-dbcontextoptions-for-ef-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/fix-unable-to-resolve-dbcontextoptions-for-ef-core/",
+      "sent_count": 1,
+      "title": "Fix Unable To Resolve DbContextOptions For EF Core"
+    },
+    "https://khalidabuhakmeh.com/posts/flatten-strings-with-regex-replace/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/flatten-strings-with-regex-replace/",
+      "sent_count": 1,
+      "title": "Flatten Strings with Regex.Replace"
+    },
+    "https://khalidabuhakmeh.com/posts/formattablestringfactory-and-formats/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/formattablestringfactory-and-formats/",
+      "sent_count": 1,
+      "title": "FormattableStringFactory and Formats"
+    },
+    "https://khalidabuhakmeh.com/posts/fun-leaderboard-output-using-csharp-pattern-matching/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/fun-leaderboard-output-using-csharp-pattern-matching/",
+      "sent_count": 1,
+      "title": "Fun: Leaderboard Output Using C# Pattern Matching"
+    },
+    "https://khalidabuhakmeh.com/posts/fun-with-custom-interpolated-string-handlers/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/fun-with-custom-interpolated-string-handlers/",
+      "sent_count": 1,
+      "title": "Fun With Custom Interpolated String Handlers"
+    },
+    "https://khalidabuhakmeh.com/posts/generate-aspnet-core-openapi-spec-at-build-time/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/generate-aspnet-core-openapi-spec-at-build-time/",
+      "sent_count": 1,
+      "title": "Generate ASP.NET Core OpenAPI Spec At Build Time"
+    },
+    "https://khalidabuhakmeh.com/posts/generate-links-to-aspnet-core-map-endpoints/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/generate-links-to-aspnet-core-map-endpoints/",
+      "sent_count": 1,
+      "title": "Generate Links To ASP.NET Core Map Endpoints"
+    },
+    "https://khalidabuhakmeh.com/posts/generate-outputs-with-razor-engine-in-dotnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/generate-outputs-with-razor-engine-in-dotnet-core/",
+      "sent_count": 1,
+      "title": "Generate Outputs with Razor Engine in .NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/generate-qr-codes-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/generate-qr-codes-csharp/",
+      "sent_count": 1,
+      "title": "Generate QR Codes With C#"
+    },
+    "https://khalidabuhakmeh.com/posts/generate-sitemaps-for-all-of-aspnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/generate-sitemaps-for-all-of-aspnet-core/",
+      "sent_count": 1,
+      "title": "Generate Sitemaps for All of ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/generate-youtube-timestamp-links-with-csharp-11/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/generate-youtube-timestamp-links-with-csharp-11/",
+      "sent_count": 1,
+      "title": "Generate YouTube Timestamp Links with C# 11"
+    },
+    "https://khalidabuhakmeh.com/posts/generating-bogus-http-endpoints-with-aspnet-core-minimal-apis/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/generating-bogus-http-endpoints-with-aspnet-core-minimal-apis/",
+      "sent_count": 1,
+      "title": "Generating Bogus HTTP Endpoints with ASP.NET Core Minimal APIs"
+    },
+    "https://khalidabuhakmeh.com/posts/generic-csharp-methods-with-enum-constraints-for-dotnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/generic-csharp-methods-with-enum-constraints-for-dotnet/",
+      "sent_count": 1,
+      "title": "Generic C# Methods with Enum Constraints for .NET"
+    },
+    "https://khalidabuhakmeh.com/posts/get-a-property-name-from-a-dotnet-lambda-expression/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/get-a-property-name-from-a-dotnet-lambda-expression/",
+      "sent_count": 1,
+      "title": "Get A Property Name From a .NET Lambda Expression"
+    },
+    "https://khalidabuhakmeh.com/posts/get-csharp-metadata-from-a-callsite/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/get-csharp-metadata-from-a-callsite/",
+      "sent_count": 1,
+      "title": "Get C# Metadata From a Call Site"
+    },
+    "https://khalidabuhakmeh.com/posts/get-tweet-engagements-using-dotnet-and-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/get-tweet-engagements-using-dotnet-and-csharp/",
+      "sent_count": 1,
+      "title": "Get Tweet Engagements Using .NET and C#"
+    },
+    "https://khalidabuhakmeh.com/posts/getting-chunky-with-dotnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/getting-chunky-with-dotnet/",
+      "sent_count": 1,
+      "title": "Using LINQ and Getting Chunky With .NET"
+    },
+    "https://khalidabuhakmeh.com/posts/getting-started-with-ef-core-postgresql-and-timescaledb/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/getting-started-with-ef-core-postgresql-and-timescaledb/",
+      "sent_count": 1,
+      "title": "Getting Started with EF Core, PostgreSQL, and TimescaleDB"
+    },
+    "https://khalidabuhakmeh.com/posts/getting-started-with-net-localization/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/getting-started-with-net-localization/",
+      "sent_count": 1,
+      "title": "Getting Started With .NET Localization"
+    },
+    "https://khalidabuhakmeh.com/posts/getting-started-with-rethinkdb-and-asp-net-5/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/getting-started-with-rethinkdb-and-asp-net-5/",
+      "sent_count": 1,
+      "title": "Getting Started With RethinkDB and ASP.NET 5"
+    },
+    "https://khalidabuhakmeh.com/posts/gifs-in-console-output-imagesharp-and-spectreconsole/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/gifs-in-console-output-imagesharp-and-spectreconsole/",
+      "sent_count": 1,
+      "title": "GIFs in Console Output Using ImageSharp and Spectre.Console"
+    },
+    "https://khalidabuhakmeh.com/posts/github-openid-auth-aspnet-core-apps/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/github-openid-auth-aspnet-core-apps/",
+      "sent_count": 1,
+      "title": "Add GitHub OpenID Auth For ASP.NET Core Apps"
+    },
+    "https://khalidabuhakmeh.com/posts/global-endpoint-filters-with-aspnet-core-minimal-apis/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/global-endpoint-filters-with-aspnet-core-minimal-apis/",
+      "sent_count": 1,
+      "title": "Global Endpoint Filters with ASP.NET Core Minimal APIs"
+    },
+    "https://khalidabuhakmeh.com/posts/great-app-search-checklist/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/great-app-search-checklist/",
+      "sent_count": 1,
+      "title": "Great App Search Checklist"
+    },
+    "https://khalidabuhakmeh.com/posts/great-dotnet-documentation-with-astro-starlight-and-markdownsnippets/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/great-dotnet-documentation-with-astro-starlight-and-markdownsnippets/",
+      "sent_count": 1,
+      "title": "Great .NET Documentation with Astro, Starlight, and MarkdownSnippets"
+    },
+    "https://khalidabuhakmeh.com/posts/guide-open-source-primary-income/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/guide-open-source-primary-income/",
+      "sent_count": 1,
+      "title": "A Guide To Making An Open Source Project Your Primary Income"
+    },
+    "https://khalidabuhakmeh.com/posts/handle-http-status-codes-with-razor-pages/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/handle-http-status-codes-with-razor-pages/",
+      "sent_count": 1,
+      "title": "Handle HTTP Status Codes With Razor Pages"
+    },
+    "https://khalidabuhakmeh.com/posts/handling-aspnet-core-exceptions-with-exceptionhandler-middleware/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/handling-aspnet-core-exceptions-with-exceptionhandler-middleware/",
+      "sent_count": 1,
+      "title": "Handle Exceptions With ASP.NET Core ExceptionHandlerMiddleware"
+    },
+    "https://khalidabuhakmeh.com/posts/health-checks-for-aspnet-core-and-entity-framework-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/health-checks-for-aspnet-core-and-entity-framework-core/",
+      "sent_count": 1,
+      "title": "Health Checks for ASP.NET Core and Entity Framework Core"
+    },
+    "https://khalidabuhakmeh.com/posts/hosting-two-aspnet-core-apps-in-one-host/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/hosting-two-aspnet-core-apps-in-one-host/",
+      "sent_count": 1,
+      "title": "Hosting Two ASP.NET Core Apps In One Host"
+    },
+    "https://khalidabuhakmeh.com/posts/how-many-threads-does-my-dotnet-app-have/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/how-many-threads-does-my-dotnet-app-have/",
+      "sent_count": 1,
+      "title": "How Many Threads Does My .NET App Have?"
+    },
+    "https://khalidabuhakmeh.com/posts/how-to-add-a-view-to-an-entity-framework-core-dbcontext/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/how-to-add-a-view-to-an-entity-framework-core-dbcontext/",
+      "sent_count": 1,
+      "title": "How To Add A View To An Entity Framework Core DbContext"
+    },
+    "https://khalidabuhakmeh.com/posts/how-to-add-http-headers-to-blazor-components-with-razorcomponentresult/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/how-to-add-http-headers-to-blazor-components-with-razorcomponentresult/",
+      "sent_count": 1,
+      "title": "How to add HTTP headers to Blazor Components with RazorComponentResult"
+    },
+    "https://khalidabuhakmeh.com/posts/how-to-add-models-to-aspnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/how-to-add-models-to-aspnet-core/",
+      "sent_count": 1,
+      "title": "How To Add Models To ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/how-to-build-a-basic-http-api-with-aspnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/how-to-build-a-basic-http-api-with-aspnet-core/",
+      "sent_count": 1,
+      "title": "How To Build A Basic HTTP API With ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/how-to-display-dotnet-collections-with-the-oxford-comma/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/how-to-display-dotnet-collections-with-the-oxford-comma/",
+      "sent_count": 1,
+      "title": "How To Display .NET Collections with the Oxford Comma"
+    },
+    "https://khalidabuhakmeh.com/posts/how-to-encrypt-aspnet-core-route-parameters/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/how-to-encrypt-aspnet-core-route-parameters/",
+      "sent_count": 1,
+      "title": "How To Encrypt ASP.NET Core Route Parameters"
+    },
+    "https://khalidabuhakmeh.com/posts/how-to-fix-dotnet-nullability-warnings-for-guarded-members/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/how-to-fix-dotnet-nullability-warnings-for-guarded-members/",
+      "sent_count": 1,
+      "title": "How To Fix .NET Nullability Warnings For Guarded Members"
+    },
+    "https://khalidabuhakmeh.com/posts/how-to-fix-feature-folders-view-errors-with-jetbrains-annotations-rider-and-resharper/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/how-to-fix-feature-folders-view-errors-with-jetbrains-annotations-rider-and-resharper/",
+      "sent_count": 1,
+      "title": "How To Fix Feature Folders View Errors with JetBrains Annotations (Rider and ReSharper)"
+    },
+    "https://khalidabuhakmeh.com/posts/how-to-integrate-htmx-and-shoelace-web-components/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/how-to-integrate-htmx-and-shoelace-web-components/",
+      "sent_count": 1,
+      "title": "How to Integrate HTMX and Shoelace Web Components"
+    },
+    "https://khalidabuhakmeh.com/posts/how-to-map-a-route-in-an-aspnet-core-mvc-application/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/how-to-map-a-route-in-an-aspnet-core-mvc-application/",
+      "sent_count": 1,
+      "title": "How To Map A Route in an ASP.NET Core MVC application"
+    },
+    "https://khalidabuhakmeh.com/posts/how-to-map-sql-results-to-any-object-using-entity-framework-core-8/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/how-to-map-sql-results-to-any-object-using-entity-framework-core-8/",
+      "sent_count": 1,
+      "title": "How to Map SQL Results To Any Object Using Entity Framework Core 8"
+    },
+    "https://khalidabuhakmeh.com/posts/how-to-pick-the-right-constructor-when-using-activatorutilities-in-dotnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/how-to-pick-the-right-constructor-when-using-activatorutilities-in-dotnet/",
+      "sent_count": 1,
+      "title": "How To Pick The Right Constructor When Using ActivatorUtilities In .NET"
+    },
+    "https://khalidabuhakmeh.com/posts/how-to-ssr-web-components-in-aspnet-core-using-taghelpers/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/how-to-ssr-web-components-in-aspnet-core-using-taghelpers/",
+      "sent_count": 1,
+      "title": "How To SSR Web Components In ASP.NET Core using TagHelpers"
+    },
+    "https://khalidabuhakmeh.com/posts/how-to-use-blazor-server-rendered-components-with-htmx/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/how-to-use-blazor-server-rendered-components-with-htmx/",
+      "sent_count": 1,
+      "title": "How To Use Blazor Server-Rendered Components with HTMX"
+    },
+    "https://khalidabuhakmeh.com/posts/how-to-use-embedded-resources-in-dotnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/how-to-use-embedded-resources-in-dotnet/",
+      "sent_count": 1,
+      "title": "How To Use Embedded Resources in .NET"
+    },
+    "https://khalidabuhakmeh.com/posts/how-to-use-entity-framework-core-in-aspnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/how-to-use-entity-framework-core-in-aspnet-core/",
+      "sent_count": 1,
+      "title": "How to use Entity Framework Core in ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/how-to-use-iasyncenumerable-with-blazor-stream-rendering/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/how-to-use-iasyncenumerable-with-blazor-stream-rendering/",
+      "sent_count": 1,
+      "title": "How to use IAsyncEnumerable with Blazor Stream Rendering"
+    },
+    "https://khalidabuhakmeh.com/posts/how-to-use-no-class-frameworks-to-move-fast-in-style/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/how-to-use-no-class-frameworks-to-move-fast-in-style/",
+      "sent_count": 1,
+      "title": "How to use No-Class Frameworks to Move Fast in Style"
+    },
+    "https://khalidabuhakmeh.com/posts/how-to-use-regular-expressions-and-match-evaluators-in-dotnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/how-to-use-regular-expressions-and-match-evaluators-in-dotnet/",
+      "sent_count": 1,
+      "title": "How to use Regular Expressions and Match Evaluators in .NET"
+    },
+    "https://khalidabuhakmeh.com/posts/how-to-write-a-dotnet-markdig-extension-for-markdown-processing/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/how-to-write-a-dotnet-markdig-extension-for-markdown-processing/",
+      "sent_count": 1,
+      "title": "How to Write a .NET Markdig Extension for Markdown Processing"
+    },
+    "https://khalidabuhakmeh.com/posts/html-buttons-are-under-appreciated-in-asp-dot-net-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/html-buttons-are-under-appreciated-in-asp-dot-net-core/",
+      "sent_count": 1,
+      "title": "HTML Buttons Are Under-Appreciated In ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/html-datalist-for-aspnet-core-inputs/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/html-datalist-for-aspnet-core-inputs/",
+      "sent_count": 1,
+      "title": "HTML Datalist for ASP.NET Core Inputs"
+    },
+    "https://khalidabuhakmeh.com/posts/html-range-inputs-with-aspnet-core-taghelpers/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/html-range-inputs-with-aspnet-core-taghelpers/",
+      "sent_count": 1,
+      "title": "HTML Range Inputs with ASP.NET Core TagHelpers"
+    },
+    "https://khalidabuhakmeh.com/posts/html-web-components-with-vanilla-javascript-and-aspnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/html-web-components-with-vanilla-javascript-and-aspnet-core/",
+      "sent_count": 1,
+      "title": "HTML Web Components with Vanilla JavaScript and ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/html5-validation-for-aspnet-core-models-and-razor-views/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/html5-validation-for-aspnet-core-models-and-razor-views/",
+      "sent_count": 1,
+      "title": "HTML5 Validation for ASP.NET Core Models and Razor Views"
+    },
+    "https://khalidabuhakmeh.com/posts/htmx-and-aspnet-core-swapping-techniques/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/htmx-and-aspnet-core-swapping-techniques/",
+      "sent_count": 1,
+      "title": "HTMX and ASP.NET Core Swapping Techniques"
+    },
+    "https://khalidabuhakmeh.com/posts/htmx-and-playwright-tests-in-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/htmx-and-playwright-tests-in-csharp/",
+      "sent_count": 1,
+      "title": "Htmx and Playwright Tests in C#"
+    },
+    "https://khalidabuhakmeh.com/posts/htmx-aspnet-core-and-bootstrap-modals/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/htmx-aspnet-core-and-bootstrap-modals/",
+      "sent_count": 1,
+      "title": "HTMX, ASP.NET Core, and Bootstrap Modals"
+    },
+    "https://khalidabuhakmeh.com/posts/htmx-boosts-and-aspnet-core-anti-forgery-tokens/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/htmx-boosts-and-aspnet-core-anti-forgery-tokens/",
+      "sent_count": 1,
+      "title": "HTMX Boosts and ASP.NET Core Anti-Forgery Tokens"
+    },
+    "https://khalidabuhakmeh.com/posts/htmx-requests-with-aspnet-core-anti-forgery-tokens/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/htmx-requests-with-aspnet-core-anti-forgery-tokens/",
+      "sent_count": 1,
+      "title": "HTMX Requests with ASP.NET Core Anti-Forgery Tokens"
+    },
+    "https://khalidabuhakmeh.com/posts/htmx-with-aspnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/htmx-with-aspnet-core/",
+      "sent_count": 1,
+      "title": "HTMX With ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/hypermedia-lite-for-aspnet-core-http-apis/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/hypermedia-lite-for-aspnet-core-http-apis/",
+      "sent_count": 1,
+      "title": "Hypermedia Lite For ASP.NET Core HTTP APIs"
+    },
+    "https://khalidabuhakmeh.com/posts/iasyncdisposable-dispose-resources-asynchronously/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/iasyncdisposable-dispose-resources-asynchronously/",
+      "sent_count": 1,
+      "title": "Dispose Resources Asynchronously With IAsyncDisposable"
+    },
+    "https://khalidabuhakmeh.com/posts/image-style-transfer-with-csharp-onnx-and-imagesharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/image-style-transfer-with-csharp-onnx-and-imagesharp/",
+      "sent_count": 1,
+      "title": "Image Style Transfer With C#, ONNX, and ImageSharp"
+    },
+    "https://khalidabuhakmeh.com/posts/implement-a-webhook-framework-with-aspnetcore/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/implement-a-webhook-framework-with-aspnetcore/",
+      "sent_count": 1,
+      "title": "Implement A Webhook Framework With ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/implement-kotlins-withindex-in-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/implement-kotlins-withindex-in-csharp/",
+      "sent_count": 1,
+      "title": "Implement Kotlin's withIndex in C#"
+    },
+    "https://khalidabuhakmeh.com/posts/improve-entity-framework-core-performance/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/improve-entity-framework-core-performance/",
+      "sent_count": 1,
+      "title": "Improve Entity Framework Core Performance"
+    },
+    "https://khalidabuhakmeh.com/posts/increase-file-upload-limit-for-aspdotnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/increase-file-upload-limit-for-aspdotnet/",
+      "sent_count": 1,
+      "title": "Increase ASP.NET File Upload Limits"
+    },
+    "https://khalidabuhakmeh.com/posts/increase-performance-with-complex-types-in-entity-framework-core-8/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/increase-performance-with-complex-types-in-entity-framework-core-8/",
+      "sent_count": 1,
+      "title": "Increase Performance with Complex Types in Entity Framework Core 8"
+    },
+    "https://khalidabuhakmeh.com/posts/initialize-aspnet-core-taghelpers-with-shared-data/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/initialize-aspnet-core-taghelpers-with-shared-data/",
+      "sent_count": 1,
+      "title": "Initialize ASP.NET Core TagHelpers with Shared Data"
+    },
+    "https://khalidabuhakmeh.com/posts/injecting-services-into-aspdotnet-views/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/injecting-services-into-aspdotnet-views/",
+      "sent_count": 1,
+      "title": "Injecting Services Into ASP.NET Razor Views"
+    },
+    "https://khalidabuhakmeh.com/posts/install-tailwind-css-with-aspnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/install-tailwind-css-with-aspnet-core/",
+      "sent_count": 1,
+      "title": "Install Tailwind CSS With ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/installing-and-uninstalling-dotnet-templates/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/installing-and-uninstalling-dotnet-templates/",
+      "sent_count": 1,
+      "title": "Installing and Uninstalling .NET Templates"
+    },
+    "https://khalidabuhakmeh.com/posts/interesting-technology-tips-vol-1/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/interesting-technology-tips-vol-1/",
+      "sent_count": 1,
+      "title": "Interesting Technology Tips - Vol. 1"
+    },
+    "https://khalidabuhakmeh.com/posts/intersperse-values-for-enumerable-collections/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/intersperse-values-for-enumerable-collections/",
+      "sent_count": 1,
+      "title": "Intersperse Values for Enumerable Collections"
+    },
+    "https://khalidabuhakmeh.com/posts/javascript-import-maps-for-aspnet-core-developers/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/javascript-import-maps-for-aspnet-core-developers/",
+      "sent_count": 1,
+      "title": "JavaScript Import Maps For ASP.NET Core Developers"
+    },
+    "https://khalidabuhakmeh.com/posts/jetbrains-developer-advocate/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/jetbrains-developer-advocate/",
+      "sent_count": 1,
+      "title": "A New Adventure In JetBrains Developer Advocacy"
+    },
+    "https://khalidabuhakmeh.com/posts/jetbrains-rider-commandline-tricks/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/jetbrains-rider-commandline-tricks/",
+      "sent_count": 1,
+      "title": "JetBrains Rider Command Line Tricks"
+    },
+    "https://khalidabuhakmeh.com/posts/json-in-html-attributes-with-aspnet-core-taghelpers/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/json-in-html-attributes-with-aspnet-core-taghelpers/",
+      "sent_count": 1,
+      "title": "JSON in HTML Attributes With ASP.NET Core TagHelpers"
+    },
+    "https://khalidabuhakmeh.com/posts/kick-ass-with-aspnet-core-vue-components-and-parcel/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/kick-ass-with-aspnet-core-vue-components-and-parcel/",
+      "sent_count": 1,
+      "title": "Kick Ass With ASP.NET Core, Vue Components, and Parcel"
+    },
+    "https://khalidabuhakmeh.com/posts/linq-expression-visitors/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/linq-expression-visitors/",
+      "sent_count": 1,
+      "title": "Have Fun With LINQ Expression Visitors"
+    },
+    "https://khalidabuhakmeh.com/posts/load-youtube-embed-videos-with-javascript/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/load-youtube-embed-videos-with-javascript/",
+      "sent_count": 1,
+      "title": "Load YouTube Embed Videos When Needed With JavaScript"
+    },
+    "https://khalidabuhakmeh.com/posts/local-dev-with-tye-docker-and-dotnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/local-dev-with-tye-docker-and-dotnet/",
+      "sent_count": 1,
+      "title": "Enjoy Local Development with Tye, Docker, and .NET"
+    },
+    "https://khalidabuhakmeh.com/posts/logging-trace-output-using-ilogger-in-dotnet-applications/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/logging-trace-output-using-ilogger-in-dotnet-applications/",
+      "sent_count": 1,
+      "title": "Logging Trace Output Using ILogger in .NET Applications"
+    },
+    "https://khalidabuhakmeh.com/posts/looking-at-asp-net-cores-iapplicationlifetime/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/looking-at-asp-net-cores-iapplicationlifetime/",
+      "sent_count": 1,
+      "title": "Looking At ASP.NET Core's IApplicationLifetime"
+    },
+    "https://khalidabuhakmeh.com/posts/looking-at-system-io-path/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/looking-at-system-io-path/",
+      "sent_count": 1,
+      "title": "Looking At System.IO.Path"
+    },
+    "https://khalidabuhakmeh.com/posts/loop-around-index-with-csharp-collections/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/loop-around-index-with-csharp-collections/",
+      "sent_count": 1,
+      "title": "Loop Around Index with C# Collections"
+    },
+    "https://khalidabuhakmeh.com/posts/manage-vite-assets-like-a-pro/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/manage-vite-assets-like-a-pro/",
+      "sent_count": 1,
+      "title": "Manage Vite Assets Like A Pro"
+    },
+    "https://khalidabuhakmeh.com/posts/measuring-unicode-string-lengths-with-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/measuring-unicode-string-lengths-with-csharp/",
+      "sent_count": 1,
+      "title": "Measuring Unicode String Lengths with C#"
+    },
+    "https://khalidabuhakmeh.com/posts/memoizr-declarative-structured-concurrency-for-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/memoizr-declarative-structured-concurrency-for-csharp/",
+      "sent_count": 1,
+      "title": "MemoizR - Declarative Structured Concurrency for C#"
+    },
+    "https://khalidabuhakmeh.com/posts/middlewarebuilder-for-asp-net-core-1-0-rc2/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/middlewarebuilder-for-asp-net-core-1-0-rc2/",
+      "sent_count": 1,
+      "title": "MiddlewareBuilder For ASP.NET Core 1.0 RC2"
+    },
+    "https://khalidabuhakmeh.com/posts/minimal-api-validation-with-fluentvalidation/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/minimal-api-validation-with-fluentvalidation/",
+      "sent_count": 1,
+      "title": "Minimal API Validation with FluentValidation"
+    },
+    "https://khalidabuhakmeh.com/posts/miniword-microsoft-office-word-templating/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/miniword-microsoft-office-word-templating/",
+      "sent_count": 1,
+      "title": "MiniWord - Microsoft Office Word Templating"
+    },
+    "https://khalidabuhakmeh.com/posts/modeling-most-sql-relationships-in-entity-framework-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/modeling-most-sql-relationships-in-entity-framework-core/",
+      "sent_count": 1,
+      "title": "Modeling Most SQL Relationships In Entity Framework Core"
+    },
+    "https://khalidabuhakmeh.com/posts/module-initializers-in-csharp-9/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/module-initializers-in-csharp-9/",
+      "sent_count": 1,
+      "title": "Module Initializers In C# 9"
+    },
+    "https://khalidabuhakmeh.com/posts/moonsharp-running-lua-scripts-in-dotnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/moonsharp-running-lua-scripts-in-dotnet/",
+      "sent_count": 1,
+      "title": "MoonSharp - Running Lua Scripts in .NET"
+    },
+    "https://khalidabuhakmeh.com/posts/more-efficient-deletes-with-entity-framework-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/more-efficient-deletes-with-entity-framework-core/",
+      "sent_count": 1,
+      "title": "More Efficient Deletes With Entity Framework Core"
+    },
+    "https://khalidabuhakmeh.com/posts/more-http-methods-aspnet-core-html-forms/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/more-http-methods-aspnet-core-html-forms/",
+      "sent_count": 1,
+      "title": "More HTTP Methods In ASP.NET Core HTML Forms"
+    },
+    "https://khalidabuhakmeh.com/posts/multi-tenancy-with-aspnet-core-and-finbuckle-multitenant/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/multi-tenancy-with-aspnet-core-and-finbuckle-multitenant/",
+      "sent_count": 1,
+      "title": "Multi-tenancy with ASP.NET Core and FinBuckle.Multitenant"
+    },
+    "https://khalidabuhakmeh.com/posts/multiple-file-drag-and-drop-upload-with-aspnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/multiple-file-drag-and-drop-upload-with-aspnet-core/",
+      "sent_count": 1,
+      "title": "Multiple File Drag and Drop Upload with ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/multiple-result-sets-with-net-core-sql-server/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/multiple-result-sets-with-net-core-sql-server/",
+      "sent_count": 1,
+      "title": "Multiple Result Sets With .Net Core and SQL Server"
+    },
+    "https://khalidabuhakmeh.com/posts/mvvm-with-xamarin-forms/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/mvvm-with-xamarin-forms/",
+      "sent_count": 1,
+      "title": "MVVM With Xamarin.Forms and JetBrains Rider"
+    },
+    "https://khalidabuhakmeh.com/posts/my-favorite-jetbrains-rider-themes/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/my-favorite-jetbrains-rider-themes/",
+      "sent_count": 1,
+      "title": "My Favorite JetBrains Rider Themes"
+    },
+    "https://khalidabuhakmeh.com/posts/nuget-past-present-future-dotnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/nuget-past-present-future-dotnet/",
+      "sent_count": 1,
+      "title": "Reading The Past, Present, and Future Of .NET Through NuGet"
+    },
+    "https://khalidabuhakmeh.com/posts/oakton-and-apiexplorer-to-view-routes-dotnet-cli/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/oakton-and-apiexplorer-to-view-routes-dotnet-cli/",
+      "sent_count": 1,
+      "title": "Use Oakton and API Explorer To View API Routes From .NET CLI"
+    },
+    "https://khalidabuhakmeh.com/posts/obscure-bugs-asp-net-mvc-child-actions/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/obscure-bugs-asp-net-mvc-child-actions/",
+      "sent_count": 1,
+      "title": "Obscure Bugs: ASP.NET MVC Child Actions"
+    },
+    "https://khalidabuhakmeh.com/posts/ohmyzsh-github-cli-command-completion/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/ohmyzsh-github-cli-command-completion/",
+      "sent_count": 1,
+      "title": "OhMyZsh GitHub CLI Command Completion"
+    },
+    "https://khalidabuhakmeh.com/posts/output-csv-results-to-console-table-in-rust/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/output-csv-results-to-console-table-in-rust/",
+      "sent_count": 1,
+      "title": "Output CSV Results to Console Table in Rust"
+    },
+    "https://khalidabuhakmeh.com/posts/override-razor-pages-routes-from-razor-class-libraries/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/override-razor-pages-routes-from-razor-class-libraries/",
+      "sent_count": 1,
+      "title": "Override Razor Pages Routes From Razor Class Libraries"
+    },
+    "https://khalidabuhakmeh.com/posts/paging-through-git-commits/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/paging-through-git-commits/",
+      "sent_count": 1,
+      "title": "Paging Through Git Commits Like A Wizard"
+    },
+    "https://khalidabuhakmeh.com/posts/parallax-avatars-with-jquery/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/parallax-avatars-with-jquery/",
+      "sent_count": 1,
+      "title": "Parallax Avatars With jQuery"
+    },
+    "https://khalidabuhakmeh.com/posts/parse-markdown-front-matter-with-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/parse-markdown-front-matter-with-csharp/",
+      "sent_count": 1,
+      "title": "Parse Markdown Front Matter With C#"
+    },
+    "https://khalidabuhakmeh.com/posts/partial-range-http-requests-with-aspnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/partial-range-http-requests-with-aspnet-core/",
+      "sent_count": 1,
+      "title": "HTTP Range Requests and Partial Responses With ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/passing-table-valued-parameters-from-dotnet-to-sql-server/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/passing-table-valued-parameters-from-dotnet-to-sql-server/",
+      "sent_count": 1,
+      "title": "Passing Table-Valued Parameters From .NET To SQL Server"
+    },
+    "https://khalidabuhakmeh.com/posts/ping-a-server-using-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/ping-a-server-using-csharp/",
+      "sent_count": 1,
+      "title": "Ping a Server Using C#"
+    },
+    "https://khalidabuhakmeh.com/posts/play-audio-files-with-net/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/play-audio-files-with-net/",
+      "sent_count": 1,
+      "title": "Play Audio Files With .NET"
+    },
+    "https://khalidabuhakmeh.com/posts/playing-the-super-mario-bros-theme-with-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/playing-the-super-mario-bros-theme-with-csharp/",
+      "sent_count": 1,
+      "title": "Playing The Super Mario Bros. Theme With C#"
+    },
+    "https://khalidabuhakmeh.com/posts/polymorphic-serialization-with-dotnet-system-text-json/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/polymorphic-serialization-with-dotnet-system-text-json/",
+      "sent_count": 1,
+      "title": "Polymorphic Serialization with .NET System.Text.Json"
+    },
+    "https://khalidabuhakmeh.com/posts/preventing-duplicate-web-requests-to-aspnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/preventing-duplicate-web-requests-to-aspnet-core/",
+      "sent_count": 1,
+      "title": "Preventing Duplicate Web Requests To ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/program-the-game-of-life-with-csharp-and-emojis/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/program-the-game-of-life-with-csharp-and-emojis/",
+      "sent_count": 1,
+      "title": "Program The Game Of Life With C# and Emojis"
+    },
+    "https://khalidabuhakmeh.com/posts/programming-svgs-with-csharp-dotnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/programming-svgs-with-csharp-dotnet/",
+      "sent_count": 1,
+      "title": "Programming SVGs with C#"
+    },
+    "https://khalidabuhakmeh.com/posts/programming-the-blink-1-with-c-sharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/programming-the-blink-1-with-c-sharp/",
+      "sent_count": 1,
+      "title": "Programming The Blink(1) with C#"
+    },
+    "https://khalidabuhakmeh.com/posts/raw-sql-queries-with-ef-core-5/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/raw-sql-queries-with-ef-core-5/",
+      "sent_count": 1,
+      "title": "Raw SQL Queries With Entity Framework Core 5"
+    },
+    "https://khalidabuhakmeh.com/posts/razorslices-razor-views-with-aspnet-core-minimal-apis/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/razorslices-razor-views-with-aspnet-core-minimal-apis/",
+      "sent_count": 1,
+      "title": "RazorSlices - Razor Views with ASP.NET Core Minimal APIs"
+    },
+    "https://khalidabuhakmeh.com/posts/read-and-convert-querycollection-values-in-aspnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/read-and-convert-querycollection-values-in-aspnet/",
+      "sent_count": 1,
+      "title": "Read And Convert QueryCollection Values In ASP.NET"
+    },
+    "https://khalidabuhakmeh.com/posts/read-write-excel-spreadsheets-with-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/read-write-excel-spreadsheets-with-csharp/",
+      "sent_count": 1,
+      "title": "Read and Write Excel Spreadsheets With C#"
+    },
+    "https://khalidabuhakmeh.com/posts/reading-rss-feeds-with-dotnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/reading-rss-feeds-with-dotnet-core/",
+      "sent_count": 1,
+      "title": "Reading RSS Feeds With .NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/real-time-charts-with-aspnet-core-signalr-and-chartjs/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/real-time-charts-with-aspnet-core-signalr-and-chartjs/",
+      "sent_count": 1,
+      "title": "Real-time Charts with ASP.NET Core, SignalR, and Chart.js"
+    },
+    "https://khalidabuhakmeh.com/posts/recursive-data-with-entity-framework-core-and-sql-server/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/recursive-data-with-entity-framework-core-and-sql-server/",
+      "sent_count": 1,
+      "title": "Recursive Data With Entity Framework Core and SQL Server"
+    },
+    "https://khalidabuhakmeh.com/posts/redis-cli-connection-uri-with-stackexchangeredis/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/redis-cli-connection-uri-with-stackexchangeredis/",
+      "sent_count": 1,
+      "title": "StackExchange.Redis: Parse a Redis-CLI Connection URI"
+    },
+    "https://khalidabuhakmeh.com/posts/register-maui-views-and-viewmodels-with-scrutor/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/register-maui-views-and-viewmodels-with-scrutor/",
+      "sent_count": 1,
+      "title": "Register MAUI Views and ViewModels with Scrutor"
+    },
+    "https://khalidabuhakmeh.com/posts/remember-aspnet-request-culture-using-middleware/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/remember-aspnet-request-culture-using-middleware/",
+      "sent_count": 1,
+      "title": "Remember ASP.NET Request Culture Using Middleware"
+    },
+    "https://khalidabuhakmeh.com/posts/remove-rows-from-razor-html-tables/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/remove-rows-from-razor-html-tables/",
+      "sent_count": 1,
+      "title": "Remove Rows From Razor HTML Tables"
+    },
+    "https://khalidabuhakmeh.com/posts/request-features-aspnet-core-3/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/request-features-aspnet-core-3/",
+      "sent_count": 1,
+      "title": "Request Features And ASP.NET Core 3"
+    },
+    "https://khalidabuhakmeh.com/posts/resolve-multiple-types-in-aspnetcore/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/resolve-multiple-types-in-aspnetcore/",
+      "sent_count": 1,
+      "title": "Resolve Multiple Types In ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/resolve-services-in-aspnet-core-startup/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/resolve-services-in-aspnet-core-startup/",
+      "sent_count": 1,
+      "title": "Resolve Services In ASP.NET Core Startup"
+    },
+    "https://khalidabuhakmeh.com/posts/responsive-images-crash-course-for-aspnet-core-developers/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/responsive-images-crash-course-for-aspnet-core-developers/",
+      "sent_count": 1,
+      "title": "Responsive Images Crash Course for ASP.NET Core Developers"
+    },
+    "https://khalidabuhakmeh.com/posts/rethinking-oss-attribution-in-net/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/rethinking-oss-attribution-in-net/",
+      "sent_count": 1,
+      "title": "Rethinking OSS Attribution In .NET"
+    },
+    "https://khalidabuhakmeh.com/posts/robotstxt-middleware-aspnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/robotstxt-middleware-aspnet-core/",
+      "sent_count": 1,
+      "title": "Robots.txt Middleware For ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/rock-paper-scissors-lizard-spock-ii-wrath-of-neo4j/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/rock-paper-scissors-lizard-spock-ii-wrath-of-neo4j/",
+      "sent_count": 1,
+      "title": "Rock, Paper, Scissors, Lizard, Spock II: Wrath Of Neo4j"
+    },
+    "https://khalidabuhakmeh.com/posts/running-npm-scripts-from-a-dotnet-core-process/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/running-npm-scripts-from-a-dotnet-core-process/",
+      "sent_count": 1,
+      "title": "Running NPM Scripts From A .NET Core Process"
+    },
+    "https://khalidabuhakmeh.com/posts/running-sql-server-queries-in-docker/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/running-sql-server-queries-in-docker/",
+      "sent_count": 1,
+      "title": "Running SQL Server Queries In Docker"
+    },
+    "https://khalidabuhakmeh.com/posts/running-vite-with-aspnet-core-web-applications/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/running-vite-with-aspnet-core-web-applications/",
+      "sent_count": 1,
+      "title": "Running Vite with ASP.NET Core Web Applications"
+    },
+    "https://khalidabuhakmeh.com/posts/save-your-csharp-keystrokes-with-tuples/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/save-your-csharp-keystrokes-with-tuples/",
+      "sent_count": 1,
+      "title": "Save Your C# Keystrokes With Tuples"
+    },
+    "https://khalidabuhakmeh.com/posts/scriban-for-text-and-liquid-templating-in-dotnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/scriban-for-text-and-liquid-templating-in-dotnet/",
+      "sent_count": 1,
+      "title": "Scriban for Text and Liquid Templating in .NET"
+    },
+    "https://khalidabuhakmeh.com/posts/search-experiences-for-your-aspnet-core-apps-with-elasticsearch/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/search-experiences-for-your-aspnet-core-apps-with-elasticsearch/",
+      "sent_count": 1,
+      "title": "Search Experiences For Your ASP.NET Core Apps With Elasticsearch"
+    },
+    "https://khalidabuhakmeh.com/posts/searched-locations-razor-view-engine-aspdotnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/searched-locations-razor-view-engine-aspdotnet/",
+      "sent_count": 1,
+      "title": "Understand Searched Locations For The Razor View Engine And ASP.NET"
+    },
+    "https://khalidabuhakmeh.com/posts/searching-for-new-adventures-in-software-development/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/searching-for-new-adventures-in-software-development/",
+      "sent_count": 1,
+      "title": "Searching For New Adventures In Software Development"
+    },
+    "https://khalidabuhakmeh.com/posts/secrets-of-a-dotnet-professional/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/secrets-of-a-dotnet-professional/",
+      "sent_count": 1,
+      "title": "Secrets of a .NET Professional"
+    },
+    "https://khalidabuhakmeh.com/posts/security-scanning-dotnet-core-applications/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/security-scanning-dotnet-core-applications/",
+      "sent_count": 1,
+      "title": "Security Scanning Your .NET Core Applications"
+    },
+    "https://khalidabuhakmeh.com/posts/seed-entity-framework-core-with-bogus/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/seed-entity-framework-core-with-bogus/",
+      "sent_count": 1,
+      "title": "Seed Entity Framework Core With Bogus Data"
+    },
+    "https://khalidabuhakmeh.com/posts/sentiment-analysis-with-csharp-mldotnet-and-oakton-commands/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/sentiment-analysis-with-csharp-mldotnet-and-oakton-commands/",
+      "sent_count": 1,
+      "title": "Sentiment Analysis With C#, ML.NET, and Oakton Commands"
+    },
+    "https://khalidabuhakmeh.com/posts/serialize-interface-instances-system-text-json/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/serialize-interface-instances-system-text-json/",
+      "sent_count": 1,
+      "title": "Serialize Interface Instances With System.Text.Json"
+    },
+    "https://khalidabuhakmeh.com/posts/server-sent-events-in-aspnet-core-and-dotnet-10/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/server-sent-events-in-aspnet-core-and-dotnet-10/",
+      "sent_count": 1,
+      "title": "Server-Sent Events in ASP.NET Core and .NET 10"
+    },
+    "https://khalidabuhakmeh.com/posts/sharing-auth-cookies-with-yarp-identityserver-and-aspnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/sharing-auth-cookies-with-yarp-identityserver-and-aspnet-core/",
+      "sent_count": 1,
+      "title": "Sharing Auth Cookies With YARP, IdentityServer, and ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/sharing-information-between-vue-components/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/sharing-information-between-vue-components/",
+      "sent_count": 1,
+      "title": "Sharing Information Between Vue Components With A Bus"
+    },
+    "https://khalidabuhakmeh.com/posts/shoelace-web-components-with-aspnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/shoelace-web-components-with-aspnet-core/",
+      "sent_count": 1,
+      "title": "Shoelace Web Components with ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/simple-redirects-with-aspnet-core-endpoint-routing/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/simple-redirects-with-aspnet-core-endpoint-routing/",
+      "sent_count": 1,
+      "title": "Simple Redirects With ASP.NET Core Endpoints"
+    },
+    "https://khalidabuhakmeh.com/posts/simplify-displayname-calls-in-razor/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/simplify-displayname-calls-in-razor/",
+      "sent_count": 1,
+      "title": "Simplify DisplayName Calls In Razor Views"
+    },
+    "https://khalidabuhakmeh.com/posts/sisk-an-alternative-dotnet-http-server/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/sisk-an-alternative-dotnet-http-server/",
+      "sent_count": 1,
+      "title": "Sisk - An Alternative .NET HTTP Server"
+    },
+    "https://khalidabuhakmeh.com/posts/six-famous-artists-quotes-that-apply-to-programming/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/six-famous-artists-quotes-that-apply-to-programming/",
+      "sent_count": 1,
+      "title": "Six Famous Artists Quotes That Apply To Programming"
+    },
+    "https://khalidabuhakmeh.com/posts/solve-for-the-next-dayofweek-from-datetime/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/solve-for-the-next-dayofweek-from-datetime/",
+      "sent_count": 1,
+      "title": "Solve For The Next DayOfWeek From DateTime"
+    },
+    "https://khalidabuhakmeh.com/posts/solving-dotnet-json-deserialization-issues/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/solving-dotnet-json-deserialization-issues/",
+      "sent_count": 1,
+      "title": "Solving .NET JSON Deserialization Issues"
+    },
+    "https://khalidabuhakmeh.com/posts/solving-the-confirm-form-resubmission-problem/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/solving-the-confirm-form-resubmission-problem/",
+      "sent_count": 1,
+      "title": "\"Confirm Form Resubmission\": Why It Appears and How to Fix It"
+    },
+    "https://khalidabuhakmeh.com/posts/sort-data-with-aspnet-core-and-query-strings/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/sort-data-with-aspnet-core-and-query-strings/",
+      "sent_count": 1,
+      "title": "Sort Data With ASP.NET Core and Query Strings"
+    },
+    "https://khalidabuhakmeh.com/posts/speed-up-aspnet-core-json-apis-with-source-generators/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/speed-up-aspnet-core-json-apis-with-source-generators/",
+      "sent_count": 1,
+      "title": "Speed Up ASP.NET Core JSON APIs with Source Generators"
+    },
+    "https://khalidabuhakmeh.com/posts/sql-database-per-git-branch/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/sql-database-per-git-branch/",
+      "sent_count": 1,
+      "title": "Sql Database Per Git Branch"
+    },
+    "https://khalidabuhakmeh.com/posts/sql-polling-listener-for-azure-sql-and-other-sql-databases/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/sql-polling-listener-for-azure-sql-and-other-sql-databases/",
+      "sent_count": 1,
+      "title": "SQL Polling Listener For Azure SQL and Other SQL Databases"
+    },
+    "https://khalidabuhakmeh.com/posts/start-powershell-faster-with-this-one-trick/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/start-powershell-faster-with-this-one-trick/",
+      "sent_count": 1,
+      "title": "Start PowerShell Faster With This One Trick"
+    },
+    "https://khalidabuhakmeh.com/posts/starting-a-blog/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/starting-a-blog/",
+      "sent_count": 1,
+      "title": "Starting A Blog - Tips and Guide"
+    },
+    "https://khalidabuhakmeh.com/posts/state-machines-light-switches-and-space-travel-with-stateless-and-dotnet-8/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/state-machines-light-switches-and-space-travel-with-stateless-and-dotnet-8/",
+      "sent_count": 1,
+      "title": "State Machines, Light Switches, and Space Travel with Stateless and .NET 8"
+    },
+    "https://khalidabuhakmeh.com/posts/static-abstract-members-in-csharp-11-interfaces/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/static-abstract-members-in-csharp-11-interfaces/",
+      "sent_count": 1,
+      "title": "Static Abstract Members In C# 11 Interfaces"
+    },
+    "https://khalidabuhakmeh.com/posts/stop-entity-framework-core-performance-issues-with-interceptors/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/stop-entity-framework-core-performance-issues-with-interceptors/",
+      "sent_count": 1,
+      "title": "Stop Entity Framework Core Performance Issues With Interceptors"
+    },
+    "https://khalidabuhakmeh.com/posts/storing-dynamic-user-data-with-ef-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/storing-dynamic-user-data-with-ef-core/",
+      "sent_count": 1,
+      "title": "Storing Dynamic User Data With Entity Framework Core"
+    },
+    "https://khalidabuhakmeh.com/posts/stream-music-into-any-video-conference/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/stream-music-into-any-video-conference/",
+      "sent_count": 1,
+      "title": "Stream Music Into Any Video Conference"
+    },
+    "https://khalidabuhakmeh.com/posts/streaming-vs-buffered-results-with-entity-framework-core-5/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/streaming-vs-buffered-results-with-entity-framework-core-5/",
+      "sent_count": 1,
+      "title": "Streaming Vs. Buffered Results With Entity Framework Core 5"
+    },
+    "https://khalidabuhakmeh.com/posts/strongly-typed-markdown-for-aspnet-core-content-apps/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/strongly-typed-markdown-for-aspnet-core-content-apps/",
+      "sent_count": 1,
+      "title": "Strongly-Typed Markdown for ASP.NET Core Content Apps"
+    },
+    "https://khalidabuhakmeh.com/posts/submitting-a-dictionary-to-an-asp-net-mvc-action/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/submitting-a-dictionary-to-an-asp-net-mvc-action/",
+      "sent_count": 1,
+      "title": "Submitting A Dictionary To An ASP.NET MVC Action"
+    },
+    "https://khalidabuhakmeh.com/posts/supercharge-blogging-with-frankenblog/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/supercharge-blogging-with-frankenblog/",
+      "sent_count": 1,
+      "title": "Supercharge Blogging With .NET and Ruby Frankenblog"
+    },
+    "https://khalidabuhakmeh.com/posts/switch-expressions-in-csharp-8/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/switch-expressions-in-csharp-8/",
+      "sent_count": 1,
+      "title": "Ace Switch Expressions in C# 8"
+    },
+    "https://khalidabuhakmeh.com/posts/systemtextjson-jsonconverter-test-helpers/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/systemtextjson-jsonconverter-test-helpers/",
+      "sent_count": 1,
+      "title": "System.Text.Json JsonConverter Test Helpers"
+    },
+    "https://khalidabuhakmeh.com/posts/take-your-asp-net-mvc-application-offline-via-a-global-attribute/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/take-your-asp-net-mvc-application-offline-via-a-global-attribute/",
+      "sent_count": 1,
+      "title": "Take Your ASP.NET MVC Application Offline via a Global Attribute"
+    },
+    "https://khalidabuhakmeh.com/posts/taming-your-dotnet-twitter-bots-with-rules/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/taming-your-dotnet-twitter-bots-with-rules/",
+      "sent_count": 1,
+      "title": "Taming Your .NET Twitter Bots With Rules"
+    },
+    "https://khalidabuhakmeh.com/posts/testing-aspnet-core-6-apps/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/testing-aspnet-core-6-apps/",
+      "sent_count": 1,
+      "title": "Testing ASP.NET Core 6 Apps"
+    },
+    "https://khalidabuhakmeh.com/posts/testing-aspnet-core-fastendpoints/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/testing-aspnet-core-fastendpoints/",
+      "sent_count": 1,
+      "title": "Testing ASP.NET Core FastEndpoints"
+    },
+    "https://khalidabuhakmeh.com/posts/testing-typesense-search-with-testcontainers-and-dotnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/testing-typesense-search-with-testcontainers-and-dotnet/",
+      "sent_count": 1,
+      "title": "Testing Typesense search with Testcontainers and .NET"
+    },
+    "https://khalidabuhakmeh.com/posts/the-asp-net-apocalypse-is-coming/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/the-asp-net-apocalypse-is-coming/",
+      "sent_count": 1,
+      "title": "The ASP.NET Apocalypse Is Coming"
+    },
+    "https://khalidabuhakmeh.com/posts/the-curious-case-of-dotnet-concurrentdictionary-and-closures/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/the-curious-case-of-dotnet-concurrentdictionary-and-closures/",
+      "sent_count": 1,
+      "title": "The Curious Case of .NET ConcurrentDictionary and Closures"
+    },
+    "https://khalidabuhakmeh.com/posts/the-difference-between-equals-equals-operator-and-equals-method-in-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/the-difference-between-equals-equals-operator-and-equals-method-in-csharp/",
+      "sent_count": 1,
+      "title": "Understand .NET C#'s == Operator and Equals Method"
+    },
+    "https://khalidabuhakmeh.com/posts/the-difference-between-html-and-url-encode-in-dotnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/the-difference-between-html-and-url-encode-in-dotnet/",
+      "sent_count": 1,
+      "title": "The Difference Between HTML and URL Encode In .NET"
+    },
+    "https://khalidabuhakmeh.com/posts/the-f5-manifesto-for-net-developers/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/the-f5-manifesto-for-net-developers/",
+      "sent_count": 1,
+      "title": "The F5 Manifesto For .NET Developers"
+    },
+    "https://khalidabuhakmeh.com/posts/the-five-stages-of-an-asp-net-5-developer/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/the-five-stages-of-an-asp-net-5-developer/",
+      "sent_count": 1,
+      "title": "The Five Stages Of An ASP.NET 5 Developer"
+    },
+    "https://khalidabuhakmeh.com/posts/the-importance-of-branding-projects/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/the-importance-of-branding-projects/",
+      "sent_count": 1,
+      "title": "The Importance Of Branding Projects"
+    },
+    "https://khalidabuhakmeh.com/posts/the-privilege-of-dotnet-tooling-choices/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/the-privilege-of-dotnet-tooling-choices/",
+      "sent_count": 1,
+      "title": "The Privilege of .NET Tooling Choices"
+    },
+    "https://khalidabuhakmeh.com/posts/thor-commands-for-jekyll/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/thor-commands-for-jekyll/",
+      "sent_count": 1,
+      "title": "Power Up Jekyll With Thor Commands"
+    },
+    "https://khalidabuhakmeh.com/posts/top-five-configuration-options-for-dotnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/top-five-configuration-options-for-dotnet-core/",
+      "sent_count": 1,
+      "title": "Top Five Configuration Options For .NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/transforming-json-using-json-net-and-jsonpath/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/transforming-json-using-json-net-and-jsonpath/",
+      "sent_count": 1,
+      "title": "Transforming JSON Using JSON.NET And JSONPath"
+    },
+    "https://khalidabuhakmeh.com/posts/troubleshooting-dotnet-blazor-wasm-debugging/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/troubleshooting-dotnet-blazor-wasm-debugging/",
+      "sent_count": 1,
+      "title": "Troubleshooting .NET Blazor WASM Debugging"
+    },
+    "https://khalidabuhakmeh.com/posts/tunneling-vnc-through-ssh-on-macos/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/tunneling-vnc-through-ssh-on-macos/",
+      "sent_count": 1,
+      "title": "Tunneling VNC Through SSH on macOS"
+    },
+    "https://khalidabuhakmeh.com/posts/turn-off-macos-universal-shortcuts/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/turn-off-macos-universal-shortcuts/",
+      "sent_count": 1,
+      "title": "Turning Off macOS Universal Shortcuts"
+    },
+    "https://khalidabuhakmeh.com/posts/understand-reading-from-a-file-using-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/understand-reading-from-a-file-using-csharp/",
+      "sent_count": 1,
+      "title": "Understand Reading From A File Using C#"
+    },
+    "https://khalidabuhakmeh.com/posts/understand-the-dotnet-five-runtime-environment/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/understand-the-dotnet-five-runtime-environment/",
+      "sent_count": 1,
+      "title": "Understand The .NET 5 Runtime Environment"
+    },
+    "https://khalidabuhakmeh.com/posts/unit-test-11ty-pages-with-vitest-and-typescript/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/unit-test-11ty-pages-with-vitest-and-typescript/",
+      "sent_count": 1,
+      "title": "Unit Test 11ty Pages With Vitest and Typescript"
+    },
+    "https://khalidabuhakmeh.com/posts/unit-tests-for-legacy-systems-with-dotnet-6/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/unit-tests-for-legacy-systems-with-dotnet-6/",
+      "sent_count": 1,
+      "title": "Unit Tests For Legacy Systems with .NET 6"
+    },
+    "https://khalidabuhakmeh.com/posts/update-html-elements-with-htmx-triggers-and-aspnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/update-html-elements-with-htmx-triggers-and-aspnet-core/",
+      "sent_count": 1,
+      "title": "Update HTML Elements with Htmx Triggers and ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/upgraded-dotnet-console-experience/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/upgraded-dotnet-console-experience/",
+      "sent_count": 1,
+      "title": "Upgrade Your .NET Console App Experience"
+    },
+    "https://khalidabuhakmeh.com/posts/upload-a-file-using-aspdotnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/upload-a-file-using-aspdotnet-core/",
+      "sent_count": 1,
+      "title": "Upload A File Using ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/use-aspnet-with-turbolinks-5/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/use-aspnet-with-turbolinks-5/",
+      "sent_count": 1,
+      "title": "Use ASP.NET With Turbolinks 5"
+    },
+    "https://khalidabuhakmeh.com/posts/use-neo4j-to-find-the-shortest-path/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/use-neo4j-to-find-the-shortest-path/",
+      "sent_count": 1,
+      "title": "Use NEO4J To Find The Shortest Path"
+    },
+    "https://khalidabuhakmeh.com/posts/use-range-and-index-in-csharp-8/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/use-range-and-index-in-csharp-8/",
+      "sent_count": 1,
+      "title": "Use Range and Index In C# 8"
+    },
+    "https://khalidabuhakmeh.com/posts/use-select-dropdown-in-aspdotnet-razor/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/use-select-dropdown-in-aspdotnet-razor/",
+      "sent_count": 1,
+      "title": "Use Select Dropdown In ASP.NET Razor"
+    },
+    "https://khalidabuhakmeh.com/posts/use-tempdataattribute-for-clean-code/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/use-tempdataattribute-for-clean-code/",
+      "sent_count": 1,
+      "title": "Use TempDataAttribute For Clean Code"
+    },
+    "https://khalidabuhakmeh.com/posts/using-aspnet-core-mvc-value-providers-with-minimal-apis/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/using-aspnet-core-mvc-value-providers-with-minimal-apis/",
+      "sent_count": 1,
+      "title": "Using ASP.NET Core MVC Value Providers With Minimal APIs"
+    },
+    "https://khalidabuhakmeh.com/posts/using-dotnet-to-validate-json-with-json-schema/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/using-dotnet-to-validate-json-with-json-schema/",
+      "sent_count": 1,
+      "title": "Using .NET To Validate JSON with JSON Schema"
+    },
+    "https://khalidabuhakmeh.com/posts/using-environment-variables-in-your-dotnet-core-builds/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/using-environment-variables-in-your-dotnet-core-builds/",
+      "sent_count": 1,
+      "title": "Using Environment Variables In Your .NET Core Builds"
+    },
+    "https://khalidabuhakmeh.com/posts/using-htmlagilitypack-to-strip-all-html-attributes/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/using-htmlagilitypack-to-strip-all-html-attributes/",
+      "sent_count": 1,
+      "title": "Using HtmlAgilityPack To Strip All HTML Attributes"
+    },
+    "https://khalidabuhakmeh.com/posts/using-libman-to-manage-client-side-dependencies/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/using-libman-to-manage-client-side-dependencies/",
+      "sent_count": 1,
+      "title": "Using LibMan To Manage Client-Side Dependencies"
+    },
+    "https://khalidabuhakmeh.com/posts/using-linq-to-build-a-world-travel-itinerary/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/using-linq-to-build-a-world-travel-itinerary/",
+      "sent_count": 1,
+      "title": "Using LINQ to Build A World Travel Itinerary"
+    },
+    "https://khalidabuhakmeh.com/posts/using-semantic-ui-with-asp-net-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/using-semantic-ui-with-asp-net-core/",
+      "sent_count": 1,
+      "title": "Using Semantic UI with ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/using-sql-server-cursors-with-entity-framework-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/using-sql-server-cursors-with-entity-framework-core/",
+      "sent_count": 1,
+      "title": "Using SQL Server Cursors with Entity Framework Core"
+    },
+    "https://khalidabuhakmeh.com/posts/using-stringbuilder-to-replace-values/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/using-stringbuilder-to-replace-values/",
+      "sent_count": 1,
+      "title": "Using StringBuilder To Replace Values"
+    },
+    "https://khalidabuhakmeh.com/posts/using-xml-documentation-with-aspnetcore-minimal-api-apps-and-openapi/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/using-xml-documentation-with-aspnetcore-minimal-api-apps-and-openapi/",
+      "sent_count": 1,
+      "title": "Using XML Documentation With ASP.NET Core Minimal API Apps and OpenAPI"
+    },
+    "https://khalidabuhakmeh.com/posts/validating-connection-strings-on-dotnet-startup/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/validating-connection-strings-on-dotnet-startup/",
+      "sent_count": 1,
+      "title": "Validating Connection Strings on .NET Startup"
+    },
+    "https://khalidabuhakmeh.com/posts/validating-ssl-certificates-with-dotnet-servicepointmanager/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/validating-ssl-certificates-with-dotnet-servicepointmanager/",
+      "sent_count": 1,
+      "title": "Validating SSL Certificates With .NET ServicePointManager"
+    },
+    "https://khalidabuhakmeh.com/posts/verify-user-file-uploads-with-dotnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/verify-user-file-uploads-with-dotnet/",
+      "sent_count": 1,
+      "title": "Verify User File Uploads With .NET"
+    },
+    "https://khalidabuhakmeh.com/posts/vestpocket-file-based-data-storage-for-aot-dotnet-applications/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/vestpocket-file-based-data-storage-for-aot-dotnet-applications/",
+      "sent_count": 1,
+      "title": "VestPocket: File-based Data Storage for AOT .NET Applications"
+    },
+    "https://khalidabuhakmeh.com/posts/view-transitions-api-with-aspnet-core-and-htmx/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/view-transitions-api-with-aspnet-core-and-htmx/",
+      "sent_count": 1,
+      "title": "View Transitions API with ASP.NET Core and HTMX"
+    },
+    "https://khalidabuhakmeh.com/posts/vogen-and-value-objects-with-csharp-and-dotnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/vogen-and-value-objects-with-csharp-and-dotnet/",
+      "sent_count": 1,
+      "title": "Vogen and Value Objects with C# and .NET"
+    },
+    "https://khalidabuhakmeh.com/posts/watching-more-files-with-dotnet-watch-for-static-sites/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/watching-more-files-with-dotnet-watch-for-static-sites/",
+      "sent_count": 1,
+      "title": "Watching More Files With Dotnet Watch For Static Sites"
+    },
+    "https://khalidabuhakmeh.com/posts/what-i-learned-after-a-week-of-visual-studio-code-and-asp-net-5/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/what-i-learned-after-a-week-of-visual-studio-code-and-asp-net-5/",
+      "sent_count": 1,
+      "title": "What I Learned After A Week of Visual Studio Code and ASP.NET 5"
+    },
+    "https://khalidabuhakmeh.com/posts/what-is-hsts-and-why-is-it-in-my-aspnet-core-app/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/what-is-hsts-and-why-is-it-in-my-aspnet-core-app/",
+      "sent_count": 1,
+      "title": "What is HSTS and why is it in my ASP.NET Core app?"
+    },
+    "https://khalidabuhakmeh.com/posts/what-is-razor-aspnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/what-is-razor-aspnet/",
+      "sent_count": 1,
+      "title": "What Is Razor - ASP.NET"
+    },
+    "https://khalidabuhakmeh.com/posts/what-should-i-dispose-with-dotnet-database-connections/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/what-should-i-dispose-with-dotnet-database-connections/",
+      "sent_count": 1,
+      "title": "What Should I Dispose with .NET Database Connections?"
+    },
+    "https://khalidabuhakmeh.com/posts/working-with-dotnet-console-host-lifetime-events/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/working-with-dotnet-console-host-lifetime-events/",
+      "sent_count": 1,
+      "title": "Working With .NET Console Host Lifetime Events"
+    },
+    "https://khalidabuhakmeh.com/posts/working-with-dotnet-six-priorityqueue/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/working-with-dotnet-six-priorityqueue/",
+      "sent_count": 1,
+      "title": "Working With .NET 6's PriorityQueue"
+    },
+    "https://khalidabuhakmeh.com/posts/working-with-rust-libraries-from-csharp-dotnet-applications/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/working-with-rust-libraries-from-csharp-dotnet-applications/",
+      "sent_count": 1,
+      "title": "Working with Rust Libraries from C# .NET Applications"
+    },
+    "https://khalidabuhakmeh.com/posts/working-with-xamarin-forms-and-motion-graphics/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/working-with-xamarin-forms-and-motion-graphics/",
+      "sent_count": 1,
+      "title": "Work With Xamarin.Forms And Lottie Motion Graphics"
+    },
+    "https://khalidabuhakmeh.com/posts/write-and-use-iequalitycomparer/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/write-and-use-iequalitycomparer/",
+      "sent_count": 1,
+      "title": "IEqualityComparer in C#: How to Write and Use One"
+    },
+    "https://khalidabuhakmeh.com/posts/write-unit-tests-with-fsharp-and-xunit/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/write-unit-tests-with-fsharp-and-xunit/",
+      "sent_count": 1,
+      "title": "Write Unit Tests With F# and XUnit"
+    },
+    "https://khalidabuhakmeh.com/posts/write-xamarin-mac-apps-with-jetbrains-rider/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/write-xamarin-mac-apps-with-jetbrains-rider/",
+      "sent_count": 1,
+      "title": "Write Xamarin.Mac Apps With JetBrains Rider"
+    },
+    "https://khalidabuhakmeh.com/posts/writing-a-cross-platform-clock-app-with-avalonia-ui-and-nxui/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/writing-a-cross-platform-clock-app-with-avalonia-ui-and-nxui/",
+      "sent_count": 1,
+      "title": "Writing a Cross-Platform Clock App With Avalonia UI and NXUI"
+    },
+    "https://khalidabuhakmeh.com/posts/writing-a-string-numeric-comparer-with-dotnet-9/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/writing-a-string-numeric-comparer-with-dotnet-9/",
+      "sent_count": 1,
+      "title": "Writing a String Numeric Comparer with .NET 9"
+    },
+    "https://khalidabuhakmeh.com/posts/xunit-tests-jetbrains-rider-and-counting-until-failure/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/xunit-tests-jetbrains-rider-and-counting-until-failure/",
+      "sent_count": 1,
+      "title": "XUnit Tests, JetBrains Rider, and Counting Until Failure"
+    },
+    "https://khalidabuhakmeh.com/posts/youtube-thumbnails-imagesharp-dotnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1790952740,
+      "link": "https://khalidabuhakmeh.com/posts/youtube-thumbnails-imagesharp-dotnet-core/",
+      "sent_count": 1,
+      "title": "Generate YouTube Thumbnails with ImageSharp and .NET Core"
+    },
     "https://medium.com/p/05440da623ad": {
       "blog_name": "Angular Blog (Official)",
       "first_seen": 1789328908,
@@ -11255,6 +13901,13 @@
       "link": "https://medium.com/@nathanacurtis/components-as-data-2be178777f21?source=rss-799c7c7840a------2",
       "sent_count": 1,
       "title": "Components as Data"
+    },
+    "https://medium.com/p/39ff8e0271a4": {
+      "blog_name": "Angular Blog (Official)",
+      "first_seen": 1790952740,
+      "link": "https://blog.angular.dev/customizing-angular-aria-tabs-quickly-with-google-antigravity-cli-39ff8e0271a4?source=rss----447683c3d9a3---4",
+      "sent_count": 1,
+      "title": "Customizing Angular Aria Tabs Quickly with Google Antigravity CLI"
     },
     "https://medium.com/p/4f1ab881b7a9": {
       "blog_name": "Nathan Curtis (Design Systems)",
@@ -12005,13 +14658,6 @@
       "sent_count": 1,
       "title": "Quoting Matthew Green"
     },
-    "https://simonwillison.net/2026/Sep/1/datasette-mcp/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788339784,
-      "link": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
-      "sent_count": 1,
-      "title": "datasette-mcp 0.2"
-    },
     "https://simonwillison.net/2026/Sep/10/calif-research/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1789017497,
@@ -12312,13 +14958,6 @@
       "link": "https://simonwillison.net/2026/Sep/2/llm/",
       "sent_count": 1,
       "title": "llm 0.34"
-    },
-    "https://simonwillison.net/2026/Sep/2/rick-brewster/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788339784,
-      "link": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
-      "sent_count": 1,
-      "title": "Quoting Rick Brewster"
     },
     "https://simonwillison.net/2026/Sep/20/datasette-explain/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
