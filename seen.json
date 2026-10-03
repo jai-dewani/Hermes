@@ -9079,6 +9079,13 @@
       "sent_count": 1,
       "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery"
     },
+    "https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1791058078,
+      "link": "https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/",
+      "sent_count": 1,
+      "title": "Enhancing Microsoft Azure Virtual Machine lifecycle"
+    },
     "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1790879453,
@@ -14189,13 +14196,6 @@
       "sent_count": 1,
       "title": "The Pulse: Quitting Spotify Podcasts over reliability"
     },
-    "https://newsletter.pragmaticengineer.com/p/the-pulse-tech-companies-move-to": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1788457860,
-      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-tech-companies-move-to",
-      "sent_count": 1,
-      "title": "The Pulse: tech companies move to open AI models"
-    },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-we-need-to-talk-about-migrations": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1789852572,
@@ -14650,6 +14650,13 @@
       "link": "https://simonwillison.net/2026/Oct/1/matthew-green/",
       "sent_count": 1,
       "title": "Quoting Matthew Green"
+    },
+    "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791058078,
+      "link": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
+      "sent_count": 1,
+      "title": "Rex's Dino Store"
     },
     "https://simonwillison.net/2026/Sep/10/calif-research/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
