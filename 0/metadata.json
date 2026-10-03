@@ -1,0 +1,82 @@
+{
+  "cli_version": "0.11.3",
+  "checkpoint_id": "01M41NTE3NGNGB2E0R3EPH0KXD",
+  "session_id": "313e2a5e-85b9-40d1-80a8-8f006529a90f",
+  "strategy": "manual-commit",
+  "created_at": "2026-10-03T20:03:23.601086Z",
+  "branch": "improve-hermes-agent",
+  "checkpoints_count": 11,
+  "save_step_count": 5,
+  "files_touched": [
+    ".gitignore",
+    "hermes.py"
+  ],
+  "agent": "Antigravity",
+  "model": "",
+  "turn_id": "f6e9873706d4",
+  "session_metrics": {
+    "turn_count": 11
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-10-03T20:03:23.592736Z",
+    "agent_lines": 17,
+    "agent_removed": 455,
+    "human_added": 379,
+    "human_modified": 1,
+    "human_removed": 0,
+    "total_committed": 397,
+    "total_lines_changed": 852,
+    "agent_percentage": 55.39906103286385,
+    "metric_version": 2
+  },
+  "prompt_attributions": [
+    {
+      "checkpoint_number": 1,
+      "user_lines_added": 0,
+      "user_lines_removed": 3,
+      "agent_lines_added": 0,
+      "agent_lines_removed": 0,
+      "user_removed_per_file": {
+        "feeds.yaml": 3
+      }
+    },
+    {
+      "checkpoint_number": 2,
+      "user_lines_added": 0,
+      "user_lines_removed": 0,
+      "agent_lines_added": 0,
+      "agent_lines_removed": 0
+    },
+    {
+      "checkpoint_number": 3,
+      "user_lines_added": 0,
+      "user_lines_removed": 0,
+      "agent_lines_added": 142,
+      "agent_lines_removed": 0
+    },
+    {
+      "checkpoint_number": 4,
+      "user_lines_added": 0,
+      "user_lines_removed": 0,
+      "agent_lines_added": 14,
+      "agent_lines_removed": 354
+    },
+    {
+      "checkpoint_number": 5,
+      "user_lines_added": 380,
+      "user_lines_removed": 1,
+      "agent_lines_added": 14,
+      "agent_lines_removed": 354,
+      "user_added_per_file": {
+        "lib/config.py": 34,
+        "lib/feed.py": 72,
+        "lib/notify.py": 59,
+        "lib/state.py": 166,
+        "lib/summary.py": 49
+      },
+      "user_removed_per_file": {
+        ".gitignore": 1
+      }
+    }
+  ]
+}

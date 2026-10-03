@@ -1,0 +1,1 @@
+As you can see I have lot of git commits from bots, is there a simple way to clean these commits?
