@@ -1,0 +1,37 @@
+{
+  "id": "trail-security",
+  "display_name": "Security Review",
+  "enabled": true,
+  "scope": "trail",
+  "runtime": {
+    "kind": "prompt_runner",
+    "agent": "claude",
+    "timeout_ms": 300000,
+    "sandbox": {
+      "base_template": "claude",
+      "repo_token": "read"
+    }
+  },
+  "automation": {
+    "kind": "trail_prompt"
+  },
+  "prompt": {
+    "template": "You are a security risk evaluator. Analyze the changes on branch \"{{branch}}\" compared to \"{{base_branch}}\".\n\nRun `git diff origin/{{base_branch}}...HEAD` to see the changes, then score **security risk** from 0 to 100 (review adversarially; higher = more suspicious or insecure).\n\nEvaluate security risk across these dimensions:\n- Credential & token exposure: Accidental commit or logging of ntfy.sh access tokens, private topic names, or GitHub authentication tokens.\n- Untrusted feed content: Injection risks from external RSS/Atom/JSON feeds, including HTTP header injection in ntfy.sh requests, malicious redirect URLs, or SSRF.\n- Workflow & CI permissions: Permissions escalation in check-feeds.yml, unsafe use of pull_request_target, or unsanitized shell interpolation of feed/git data in workflow steps.\n- Safe deserialization & dependencies: Safe YAML parsing using yaml.safe_load() instead of yaml.load(), and introduction of untrusted or vulnerable dependencies.\n\nScore bands:\n- 0-20 (Low): Safe Python/YAML edits, documentation, unit tests with mocked responses, and standard use of yaml.safe_load().\n- 21-50 (Medium): Changes to HTTP request headers, URL formatting, or feed parsing logic without apparent sanitization issues.\n- 51-80 (High): Modifying GitHub Actions workflow permissions, shell execution in CI, or changes handling authentication headers or environment secrets.\n- 81-100 (Critical): Hardcoded secrets/tokens in the diff, unsafe YAML deserialization, arbitrary shell command execution with untrusted feed input, or broad GHA write permissions.\n\nOutput ONLY this JSON object as the very last line of your response:\n\n{\"value\": <number 0-100>, \"rationale\": \"<1-2 sentence explanation>\"}"
+  },
+  "select": {
+    "trigger_types": [
+      "api",
+      "push"
+    ]
+  },
+  "output": {
+    "adapter": "last_json_line",
+    "result_type": "trail_monitor",
+    "trail_monitor": {
+      "key": "security",
+      "label": "Security",
+      "value_type": "percent",
+      "polarity": "lower_is_better"
+    }
+  }
+}

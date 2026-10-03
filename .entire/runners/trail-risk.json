@@ -1,0 +1,37 @@
+{
+  "id": "trail-risk",
+  "display_name": "Risk Eval",
+  "enabled": true,
+  "scope": "trail",
+  "runtime": {
+    "kind": "prompt_runner",
+    "agent": "claude",
+    "timeout_ms": 300000,
+    "sandbox": {
+      "base_template": "claude",
+      "repo_token": "read"
+    }
+  },
+  "automation": {
+    "kind": "trail_prompt"
+  },
+  "prompt": {
+    "template": "You are a risk evaluator. Analyze the changes on branch \"{{branch}}\" compared to \"{{base_branch}}\".\n\nRun `git diff origin/{{base_branch}}...HEAD` to see the changes, then score **risk** from 0 to 100 (higher = more potential damage if something is wrong).\n\nEvaluate risk across these dimensions:\n- State integrity & data loss: Changes to seen.json loading, serialization, keying, or 30-day retention pruning that could wipe state or trigger duplicate notification storms.\n- Notification & delivery reliability: Changes to ntfy.sh dispatching, rate limiting, payload formatting, or batching.\n- Feed ingestion & error handling: Changes to feed parsing (feedparser, requests), missing field fallbacks, or unhandled exceptions that could crash the cron run.\n- Automation & CI pipeline: Changes to .github/workflows/check-feeds.yml (cron schedule, git commit/push logic, permissions, dependency setup).\n\nScore bands:\n- 0-20 (Low): Documentation, comments, test additions in tests/, or routine additions of valid feed entries to feeds.yaml.\n- 21-50 (Medium): Refactoring feed parsing or notification formatting with defensive fallbacks and existing test coverage.\n- 51-80 (High): Modifying seen.json state schema, deduplication keys, retention pruning, or network retry/error-handling logic in hermes.py.\n- 81-100 (Critical): Breaking changes to check-feeds.yml (commit/push permissions, cron), destructive seen.json mutations risking notification storms or total state loss, or unhandled exceptions halting the runner.\n\nOutput ONLY this JSON object as the very last line of your response:\n\n{\"value\": <number 0-100>, \"rationale\": \"<1-2 sentence explanation>\"}"
+  },
+  "select": {
+    "trigger_types": [
+      "api",
+      "push"
+    ]
+  },
+  "output": {
+    "adapter": "last_json_line",
+    "result_type": "trail_monitor",
+    "trail_monitor": {
+      "key": "risk",
+      "label": "Risk",
+      "value_type": "percent",
+      "polarity": "lower_is_better"
+    }
+  }
+}
