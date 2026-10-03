@@ -11,7 +11,10 @@ import pytest
 import hermes
 
 
-# --- resolve_id ---
+# ---------------------------------------------------------------------------
+# resolve_id
+# ---------------------------------------------------------------------------
+
 
 def test_resolve_id_priority():
     """Verify entry.id > entry.link > entry.title priority."""
@@ -27,24 +30,28 @@ def test_resolve_id_priority():
     assert hermes.resolve_id({}) == ""
 
 
-# --- State loading & migration ---
+# ---------------------------------------------------------------------------
+# State loading & migration
+# ---------------------------------------------------------------------------
+
 
 def test_load_seen_valid_new_format(tmp_path):
-    """Verify loading a valid seen.json with rich metadata format."""
+    """Verify loading a valid seen.json with current metadata format."""
     seen_file = tmp_path / "seen.json"
     data = {"articles": {
-        "art1": {"first_seen": 1700000000, "sent_count": 1, "title": "Post A", "link": "https://a.com", "blog_name": "Blog A"},
+        "art1": {"first_seen": 1700000000, "title": "Post A", "link": "https://a.com", "blog_name": "Blog A"},
     }}
     seen_file.write_text(json.dumps(data), encoding="utf-8")
 
     result = hermes.load_seen(str(seen_file))
     assert result["articles"]["art1"]["first_seen"] == 1700000000
-    assert result["articles"]["art1"]["sent_count"] == 1
     assert result["articles"]["art1"]["title"] == "Post A"
+    # sent_count must NOT be present in the migrated output
+    assert "sent_count" not in result["articles"]["art1"]
 
 
 def test_load_seen_migrates_legacy_timestamps(tmp_path):
-    """Verify legacy timestamp-only entries are migrated to rich metadata."""
+    """Verify legacy timestamp-only entries are migrated — sent_count is dropped."""
     seen_file = tmp_path / "seen.json"
     data = {"articles": {"art1": 1700000000, "art2": 1700000100}}
     seen_file.write_text(json.dumps(data), encoding="utf-8")
@@ -54,8 +61,29 @@ def test_load_seen_migrates_legacy_timestamps(tmp_path):
         meta = result["articles"][art_id]
         assert isinstance(meta, dict)
         assert "first_seen" in meta
-        assert meta["sent_count"] == 1  # Legacy entries assumed already sent once
-        assert meta["title"] == ""      # No metadata available from legacy format
+        assert "sent_count" not in meta  # Removed with throwback
+        assert meta["title"] == ""
+
+
+def test_load_seen_migrates_old_format_drops_sent_count(tmp_path):
+    """Verify entries with sent_count (throwback era) are migrated cleanly."""
+    seen_file = tmp_path / "seen.json"
+    data = {"articles": {
+        "art1": {
+            "first_seen": 1700000000,
+            "sent_count": 2,           # Old throwback field — must be dropped
+            "title": "Old Post",
+            "link": "https://a.com",
+            "blog_name": "Blog A",
+        }
+    }}
+    seen_file.write_text(json.dumps(data), encoding="utf-8")
+
+    result = hermes.load_seen(str(seen_file))
+    meta = result["articles"]["art1"]
+    assert meta["first_seen"] == 1700000000
+    assert meta["title"] == "Old Post"
+    assert "sent_count" not in meta
 
 
 def test_load_seen_corrupt_and_missing(tmp_path):
@@ -72,42 +100,46 @@ def test_load_seen_corrupt_and_missing(tmp_path):
     assert hermes.load_seen(str(invalid_structure_file)) == {"articles": {}}
 
 
-# --- State saving ---
+# ---------------------------------------------------------------------------
+# State saving
+# ---------------------------------------------------------------------------
+
 
 def test_save_seen_atomic(tmp_path):
     """Verify atomic saving of seen.json."""
     seen_file = tmp_path / "seen.json"
-    data = {"articles": {"post-1": {"first_seen": 1700000000, "sent_count": 1, "title": "X", "link": "", "blog_name": "B"}}}
+    data = {"articles": {"post-1": {"first_seen": 1700000000, "title": "X", "link": "", "blog_name": "B"}}}
     hermes.save_seen(str(seen_file), data)
 
     loaded = json.loads(seen_file.read_text(encoding="utf-8"))
     assert loaded == data
 
 
-# --- Pruning ---
+# ---------------------------------------------------------------------------
+# Pruning
+# ---------------------------------------------------------------------------
+
 
 def test_prune_old_entries():
-    """Verify pruning entries older than max_age_days using rich metadata."""
+    """Verify pruning entries older than max_age_days."""
     now = int(time.time())
-    one_day_ago = now - 86400
-    twenty_days_ago = now - (20 * 86400)
-    forty_days_ago = now - (40 * 86400)
-
     seen = {
         "articles": {
-            "fresh": {"first_seen": one_day_ago, "sent_count": 1, "title": "", "link": "", "blog_name": ""},
-            "retained": {"first_seen": twenty_days_ago, "sent_count": 0, "title": "", "link": "", "blog_name": ""},
-            "expired": {"first_seen": forty_days_ago, "sent_count": 2, "title": "", "link": "", "blog_name": ""},
+            "fresh":    {"first_seen": now - 86400,      "title": "", "link": "", "blog_name": ""},
+            "retained": {"first_seen": now - 20 * 86400, "title": "", "link": "", "blog_name": ""},
+            "expired":  {"first_seen": now - 40 * 86400, "title": "", "link": "", "blog_name": ""},
         }
     }
-
     hermes.prune_old_entries(seen, max_age_days=30)
     assert "fresh" in seen["articles"]
     assert "retained" in seen["articles"]
     assert "expired" not in seen["articles"]
 
 
-# --- Config loading ---
+# ---------------------------------------------------------------------------
+# Config loading
+# ---------------------------------------------------------------------------
+
 
 def test_load_config_valid(tmp_path):
     """Verify valid YAML config loading."""
@@ -135,7 +167,56 @@ def test_load_config_missing_required(tmp_path):
         hermes.load_config(str(cfg_file))
 
 
-# --- Notifications ---
+# ---------------------------------------------------------------------------
+# Excerpt extraction
+# ---------------------------------------------------------------------------
+
+
+def test_extract_excerpt_from_summary():
+    """Verify HTML stripping and whitespace collapse from entry.summary."""
+    entry = {"summary": "<p>This is a <strong>great</strong> post about DNS.</p>"}
+    result = hermes._extract_excerpt(entry)
+    assert result == "This is a great post about DNS."
+    assert "<" not in result
+
+
+def test_extract_excerpt_truncates_at_word_boundary():
+    """Verify truncation happens at a word boundary and appends ellipsis."""
+    long_text = "word " * 60  # Way more than 200 chars
+    entry = {"summary": long_text}
+    result = hermes._extract_excerpt(entry, max_length=20)
+    assert result.endswith("…")
+    assert len(result) <= 25  # Some slack for word boundary
+
+
+def test_extract_excerpt_from_content_fallback():
+    """Verify fallback to entry.content[0].value when summary is absent."""
+    class FakeEntry:
+        summary = ""
+        content = [{"value": "<p>Content from content field.</p>"}]
+
+    result = hermes._extract_excerpt(FakeEntry())
+    assert result == "Content from content field."
+
+
+def test_extract_excerpt_empty():
+    """Verify empty string returned when no summary or content exists."""
+    assert hermes._extract_excerpt({}) == ""
+    assert hermes._extract_excerpt({"summary": ""}) == ""
+
+
+def test_extract_excerpt_decodes_html_entities():
+    """Verify HTML entities like &amp; are decoded."""
+    entry = {"summary": "Rocks &amp; Rails &lt;framework&gt;"}
+    result = hermes._extract_excerpt(entry)
+    assert "&amp;" not in result
+    assert "Rocks & Rails" in result
+
+
+# ---------------------------------------------------------------------------
+# Notifications
+# ---------------------------------------------------------------------------
+
 
 @patch("requests.post")
 def test_send_notification_new_article(mock_post):
@@ -143,7 +224,7 @@ def test_send_notification_new_article(mock_post):
     mock_post.return_value.status_code = 200
 
     config = {"ntfy_topic": "my-topic", "ntfy_server": "https://ntfy.sh"}
-    entry = {"title": "Exciting News", "link": "https://example.com/post-1"}
+    entry = {"title": "Exciting News", "link": "https://example.com/post-1", "summary": ""}
 
     with patch.dict(os.environ, {"NTFY_TOKEN": "secret-123"}):
         success = hermes.send_notification(config, "My Blog", entry)
@@ -155,68 +236,119 @@ def test_send_notification_new_article(mock_post):
     assert kwargs["headers"]["Tags"] == "newspaper"
     assert kwargs["headers"]["Click"] == "https://example.com/post-1"
     assert kwargs["headers"]["Authorization"] == "Bearer secret-123"
-    assert kwargs["data"] == "Exciting News".encode("utf-8")
+    assert kwargs["headers"]["Priority"] == "default"
+    assert b"Exciting News" in kwargs["data"]
 
 
 @patch("requests.post")
-def test_send_notification_throwback(mock_post):
-    """Verify throwback notifications use different title prefix and tag."""
+def test_send_notification_with_priority(mock_post):
+    """Verify the Priority header is set correctly when priority is specified."""
     mock_post.return_value.status_code = 200
 
     config = {"ntfy_topic": "my-topic", "ntfy_server": "https://ntfy.sh"}
-    entry = {"title": "Old Classic Post", "link": "https://example.com/old"}
+    entry = {"title": "Important Post", "link": "https://example.com/post"}
 
     with patch.dict(os.environ, {}, clear=True):
-        success = hermes.send_notification(config, "Cool Blog", entry, is_throwback=True)
+        hermes.send_notification(config, "High Pri Blog", entry, priority="high")
 
-    assert success is True
     _, kwargs = mock_post.call_args
-    assert kwargs["headers"]["Title"] == "📚 Throwback: Cool Blog"
-    assert kwargs["headers"]["Tags"] == "books"
+    assert kwargs["headers"]["Priority"] == "high"
 
-
-# --- Throwback logic ---
 
 @patch("requests.post")
-def test_send_throwbacks_picks_eligible(mock_post):
-    """Verify throwbacks only pick articles with sent_count < MAX and valid title."""
+def test_send_notification_invalid_priority_falls_back_to_default(mock_post):
+    """Verify an invalid priority value silently falls back to 'default'."""
     mock_post.return_value.status_code = 200
 
-    config = {"ntfy_topic": "test-topic", "ntfy_server": "https://ntfy.sh"}
-    now = int(time.time())
+    config = {"ntfy_topic": "my-topic", "ntfy_server": "https://ntfy.sh"}
+    entry = {"title": "Post", "link": "https://example.com/post"}
 
-    seen = {"articles": {
-        "eligible-1": {"first_seen": now, "sent_count": 0, "title": "Great Post", "link": "https://a.com/1", "blog_name": "Blog A"},
-        "eligible-2": {"first_seen": now, "sent_count": 1, "title": "Another Post", "link": "https://a.com/2", "blog_name": "Blog A"},
-        "eligible-3": {"first_seen": now, "sent_count": 0, "title": "Third Post", "link": "https://a.com/3", "blog_name": "Blog B"},
-        "maxed-out":  {"first_seen": now, "sent_count": 2, "title": "Old Post", "link": "https://a.com/4", "blog_name": "Blog C"},
-        "no-title":   {"first_seen": now, "sent_count": 0, "title": "", "link": "https://a.com/5", "blog_name": "Blog D"},
+    with patch.dict(os.environ, {}, clear=True):
+        hermes.send_notification(config, "Blog", entry, priority="INVALID_LEVEL")
+
+    _, kwargs = mock_post.call_args
+    assert kwargs["headers"]["Priority"] == "default"
+
+
+@patch("requests.post")
+def test_send_notification_body_includes_excerpt(mock_post):
+    """Verify the notification body includes the article excerpt."""
+    mock_post.return_value.status_code = 200
+
+    config = {"ntfy_topic": "my-topic", "ntfy_server": "https://ntfy.sh"}
+    entry = {
+        "title": "My Great Post",
+        "link": "https://example.com/post",
+        "summary": "<p>This is a really interesting summary of the post.</p>",
+    }
+
+    with patch.dict(os.environ, {}, clear=True):
+        hermes.send_notification(config, "Blog", entry)
+
+    _, kwargs = mock_post.call_args
+    body = kwargs["data"].decode("utf-8")
+    assert "My Great Post" in body
+    assert "interesting summary" in body
+
+
+# ---------------------------------------------------------------------------
+# Feed health status
+# ---------------------------------------------------------------------------
+
+
+def test_update_feed_status_success():
+    """Verify a successful fetch sets last_success and resets consecutive_failures."""
+    feed_status = {"last_updated": None, "feeds": {}}
+    hermes.update_feed_status(feed_status, "Test Blog", "https://example.com/feed", success=True, article_count=5)
+
+    entry = feed_status["feeds"]["Test Blog"]
+    assert entry["consecutive_failures"] == 0
+    assert entry["last_success"] is not None
+    assert entry["last_error"] is None
+    assert entry["article_count"] == 5
+
+
+def test_update_feed_status_failure_increments():
+    """Verify consecutive_failures increments on each failure."""
+    feed_status = {"last_updated": None, "feeds": {}}
+    hermes.update_feed_status(feed_status, "Test Blog", "https://example.com/feed", success=False, error="Timeout")
+    hermes.update_feed_status(feed_status, "Test Blog", "https://example.com/feed", success=False, error="Timeout")
+
+    entry = feed_status["feeds"]["Test Blog"]
+    assert entry["consecutive_failures"] == 2
+    assert entry["last_success"] is None
+    assert entry["last_error"] == "Timeout"
+
+
+def test_update_feed_status_recovery():
+    """Verify recovery from failures resets consecutive_failures to 0."""
+    feed_status = {"last_updated": None, "feeds": {
+        "Test Blog": {
+            "url": "https://example.com/feed",
+            "consecutive_failures": 3,
+            "last_success": None,
+            "last_error": "503",
+            "article_count": 0,
+        }
     }}
+    hermes.update_feed_status(feed_status, "Test Blog", "https://example.com/feed", success=True, article_count=10)
 
-    sent = hermes.send_throwbacks(config, seen)
-    assert 2 <= sent <= 3
-
-    # maxed-out should still be at 2
-    assert seen["articles"]["maxed-out"]["sent_count"] == 2
-    # no-title should still be at 0
-    assert seen["articles"]["no-title"]["sent_count"] == 0
+    entry = feed_status["feeds"]["Test Blog"]
+    assert entry["consecutive_failures"] == 0
+    assert entry["last_error"] is None
+    assert entry["article_count"] == 10
 
 
-def test_send_throwbacks_no_eligible():
-    """Verify no throwbacks when all articles are maxed out or have no titles."""
-    config = {"ntfy_topic": "test-topic"}
-    now = int(time.time())
-
-    seen = {"articles": {
-        "maxed": {"first_seen": now, "sent_count": 2, "title": "Post", "link": "", "blog_name": "Blog"},
-        "empty": {"first_seen": now, "sent_count": 0, "title": "", "link": "", "blog_name": "Blog"},
-    }}
-
-    sent = hermes.send_throwbacks(config, seen)
-    assert sent == 0
+def test_load_feed_status_missing(tmp_path):
+    """Verify missing feed-status.json returns a clean default structure."""
+    result = hermes.load_feed_status(str(tmp_path / "nonexistent.json"))
+    assert result == {"last_updated": None, "feeds": {}}
 
 
-# --- Main flow integration ---
+# ---------------------------------------------------------------------------
+# Main flow integration
+# ---------------------------------------------------------------------------
+
 
 @patch("hermes.fetch_feed")
 @patch("hermes.send_notification")
@@ -244,21 +376,20 @@ def test_main_first_run_populates_without_notifications(mock_notify, mock_fetch,
     seen = json.loads((tmp_path / "seen.json").read_text(encoding="utf-8"))
     assert "item-1" in seen["articles"]
     assert "item-2" in seen["articles"]
-    # First-run articles should have sent_count=0 (never notified)
-    assert seen["articles"]["item-1"]["sent_count"] == 0
     assert seen["articles"]["item-1"]["title"] == "First Post"
     assert seen["articles"]["item-1"]["blog_name"] == "Blog"
+    assert "sent_count" not in seen["articles"]["item-1"]
 
 
 @patch("hermes.fetch_feed")
 @patch("hermes.send_notification")
 def test_main_subsequent_run_notifies_only_new(mock_notify, mock_fetch, tmp_path, monkeypatch):
-    """Verify subsequent runs notify only new items and store rich metadata."""
+    """Verify subsequent runs notify only new items and store metadata correctly."""
     monkeypatch.chdir(tmp_path)
 
     now = int(time.time())
     existing = {"articles": {
-        "item-1": {"first_seen": now, "sent_count": 1, "title": "Old Post", "link": "https://example.com/1", "blog_name": "Blog"},
+        "item-1": {"first_seen": now, "title": "Old Post", "link": "https://example.com/1", "blog_name": "Blog"},
     }}
     (tmp_path / "feeds.yaml").write_text(
         "ntfy_topic: test\nfeeds:\n  - name: Blog\n    url: https://example.com/feed\n",
@@ -270,6 +401,7 @@ def test_main_subsequent_run_notifies_only_new(mock_notify, mock_fetch, tmp_path
         {"id": "item-1", "title": "Old Post", "link": "https://example.com/1"},
         {"id": "item-2", "title": "Brand New Post", "link": "https://example.com/2"},
     ]
+    mock_notify.return_value = True
 
     with pytest.raises(SystemExit) as exc_info:
         hermes.main()
@@ -282,20 +414,46 @@ def test_main_subsequent_run_notifies_only_new(mock_notify, mock_fetch, tmp_path
     seen = json.loads((tmp_path / "seen.json").read_text(encoding="utf-8"))
     assert "item-1" in seen["articles"]
     assert "item-2" in seen["articles"]
-    assert seen["articles"]["item-2"]["sent_count"] == 1
     assert seen["articles"]["item-2"]["title"] == "Brand New Post"
 
 
-@patch("hermes.send_throwbacks", return_value=3)
 @patch("hermes.fetch_feed")
 @patch("hermes.send_notification")
-def test_main_no_new_articles_triggers_throwbacks(mock_notify, mock_fetch, mock_throwback, tmp_path, monkeypatch):
-    """Verify throwbacks are triggered when no new articles are found."""
+def test_main_uses_feed_priority(mock_notify, mock_fetch, tmp_path, monkeypatch):
+    """Verify per-feed priority is passed through to send_notification."""
     monkeypatch.chdir(tmp_path)
 
     now = int(time.time())
     existing = {"articles": {
-        "item-1": {"first_seen": now, "sent_count": 1, "title": "Existing Post", "link": "https://example.com/1", "blog_name": "Blog"},
+        "item-1": {"first_seen": now, "title": "Old Post", "link": "https://example.com/1", "blog_name": "Blog"},
+    }}
+    (tmp_path / "feeds.yaml").write_text(
+        "ntfy_topic: test\nfeeds:\n  - name: Blog\n    url: https://example.com/feed\n    priority: high\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "seen.json").write_text(json.dumps(existing), encoding="utf-8")
+
+    mock_fetch.return_value = [
+        {"id": "item-2", "title": "New Post", "link": "https://example.com/2"},
+    ]
+    mock_notify.return_value = True
+
+    with pytest.raises(SystemExit):
+        hermes.main()
+
+    _, kwargs = mock_notify.call_args
+    assert kwargs.get("priority") == "high"
+
+
+@patch("hermes.fetch_feed")
+@patch("hermes.send_notification")
+def test_main_no_new_articles_no_throwback(mock_notify, mock_fetch, tmp_path, monkeypatch):
+    """Verify no throwback notifications are ever sent (feature removed)."""
+    monkeypatch.chdir(tmp_path)
+
+    now = int(time.time())
+    existing = {"articles": {
+        "item-1": {"first_seen": now, "title": "Existing Post", "link": "https://example.com/1", "blog_name": "Blog"},
     }}
     (tmp_path / "feeds.yaml").write_text(
         "ntfy_topic: test\nfeeds:\n  - name: Blog\n    url: https://example.com/feed\n",
@@ -303,7 +461,6 @@ def test_main_no_new_articles_triggers_throwbacks(mock_notify, mock_fetch, mock_
     )
     (tmp_path / "seen.json").write_text(json.dumps(existing), encoding="utf-8")
 
-    # Return only already-seen articles
     mock_fetch.return_value = [
         {"id": "item-1", "title": "Existing Post", "link": "https://example.com/1"},
     ]
@@ -312,5 +469,57 @@ def test_main_no_new_articles_triggers_throwbacks(mock_notify, mock_fetch, mock_
         hermes.main()
 
     assert exc_info.value.code == 0
-    mock_notify.assert_not_called()  # No new article notifications
-    mock_throwback.assert_called_once()  # Throwbacks triggered
+    mock_notify.assert_not_called()
+
+
+@patch("hermes.fetch_feed")
+@patch("hermes.send_notification")
+def test_main_writes_run_summary(mock_notify, mock_fetch, tmp_path, monkeypatch):
+    """Verify main() always writes a run-summary.md file."""
+    monkeypatch.chdir(tmp_path)
+
+    now = int(time.time())
+    existing = {"articles": {
+        "item-1": {"first_seen": now, "title": "Old Post", "link": "https://example.com/1", "blog_name": "Blog"},
+    }}
+    (tmp_path / "feeds.yaml").write_text(
+        "ntfy_topic: test\nfeeds:\n  - name: Blog\n    url: https://example.com/feed\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "seen.json").write_text(json.dumps(existing), encoding="utf-8")
+
+    mock_fetch.return_value = [
+        {"id": "item-2", "title": "New Post", "link": "https://example.com/2"},
+    ]
+    mock_notify.return_value = True
+
+    with pytest.raises(SystemExit):
+        hermes.main()
+
+    summary = (tmp_path / "run-summary.md").read_text(encoding="utf-8")
+    assert "Hermes Run Report" in summary
+    assert "New Post" in summary
+    assert "Blog" in summary
+
+
+@patch("hermes.fetch_feed")
+@patch("hermes.send_notification")
+def test_main_writes_feed_status(mock_notify, mock_fetch, tmp_path, monkeypatch):
+    """Verify main() persists feed-status.json after a run."""
+    monkeypatch.chdir(tmp_path)
+
+    (tmp_path / "feeds.yaml").write_text(
+        "ntfy_topic: test\nfeeds:\n  - name: Blog\n    url: https://example.com/feed\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "seen.json").write_text('{"articles": {}}', encoding="utf-8")
+
+    mock_fetch.return_value = []
+
+    with pytest.raises(SystemExit):
+        hermes.main()
+
+    status = json.loads((tmp_path / "feed-status.json").read_text(encoding="utf-8"))
+    assert "Blog" in status["feeds"]
+    assert status["feeds"]["Blog"]["consecutive_failures"] == 0
+    assert status["last_updated"] is not None

@@ -8,11 +8,14 @@ ntfy_server: "https://ntfy.sh"
 # Optional: state retention window in days. Defaults to 30 if omitted.
 max_age_days: 30
 
-# Optional: enable/disable throwback notifications when no new articles are found.
-# Defaults to true. Set to false to disable.
-throwback_enabled: true
-
 # List of feeds to monitor.
+#
+# Per-feed options:
+#   name     (required) Human-readable label shown in notifications.
+#   url      (required) RSS, Atom, or JSON Feed URL.
+#   priority (optional) ntfy notification priority.
+#              Values: "urgent" | "high" | "default" | "low" | "min"
+#              Omit to use "default" (normal sound + vibration).
 feeds:
   # --- .NET, C# Internals & Azure ---
   - name: "Gérald Barré (Meziantou)"
@@ -26,9 +29,11 @@ feeds:
 
   - name: ".NET Blog (Microsoft)"
     url: "https://devblogs.microsoft.com/dotnet/feed/"
+    priority: "low"        # High-volume official blog — deliver silently
 
   - name: "Microsoft Azure Blog"
     url: "https://azure.microsoft.com/en-us/blog/feed/"
+    priority: "low"        # High-volume official blog — deliver silently
 
   # --- Angular ---
   - name: "Netanel Basal (Angular)"
@@ -43,6 +48,7 @@ feeds:
   # --- React & Modern Web Architecture ---
   - name: "Dominik Dorfmeister (TkDodo)"
     url: "https://tkdodo.eu/blog/rss.xml"
+    priority: "high"       # Must-read — posts are rare and excellent
 
   - name: "Lee Robinson (React/Next.js)"
     url: "https://leerob.io/feed.xml"
@@ -55,6 +61,7 @@ feeds:
 
   - name: "Dan Abramov (Overreacted)"
     url: "https://overreacted.io/rss.xml"
+    priority: "high"       # Must-read — posts are rare and excellent
 
   # --- Node.js & JavaScript/TypeScript Runtimes ---
   - name: "Dr. Axel Rauschmayer (2ality)"
@@ -66,15 +73,18 @@ feeds:
   # --- OS, Linux, Systems & Database Performance ---
   - name: "Marc Brooker (AWS/Systems)"
     url: "https://brooker.co.za/blog/rss.xml"
+    priority: "high"       # Deep technical writing — never miss it
 
   - name: "Brendan Gregg (Systems Perf)"
     url: "https://www.brendangregg.com/blog/rss.xml"
 
   - name: "Julia Evans (Linux/OS)"
     url: "https://jvns.ca/atom.xml"
+    priority: "high"       # Must-read
 
   - name: "Dan Luu (Hardware/Systems)"
     url: "https://danluu.com/atom.xml"
+    priority: "high"       # Must-read
 
   - name: "Use The Index, Luke (DB Indexing)"
     url: "https://use-the-index-luke.com/blog/feed"
@@ -92,6 +102,8 @@ feeds:
   # --- Emerging Tech & Engineering Practices ---
   - name: "Simon Willison (AI/Web/SQLite)"
     url: "https://simonwillison.net/atom/everything/"
+    priority: "low"        # Very prolific — deliver silently to avoid noise
 
   - name: "The Pragmatic Engineer"
     url: "https://newsletter.pragmaticengineer.com/feed"
+    priority: "high"       # Weekly deep-dives worth reading immediately
