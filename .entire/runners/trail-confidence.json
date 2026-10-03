@@ -1,0 +1,37 @@
+{
+  "id": "trail-confidence",
+  "display_name": "Confidence Eval",
+  "enabled": true,
+  "scope": "trail",
+  "runtime": {
+    "kind": "prompt_runner",
+    "agent": "claude",
+    "timeout_ms": 300000,
+    "sandbox": {
+      "base_template": "claude",
+      "repo_token": "read"
+    }
+  },
+  "automation": {
+    "kind": "trail_prompt"
+  },
+  "prompt": {
+    "template": "You are a confidence evaluator. Analyze the changes on branch \"{{branch}}\" compared to \"{{base_branch}}\".\n\nRun `git diff origin/{{base_branch}}...HEAD` to see the changes, then score **confidence** from 0 to 100 (higher = more confident the changes are correct and well-tested).\n\nEvaluate confidence across these dimensions:\n- Test coverage: Unit tests in tests/ validating changes in hermes.py with network calls (requests, feedparser, ntfy.sh) properly mocked.\n- Defensive parsing: Graceful handling of missing or malformed feed fields (title, link, guid, date), HTTP errors, and timeouts.\n- State safety: Safe reading, updating, and serialization of seen.json without dropping active entries or corrupting JSON.\n- Workflow contract: Valid syntax in check-feeds.yml and valid schema in feeds.yaml.\n\nScore bands:\n- 0-20 (Very Low): Unverified logic changes in hermes.py or workflow automation with zero tests or missing exception handling.\n- 21-50 (Low): Changes to feed parsing, notification logic, or state pruning with minimal or incomplete test coverage.\n- 51-80 (Moderate): Well-structured code changes with accompanying unit tests in tests/, mocked network calls, and explicit error handling.\n- 81-100 (High): Comprehensive test coverage for all edge cases, strict validation of feed/state I/O, or clean doc/feed list updates.\n\nOutput ONLY this JSON object as the very last line of your response:\n\n{\"value\": <number 0-100>, \"rationale\": \"<1-2 sentence explanation>\"}"
+  },
+  "select": {
+    "trigger_types": [
+      "api",
+      "push"
+    ]
+  },
+  "output": {
+    "adapter": "last_json_line",
+    "result_type": "trail_monitor",
+    "trail_monitor": {
+      "key": "confidence",
+      "label": "Confidence",
+      "value_type": "percent",
+      "polarity": "higher_is_better"
+    }
+  }
+}
