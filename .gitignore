@@ -10,7 +10,6 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
 lib64/
 parts/
 sdist/
@@ -28,3 +27,6 @@ ENV/
 .pytest_cache/
 .coverage
 htmlcov/
+
+# Transient per-run report (piped to $GITHUB_STEP_SUMMARY, not committed)
+run-summary.md
