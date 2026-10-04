@@ -1,0 +1,25 @@
+Create a plan for this task 
+
+🌐 Web Dashboard (Planned)
+A static HTML page generated during each Actions run and deployed to GitHub Pages:
+
+Feed health status table (sourced from feed-status.json)
+Recent articles timeline (sourced from seen.json)
+Article counts per blog
+feed-status.json is designed as the primary data source for this dashboard. The schema is intentionally stable for forward compatibility.
+
+---
+
+A little note about the file layout, can we move both of the .json files into their own folder? 
+and instead can we keep the dashboard creating workflow in a different yaml file and have it as a completly different workflow which automatically gets triggered when one successful run of check-feeds.yaml gets completed?
+
+---
+
+inside `data/`
+
+---
+
+Open questions 
+- Option B
+- always
+- ship all
