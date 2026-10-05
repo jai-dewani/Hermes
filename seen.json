@@ -7428,6 +7428,12 @@
       "link": "http://brooker.co.za/blog/2026/09/28/engineering-system-one.html",
       "title": "Small Decisions: Engineering a Leading Model"
     },
+    "http://brooker.co.za/blog/2026/10/04/encoders": {
+      "blog_name": "Marc Brooker (AWS/Systems)",
+      "first_seen": 1791175143,
+      "link": "http://brooker.co.za/blog/2026/10/04/encoders.html",
+      "title": "Strands Decider: Why Not an Encoder?"
+    },
     "http://use-the-index-luke.com/blog/2017-05/new-sql-standard-oracle-122-acidrain": {
       "blog_name": "Use The Index, Luke (DB Indexing)",
       "first_seen": 1789328908,
@@ -7668,29 +7674,11 @@
       "link": "https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/",
       "title": "The Windows File Explorer replacement, File Pilot, is awesome"
     },
-    "https://azure.microsoft.com/en-us/blog/?p=53628": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1788558596,
-      "link": "https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/",
-      "title": "Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment"
-    },
-    "https://azure.microsoft.com/en-us/blog/?p=53653": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1788558596,
-      "link": "https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/",
-      "title": "How Microsoft\u2019s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop"
-    },
     "https://azure.microsoft.com/en-us/blog/?p=53717": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1789017497,
       "link": "https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/",
       "title": "Two zones or three? A design framework for zone-resilient Azure workloads"
-    },
-    "https://azure.microsoft.com/en-us/blog/?p=53730": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1788558596,
-      "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/",
-      "title": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry"
     },
     "https://azure.microsoft.com/en-us/blog/?p=53782": {
       "blog_name": "Microsoft Azure Blog",
@@ -13013,18 +13001,6 @@
       "first_seen": 1790812926,
       "link": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
       "title": "He Built This City"
-    },
-    "https://simonwillison.net/2026/Sep/4/astra-pelicans/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788571529,
-      "link": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
-      "title": "The Pelican comparison grid for Astra is pretty interesting"
-    },
-    "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788550478,
-      "link": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
-      "title": "OpenAI's rogue agents were caught communicating via public wikis"
     },
     "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
