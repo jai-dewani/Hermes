@@ -8808,6 +8808,12 @@
       "link": "https://devblogs.microsoft.com/dotnet/build-agentic-ui-blazor/",
       "title": "Build Agentic UI with the new Blazor AI components"
     },
+    "https://devblogs.microsoft.com/dotnet/?p=60962": {
+      "blog_name": ".NET Blog (Microsoft)",
+      "first_seen": 1791231906,
+      "link": "https://devblogs.microsoft.com/dotnet/testing-uwp-and-winui-3-apps-with-mstest/",
+      "title": "UWP and WinUI 3 apps: UI testing with MSTest"
+    },
     "https://heydonworks.com/article/a-double-edged-sword/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
       "first_seen": 1789328908,
@@ -10032,6 +10038,12 @@
       "link": "https://khalidabuhakmeh.com/posts/convert-a-csharp-object-to-almost-any-format/",
       "title": "Convert A C# Object To Almost Any Format"
     },
+    "https://khalidabuhakmeh.com/posts/convert-a-string-to-an-int-in-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1791231906,
+      "link": "https://khalidabuhakmeh.com/posts/convert-a-string-to-an-int-in-csharp/",
+      "title": "Convert a String to an Int in C#"
+    },
     "https://khalidabuhakmeh.com/posts/create-a-twitter-share-liquid-tag-for-jekyll/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
       "first_seen": 1790952740,
@@ -11135,6 +11147,12 @@
       "first_seen": 1790952740,
       "link": "https://khalidabuhakmeh.com/posts/programming-the-blink-1-with-c-sharp/",
       "title": "Programming The Blink(1) with C#"
+    },
+    "https://khalidabuhakmeh.com/posts/rails-developers-map-to-dotnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1791231906,
+      "link": "https://khalidabuhakmeh.com/posts/rails-developers-map-to-dotnet/",
+      "title": "Rails to ASP.NET Core: A Developer's Map"
     },
     "https://khalidabuhakmeh.com/posts/raw-sql-queries-with-ef-core-5/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
@@ -12546,6 +12564,12 @@
       "link": "https://simonwillison.net/2026/Oct/1/matthew-green/",
       "title": "Quoting Matthew Green"
     },
+    "https://simonwillison.net/2026/Oct/1/pwasm/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791231906,
+      "link": "https://simonwillison.net/2026/Oct/1/pwasm/",
+      "title": "pwasm 0.2a0"
+    },
     "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791058078,
@@ -12563,6 +12587,12 @@
       "first_seen": 1791068569,
       "link": "https://simonwillison.net/2026/Oct/3/newsletter/",
       "title": "September sponsors-only newsletter"
+    },
+    "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791231906,
+      "link": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
+      "title": "Qwen3.8 27B addition in words"
     },
     "https://simonwillison.net/2026/Sep/10/calif-research/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
@@ -12966,6 +12996,12 @@
       "link": "https://simonwillison.net/2026/Sep/28/joedaroo/",
       "title": "Quoting @joedaroo"
     },
+    "https://simonwillison.net/2026/Sep/28/llm-anthropic/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791231906,
+      "link": "https://simonwillison.net/2026/Sep/28/llm-anthropic/",
+      "title": "llm-anthropic 0.30"
+    },
     "https://simonwillison.net/2026/Sep/28/muse-ai-agent/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1790584546,
@@ -13001,12 +13037,6 @@
       "first_seen": 1790812926,
       "link": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
       "title": "He Built This City"
-    },
-    "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788624968,
-      "link": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
-      "title": "Using Blender with coding agents on macOS"
     },
     "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
