@@ -7644,6 +7644,12 @@
       "link": "https://andrewlock.net/splitting-the-netescapades-enumgenerators-packages-the-road-to-a-stable-release/",
       "title": "Splitting the NetEscapades.EnumGenerators packages: the road to a stable release"
     },
+    "https://andrewlock.net/stripping-extra-dependencies-in-.net-nativeaot-apps-using-linker-substitutions/": {
+      "blog_name": "Andrew Lock (.NET)",
+      "first_seen": 1791309821,
+      "link": "https://andrewlock.net/stripping-extra-dependencies-in-.net-nativeaot-apps-using-linker-substitutions/",
+      "title": "Stripping extra dependencies in .NET NativeAOT apps using linker substitutions"
+    },
     "https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/": {
       "blog_name": "Andrew Lock (.NET)",
       "first_seen": 1789328908,
@@ -7871,6 +7877,12 @@
       "first_seen": 1789328908,
       "link": "https://bradfrost.com/blog/post/grief-in-the-ai-age/",
       "title": "Grief in the AI Age"
+    },
+    "https://bradfrost.com/blog/post/laser-storm/": {
+      "blog_name": "Brad Frost (Design Systems)",
+      "first_seen": 1791309821,
+      "link": "https://bradfrost.com/blog/post/laser-storm/",
+      "title": "Laser Storm"
     },
     "https://bradfrost.com/blog/post/last-chance-to-get-our-courses-at-pre-release-prices/": {
       "blog_name": "Brad Frost (Design Systems)",
@@ -8813,6 +8825,12 @@
       "first_seen": 1791231906,
       "link": "https://devblogs.microsoft.com/dotnet/testing-uwp-and-winui-3-apps-with-mstest/",
       "title": "UWP and WinUI 3 apps: UI testing with MSTest"
+    },
+    "https://devblogs.microsoft.com/dotnet/?p=60983": {
+      "blog_name": ".NET Blog (Microsoft)",
+      "first_seen": 1791309821,
+      "link": "https://devblogs.microsoft.com/dotnet/faster-lighter-csharp-dev-kit/",
+      "title": "A faster, lighter C# Dev Kit"
     },
     "https://heydonworks.com/article/a-double-edged-sword/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
@@ -12180,6 +12198,12 @@
       "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-we-need-to-talk-about-migrations",
       "title": "The Pulse: We need to talk about migrations with AI"
     },
+    "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1791309821,
+      "link": "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in",
+      "title": "The state of the tech industry in 2026"
+    },
     "https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1788887512,
@@ -12599,6 +12623,12 @@
       "first_seen": 1791264307,
       "link": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
       "title": "Quoting Felix Rieseberg"
+    },
+    "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791309821,
+      "link": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
+      "title": "Scrimshaw Jukebox"
     },
     "https://simonwillison.net/2026/Sep/10/calif-research/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
@@ -13050,23 +13080,11 @@
       "link": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
       "title": "Research acceleration: The view inside OpenAI"
     },
-    "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788709647,
-      "link": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
-      "title": "The purpose of DNS is to spread scams"
-    },
     "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1788725924,
       "link": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
       "title": "There's No Limit to How Bad Code Can Get"
-    },
-    "https://simonwillison.net/2026/Sep/6/zach-kehs/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788684960,
-      "link": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
-      "title": "Quoting Zach Kehs"
     },
     "https://simonwillison.net/2026/Sep/7/creepy-crawlies/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
