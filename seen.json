@@ -12594,6 +12594,12 @@
       "link": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
       "title": "Qwen3.8 27B addition in words"
     },
+    "https://simonwillison.net/2026/Oct/5/felix-rieseberg/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791264307,
+      "link": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+      "title": "Quoting Felix Rieseberg"
+    },
     "https://simonwillison.net/2026/Sep/10/calif-research/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1789017497,
@@ -13037,12 +13043,6 @@
       "first_seen": 1790812926,
       "link": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
       "title": "He Built This City"
-    },
-    "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788653170,
-      "link": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
-      "title": "Introducing GPT-6 Astra for developers"
     },
     "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
