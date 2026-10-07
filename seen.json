@@ -7770,6 +7770,12 @@
       "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/",
       "title": "SQL Server on Azure Local is now generally available"
     },
+    "https://azure.microsoft.com/en-us/blog/?p=54330": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1791348856,
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/",
+      "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Global Industrial AIoT Platforms"
+    },
     "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1790241447,
@@ -12624,11 +12630,65 @@
       "link": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
       "title": "Quoting Felix Rieseberg"
     },
+    "https://simonwillison.net/2026/Oct/6/datasette-atom/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791348856,
+      "link": "https://simonwillison.net/2026/Oct/6/datasette-atom/",
+      "title": "datasette-atom 0.11a0"
+    },
+    "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791348856,
+      "link": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
+      "title": "Using Parseable with Datasette for OpenTelemetry traces"
+    },
+    "https://simonwillison.net/2026/Oct/6/hn-49982139/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791348856,
+      "link": "https://simonwillison.net/2026/Oct/6/hn-49982139/",
+      "title": "Mistral Large 4"
+    },
+    "https://simonwillison.net/2026/Oct/6/hn-49983751/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791348856,
+      "link": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
+      "title": "EmbeddingGemma 2"
+    },
+    "https://simonwillison.net/2026/Oct/6/le-chonk/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791348856,
+      "link": "https://simonwillison.net/2026/Oct/6/le-chonk/",
+      "title": "Introducing Mistral Large 4: Le chonk"
+    },
+    "https://simonwillison.net/2026/Oct/6/llm-mistral/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791348856,
+      "link": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
+      "title": "llm-mistral 0.16"
+    },
+    "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791348856,
+      "link": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+      "title": "llm-openai-decisions 0.1a0"
+    },
     "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791309821,
       "link": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
       "title": "Scrimshaw Jukebox"
+    },
+    "https://simonwillison.net/2026/Oct/6/victoria-kim/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791348856,
+      "link": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
+      "title": "Quoting Victoria Kim"
+    },
+    "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791348856,
+      "link": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+      "title": "OpenAI \u201crogue\u201d agent activities found on Wikimedia projects"
     },
     "https://simonwillison.net/2026/Sep/10/calif-research/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
@@ -13073,18 +13133,6 @@
       "first_seen": 1790812926,
       "link": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
       "title": "He Built This City"
-    },
-    "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788750008,
-      "link": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
-      "title": "Research acceleration: The view inside OpenAI"
-    },
-    "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788725924,
-      "link": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
-      "title": "There's No Limit to How Bad Code Can Get"
     },
     "https://simonwillison.net/2026/Sep/7/creepy-crawlies/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
