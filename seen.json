@@ -4206,6 +4206,12 @@
       "link": "https://nodejs.org/en/blog/release/v26.11.0",
       "title": "Node.js 26.11.0 (Current)"
     },
+    "/blog/release/v26.11.1?1791417386441": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1791435867,
+      "link": "https://nodejs.org/en/blog/release/v26.11.1",
+      "title": "Node.js 26.11.1 (Current)"
+    },
     "/blog/release/v26.2.0?1779282208511": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1789328908,
@@ -6419,6 +6425,12 @@
       "first_seen": 1789328908,
       "link": "https://www.meziantou.net/adding-a-clone-method-to-a-csharp-record.htm?utm_medium=social&utm_source=syndication",
       "title": "Adding a Clone method to a C# record"
+    },
+    "a98cd9bd-d1ef-4bf7-a6b8-94bfec99787e": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1791435867,
+      "link": "https://www.meziantou.net/run-temporary-containers-in-dotnet-tests-with-meziantou-framework-temporaryconta.htm?utm_medium=social&utm_source=syndication",
+      "title": "Run temporary containers in .NET tests with Meziantou.Framework.TemporaryContainers"
     },
     "b6a6bc26-85e0-4c42-8f72-f6a1d8ae6d15": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
@@ -12696,6 +12708,18 @@
       "link": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
       "title": "Anti-Patterns in Software Blogging"
     },
+    "https://simonwillison.net/2026/Oct/7/ben-affleck/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791435867,
+      "link": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
+      "title": "Quoting Ben Affleck"
+    },
+    "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791435867,
+      "link": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+      "title": "Claude Haiku 5.5"
+    },
     "https://simonwillison.net/2026/Oct/7/jake-boggan/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791398181,
@@ -12936,24 +12960,6 @@
       "link": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
       "title": "California Sea Lion, Brandt's Cormorant"
     },
-    "https://simonwillison.net/2026/Sep/2/llm-anthropic/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788825447,
-      "link": "https://simonwillison.net/2026/Sep/2/llm-anthropic/",
-      "title": "llm-anthropic 0.28"
-    },
-    "https://simonwillison.net/2026/Sep/2/llm-openrouter/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788825447,
-      "link": "https://simonwillison.net/2026/Sep/2/llm-openrouter/",
-      "title": "llm-openrouter 0.7.1"
-    },
-    "https://simonwillison.net/2026/Sep/2/llm/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788825447,
-      "link": "https://simonwillison.net/2026/Sep/2/llm/",
-      "title": "llm 0.34"
-    },
     "https://simonwillison.net/2026/Sep/20/datasette-explain/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1789944997,
@@ -13151,36 +13157,6 @@
       "first_seen": 1790812926,
       "link": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
       "title": "He Built This City"
-    },
-    "https://simonwillison.net/2026/Sep/7/creepy-crawlies/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788825447,
-      "link": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
-      "title": "Creepy crawlies"
-    },
-    "https://simonwillison.net/2026/Sep/7/equal-earth/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788818041,
-      "link": "https://simonwillison.net/2026/Sep/7/equal-earth/",
-      "title": "Mercator \u2194 Equal Earth"
-    },
-    "https://simonwillison.net/2026/Sep/7/jakub-pachocki/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788825447,
-      "link": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
-      "title": "Quoting Jakub Pachocki"
-    },
-    "https://simonwillison.net/2026/Sep/7/llm/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788839018,
-      "link": "https://simonwillison.net/2026/Sep/7/llm/",
-      "title": "llm 0.35"
-    },
-    "https://simonwillison.net/2026/Sep/7/video-compressor/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788818041,
-      "link": "https://simonwillison.net/2026/Sep/7/video-compressor/",
-      "title": "Video compressor"
     },
     "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
