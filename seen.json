@@ -7788,6 +7788,12 @@
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/",
       "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Global Industrial AIoT Platforms"
     },
+    "https://azure.microsoft.com/en-us/blog/?p=54366": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1791484515,
+      "link": "https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/",
+      "title": "AI transformation across the infrastructure lifecycle: From supply chain to fleet operations"
+    },
     "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1790241447,
@@ -12204,6 +12210,12 @@
       "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-metas-self-inflicted-resignation",
       "title": "The Pulse: Meta\u2019s self-inflicted resignation-wave"
     },
+    "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1791484515,
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
+      "title": "The Pulse: new trend of building \u201cinternal vibe-coding apps\u201d at tech companies"
+    },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-quitting-spotify-podcasts": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1789328908,
@@ -12227,12 +12239,6 @@
       "first_seen": 1791309821,
       "link": "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in",
       "title": "The state of the tech industry in 2026"
-    },
-    "https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1788887512,
-      "link": "https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews",
-      "title": "What is happening with code reviews?"
     },
     "https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets": {
       "blog_name": "The Pragmatic Engineer",

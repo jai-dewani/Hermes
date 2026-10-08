@@ -4,68 +4,68 @@
       "article_count": 10,
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-08T05:04:29Z",
+      "last_success": "2026-10-08T18:35:18Z",
       "url": "https://devblogs.microsoft.com/dotnet/feed/"
     },
     "Andrew Lock (.NET)": {
       "article_count": 25,
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-08T05:04:28Z",
+      "last_success": "2026-10-08T18:35:16Z",
       "url": "https://andrewlock.net/rss.xml"
     },
     "Angular Architects (Manfred Steyer)": {
       "article_count": 0,
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-08T05:04:30Z",
+      "last_success": "2026-10-08T18:35:19Z",
       "url": "https://www.angulararchitects.io/en/blog/feed/"
     },
     "Angular Blog (Official)": {
       "article_count": 10,
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-08T05:04:31Z",
+      "last_success": "2026-10-08T18:35:19Z",
       "url": "https://blog.angular.dev/feed"
     },
     "Brad Frost (Design Systems)": {
       "article_count": 20,
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-08T05:04:37Z",
+      "last_success": "2026-10-08T18:35:25Z",
       "url": "https://bradfrost.com/feed/"
     },
     "Brendan Gregg (Systems Perf)": {
       "article_count": 10,
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-08T05:04:35Z",
+      "last_success": "2026-10-08T18:35:22Z",
       "url": "https://www.brendangregg.com/blog/rss.xml"
     },
     "Dan Abramov (Overreacted)": {
       "article_count": 59,
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-08T05:04:32Z",
+      "last_success": "2026-10-08T18:35:20Z",
       "url": "https://overreacted.io/rss.xml"
     },
     "Dan Luu (Hardware/Systems)": {
       "article_count": 128,
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-08T05:04:36Z",
+      "last_success": "2026-10-08T18:35:24Z",
       "url": "https://danluu.com/atom.xml"
     },
     "Dominik Dorfmeister (TkDodo)": {
       "article_count": 91,
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-08T05:04:31Z",
+      "last_success": "2026-10-08T18:35:19Z",
       "url": "https://tkdodo.eu/blog/rss.xml"
     },
     "Dr. Axel Rauschmayer (2ality)": {
       "article_count": 0,
-      "consecutive_failures": 11,
+      "consecutive_failures": 12,
       "last_error": "404 Client Error: Not Found for url: https://2ality.com/feeds/posts/default",
       "last_success": null,
       "url": "https://2ality.com/feeds/posts/default"
@@ -74,33 +74,33 @@
       "article_count": 10,
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-08T05:04:27Z",
+      "last_success": "2026-10-08T18:35:15Z",
       "url": "https://www.meziantou.net/feed.rss"
     },
     "Heydon Pickering (Inclusive Design)": {
       "article_count": 113,
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-08T05:04:38Z",
+      "last_success": "2026-10-08T18:35:26Z",
       "url": "https://heydonworks.com/feed.xml"
     },
     "Julia Evans (Linux/OS)": {
       "article_count": 20,
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-08T05:04:35Z",
+      "last_success": "2026-10-08T18:35:22Z",
       "url": "https://jvns.ca/atom.xml"
     },
     "Khalid Abuhakmeh (.NET)": {
       "article_count": 20,
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-08T05:04:29Z",
+      "last_success": "2026-10-08T18:35:17Z",
       "url": "https://khalidabuhakmeh.com/feed.xml"
     },
     "Lee Robinson (React/Next.js)": {
       "article_count": 0,
-      "consecutive_failures": 11,
+      "consecutive_failures": 12,
       "last_error": "404 Client Error: Not Found for url: https://leerob.com/feed.xml",
       "last_success": null,
       "url": "https://leerob.io/feed.xml"
@@ -109,47 +109,47 @@
       "article_count": 165,
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-08T05:04:34Z",
+      "last_success": "2026-10-08T18:35:21Z",
       "url": "https://brooker.co.za/blog/rss.xml"
     },
     "Microsoft Azure Blog": {
       "article_count": 10,
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-08T05:04:30Z",
+      "last_success": "2026-10-08T18:35:18Z",
       "url": "https://azure.microsoft.com/en-us/blog/feed/"
     },
     "Nathan Curtis (Design Systems)": {
       "article_count": 10,
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-08T05:04:37Z",
+      "last_success": "2026-10-08T18:35:25Z",
       "url": "https://medium.com/feed/@nathanacurtis"
     },
     "Netanel Basal (Angular)": {
       "article_count": 1,
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-08T05:04:30Z",
+      "last_success": "2026-10-08T18:35:18Z",
       "url": "https://medium.com/feed/@netanelbasal"
     },
     "Node.js Blog (Official)": {
       "article_count": 1059,
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-08T05:04:33Z",
+      "last_success": "2026-10-08T18:35:21Z",
       "url": "https://nodejs.org/en/feed/blog.xml"
     },
     "Robin Wieruch (React/TS)": {
       "article_count": 50,
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-08T05:04:32Z",
+      "last_success": "2026-10-08T18:35:20Z",
       "url": "https://www.robinwieruch.de/index.xml"
     },
     "Shruti Kapoor (Frontend/AI)": {
       "article_count": 0,
-      "consecutive_failures": 11,
+      "consecutive_failures": 12,
       "last_error": "403 Client Error: Forbidden for url: https://shrutikapoor.substack.com/feed",
       "last_success": null,
       "url": "https://shrutikapoor.substack.com/feed"
@@ -158,23 +158,23 @@
       "article_count": 30,
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-08T05:04:38Z",
+      "last_success": "2026-10-08T18:35:26Z",
       "url": "https://simonwillison.net/atom/everything/"
     },
     "The Pragmatic Engineer": {
       "article_count": 20,
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-08T05:04:39Z",
+      "last_success": "2026-10-08T18:35:26Z",
       "url": "https://newsletter.pragmaticengineer.com/feed"
     },
     "Use The Index, Luke (DB Indexing)": {
       "article_count": 6,
       "consecutive_failures": 0,
       "last_error": null,
-      "last_success": "2026-10-08T05:04:37Z",
+      "last_success": "2026-10-08T18:35:25Z",
       "url": "https://use-the-index-luke.com/blog/feed"
     }
   },
-  "last_updated": "2026-10-08T05:04:39Z"
+  "last_updated": "2026-10-08T18:35:26Z"
 }
