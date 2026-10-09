@@ -8790,24 +8790,6 @@
       "link": "https://devblogs.microsoft.com/dotnet/unions-and-closed-hierarchies-in-aspnetcore/",
       "title": "Use C# unions and closed hierarchies in ASP.NET Core"
     },
-    "https://devblogs.microsoft.com/dotnet/?p=60745": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1788906044,
-      "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-september-2026-servicing-updates/",
-      "title": ".NET and .NET Framework September 2026 servicing releases updates"
-    },
-    "https://devblogs.microsoft.com/dotnet/?p=60748": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1788906044,
-      "link": "https://devblogs.microsoft.com/dotnet/dotnet-conf-2026-community-days-call-for-presenters/",
-      "title": ".NET Conf 2026 Community Days Call for Presenters Is Open"
-    },
-    "https://devblogs.microsoft.com/dotnet/?p=60752": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1788906044,
-      "link": "https://devblogs.microsoft.com/dotnet/dotnet-11-rc-1/",
-      "title": "Announcing .NET 11 Release Candidate 1"
-    },
     "https://devblogs.microsoft.com/dotnet/?p=60786": {
       "blog_name": ".NET Blog (Microsoft)",
       "first_seen": 1789474315,
@@ -12240,6 +12222,12 @@
       "link": "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in",
       "title": "The state of the tech industry in 2026"
     },
+    "https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1791522446,
+      "link": "https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews",
+      "title": "What is happening with code reviews?"
+    },
     "https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1790375869,
@@ -12738,6 +12726,24 @@
       "link": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
       "title": "OpenAI \u201crogue\u201d agent activities found on Wikimedia projects"
     },
+    "https://simonwillison.net/2026/Oct/8/carson-gross/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791522446,
+      "link": "https://simonwillison.net/2026/Oct/8/carson-gross/",
+      "title": "Quoting Carson Gross"
+    },
+    "https://simonwillison.net/2026/Oct/8/ttok/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791522446,
+      "link": "https://simonwillison.net/2026/Oct/8/ttok/",
+      "title": "ttok 0.4"
+    },
+    "https://simonwillison.net/2026/Oct/9/ttok/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791522446,
+      "link": "https://simonwillison.net/2026/Oct/9/ttok/",
+      "title": "ttok 1.0"
+    },
     "https://simonwillison.net/2026/Sep/10/calif-research/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1789017497,
@@ -13164,29 +13170,11 @@
       "link": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
       "title": "He Built This City"
     },
-    "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788913521,
-      "link": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
-      "title": "Introducing ChatGPT Images 2.5"
-    },
-    "https://simonwillison.net/2026/Sep/8/on-navier-stokes/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788913521,
-      "link": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
-      "title": "On the Navier\u2013Stokes Millennium Prize Problem"
-    },
     "https://simonwillison.net/2026/Sep/9/blender-viewer/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1789017497,
       "link": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
       "title": ".blend URL Viewer"
-    },
-    "https://simonwillison.net/2026/Sep/9/terence-tao/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1788929916,
-      "link": "https://simonwillison.net/2026/Sep/9/terence-tao/",
-      "title": "Quoting Terence Tao"
     },
     "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051": {
       "blog_name": "Microsoft Azure Blog",
