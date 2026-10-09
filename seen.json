@@ -4044,12 +4044,6 @@
       "link": "https://nodejs.org/en/blog/release/v24.20.0",
       "title": "Node.js 24.20.0 (LTS)"
     },
-    "/blog/release/v24.21.0?1788954920945": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1788975070,
-      "link": "https://nodejs.org/en/blog/release/v24.21.0",
-      "title": "Node.js 24.21.0 (LTS)"
-    },
     "/blog/release/v24.3.0?1750806350672": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1789328908,
@@ -4271,12 +4265,6 @@
       "first_seen": 1790419574,
       "link": "https://nodejs.org/en/blog/release/v26.8.1",
       "title": "Node.js 26.8.1 (Current)"
-    },
-    "/blog/release/v26.8.2?1788970157773": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1788975070,
-      "link": "https://nodejs.org/en/blog/release/v26.8.2",
-      "title": "Node.js 26.8.2 (Current)"
     },
     "/blog/release/v26.9.0?1789582662027": {
       "blog_name": "Node.js Blog (Official)",
@@ -7698,12 +7686,6 @@
       "link": "https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/",
       "title": "Two zones or three? A design framework for zone-resilient Azure workloads"
     },
-    "https://azure.microsoft.com/en-us/blog/?p=53782": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1788975070,
-      "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/",
-      "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery"
-    },
     "https://azure.microsoft.com/en-us/blog/?p=53814": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1789135319,
@@ -7926,12 +7908,6 @@
       "link": "https://bradfrost.com/blog/post/my-8-year-old-vibe-coded-a-video-game-about-playing-music-with-michael-mcdonald/",
       "title": "My 8-year-old vibe-coded a video game about playing music with Michael McDonald"
     },
-    "https://bradfrost.com/blog/post/our-ai-design-systems-course-is-complete/": {
-      "blog_name": "Brad Frost (Design Systems)",
-      "first_seen": 1788975070,
-      "link": "https://bradfrost.com/blog/post/our-ai-design-systems-course-is-complete/",
-      "title": "Our AI & Design Systems Course Is COMPLETE!"
-    },
     "https://bradfrost.com/blog/post/storybook-mcp-with-dominic-nguyen/": {
       "blog_name": "Brad Frost (Design Systems)",
       "first_seen": 1789328908,
@@ -8015,12 +7991,6 @@
       "first_seen": 1789328908,
       "link": "https://danluu.com/about/",
       "title": "About danluu.com"
-    },
-    "https://danluu.com/agentic-testing/": {
-      "blog_name": "Dan Luu (Hardware/Systems)",
-      "first_seen": 1788962115,
-      "link": "https://danluu.com/agentic-testing/",
-      "title": "How well do agents use test/verification techniques?"
     },
     "https://danluu.com/ai-bias/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
@@ -11940,6 +11910,12 @@
       "link": "https://medium.com/@nathanacurtis/components-as-data-2be178777f21?source=rss-799c7c7840a------2",
       "title": "Components as Data"
     },
+    "https://medium.com/p/3846cae9283a": {
+      "blog_name": "Angular Blog (Official)",
+      "first_seen": 1791569168,
+      "link": "https://blog.angular.dev/signal-value-transforms-routing-essentials-and-video-extension-with-veo-3846cae9283a?source=rss----447683c3d9a3---4",
+      "title": "Signal Value Transforms, Routing Essentials, and Video Extension with Veo! \u26a1"
+    },
     "https://medium.com/p/39ff8e0271a4": {
       "blog_name": "Angular Blog (Official)",
       "first_seen": 1790952740,
@@ -12065,12 +12041,6 @@
       "first_seen": 1789657446,
       "link": "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock",
       "title": "AI Skills with Matt Pocock"
-    },
-    "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1788975070,
-      "link": "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux",
-      "title": "Building Codex with Tibo Sottiaux"
     },
     "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam": {
       "blog_name": "The Pragmatic Engineer",
@@ -12737,6 +12707,18 @@
       "first_seen": 1791522446,
       "link": "https://simonwillison.net/2026/Oct/8/ttok/",
       "title": "ttok 0.4"
+    },
+    "https://simonwillison.net/2026/Oct/9/built-using-my-voice/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791569168,
+      "link": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+      "title": "A new feature for my blog, built using my voice"
+    },
+    "https://simonwillison.net/2026/Oct/9/matthew-green/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791569168,
+      "link": "https://simonwillison.net/2026/Oct/9/matthew-green/",
+      "title": "Quoting Matthew Green"
     },
     "https://simonwillison.net/2026/Oct/9/ttok/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
@@ -13727,6 +13709,12 @@
       "first_seen": 1789328908,
       "link": "https://tkdodo.eu/blog/zustand-and-react-context",
       "title": "Zustand and React Context"
+    },
+    "https://www.robinwieruch.de/agentic-code-review-loop/": {
+      "blog_name": "Robin Wieruch (React/TS)",
+      "first_seen": 1791569168,
+      "link": "https://www.robinwieruch.de/agentic-code-review-loop/",
+      "title": "Toward a Self-Improving Agentic Code Review Loop"
     },
     "https://www.robinwieruch.de/agentic-coding-bet-on-primitives/": {
       "blog_name": "Robin Wieruch (React/TS)",
