@@ -4044,6 +4044,12 @@
       "link": "https://nodejs.org/en/blog/release/v24.20.0",
       "title": "Node.js 24.20.0 (LTS)"
     },
+    "/blog/release/v24.21.0?1788954920945": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1791607980,
+      "link": "https://nodejs.org/en/blog/release/v24.21.0",
+      "title": "Node.js 24.21.0 (LTS)"
+    },
     "/blog/release/v24.3.0?1750806350672": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1789328908,
@@ -4265,6 +4271,12 @@
       "first_seen": 1790419574,
       "link": "https://nodejs.org/en/blog/release/v26.8.1",
       "title": "Node.js 26.8.1 (Current)"
+    },
+    "/blog/release/v26.8.2?1788970157773": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1791607980,
+      "link": "https://nodejs.org/en/blog/release/v26.8.2",
+      "title": "Node.js 26.8.2 (Current)"
     },
     "/blog/release/v26.9.0?1789582662027": {
       "blog_name": "Node.js Blog (Official)",
@@ -7908,6 +7920,12 @@
       "link": "https://bradfrost.com/blog/post/my-8-year-old-vibe-coded-a-video-game-about-playing-music-with-michael-mcdonald/",
       "title": "My 8-year-old vibe-coded a video game about playing music with Michael McDonald"
     },
+    "https://bradfrost.com/blog/post/our-ai-design-systems-course-is-complete/": {
+      "blog_name": "Brad Frost (Design Systems)",
+      "first_seen": 1791607980,
+      "link": "https://bradfrost.com/blog/post/our-ai-design-systems-course-is-complete/",
+      "title": "Our AI & Design Systems Course Is COMPLETE!"
+    },
     "https://bradfrost.com/blog/post/storybook-mcp-with-dominic-nguyen/": {
       "blog_name": "Brad Frost (Design Systems)",
       "first_seen": 1789328908,
@@ -7991,6 +8009,12 @@
       "first_seen": 1789328908,
       "link": "https://danluu.com/about/",
       "title": "About danluu.com"
+    },
+    "https://danluu.com/agentic-testing/": {
+      "blog_name": "Dan Luu (Hardware/Systems)",
+      "first_seen": 1791607980,
+      "link": "https://danluu.com/agentic-testing/",
+      "title": "How well do agents use test and verification techniques?"
     },
     "https://danluu.com/ai-bias/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
@@ -12042,6 +12066,12 @@
       "link": "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock",
       "title": "AI Skills with Matt Pocock"
     },
+    "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1791607980,
+      "link": "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux",
+      "title": "Building Codex with Tibo Sottiaux"
+    },
     "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1791398181,
@@ -12582,6 +12612,12 @@
       "link": "https://simonwillison.net/2026/Oct/1/pwasm/",
       "title": "pwasm 0.2a0"
     },
+    "https://simonwillison.net/2026/Oct/10/the-new-york-times/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791607980,
+      "link": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+      "title": "Quoting The New York Times"
+    },
     "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791058078,
@@ -12713,6 +12749,12 @@
       "first_seen": 1791569168,
       "link": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
       "title": "A new feature for my blog, built using my voice"
+    },
+    "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791607980,
+      "link": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
+      "title": "Deno is joining Cloudflare"
     },
     "https://simonwillison.net/2026/Oct/9/matthew-green/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
