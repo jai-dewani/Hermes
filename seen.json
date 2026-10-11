@@ -7932,12 +7932,6 @@
       "link": "https://bradfrost.com/links/post/backyard-designers-draft-your-dream-design-team/",
       "title": "Backyard Designers: Draft Your Dream Design Team"
     },
-    "https://bradfrost.com/links/post/code-snack/": {
-      "blog_name": "Brad Frost (Design Systems)",
-      "first_seen": 1789062102,
-      "link": "https://bradfrost.com/links/post/code-snack/",
-      "title": "Code Snack"
-    },
     "https://bradfrost.com/links/post/design-system-maturity-model-zeroheight/": {
       "blog_name": "Brad Frost (Design Systems)",
       "first_seen": 1789328908,
@@ -8765,12 +8759,6 @@
       "first_seen": 1789417469,
       "link": "https://devblogs.microsoft.com/dotnet/share-your-dotnet-story/",
       "title": "Share your .NET story with the community"
-    },
-    "https://devblogs.microsoft.com/dotnet/?p=60726": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1789062102,
-      "link": "https://devblogs.microsoft.com/dotnet/unions-and-closed-hierarchies-in-aspnetcore/",
-      "title": "Use C# unions and closed hierarchies in ASP.NET Core"
     },
     "https://devblogs.microsoft.com/dotnet/?p=60786": {
       "blog_name": ".NET Blog (Microsoft)",
@@ -12144,12 +12132,6 @@
       "link": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-five-years",
       "title": "The Pragmatic Engineer: Five years"
     },
-    "https://newsletter.pragmaticengineer.com/p/the-pulse-191-a-new-trend-of-cpu": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1789062102,
-      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-191-a-new-trend-of-cpu",
-      "title": "The Pulse #191: a new trend of CPU shortages"
-    },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1790274698,
@@ -12600,11 +12582,23 @@
       "link": "https://simonwillison.net/2026/Oct/1/pwasm/",
       "title": "pwasm 0.2a0"
     },
+    "https://simonwillison.net/2026/Oct/10/python-actions/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791693587,
+      "link": "https://simonwillison.net/2026/Oct/10/python-actions/",
+      "title": "Python 3.15.0 added to actions/python-versions"
+    },
     "https://simonwillison.net/2026/Oct/10/the-new-york-times/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791607980,
       "link": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
       "title": "Quoting The New York Times"
+    },
+    "https://simonwillison.net/2026/Oct/11/dwarf-fortress/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791693587,
+      "link": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+      "title": "Dwarf Fortress uses version control now"
     },
     "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
@@ -12755,18 +12749,6 @@
       "first_seen": 1791522446,
       "link": "https://simonwillison.net/2026/Oct/9/ttok/",
       "title": "ttok 1.0"
-    },
-    "https://simonwillison.net/2026/Sep/10/shopify-react-native/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789079691,
-      "link": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
-      "title": "Native is now the future of mobile at Shopify"
-    },
-    "https://simonwillison.net/2026/Sep/10/trynix/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789086823,
-      "link": "https://simonwillison.net/2026/Sep/10/trynix/",
-      "title": "Any Nix package, live in your browser"
     },
     "https://simonwillison.net/2026/Sep/11/boris-cherny/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
