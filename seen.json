@@ -7692,24 +7692,6 @@
       "link": "https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/",
       "title": "The Windows File Explorer replacement, File Pilot, is awesome"
     },
-    "https://azure.microsoft.com/en-us/blog/?p=53814": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1789135319,
-      "link": "https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/",
-      "title": "The future of infrastructure resiliency starts with modernization"
-    },
-    "https://azure.microsoft.com/en-us/blog/?p=53828": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1789135319,
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/",
-      "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Container Management"
-    },
-    "https://azure.microsoft.com/en-us/blog/?p=53839": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1789135319,
-      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/",
-      "title": "The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI"
-    },
     "https://azure.microsoft.com/en-us/blog/?p=53934": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1789707511,
@@ -7931,6 +7913,12 @@
       "first_seen": 1789328908,
       "link": "https://bradfrost.com/links/post/backyard-designers-draft-your-dream-design-team/",
       "title": "Backyard Designers: Draft Your Dream Design Team"
+    },
+    "https://bradfrost.com/links/post/code-snack/": {
+      "blog_name": "Brad Frost (Design Systems)",
+      "first_seen": 1791739728,
+      "link": "https://bradfrost.com/links/post/code-snack/",
+      "title": "Code Snack"
     },
     "https://bradfrost.com/links/post/design-system-maturity-model-zeroheight/": {
       "blog_name": "Brad Frost (Design Systems)",
@@ -8759,6 +8747,12 @@
       "first_seen": 1789417469,
       "link": "https://devblogs.microsoft.com/dotnet/share-your-dotnet-story/",
       "title": "Share your .NET story with the community"
+    },
+    "https://devblogs.microsoft.com/dotnet/?p=60726": {
+      "blog_name": ".NET Blog (Microsoft)",
+      "first_seen": 1791739728,
+      "link": "https://devblogs.microsoft.com/dotnet/unions-and-closed-hierarchies-in-aspnetcore/",
+      "title": "Use C# unions and closed hierarchies in ASP.NET Core"
     },
     "https://devblogs.microsoft.com/dotnet/?p=60786": {
       "blog_name": ".NET Blog (Microsoft)",
@@ -12132,6 +12126,12 @@
       "link": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-five-years",
       "title": "The Pragmatic Engineer: Five years"
     },
+    "https://newsletter.pragmaticengineer.com/p/the-pulse-191-a-new-trend-of-cpu": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1791739728,
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-191-a-new-trend-of-cpu",
+      "title": "The Pulse #191: a new trend of CPU shortages"
+    },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1790274698,
@@ -12768,12 +12768,6 @@
       "link": "https://simonwillison.net/2026/Sep/11/datasette-publish-fly/",
       "title": "datasette-publish-fly 1.4"
     },
-    "https://simonwillison.net/2026/Sep/11/datasette-security/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789103788,
-      "link": "https://simonwillison.net/2026/Sep/11/datasette-security/",
-      "title": "Datasette 1.0a39 and 0.65.4 security releases"
-    },
     "https://simonwillison.net/2026/Sep/11/datasette/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1789173524,
@@ -12809,12 +12803,6 @@
       "first_seen": 1789148685,
       "link": "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/",
       "title": "Soft-deprecating re.match()"
-    },
-    "https://simonwillison.net/2026/Sep/11/wrapture/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789135319,
-      "link": "https://simonwillison.net/2026/Sep/11/wrapture/",
-      "title": "Don't sleep on wrapture"
     },
     "https://simonwillison.net/2026/Sep/12/astra-running-routes/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
