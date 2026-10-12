@@ -12750,60 +12750,6 @@
       "link": "https://simonwillison.net/2026/Oct/9/ttok/",
       "title": "ttok 1.0"
     },
-    "https://simonwillison.net/2026/Sep/11/boris-cherny/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789157038,
-      "link": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
-      "title": "Quoting Boris Cherny"
-    },
-    "https://simonwillison.net/2026/Sep/11/datasette-2/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789173524,
-      "link": "https://simonwillison.net/2026/Sep/11/datasette-2/",
-      "title": "datasette 1.0a39"
-    },
-    "https://simonwillison.net/2026/Sep/11/datasette-publish-fly/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789173524,
-      "link": "https://simonwillison.net/2026/Sep/11/datasette-publish-fly/",
-      "title": "datasette-publish-fly 1.4"
-    },
-    "https://simonwillison.net/2026/Sep/11/datasette/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789173524,
-      "link": "https://simonwillison.net/2026/Sep/11/datasette/",
-      "title": "datasette 0.65.4"
-    },
-    "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789166077,
-      "link": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
-      "title": "Feeling sad about AI"
-    },
-    "https://simonwillison.net/2026/Sep/11/github-to-sqlite/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789173524,
-      "link": "https://simonwillison.net/2026/Sep/11/github-to-sqlite/",
-      "title": "github-to-sqlite 2.9.1"
-    },
-    "https://simonwillison.net/2026/Sep/11/hugging-face-security/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789148685,
-      "link": "https://simonwillison.net/2026/Sep/11/hugging-face-security/",
-      "title": "Quoting huggingface.co/security.txt"
-    },
-    "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789173524,
-      "link": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
-      "title": "So you want to use OpenRouter?"
-    },
-    "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789148685,
-      "link": "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/",
-      "title": "Soft-deprecating re.match()"
-    },
     "https://simonwillison.net/2026/Sep/12/astra-running-routes/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1789259728,
