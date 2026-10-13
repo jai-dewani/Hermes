@@ -9978,6 +9978,12 @@
       "link": "https://khalidabuhakmeh.com/posts/coding-the-road-runner-while-loop-meme/",
       "title": "Coding The Road Runner Loop Meme"
     },
+    "https://khalidabuhakmeh.com/posts/collection-expression-arguments-csharp-15/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1791918046,
+      "link": "https://khalidabuhakmeh.com/posts/collection-expression-arguments-csharp-15/",
+      "title": "Collection Expression Arguments Fix the Comparer Problem in C# 15"
+    },
     "https://khalidabuhakmeh.com/posts/combining-11ty-static-site-generator-with-aspnet-core/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
       "first_seen": 1790952740,
@@ -11514,6 +11520,12 @@
       "link": "https://khalidabuhakmeh.com/posts/supercharge-blogging-with-frankenblog/",
       "title": "Supercharge Blogging With .NET and Ruby Frankenblog"
     },
+    "https://khalidabuhakmeh.com/posts/swap-system-text-json-for-redox-minimal-api/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1791918046,
+      "link": "https://khalidabuhakmeh.com/posts/swap-system-text-json-for-redox-minimal-api/",
+      "title": "Swap System.Text.Json for REDox in a Minimal API"
+    },
     "https://khalidabuhakmeh.com/posts/switch-expressions-in-csharp-8/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
       "first_seen": 1790952740,
@@ -12071,6 +12083,12 @@
       "first_seen": 1791607980,
       "link": "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux",
       "title": "Building Codex with Tibo Sottiaux"
+    },
+    "https://newsletter.pragmaticengineer.com/p/building-resilient-systems": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1791918046,
+      "link": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems",
+      "title": "Building resilient AI-powered software, and planning for when things go wrong"
     },
     "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam": {
       "blog_name": "The Pragmatic Engineer",
@@ -12647,6 +12665,12 @@
       "first_seen": 1791871000,
       "link": "https://simonwillison.net/2026/Oct/12/web-edit/",
       "title": "web-edit 0.1a0"
+    },
+    "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791918046,
+      "link": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
+      "title": "Quoting Geoffrey Huntley"
     },
     "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
