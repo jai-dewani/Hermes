@@ -7764,6 +7764,12 @@
       "link": "https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/",
       "title": "AI transformation across the infrastructure lifecycle: From supply chain to fleet operations"
     },
+    "https://azure.microsoft.com/en-us/blog/?p=54429": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1791871000,
+      "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
+      "title": "Deep dive into Azure Maia 300 architecture"
+    },
     "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1790241447,
@@ -7799,6 +7805,12 @@
       "first_seen": 1790241447,
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/",
       "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Container Management"
+    },
+    "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1791871000,
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/",
+      "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Global Industrial AIoT Platforms"
     },
     "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/": {
       "blog_name": "Microsoft Azure Blog",
@@ -12630,6 +12642,12 @@
       "link": "https://simonwillison.net/2026/Oct/12/python-3-15/",
       "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11"
     },
+    "https://simonwillison.net/2026/Oct/12/web-edit/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1791871000,
+      "link": "https://simonwillison.net/2026/Oct/12/web-edit/",
+      "title": "web-edit 0.1a0"
+    },
     "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791058078,
@@ -12779,18 +12797,6 @@
       "first_seen": 1791522446,
       "link": "https://simonwillison.net/2026/Oct/9/ttok/",
       "title": "ttok 1.0"
-    },
-    "https://simonwillison.net/2026/Sep/12/astra-running-routes/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789259728,
-      "link": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
-      "title": "Generating running routes with GPT-6 Astra and ChatGPT Work"
-    },
-    "https://simonwillison.net/2026/Sep/12/sighting-399708714/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789259728,
-      "link": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
-      "title": "California Brown Pelican"
     },
     "https://simonwillison.net/2026/Sep/13/shot-scraper/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
