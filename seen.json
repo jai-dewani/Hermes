@@ -354,12 +354,6 @@
       "link": "https://nodejs.org/en/blog/events/collab-summit-2026-london",
       "title": "Trip report: Node.js collaboration summit (2026 London)"
     },
-    "/blog/events/nodejs-interactive-2026?1786665600000": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1789417469,
-      "link": "https://nodejs.org/en/blog/events/nodejs-interactive-2026",
-      "title": "Node.js Interactive 2026: A Recap"
-    },
     "/blog/feature/streams2": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1791996325,
@@ -6438,6 +6432,12 @@
       "link": "https://www.meziantou.net/generate-and-review-the-public-api-of-a-dotnet-library.htm?utm_medium=social&utm_source=syndication",
       "title": "Generate and review the public API of a .NET library"
     },
+    "d6dbd2bc-76f7-470e-8c6c-94d5e4286f8a": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1792035701,
+      "link": "https://www.meziantou.net/xpath-for-custom-types-in-dotnet.htm?utm_medium=social&utm_source=syndication",
+      "title": "XPath for custom types in .NET"
+    },
     "e6921c34-c757-4fae-a8b2-f57c738d6bc4": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1791996325,
@@ -8693,12 +8693,6 @@
       "first_seen": 1790952740,
       "link": "https://danluu.com/zitron/",
       "title": "Ed Zitron's AI prediction track record"
-    },
-    "https://devblogs.microsoft.com/dotnet/?p=60707": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1789417469,
-      "link": "https://devblogs.microsoft.com/dotnet/share-your-dotnet-story/",
-      "title": "Share your .NET story with the community"
     },
     "https://devblogs.microsoft.com/dotnet/?p=60726": {
       "blog_name": ".NET Blog (Microsoft)",
@@ -12576,6 +12570,12 @@
       "link": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
       "title": "AI is mass decompiling games. That's both awesome and scary."
     },
+    "https://simonwillison.net/2026/Oct/14/tree-appreciator/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1792035701,
+      "link": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+      "title": "Tree Appreciator"
+    },
     "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791058078,
@@ -12725,18 +12725,6 @@
       "first_seen": 1791522446,
       "link": "https://simonwillison.net/2026/Oct/9/ttok/",
       "title": "ttok 1.0"
-    },
-    "https://simonwillison.net/2026/Sep/14/influences/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789427840,
-      "link": "https://simonwillison.net/2026/Sep/14/influences/",
-      "title": "What blog posts influenced your thinking the most?"
-    },
-    "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789427840,
-      "link": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
-      "title": "The contagion of fear"
     },
     "https://simonwillison.net/2026/Sep/15/gemini-live/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
