@@ -354,6 +354,12 @@
       "link": "https://nodejs.org/en/blog/events/collab-summit-2026-london",
       "title": "Trip report: Node.js collaboration summit (2026 London)"
     },
+    "/blog/events/nodejs-interactive-2026?1786665600000": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1792081866,
+      "link": "https://nodejs.org/en/blog/events/nodejs-interactive-2026",
+      "title": "Node.js Interactive 2026: A Recap"
+    },
     "/blog/feature/streams2": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1791996325,
@@ -7638,12 +7644,6 @@
       "link": "https://andrewlock.net/stripping-extra-dependencies-in-.net-nativeaot-apps-using-linker-substitutions/",
       "title": "Stripping extra dependencies in .NET NativeAOT apps using linker substitutions"
     },
-    "https://andrewlock.net/understanding-device-bound-session-credentials/": {
-      "blog_name": "Andrew Lock (.NET)",
-      "first_seen": 1789474315,
-      "link": "https://andrewlock.net/understanding-device-bound-session-credentials/",
-      "title": "Understanding Device Bound Session Credentials (DBSC)"
-    },
     "https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/": {
       "blog_name": "Andrew Lock (.NET)",
       "first_seen": 1791996325,
@@ -8699,12 +8699,6 @@
       "first_seen": 1791739728,
       "link": "https://devblogs.microsoft.com/dotnet/unions-and-closed-hierarchies-in-aspnetcore/",
       "title": "Use C# unions and closed hierarchies in ASP.NET Core"
-    },
-    "https://devblogs.microsoft.com/dotnet/?p=60786": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1789474315,
-      "link": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
-      "title": "Performance Improvements in .NET 11"
     },
     "https://devblogs.microsoft.com/dotnet/?p=60832": {
       "blog_name": ".NET Blog (Microsoft)",
@@ -12575,6 +12569,12 @@
       "first_seen": 1792035701,
       "link": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
       "title": "Tree Appreciator"
+    },
+    "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1792081866,
+      "link": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO"
     },
     "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
