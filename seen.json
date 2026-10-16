@@ -7644,6 +7644,12 @@
       "link": "https://andrewlock.net/stripping-extra-dependencies-in-.net-nativeaot-apps-using-linker-substitutions/",
       "title": "Stripping extra dependencies in .NET NativeAOT apps using linker substitutions"
     },
+    "https://andrewlock.net/understanding-device-bound-session-credentials/": {
+      "blog_name": "Andrew Lock (.NET)",
+      "first_seen": 1792121872,
+      "link": "https://andrewlock.net/understanding-device-bound-session-credentials/",
+      "title": "Understanding Device Bound Session Credentials (DBSC)"
+    },
     "https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/": {
       "blog_name": "Andrew Lock (.NET)",
       "first_seen": 1791996325,
@@ -7739,6 +7745,18 @@
       "first_seen": 1791871000,
       "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
       "title": "Deep dive into Azure Maia 300 architecture"
+    },
+    "https://azure.microsoft.com/en-us/blog/?p=54448": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1792121872,
+      "link": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/",
+      "title": "Infrastructure for the frontier era: Scaling intelligence through open industry collaboration"
+    },
+    "https://azure.microsoft.com/en-us/blog/?p=54512": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1792121872,
+      "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/",
+      "title": "Advancing hardware security with open-source Integrated HSM technology"
     },
     "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/": {
       "blog_name": "Microsoft Azure Blog",
@@ -8759,6 +8777,12 @@
       "first_seen": 1791950371,
       "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2026-servicing-updates/",
       "title": ".NET and .NET Framework October 2026 servicing releases updates"
+    },
+    "https://devblogs.microsoft.com/dotnet/?p=61046": {
+      "blog_name": ".NET Blog (Microsoft)",
+      "first_seen": 1792121872,
+      "link": "https://devblogs.microsoft.com/dotnet/introducing-dotnetup/",
+      "title": "Introducing dotnetup: A toolchain manager for .NET"
     },
     "https://heydonworks.com/article/a-double-edged-sword/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
@@ -12018,12 +12042,6 @@
       "link": "https://newsletter.pragmaticengineer.com/p/from-chrome-devtools-to-ai-engineering",
       "title": "From Chrome DevTools to AI Engineering, with Addy Osmani"
     },
-    "https://newsletter.pragmaticengineer.com/p/openai-software-factory": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1789491593,
-      "link": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
-      "title": "Inside OpenAI\u2019s agentic software factory"
-    },
     "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1790712378,
@@ -12071,6 +12089,12 @@
       "first_seen": 1791484515,
       "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
       "title": "The Pulse: new trend of building \u201cinternal vibe-coding apps\u201d at tech companies"
+    },
+    "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1792121872,
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
+      "title": "The Pulse: OpenAI software engineer accused of spying"
     },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-tech-companies-move-to": {
       "blog_name": "The Pragmatic Engineer",
@@ -12576,6 +12600,12 @@
       "link": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
       "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO"
     },
+    "https://simonwillison.net/2026/Oct/15/chirp-pong/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1792121872,
+      "link": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+      "title": "Chirp Pong"
+    },
     "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791058078,
@@ -12725,12 +12755,6 @@
       "first_seen": 1791522446,
       "link": "https://simonwillison.net/2026/Oct/9/ttok/",
       "title": "ttok 1.0"
-    },
-    "https://simonwillison.net/2026/Sep/15/gemini-live/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789520590,
-      "link": "https://simonwillison.net/2026/Sep/15/gemini-live/",
-      "title": "Gemini Live audio"
     },
     "https://simonwillison.net/2026/Sep/16/datasette-2/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
