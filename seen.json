@@ -7758,6 +7758,12 @@
       "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/",
       "title": "Advancing hardware security with open-source Integrated HSM technology"
     },
+    "https://azure.microsoft.com/en-us/blog/?p=54576": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1792167365,
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/",
+      "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Server Virtualization Platforms"
+    },
     "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1790241447,
@@ -12041,6 +12047,12 @@
       "first_seen": 1789761195,
       "link": "https://newsletter.pragmaticengineer.com/p/from-chrome-devtools-to-ai-engineering",
       "title": "From Chrome DevTools to AI Engineering, with Addy Osmani"
+    },
+    "https://newsletter.pragmaticengineer.com/p/openai-software-factory": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1792167365,
+      "link": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
+      "title": "Inside OpenAI\u2019s agentic software factory"
     },
     "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile": {
       "blog_name": "The Pragmatic Engineer",
