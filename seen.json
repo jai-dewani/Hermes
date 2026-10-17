@@ -4290,6 +4290,12 @@
       "link": "https://nodejs.org/en/blog/release/v26.8.2",
       "title": "Node.js 26.8.2 (Current)"
     },
+    "/blog/release/v26.9.0?1789582662027": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1792249812,
+      "link": "https://nodejs.org/en/blog/release/v26.9.0",
+      "title": "Node.js 26.9.0 (Current)"
+    },
     "/blog/release/v4.0.0": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1791996325,
@@ -7775,12 +7781,6 @@
       "first_seen": 1790879453,
       "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/",
       "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents"
-    },
-    "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1789640106,
-      "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/",
-      "title": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry"
     },
     "https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/": {
       "blog_name": "Microsoft Azure Blog",
@@ -11993,12 +11993,6 @@
       "first_seen": 1791996325,
       "link": "https://medium.com/@nathanacurtis/component-contracts-and-schemas-f7c7a6651273?source=rss-799c7c7840a------2",
       "title": "Component Contracts and Schemas"
-    },
-    "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1789657446,
-      "link": "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock",
-      "title": "AI Skills with Matt Pocock"
     },
     "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux": {
       "blog_name": "The Pragmatic Engineer",
