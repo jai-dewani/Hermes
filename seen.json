@@ -4290,12 +4290,6 @@
       "link": "https://nodejs.org/en/blog/release/v26.8.2",
       "title": "Node.js 26.8.2 (Current)"
     },
-    "/blog/release/v26.9.0?1789582662027": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1789585518,
-      "link": "https://nodejs.org/en/blog/release/v26.9.0",
-      "title": "Node.js 26.9.0 (Current)"
-    },
     "/blog/release/v4.0.0": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1791996325,
@@ -8724,12 +8718,6 @@
       "link": "https://devblogs.microsoft.com/dotnet/unions-and-closed-hierarchies-in-aspnetcore/",
       "title": "Use C# unions and closed hierarchies in ASP.NET Core"
     },
-    "https://devblogs.microsoft.com/dotnet/?p=60832": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1789596589,
-      "link": "https://devblogs.microsoft.com/dotnet/build-your-own-ai-agent-harness-in-csharp-the-maf-claw-live-series/",
-      "title": "Build Your Own AI Agent Harness in C#, the MafClaw Live Series"
-    },
     "https://devblogs.microsoft.com/dotnet/?p=60868": {
       "blog_name": ".NET Blog (Microsoft)",
       "first_seen": 1790101731,
@@ -12618,6 +12606,18 @@
       "link": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
       "title": "Chirp Pong"
     },
+    "https://simonwillison.net/2026/Oct/15/latex/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1792207671,
+      "link": "https://simonwillison.net/2026/Oct/15/latex/",
+      "title": "LaTeX renderer"
+    },
+    "https://simonwillison.net/2026/Oct/16/code-review/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1792207671,
+      "link": "https://simonwillison.net/2026/Oct/16/code-review/",
+      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang"
+    },
     "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791058078,
@@ -12767,30 +12767,6 @@
       "first_seen": 1791522446,
       "link": "https://simonwillison.net/2026/Oct/9/ttok/",
       "title": "ttok 1.0"
-    },
-    "https://simonwillison.net/2026/Sep/16/datasette-2/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789605067,
-      "link": "https://simonwillison.net/2026/Sep/16/datasette-2/",
-      "title": "datasette 0.65.5"
-    },
-    "https://simonwillison.net/2026/Sep/16/datasette/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789605067,
-      "link": "https://simonwillison.net/2026/Sep/16/datasette/",
-      "title": "datasette 1.0a40"
-    },
-    "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789585518,
-      "link": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
-      "title": "Quoting Mustafa Suleyman"
-    },
-    "https://simonwillison.net/2026/Sep/16/one-claude/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789585518,
-      "link": "https://simonwillison.net/2026/Sep/16/one-claude/",
-      "title": "Claude Cowork and chat are now one Claude"
     },
     "https://simonwillison.net/2026/Sep/17/compaction-summaries/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
