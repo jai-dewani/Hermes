@@ -7668,12 +7668,6 @@
       "link": "https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/",
       "title": "The Windows File Explorer replacement, File Pilot, is awesome"
     },
-    "https://azure.microsoft.com/en-us/blog/?p=53934": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1789707511,
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
-      "title": "Microsoft recognized as a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Distributed Hybrid Infrastructure"
-    },
     "https://azure.microsoft.com/en-us/blog/?p=53956": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1790241447,
@@ -13397,6 +13391,12 @@
       "first_seen": 1791996325,
       "link": "https://tkdodo.eu/blog/refs-events-and-escape-hatches",
       "title": "Refs, Events and Escape Hatches"
+    },
+    "https://tkdodo.eu/blog/reliable-query-prefetching-with-tanstack-router": {
+      "blog_name": "Dominik Dorfmeister (TkDodo)",
+      "first_seen": 1792337557,
+      "link": "https://tkdodo.eu/blog/reliable-query-prefetching-with-tanstack-router",
+      "title": "Reliable Query Prefetching with TanStack Router"
     },
     "https://tkdodo.eu/blog/road-to-refactoring": {
       "blog_name": "Dominik Dorfmeister (TkDodo)",
