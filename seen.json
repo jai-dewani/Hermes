@@ -7758,6 +7758,12 @@
       "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/",
       "title": "Advancing hardware security with open-source Integrated HSM technology"
     },
+    "https://azure.microsoft.com/en-us/blog/?p=54554": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1792294488,
+      "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
+      "title": "Evolving the cloud-native foundation for the next generation of AI"
+    },
     "https://azure.microsoft.com/en-us/blog/?p=54576": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1792167365,
@@ -11994,6 +12000,12 @@
       "link": "https://medium.com/@nathanacurtis/component-contracts-and-schemas-f7c7a6651273?source=rss-799c7c7840a------2",
       "title": "Component Contracts and Schemas"
     },
+    "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1792294488,
+      "link": "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock",
+      "title": "AI Skills with Matt Pocock"
+    },
     "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1791607980,
@@ -12041,12 +12053,6 @@
       "first_seen": 1790712378,
       "link": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
       "title": "Why has Shopify dropped React Native?"
-    },
-    "https://newsletter.pragmaticengineer.com/p/the-great-engineering-leader-career-break": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1789682933,
-      "link": "https://newsletter.pragmaticengineer.com/p/the-great-engineering-leader-career-break",
-      "title": "Headed for the Exit: the Great Engineering Leader Career Break"
     },
     "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-five-years": {
       "blog_name": "The Pragmatic Engineer",
@@ -12612,6 +12618,18 @@
       "link": "https://simonwillison.net/2026/Oct/16/code-review/",
       "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang"
     },
+    "https://simonwillison.net/2026/Oct/17/document-currentscript/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1792294488,
+      "link": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+      "title": "Inline rendering with document\u200b.currentScript"
+    },
+    "https://simonwillison.net/2026/Oct/17/web-edit/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1792294488,
+      "link": "https://simonwillison.net/2026/Oct/17/web-edit/",
+      "title": "web-edit 0.1a2"
+    },
     "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791058078,
@@ -12762,29 +12780,11 @@
       "link": "https://simonwillison.net/2026/Oct/9/ttok/",
       "title": "ttok 1.0"
     },
-    "https://simonwillison.net/2026/Sep/17/compaction-summaries/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789682933,
-      "link": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
-      "title": "Self-generated prompt injections in compaction summaries"
-    },
     "https://simonwillison.net/2026/Sep/17/hn-49747390/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1790364279,
       "link": "https://simonwillison.net/2026/Sep/17/hn-49747390/",
       "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint"
-    },
-    "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789690644,
-      "link": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
-      "title": "How To Write With An LLM"
-    },
-    "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789690644,
-      "link": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
-      "title": "Be alert: targeted attacks on prominent Rustaceans"
     },
     "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
@@ -13397,12 +13397,6 @@
       "first_seen": 1791996325,
       "link": "https://tkdodo.eu/blog/refs-events-and-escape-hatches",
       "title": "Refs, Events and Escape Hatches"
-    },
-    "https://tkdodo.eu/blog/reliable-query-prefetching-with-tanstack-router": {
-      "blog_name": "Dominik Dorfmeister (TkDodo)",
-      "first_seen": 1789671668,
-      "link": "https://tkdodo.eu/blog/reliable-query-prefetching-with-tanstack-router",
-      "title": "Reliable Query Prefetching with TanStack Router"
     },
     "https://tkdodo.eu/blog/road-to-refactoring": {
       "blog_name": "Dominik Dorfmeister (TkDodo)",
