@@ -7764,6 +7764,18 @@
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/",
       "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Server Virtualization Platforms"
     },
+    "https://azure.microsoft.com/en-us/blog/?p=54636": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1792468567,
+      "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
+      "title": "Designing for sovereign AI: A shared foundation from edge to cloud"
+    },
+    "https://azure.microsoft.com/en-us/blog/?p=54665": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1792468567,
+      "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/",
+      "title": "Managing open-weight model risk in enterprise deployments"
+    },
     "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1790241447,
@@ -12102,12 +12114,6 @@
       "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-tech-companies-move-to",
       "title": "The Pulse: tech companies move to open AI models"
     },
-    "https://newsletter.pragmaticengineer.com/p/the-pulse-we-need-to-talk-about-migrations": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1789852572,
-      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-we-need-to-talk-about-migrations",
-      "title": "The Pulse: We need to talk about migrations with AI"
-    },
     "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1791309821,
@@ -12642,6 +12648,12 @@
       "link": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
       "title": "llm-tools-datasette 0.1.1"
     },
+    "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1792468567,
+      "link": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+      "title": "My obituary for programming"
+    },
     "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791058078,
@@ -12797,12 +12809,6 @@
       "first_seen": 1790364279,
       "link": "https://simonwillison.net/2026/Sep/17/hn-49747390/",
       "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint"
-    },
-    "https://simonwillison.net/2026/Sep/19/datasette-auth-github/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789859917,
-      "link": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
-      "title": "datasette-auth-github 1.0"
     },
     "https://simonwillison.net/2026/Sep/20/datasette-explain/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
