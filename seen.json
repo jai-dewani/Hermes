@@ -6414,12 +6414,6 @@
       "link": "https://www.meziantou.net/adding-jsonpath-support-to-custom-object-models-in-dotnet.htm?utm_medium=social&utm_source=syndication",
       "title": "Adding JsonPath support to custom object models in .NET"
     },
-    "a013cf7e-2dac-4727-9240-74fa2f79697f": {
-      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
-      "first_seen": 1789917796,
-      "link": "https://www.meziantou.net/querying-roslyn-syntax-trees-with-xpath.htm?utm_medium=social&utm_source=syndication",
-      "title": "Querying Roslyn syntax trees with XPath"
-    },
     "a5db1822-ce6a-42d0-9ab9-e83d093d66dc": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1791996325,
@@ -7517,6 +7511,12 @@
       "first_seen": 1791996325,
       "link": "http://www.brendangregg.com/blog//2026-02-07/why-i-joined-openai.html",
       "title": "Why I joined OpenAI"
+    },
+    "https://andrewlock.net/an-introduction-to-compact-binary-object-notation-in-dotnet/": {
+      "blog_name": "Andrew Lock (.NET)",
+      "first_seen": 1792513868,
+      "link": "https://andrewlock.net/an-introduction-to-compact-binary-object-notation-in-dotnet/",
+      "title": "An introduction to Compact Binary Object Notation (CBOR) in .NET"
     },
     "https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/": {
       "blog_name": "Andrew Lock (.NET)",
@@ -10961,6 +10961,12 @@
       "first_seen": 1790952740,
       "link": "https://khalidabuhakmeh.com/posts/middlewarebuilder-for-asp-net-core-1-0-rc2/",
       "title": "MiddlewareBuilder For ASP.NET Core 1.0 RC2"
+    },
+    "https://khalidabuhakmeh.com/posts/minimal-api-validation-localization/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1792513868,
+      "link": "https://khalidabuhakmeh.com/posts/minimal-api-validation-localization/",
+      "title": "Localize Minimal API Validation Messages in .NET 11"
     },
     "https://khalidabuhakmeh.com/posts/minimal-api-validation-with-fluentvalidation/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
