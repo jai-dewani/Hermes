@@ -6414,6 +6414,12 @@
       "link": "https://www.meziantou.net/adding-jsonpath-support-to-custom-object-models-in-dotnet.htm?utm_medium=social&utm_source=syndication",
       "title": "Adding JsonPath support to custom object models in .NET"
     },
+    "a013cf7e-2dac-4727-9240-74fa2f79697f": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1792554360,
+      "link": "https://www.meziantou.net/querying-roslyn-syntax-trees-with-xpath.htm?utm_medium=social&utm_source=syndication",
+      "title": "Querying Roslyn syntax trees with XPath"
+    },
     "a5db1822-ce6a-42d0-9ab9-e83d093d66dc": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1791996325,
@@ -7776,11 +7782,23 @@
       "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/",
       "title": "Managing open-weight model risk in enterprise deployments"
     },
+    "https://azure.microsoft.com/en-us/blog/?p=54703": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1792554360,
+      "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+      "title": "Advancing digital sovereignty with greater control and choice"
+    },
     "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1790241447,
       "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/",
       "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery"
+    },
+    "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1792554360,
+      "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
+      "title": "Deep dive into Azure Maia 300 architecture"
     },
     "https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/": {
       "blog_name": "Microsoft Azure Blog",
@@ -7931,12 +7949,6 @@
       "first_seen": 1791996325,
       "link": "https://bradfrost.com/links/post/just-you-wait-by-chris-shiflett/",
       "title": "Just You Wait, by Chris Shiflett"
-    },
-    "https://bradfrost.com/links/post/periodic-table-of-html-elements/": {
-      "blog_name": "Brad Frost (Design Systems)",
-      "first_seen": 1789944997,
-      "link": "https://bradfrost.com/links/post/periodic-table-of-html-elements/",
-      "title": "Periodic Table of HTML Elements"
     },
     "https://bradfrost.com/links/post/poetic-css/": {
       "blog_name": "Brad Frost (Design Systems)",
@@ -12138,6 +12150,12 @@
       "link": "https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews",
       "title": "What is happening with code reviews?"
     },
+    "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1792554360,
+      "link": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
+      "title": "What\u2019s the ROI of software engineers\u2019 spending on AI?"
+    },
     "https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1790375869,
@@ -12666,6 +12684,18 @@
       "link": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
       "title": "Rex's Dino Store"
     },
+    "https://simonwillison.net/2026/Oct/20/battledrones/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1792554360,
+      "link": "https://simonwillison.net/2026/Oct/20/battledrones/",
+      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer"
+    },
+    "https://simonwillison.net/2026/Oct/20/emudhra-certificates/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1792554360,
+      "link": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+      "title": "eMudhra Intermediate CA Compromise"
+    },
     "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791081483,
@@ -12816,29 +12846,11 @@
       "link": "https://simonwillison.net/2026/Sep/17/hn-49747390/",
       "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint"
     },
-    "https://simonwillison.net/2026/Sep/20/datasette-explain/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789944997,
-      "link": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
-      "title": "datasette-explain 0.2.2"
-    },
     "https://simonwillison.net/2026/Sep/20/hn-49779718/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1790026863,
       "link": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
       "title": "MCP was always a bad idea?"
-    },
-    "https://simonwillison.net/2026/Sep/20/llm-keys-ui/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789944997,
-      "link": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
-      "title": "llm-keys-ui 0.1"
-    },
-    "https://simonwillison.net/2026/Sep/20/voxium/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1789944997,
-      "link": "https://simonwillison.net/2026/Sep/20/voxium/",
-      "title": "Quoting voxium"
     },
     "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
@@ -13139,6 +13151,12 @@
       "first_seen": 1791996325,
       "link": "https://tkdodo.eu/blog/creating-query-abstractions",
       "title": "Creating Query Abstractions"
+    },
+    "https://tkdodo.eu/blog/dead-code-shouldnt-exist": {
+      "blog_name": "Dominik Dorfmeister (TkDodo)",
+      "first_seen": 1792554360,
+      "link": "https://tkdodo.eu/blog/dead-code-shouldnt-exist",
+      "title": "Dead Code Shouldn't Exist"
     },
     "https://tkdodo.eu/blog/deriving-client-state-from-server-state": {
       "blog_name": "Dominik Dorfmeister (TkDodo)",
