@@ -3786,6 +3786,12 @@
       "link": "https://nodejs.org/en/blog/release/v22.23.3",
       "title": "Node.js 22.23.3 (LTS)"
     },
+    "/blog/release/v22.23.4?1792579152420": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1792601311,
+      "link": "https://nodejs.org/en/blog/release/v22.23.4",
+      "title": "Node.js 22.23.4 (LTS)"
+    },
     "/blog/release/v22.3.0": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1791996325,
@@ -4056,6 +4062,12 @@
       "link": "https://nodejs.org/en/blog/release/v24.22.0",
       "title": "Node.js 24.22.0 (LTS)"
     },
+    "/blog/release/v24.22.1?1792579154786": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1792601311,
+      "link": "https://nodejs.org/en/blog/release/v24.22.1",
+      "title": "Node.js 24.22.1 (LTS)"
+    },
     "/blog/release/v24.3.0?1750806350672": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1791996325,
@@ -4223,6 +4235,12 @@
       "first_seen": 1791996325,
       "link": "https://nodejs.org/en/blog/release/v26.12.0",
       "title": "Node.js 26.12.0 (Current)"
+    },
+    "/blog/release/v26.12.1?1792579160400": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1792601311,
+      "link": "https://nodejs.org/en/blog/release/v26.12.1",
+      "title": "Node.js 26.12.1 (Current)"
     },
     "/blog/release/v26.2.0?1779282208511": {
       "blog_name": "Node.js Blog (Official)",
@@ -5817,6 +5835,12 @@
     "/blog/vulnerability/october-2026-security-releases?1791946800000": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1791996325,
+      "link": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+      "title": "Wednesday, October 21, 2026 Security Releases"
+    },
+    "/blog/vulnerability/october-2026-security-releases?1792620000000": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1792601311,
       "link": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
       "title": "Wednesday, October 21, 2026 Security Releases"
     },
@@ -7949,6 +7973,12 @@
       "first_seen": 1791996325,
       "link": "https://bradfrost.com/links/post/just-you-wait-by-chris-shiflett/",
       "title": "Just You Wait, by Chris Shiflett"
+    },
+    "https://bradfrost.com/links/post/periodic-table-of-html-elements/": {
+      "blog_name": "Brad Frost (Design Systems)",
+      "first_seen": 1792601311,
+      "link": "https://bradfrost.com/links/post/periodic-table-of-html-elements/",
+      "title": "Periodic Table of HTML Elements"
     },
     "https://bradfrost.com/links/post/poetic-css/": {
       "blog_name": "Brad Frost (Design Systems)",
@@ -12648,6 +12678,12 @@
       "link": "https://simonwillison.net/2026/Oct/16/code-review/",
       "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang"
     },
+    "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1792601311,
+      "link": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/",
+      "title": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust"
+    },
     "https://simonwillison.net/2026/Oct/17/document-currentscript/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1792294488,
@@ -12695,6 +12731,12 @@
       "first_seen": 1792554360,
       "link": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
       "title": "eMudhra Intermediate CA Compromise"
+    },
+    "https://simonwillison.net/2026/Oct/21/panache/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1792601311,
+      "link": "https://simonwillison.net/2026/Oct/21/panache/",
+      "title": "Panache \u2014 RTS Belle \u00c9poque pour mobile"
     },
     "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
@@ -13865,6 +13907,12 @@
       "first_seen": 1791996325,
       "link": "https://www.robinwieruch.de/react-trends/",
       "title": "React Trends in 2025"
+    },
+    "https://www.robinwieruch.de/testing-ai-generated-code/": {
+      "blog_name": "Robin Wieruch (React/TS)",
+      "first_seen": 1792601311,
+      "link": "https://www.robinwieruch.de/testing-ai-generated-code/",
+      "title": "Testing AI-Generated Code: Lint the Pattern, Test the Decision"
     },
     "https://www.robinwieruch.de/typescript-monorepo-resource-names/": {
       "blog_name": "Robin Wieruch (React/TS)",
