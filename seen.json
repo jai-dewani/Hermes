@@ -4212,12 +4212,6 @@
       "link": "https://nodejs.org/en/blog/release/v26.1.0",
       "title": "Node.js 26.1.0 (Current)"
     },
-    "/blog/release/v26.10.0?1790067829095": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1790071310,
-      "link": "https://nodejs.org/en/blog/release/v26.10.0",
-      "title": "Node.js 26.10.0 (Current)"
-    },
     "/blog/release/v26.11.0?1791384309757": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1791398181,
@@ -6426,6 +6420,12 @@
       "link": "https://www.meziantou.net/limit-what-nuget-packages-can-do-in-your-project.htm?utm_medium=social&utm_source=syndication",
       "title": "Limit what NuGet packages can do in your project"
     },
+    "5ea8dd48-6ec5-476d-8d39-b9dce811bcc7": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1792687718,
+      "link": "https://www.meziantou.net/using-jsonpath-with-system-text-json-to-query-json-in-dotnet.htm?utm_medium=social&utm_source=syndication",
+      "title": "Using JsonPath with System.Text.Json to query JSON in .NET"
+    },
     "79429f3e-7781-4012-9f75-ec73b0e98437": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1790614861,
@@ -7608,12 +7608,6 @@
       "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-7-the-pain-of-serializing-unions-and-closed-class-hierarchies-with-system-text-json/",
       "title": "The pain of serializing unions and closed class hierarchies with System.Text.Json: Exploring the .NET 11 preview - Part 7"
     },
-    "https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/": {
-      "blog_name": "Andrew Lock (.NET)",
-      "first_seen": 1790088746,
-      "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/",
-      "title": "Experimental support for Device Bound Session Credentials (DBSC) in ASP.NET Core: Exploring the .NET 11 preview - Part 8"
-    },
     "https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/": {
       "blog_name": "Andrew Lock (.NET)",
       "first_seen": 1790274698,
@@ -8525,6 +8519,12 @@
       "first_seen": 1791996325,
       "link": "https://danluu.com/percentile-latency/",
       "title": "Goodhearting IQ, cholesterol, and tail latency"
+    },
+    "https://danluu.com/perf-opt/": {
+      "blog_name": "Dan Luu (Hardware/Systems)",
+      "first_seen": 1792687718,
+      "link": "https://danluu.com/perf-opt/",
+      "title": "There's no reason for software to be slow anymore"
     },
     "https://danluu.com/perf-tracing/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
@@ -12114,6 +12114,12 @@
       "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-191-a-new-trend-of-cpu",
       "title": "The Pulse #191: a new trend of CPU shortages"
     },
+    "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1792687718,
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software",
+      "title": "The Pulse: Time to rethink software security because of AI?"
+    },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1790274698,
@@ -12737,6 +12743,12 @@
       "first_seen": 1792640739,
       "link": "https://simonwillison.net/2026/Oct/21/php-security-release/",
       "title": "Today's PHP Security Release, and How We're Strengthening PHP Security"
+    },
+    "https://simonwillison.net/2026/Oct/22/armin-ronacher/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1792687718,
+      "link": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
+      "title": "Quoting Armin Ronacher"
     },
     "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
