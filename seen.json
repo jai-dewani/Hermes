@@ -6426,12 +6426,6 @@
       "link": "https://www.meziantou.net/limit-what-nuget-packages-can-do-in-your-project.htm?utm_medium=social&utm_source=syndication",
       "title": "Limit what NuGet packages can do in your project"
     },
-    "5ea8dd48-6ec5-476d-8d39-b9dce811bcc7": {
-      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
-      "first_seen": 1790013294,
-      "link": "https://www.meziantou.net/using-jsonpath-with-system-text-json-to-query-json-in-dotnet.htm?utm_medium=social&utm_source=syndication",
-      "title": "Using JsonPath with System.Text.Json to query JSON in .NET"
-    },
     "79429f3e-7781-4012-9f75-ec73b0e98437": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1790614861,
@@ -8531,12 +8525,6 @@
       "first_seen": 1791996325,
       "link": "https://danluu.com/percentile-latency/",
       "title": "Goodhearting IQ, cholesterol, and tail latency"
-    },
-    "https://danluu.com/perf-opt/": {
-      "blog_name": "Dan Luu (Hardware/Systems)",
-      "first_seen": 1790026863,
-      "link": "https://danluu.com/perf-opt/",
-      "title": "There's no reason for software to be slow anymore"
     },
     "https://danluu.com/perf-tracing/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
@@ -12162,6 +12150,12 @@
       "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-tech-companies-move-to",
       "title": "The Pulse: tech companies move to open AI models"
     },
+    "https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1792640739,
+      "link": "https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering",
+      "title": "The revised rules of engineering management with Will Larson"
+    },
     "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1791309821,
@@ -12738,6 +12732,12 @@
       "link": "https://simonwillison.net/2026/Oct/21/panache/",
       "title": "Panache \u2014 RTS Belle \u00c9poque pour mobile"
     },
+    "https://simonwillison.net/2026/Oct/21/php-security-release/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1792640739,
+      "link": "https://simonwillison.net/2026/Oct/21/php-security-release/",
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security"
+    },
     "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791081483,
@@ -12887,24 +12887,6 @@
       "first_seen": 1790364279,
       "link": "https://simonwillison.net/2026/Sep/17/hn-49747390/",
       "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint"
-    },
-    "https://simonwillison.net/2026/Sep/20/hn-49779718/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1790026863,
-      "link": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
-      "title": "MCP was always a bad idea?"
-    },
-    "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1790036250,
-      "link": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
-      "title": "Cloudflare Python Workers are now generally available"
-    },
-    "https://simonwillison.net/2026/Sep/21/jev/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1790036250,
-      "link": "https://simonwillison.net/2026/Sep/21/jev/",
-      "title": "Jev introduces a new shape of LLM - System One, aka Decision Models"
     },
     "https://simonwillison.net/2026/Sep/22/llm-anthropic/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
