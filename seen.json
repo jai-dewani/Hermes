@@ -7464,6 +7464,12 @@
       "link": "http://brooker.co.za/blog/2026/10/04/encoders.html",
       "title": "Strands Decider: Why Not an Encoder?"
     },
+    "http://brooker.co.za/blog/2026/10/23/animations": {
+      "blog_name": "Marc Brooker (AWS/Systems)",
+      "first_seen": 1792773605,
+      "link": "http://brooker.co.za/blog/2026/10/23/animations.html",
+      "title": "Animations for System Builders: Metastability and Lost Writes"
+    },
     "http://use-the-index-luke.com/blog/2017-05/new-sql-standard-oracle-122-acidrain": {
       "blog_name": "Use The Index, Luke (DB Indexing)",
       "first_seen": 1791996325,
@@ -7710,23 +7716,11 @@
       "link": "https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/",
       "title": "Designing agent-first platforms: What changes when agents do the work"
     },
-    "https://azure.microsoft.com/en-us/blog/?p=54001": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1790171505,
-      "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/",
-      "title": "GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry"
-    },
     "https://azure.microsoft.com/en-us/blog/?p=54013": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1790401766,
       "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
       "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization"
-    },
-    "https://azure.microsoft.com/en-us/blog/?p=54023": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1790171505,
-      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051",
-      "title": "Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work"
     },
     "https://azure.microsoft.com/en-us/blog/?p=54069": {
       "blog_name": "Microsoft Azure Blog",
@@ -11994,6 +11988,12 @@
       "link": "https://medium.com/@nathanacurtis/figma-slots-for-repeating-items-64b28e35f56a?source=rss-799c7c7840a------2",
       "title": "Figma Slots for Repeating Items"
     },
+    "https://medium.com/p/67513b4b85e1": {
+      "blog_name": "Angular Blog (Official)",
+      "first_seen": 1792773605,
+      "link": "https://blog.angular.dev/from-running-edge-rendered-angular-apps-on-cloudflare-workers-to-crafting-lifelike-speech-with-67513b4b85e1?source=rss----447683c3d9a3---4",
+      "title": "From running edge-rendered Angular apps on Cloudflare Workers to crafting lifelike speech with\u2026"
+    },
     "https://medium.com/p/6e3f43f52450": {
       "blog_name": "Nathan Curtis (Design Systems)",
       "first_seen": 1791996325,
@@ -12209,6 +12209,12 @@
       "first_seen": 1790286541,
       "link": "https://newsletter.pragmaticengineer.com/p/why-ramp-built-inspect",
       "title": "Why Ramp built its own in-house coding agent, Inspect"
+    },
+    "https://newsletter.pragmaticengineer.com/p/windows-and-ai": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1792773605,
+      "link": "https://newsletter.pragmaticengineer.com/p/windows-and-ai",
+      "title": "How will AI change operating systems? Part 2: Windows"
     },
     "https://overreacted.io/a-chain-reaction/": {
       "blog_name": "Dan Abramov (Overreacted)",
