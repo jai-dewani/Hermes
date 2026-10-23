@@ -4212,6 +4212,12 @@
       "link": "https://nodejs.org/en/blog/release/v26.1.0",
       "title": "Node.js 26.1.0 (Current)"
     },
+    "/blog/release/v26.10.0?1790067829095": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1792727397,
+      "link": "https://nodejs.org/en/blog/release/v26.10.0",
+      "title": "Node.js 26.10.0 (Current)"
+    },
     "/blog/release/v26.11.0?1791384309757": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1791398181,
@@ -7608,6 +7614,12 @@
       "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-7-the-pain-of-serializing-unions-and-closed-class-hierarchies-with-system-text-json/",
       "title": "The pain of serializing unions and closed class hierarchies with System.Text.Json: Exploring the .NET 11 preview - Part 7"
     },
+    "https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/": {
+      "blog_name": "Andrew Lock (.NET)",
+      "first_seen": 1792727397,
+      "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/",
+      "title": "Experimental support for Device Bound Session Credentials (DBSC) in ASP.NET Core: Exploring the .NET 11 preview - Part 8"
+    },
     "https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/": {
       "blog_name": "Andrew Lock (.NET)",
       "first_seen": 1790274698,
@@ -7817,6 +7829,12 @@
       "first_seen": 1791058078,
       "link": "https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/",
       "title": "Enhancing Microsoft Azure Virtual Machine lifecycle"
+    },
+    "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1792727397,
+      "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
+      "title": "Evolving the cloud-native foundation for the next generation of AI"
     },
     "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/": {
       "blog_name": "Microsoft Azure Blog",
@@ -8759,12 +8777,6 @@
       "first_seen": 1791739728,
       "link": "https://devblogs.microsoft.com/dotnet/unions-and-closed-hierarchies-in-aspnetcore/",
       "title": "Use C# unions and closed hierarchies in ASP.NET Core"
-    },
-    "https://devblogs.microsoft.com/dotnet/?p=60868": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1790101731,
-      "link": "https://devblogs.microsoft.com/dotnet/creating-a-memory-dump-in-csharp/",
-      "title": "Creating a memory dump in C#"
     },
     "https://devblogs.microsoft.com/dotnet/?p=60881": {
       "blog_name": ".NET Blog (Microsoft)",
@@ -12198,12 +12210,6 @@
       "link": "https://newsletter.pragmaticengineer.com/p/why-ramp-built-inspect",
       "title": "Why Ramp built its own in-house coding agent, Inspect"
     },
-    "https://newsletter.pragmaticengineer.com/p/windows-and-ai": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1790101731,
-      "link": "https://newsletter.pragmaticengineer.com/p/windows-and-ai",
-      "title": "How will AI change operating systems? Part 2: Windows"
-    },
     "https://overreacted.io/a-chain-reaction/": {
       "blog_name": "Dan Abramov (Overreacted)",
       "first_seen": 1791996325,
@@ -12750,6 +12756,18 @@
       "link": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
       "title": "Quoting Armin Ronacher"
     },
+    "https://simonwillison.net/2026/Oct/22/de-staat-freedom/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1792727397,
+      "link": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+      "title": "DE STAAT - FREEDOM (Official Music Video)"
+    },
+    "https://simonwillison.net/2026/Oct/22/donating-agent-skills/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1792727397,
+      "link": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+      "title": "Donating Agent Skills to the Agentic AI Foundation"
+    },
     "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791081483,
@@ -12899,42 +12917,6 @@
       "first_seen": 1790364279,
       "link": "https://simonwillison.net/2026/Sep/17/hn-49747390/",
       "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint"
-    },
-    "https://simonwillison.net/2026/Sep/22/llm-anthropic/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1790133099,
-      "link": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
-      "title": "llm-anthropic 0.29"
-    },
-    "https://simonwillison.net/2026/Sep/22/llm-typesafe/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1790101731,
-      "link": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
-      "title": "llm-typesafe 0.1a0"
-    },
-    "https://simonwillison.net/2026/Sep/22/llm/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1790133099,
-      "link": "https://simonwillison.net/2026/Sep/22/llm/",
-      "title": "llm 0.36"
-    },
-    "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1790120973,
-      "link": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
-      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war"
-    },
-    "https://simonwillison.net/2026/Sep/22/therealcornpop/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1790101731,
-      "link": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
-      "title": "Quoting @therealcornpop"
-    },
-    "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1790133099,
-      "link": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
-      "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering"
     },
     "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
