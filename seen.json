@@ -3780,12 +3780,6 @@
       "link": "https://nodejs.org/en/blog/release/v22.23.2",
       "title": "Node.js 22.23.2 (LTS)"
     },
-    "/blog/release/v22.23.3?1790187760940": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1790199159,
-      "link": "https://nodejs.org/en/blog/release/v22.23.3",
-      "title": "Node.js 22.23.3 (LTS)"
-    },
     "/blog/release/v22.23.4?1792579152420": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1792601311,
@@ -6420,12 +6414,6 @@
       "link": "https://www.meziantou.net/snapshot-testing-in-dotnet-with-meziantou-framework-snapshottesting.htm?utm_medium=social&utm_source=syndication",
       "title": "Snapshot testing in .NET with Meziantou.Framework.SnapshotTesting"
     },
-    "3453480d-0f10-47ad-9129-1e8c264e2da3": {
-      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
-      "first_seen": 1790187246,
-      "link": "https://www.meziantou.net/limit-what-nuget-packages-can-do-in-your-project.htm?utm_medium=social&utm_source=syndication",
-      "title": "Limit what NuGet packages can do in your project"
-    },
     "5ea8dd48-6ec5-476d-8d39-b9dce811bcc7": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1792687718,
@@ -7920,12 +7908,6 @@
       "link": "https://bradfrost.com/blog/post/laser-storm/",
       "title": "Laser Storm"
     },
-    "https://bradfrost.com/blog/post/last-chance-to-get-our-courses-at-pre-release-prices/": {
-      "blog_name": "Brad Frost (Design Systems)",
-      "first_seen": 1790207877,
-      "link": "https://bradfrost.com/blog/post/last-chance-to-get-our-courses-at-pre-release-prices/",
-      "title": "Last chance to get our courses at pre-release prices!"
-    },
     "https://bradfrost.com/blog/post/mouth-coding/": {
       "blog_name": "Brad Frost (Design Systems)",
       "first_seen": 1791996325,
@@ -8771,12 +8753,6 @@
       "first_seen": 1791739728,
       "link": "https://devblogs.microsoft.com/dotnet/unions-and-closed-hierarchies-in-aspnetcore/",
       "title": "Use C# unions and closed hierarchies in ASP.NET Core"
-    },
-    "https://devblogs.microsoft.com/dotnet/?p=60881": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1790199159,
-      "link": "https://devblogs.microsoft.com/dotnet/microsoft-author-signing-certificate-update-2026/",
-      "title": "Microsoft is updating its author-signing certificate starting September 23, 2026"
     },
     "https://devblogs.microsoft.com/dotnet/?p=60885": {
       "blog_name": ".NET Blog (Microsoft)",
@@ -12090,12 +12066,6 @@
       "link": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
       "title": "Building resilient systems with Sam Newman"
     },
-    "https://newsletter.pragmaticengineer.com/p/design-engineering-with-maggie-appleton": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1790187246,
-      "link": "https://newsletter.pragmaticengineer.com/p/design-engineering-with-maggie-appleton",
-      "title": "Design Engineering with Maggie Appleton"
-    },
     "https://newsletter.pragmaticengineer.com/p/distributed-databases-with-peter": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1790799504,
@@ -12774,6 +12744,18 @@
       "link": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
       "title": "Donating Agent Skills to the Agentic AI Foundation"
     },
+    "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1792813456,
+      "link": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+      "title": "Introducing Kimi K3.1 Pro"
+    },
+    "https://simonwillison.net/2026/Oct/23/quick-study-painter/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1792813456,
+      "link": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+      "title": "Quick Study"
+    },
     "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791081483,
@@ -12924,23 +12906,11 @@
       "link": "https://simonwillison.net/2026/Sep/17/hn-49747390/",
       "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint"
     },
-    "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1790199159,
-      "link": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
-      "title": "Gemini 3.8 TTS Playground"
-    },
     "https://simonwillison.net/2026/Sep/23/hn-49823961/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1790584546,
       "link": "https://simonwillison.net/2026/Sep/23/hn-49823961/",
       "title": "We just shipped support for the ugliest part of HTTP: Vary"
-    },
-    "https://simonwillison.net/2026/Sep/23/shadow-roots/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1790199159,
-      "link": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
-      "title": "Shadow roots, explained with live examples"
     },
     "https://simonwillison.net/2026/Sep/24/commit-rewriter/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
