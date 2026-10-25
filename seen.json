@@ -7626,12 +7626,6 @@
       "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/",
       "title": "Experimental support for Device Bound Session Credentials (DBSC) in ASP.NET Core: Exploring the .NET 11 preview - Part 8"
     },
-    "https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/": {
-      "blog_name": "Andrew Lock (.NET)",
-      "first_seen": 1790274698,
-      "link": "https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/",
-      "title": "Finding the total number of processors on a machine with .NET"
-    },
     "https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/": {
       "blog_name": "Andrew Lock (.NET)",
       "first_seen": 1791996325,
@@ -11904,12 +11898,6 @@
       "link": "https://blog.angular.dev/customizing-angular-aria-tabs-quickly-with-google-antigravity-cli-39ff8e0271a4?source=rss----447683c3d9a3---4",
       "title": "Customizing Angular Aria Tabs Quickly with Google Antigravity CLI"
     },
-    "https://medium.com/p/4f1ab881b7a9": {
-      "blog_name": "Nathan Curtis (Design Systems)",
-      "first_seen": 1790286541,
-      "link": "https://medium.com/@nathanacurtis/what-component-specs-leave-behind-4f1ab881b7a9?source=rss-799c7c7840a------2",
-      "title": "What Component Specs Leave Behind"
-    },
     "https://medium.com/p/4f96634b0ae3": {
       "blog_name": "Angular Blog (Official)",
       "first_seen": 1791996325,
@@ -11981,12 +11969,6 @@
       "first_seen": 1791996325,
       "link": "https://blog.angular.dev/demystifying-a2ui-how-to-make-ai-agents-speak-ui-in-your-app-e1ffea2303bd?source=rss----447683c3d9a3---4",
       "title": "Demystifying A2UI: How to Make AI Agents \u201cSpeak UI\u201d in Your App"
-    },
-    "https://medium.com/p/e82b28d33423": {
-      "blog_name": "Nathan Curtis (Design Systems)",
-      "first_seen": 1790286541,
-      "link": "https://medium.com/@nathanacurtis/design-system-conventions-in-figma-e82b28d33423?source=rss-799c7c7840a------2",
-      "title": "Design System Conventions in Figma"
     },
     "https://medium.com/p/ebc715561ca1": {
       "blog_name": "Angular Blog (Official)",
@@ -12072,12 +12054,6 @@
       "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software",
       "title": "The Pulse: Time to rethink software security because of AI?"
     },
-    "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1790274698,
-      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand",
-      "title": "The Pulse: RoR creator sparks new \u201cdeath of coding by hand\u201d debate"
-    },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-firebases-global-outage": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1790879453,
@@ -12143,12 +12119,6 @@
       "first_seen": 1790375869,
       "link": "https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets",
       "title": "Why performant code matters (but gets widely ignored), with Casey Muratori"
-    },
-    "https://newsletter.pragmaticengineer.com/p/why-ramp-built-inspect": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1790286541,
-      "link": "https://newsletter.pragmaticengineer.com/p/why-ramp-built-inspect",
-      "title": "Why Ramp built its own in-house coding agent, Inspect"
     },
     "https://newsletter.pragmaticengineer.com/p/windows-and-ai": {
       "blog_name": "The Pragmatic Engineer",
@@ -12887,18 +12857,6 @@
       "first_seen": 1790584546,
       "link": "https://simonwillison.net/2026/Sep/23/hn-49823961/",
       "title": "We just shipped support for the ugliest part of HTTP: Vary"
-    },
-    "https://simonwillison.net/2026/Sep/24/commit-rewriter/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1790286541,
-      "link": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
-      "title": "commit-rewriter 0.2"
-    },
-    "https://simonwillison.net/2026/Sep/24/datasette/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1790286541,
-      "link": "https://simonwillison.net/2026/Sep/24/datasette/",
-      "title": "datasette 1.0a41"
     },
     "https://simonwillison.net/2026/Sep/24/harder/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
