@@ -7626,6 +7626,12 @@
       "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/",
       "title": "Experimental support for Device Bound Session Credentials (DBSC) in ASP.NET Core: Exploring the .NET 11 preview - Part 8"
     },
+    "https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/": {
+      "blog_name": "Andrew Lock (.NET)",
+      "first_seen": 1792943020,
+      "link": "https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/",
+      "title": "Finding the total number of processors on a machine with .NET"
+    },
     "https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/": {
       "blog_name": "Andrew Lock (.NET)",
       "first_seen": 1791996325,
@@ -7973,6 +7979,12 @@
       "first_seen": 1791996325,
       "link": "https://danluu.com/algorithms-interviews/",
       "title": "Algorithms interviews: theory vs. practice"
+    },
+    "https://danluu.com/ambitious/": {
+      "blog_name": "Dan Luu (Hardware/Systems)",
+      "first_seen": 1792943020,
+      "link": "https://danluu.com/ambitious/",
+      "title": "\u201cWe should be more ambitious with the software we build\u201d"
     },
     "https://danluu.com/android-updates/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
@@ -8435,6 +8447,12 @@
       "first_seen": 1791996325,
       "link": "https://danluu.com/new-cpu-features/",
       "title": "What's new in CPUs since the 80s?"
+    },
+    "https://danluu.com/no-slow/": {
+      "blog_name": "Dan Luu (Hardware/Systems)",
+      "first_seen": 1792943020,
+      "link": "https://danluu.com/no-slow/",
+      "title": "There's no reason for software to be slow anymore"
     },
     "https://danluu.com/nothing-works/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
@@ -11898,6 +11916,12 @@
       "link": "https://blog.angular.dev/customizing-angular-aria-tabs-quickly-with-google-antigravity-cli-39ff8e0271a4?source=rss----447683c3d9a3---4",
       "title": "Customizing Angular Aria Tabs Quickly with Google Antigravity CLI"
     },
+    "https://medium.com/p/4f1ab881b7a9": {
+      "blog_name": "Nathan Curtis (Design Systems)",
+      "first_seen": 1792943020,
+      "link": "https://medium.com/@nathanacurtis/what-component-specs-leave-behind-4f1ab881b7a9?source=rss-799c7c7840a------2",
+      "title": "What Component Specs Leave Behind"
+    },
     "https://medium.com/p/4f96634b0ae3": {
       "blog_name": "Angular Blog (Official)",
       "first_seen": 1791996325,
@@ -11934,12 +11958,6 @@
       "link": "https://blog.angular.dev/styling-mastery-and-declarative-form-submissions-743bb9bd0b0e?source=rss----447683c3d9a3---4",
       "title": "Styling Mastery and Declarative Form Submissions"
     },
-    "https://medium.com/p/826bc54ae3a9": {
-      "blog_name": "Angular Blog (Official)",
-      "first_seen": 1790349360,
-      "link": "https://blog.angular.dev/architecting-the-modern-web-debounce-apis-rendering-strategies-and-automated-ai-setup-826bc54ae3a9?source=rss----447683c3d9a3---4",
-      "title": "Architecting the Modern Web: Debounce APIs, Rendering Strategies, and Automated AI Setup! \u26a1"
-    },
     "https://medium.com/p/854ca0815e7d": {
       "blog_name": "Nathan Curtis (Design Systems)",
       "first_seen": 1791996325,
@@ -11952,12 +11970,6 @@
       "link": "https://medium.com/@NetanelBasal/reconnaitre-un-cheval-en-bonne-sant%C3%A9-95cec5875798?source=rss-8d37f2c358a8------2",
       "title": "reconnaitre un cheval en bonne sant\u00e9\u00a0!"
     },
-    "https://medium.com/p/9619a35e2b0a": {
-      "blog_name": "Angular Blog (Official)",
-      "first_seen": 1790349360,
-      "link": "https://blog.angular.dev/an-update-on-angulars-typescript-7-powered-compiler-9619a35e2b0a?source=rss----447683c3d9a3---4",
-      "title": "An update on Angular\u2019s TypeScript 7-powered Compiler"
-    },
     "https://medium.com/p/a9d6185318c2": {
       "blog_name": "Nathan Curtis (Design Systems)",
       "first_seen": 1791996325,
@@ -11969,6 +11981,12 @@
       "first_seen": 1791996325,
       "link": "https://blog.angular.dev/demystifying-a2ui-how-to-make-ai-agents-speak-ui-in-your-app-e1ffea2303bd?source=rss----447683c3d9a3---4",
       "title": "Demystifying A2UI: How to Make AI Agents \u201cSpeak UI\u201d in Your App"
+    },
+    "https://medium.com/p/e82b28d33423": {
+      "blog_name": "Nathan Curtis (Design Systems)",
+      "first_seen": 1792943020,
+      "link": "https://medium.com/@nathanacurtis/design-system-conventions-in-figma-e82b28d33423?source=rss-799c7c7840a------2",
+      "title": "Design System Conventions in Figma"
     },
     "https://medium.com/p/ebc715561ca1": {
       "blog_name": "Angular Blog (Official)",
@@ -12053,6 +12071,12 @@
       "first_seen": 1792687718,
       "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software",
       "title": "The Pulse: Time to rethink software security because of AI?"
+    },
+    "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1792943020,
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand",
+      "title": "The Pulse: RoR creator sparks new \u201cdeath of coding by hand\u201d debate"
     },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-firebases-global-outage": {
       "blog_name": "The Pragmatic Engineer",
