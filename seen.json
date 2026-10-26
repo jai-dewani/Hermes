@@ -4044,12 +4044,6 @@
       "link": "https://nodejs.org/en/blog/release/v24.2.0",
       "title": "Node.js 24.2.0 (Current)"
     },
-    "/blog/release/v24.20.0?1787754582505": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1790375869,
-      "link": "https://nodejs.org/en/blog/release/v24.20.0",
-      "title": "Node.js 24.20.0 (LTS)"
-    },
     "/blog/release/v24.21.0?1788954920945": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1791607980,
@@ -4289,12 +4283,6 @@
       "first_seen": 1791996325,
       "link": "https://nodejs.org/en/blog/release/v26.7.0",
       "title": "Node.js 26.7.0 (Current)"
-    },
-    "/blog/release/v26.8.0?1787754588258": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1790375869,
-      "link": "https://nodejs.org/en/blog/release/v26.8.0",
-      "title": "Node.js 26.8.0 (Current)"
     },
     "/blog/release/v26.8.1?1787782296332": {
       "blog_name": "Node.js Blog (Official)",
@@ -8730,12 +8718,6 @@
       "link": "https://devblogs.microsoft.com/dotnet/unions-and-closed-hierarchies-in-aspnetcore/",
       "title": "Use C# unions and closed hierarchies in ASP.NET Core"
     },
-    "https://devblogs.microsoft.com/dotnet/?p=60885": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1790364279,
-      "link": "https://devblogs.microsoft.com/dotnet/ag-ui-dotnet-sdk/",
-      "title": "AG-UI Protocol now has a first-class .NET SDK"
-    },
     "https://devblogs.microsoft.com/dotnet/?p=60895": {
       "blog_name": ".NET Blog (Microsoft)",
       "first_seen": 1790634740,
@@ -8789,6 +8771,12 @@
       "first_seen": 1792434532,
       "link": "https://devblogs.microsoft.com/dotnet/migrate-dotnet-maui-apps-uikit-scene-lifecycle/",
       "title": "Get Your .NET MAUI App Ready for Xcode 27"
+    },
+    "https://devblogs.microsoft.com/dotnet/?p=61101": {
+      "blog_name": ".NET Blog (Microsoft)",
+      "first_seen": 1792986372,
+      "link": "https://devblogs.microsoft.com/dotnet/dotnet-october-2026-oob-security-updates/",
+      "title": ".NET October 2026 Out-of-Band Security Updates"
     },
     "https://heydonworks.com/article/a-double-edged-sword/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
@@ -11958,6 +11946,12 @@
       "link": "https://blog.angular.dev/styling-mastery-and-declarative-form-submissions-743bb9bd0b0e?source=rss----447683c3d9a3---4",
       "title": "Styling Mastery and Declarative Form Submissions"
     },
+    "https://medium.com/p/826bc54ae3a9": {
+      "blog_name": "Angular Blog (Official)",
+      "first_seen": 1792986372,
+      "link": "https://blog.angular.dev/architecting-the-modern-web-debounce-apis-rendering-strategies-and-automated-ai-setup-826bc54ae3a9?source=rss----447683c3d9a3---4",
+      "title": "Architecting the Modern Web: Debounce APIs, Rendering Strategies, and Automated AI Setup! \u26a1"
+    },
     "https://medium.com/p/854ca0815e7d": {
       "blog_name": "Nathan Curtis (Design Systems)",
       "first_seen": 1791996325,
@@ -11969,6 +11963,12 @@
       "first_seen": 1791996325,
       "link": "https://medium.com/@NetanelBasal/reconnaitre-un-cheval-en-bonne-sant%C3%A9-95cec5875798?source=rss-8d37f2c358a8------2",
       "title": "reconnaitre un cheval en bonne sant\u00e9\u00a0!"
+    },
+    "https://medium.com/p/9619a35e2b0a": {
+      "blog_name": "Angular Blog (Official)",
+      "first_seen": 1792986372,
+      "link": "https://blog.angular.dev/an-update-on-angulars-typescript-7-powered-compiler-9619a35e2b0a?source=rss----447683c3d9a3---4",
+      "title": "An update on Angular\u2019s TypeScript 7-powered Compiler"
     },
     "https://medium.com/p/a9d6185318c2": {
       "blog_name": "Nathan Curtis (Design Systems)",
@@ -12137,12 +12137,6 @@
       "first_seen": 1792554360,
       "link": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
       "title": "What\u2019s the ROI of software engineers\u2019 spending on AI?"
-    },
-    "https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1790375869,
-      "link": "https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets",
-      "title": "Why performant code matters (but gets widely ignored), with Casey Muratori"
     },
     "https://newsletter.pragmaticengineer.com/p/windows-and-ai": {
       "blog_name": "The Pragmatic Engineer",
@@ -12870,35 +12864,11 @@
       "link": "https://simonwillison.net/2026/Oct/9/ttok/",
       "title": "ttok 1.0"
     },
-    "https://simonwillison.net/2026/Sep/17/hn-49747390/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1790364279,
-      "link": "https://simonwillison.net/2026/Sep/17/hn-49747390/",
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint"
-    },
     "https://simonwillison.net/2026/Sep/23/hn-49823961/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1790584546,
       "link": "https://simonwillison.net/2026/Sep/23/hn-49823961/",
       "title": "We just shipped support for the ugliest part of HTTP: Vary"
-    },
-    "https://simonwillison.net/2026/Sep/24/harder/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1790364279,
-      "link": "https://simonwillison.net/2026/Sep/24/harder/",
-      "title": "Note on 24th September 2026"
-    },
-    "https://simonwillison.net/2026/Sep/25/john-gruber/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1790364279,
-      "link": "https://simonwillison.net/2026/Sep/25/john-gruber/",
-      "title": "Quoting John Gruber"
-    },
-    "https://simonwillison.net/2026/Sep/25/sighting-403293902/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1790364279,
-      "link": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
-      "title": "Northern Gannet, Great Blue Heron, California Brown Pelican"
     },
     "https://simonwillison.net/2026/Sep/26/kakapo-party/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
