@@ -4044,6 +4044,12 @@
       "link": "https://nodejs.org/en/blog/release/v24.2.0",
       "title": "Node.js 24.2.0 (Current)"
     },
+    "/blog/release/v24.20.0?1787754582505": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1793039129,
+      "link": "https://nodejs.org/en/blog/release/v24.20.0",
+      "title": "Node.js 24.20.0 (LTS)"
+    },
     "/blog/release/v24.21.0?1788954920945": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1791607980,
@@ -4284,11 +4290,11 @@
       "link": "https://nodejs.org/en/blog/release/v26.7.0",
       "title": "Node.js 26.7.0 (Current)"
     },
-    "/blog/release/v26.8.1?1787782296332": {
+    "/blog/release/v26.8.0?1787754588258": {
       "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1790419574,
-      "link": "https://nodejs.org/en/blog/release/v26.8.1",
-      "title": "Node.js 26.8.1 (Current)"
+      "first_seen": 1793039129,
+      "link": "https://nodejs.org/en/blog/release/v26.8.0",
+      "title": "Node.js 26.8.0 (Current)"
     },
     "/blog/release/v26.8.2?1788970157773": {
       "blog_name": "Node.js Blog (Official)",
@@ -7692,12 +7698,6 @@
       "link": "https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/",
       "title": "The Windows File Explorer replacement, File Pilot, is awesome"
     },
-    "https://azure.microsoft.com/en-us/blog/?p=54013": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1790401766,
-      "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
-      "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization"
-    },
     "https://azure.microsoft.com/en-us/blog/?p=54069": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1790648326,
@@ -7781,6 +7781,12 @@
       "first_seen": 1792554360,
       "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
       "title": "Advancing digital sovereignty with greater control and choice"
+    },
+    "https://azure.microsoft.com/en-us/blog/?p=54706": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1793039129,
+      "link": "https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/",
+      "title": "Scale reservoir uncertainty analysis with agile reservoir modeling"
     },
     "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/": {
       "blog_name": "Microsoft Azure Blog",
@@ -12719,6 +12725,12 @@
       "first_seen": 1792856032,
       "link": "https://simonwillison.net/2026/Oct/24/battledrones/",
       "title": "battledrones v14: Compass Rose, a four player map"
+    },
+    "https://simonwillison.net/2026/Oct/25/seam-cutter/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1793039129,
+      "link": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+      "title": "Seam Cutter"
     },
     "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
