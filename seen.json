@@ -8790,6 +8790,12 @@
       "link": "https://devblogs.microsoft.com/dotnet/dotnet-october-2026-oob-security-updates/",
       "title": ".NET October 2026 Out-of-Band Security Updates"
     },
+    "https://devblogs.microsoft.com/dotnet/?p=61112": {
+      "blog_name": ".NET Blog (Microsoft)",
+      "first_seen": 1793122781,
+      "link": "https://devblogs.microsoft.com/dotnet/blazor-welcomes-infragistics/",
+      "title": "Blazor Welcomes Open-Source Contributions from Infragistics"
+    },
     "https://heydonworks.com/article/a-double-edged-sword/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
       "first_seen": 1791996325,
@@ -10638,6 +10644,12 @@
       "link": "https://khalidabuhakmeh.com/posts/how-to-integrate-htmx-and-shoelace-web-components/",
       "title": "How to Integrate HTMX and Shoelace Web Components"
     },
+    "https://khalidabuhakmeh.com/posts/how-to-loop-through-a-list-in-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1793122781,
+      "link": "https://khalidabuhakmeh.com/posts/how-to-loop-through-a-list-in-csharp/",
+      "title": "How to Loop Through a List in C#: Every Way, Benchmarked"
+    },
     "https://khalidabuhakmeh.com/posts/how-to-map-a-route-in-an-aspnet-core-mvc-application/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
       "first_seen": 1790952740,
@@ -12023,6 +12035,12 @@
       "first_seen": 1792294488,
       "link": "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock",
       "title": "AI Skills with Matt Pocock"
+    },
+    "https://newsletter.pragmaticengineer.com/p/ai-sre": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1793122781,
+      "link": "https://newsletter.pragmaticengineer.com/p/ai-sre",
+      "title": "AI SRE: what is it, how could it change on-call \u2013 and does it work?"
     },
     "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux": {
       "blog_name": "The Pragmatic Engineer",
