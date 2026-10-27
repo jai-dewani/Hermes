@@ -4296,6 +4296,12 @@
       "link": "https://nodejs.org/en/blog/release/v26.8.0",
       "title": "Node.js 26.8.0 (Current)"
     },
+    "/blog/release/v26.8.1?1787782296332": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1793074151,
+      "link": "https://nodejs.org/en/blog/release/v26.8.1",
+      "title": "Node.js 26.8.1 (Current)"
+    },
     "/blog/release/v26.8.2?1788970157773": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1791607980,
@@ -12090,12 +12096,6 @@
       "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-firebases-global-outage",
       "title": "The Pulse: Firebase\u2019s global outage & poor response"
     },
-    "https://newsletter.pragmaticengineer.com/p/the-pulse-meta-wanted-to-reduce-teams": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1790466255,
-      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-meta-wanted-to-reduce-teams",
-      "title": "The Pulse: Meta wanted to reduce teams by 60% because of AI"
-    },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1791484515,
@@ -12732,6 +12732,24 @@
       "link": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
       "title": "Seam Cutter"
     },
+    "https://simonwillison.net/2026/Oct/26/gpt-61-terra/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1793074151,
+      "link": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+      "title": "GPT-6.1 Terra"
+    },
+    "https://simonwillison.net/2026/Oct/26/jason-koebler/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1793074151,
+      "link": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+      "title": "Quoting Jason Koebler"
+    },
+    "https://simonwillison.net/2026/Oct/26/webframe-evaluation/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1793074151,
+      "link": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
+      "title": "webframe: evaluated as a scraper and a sandbox"
+    },
     "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791081483,
@@ -12881,12 +12899,6 @@
       "first_seen": 1790584546,
       "link": "https://simonwillison.net/2026/Sep/23/hn-49823961/",
       "title": "We just shipped support for the ugliest part of HTTP: Vary"
-    },
-    "https://simonwillison.net/2026/Sep/26/kakapo-party/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1790473837,
-      "link": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
-      "title": "K\u0101k\u0101p\u014d Party"
     },
     "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
