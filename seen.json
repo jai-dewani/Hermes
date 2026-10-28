@@ -4242,6 +4242,12 @@
       "link": "https://nodejs.org/en/blog/release/v26.12.1",
       "title": "Node.js 26.12.1 (Current)"
     },
+    "/blog/release/v26.13.0?1793206720303": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1793210486,
+      "link": "https://nodejs.org/en/blog/release/v26.13.0",
+      "title": "Node.js 26.13.0 (LTS)"
+    },
     "/blog/release/v26.2.0?1779282208511": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1791996325,
@@ -6432,12 +6438,6 @@
       "link": "https://www.meziantou.net/using-jsonpath-with-system-text-json-to-query-json-in-dotnet.htm?utm_medium=social&utm_source=syndication",
       "title": "Using JsonPath with System.Text.Json to query JSON in .NET"
     },
-    "79429f3e-7781-4012-9f75-ec73b0e98437": {
-      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
-      "first_seen": 1790614861,
-      "link": "https://www.meziantou.net/adding-jsonpath-support-to-custom-object-models-in-dotnet.htm?utm_medium=social&utm_source=syndication",
-      "title": "Adding JsonPath support to custom object models in .NET"
-    },
     "a013cf7e-2dac-4727-9240-74fa2f79697f": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1792554360,
@@ -7452,12 +7452,6 @@
       "link": "http://brooker.co.za/blog/2026/07/29/lorenz-and-little.html",
       "title": "Lorenz and Little: How Much Does Your Tail Cost?"
     },
-    "http://brooker.co.za/blog/2026/09/28/engineering-system-one": {
-      "blog_name": "Marc Brooker (AWS/Systems)",
-      "first_seen": 1790614861,
-      "link": "http://brooker.co.za/blog/2026/09/28/engineering-system-one.html",
-      "title": "Small Decisions: Engineering a Leading Model"
-    },
     "http://brooker.co.za/blog/2026/10/04/encoders": {
       "blog_name": "Marc Brooker (AWS/Systems)",
       "first_seen": 1791175143,
@@ -8039,12 +8033,6 @@
       "first_seen": 1791996325,
       "link": "https://danluu.com/boring-languages/",
       "title": "A defense of boring languages"
-    },
-    "https://danluu.com/brain-off/": {
-      "blog_name": "Dan Luu (Hardware/Systems)",
-      "first_seen": 1790614861,
-      "link": "https://danluu.com/brain-off/",
-      "title": "There's no point at which turning your brain off will work"
     },
     "https://danluu.com/branch-prediction/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
@@ -9246,6 +9234,12 @@
       "link": "https://heydonworks.com/article/the-agreement/",
       "title": "The Agreement"
     },
+    "https://heydonworks.com/article/the-ai-art-paradox/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1793210486,
+      "link": "https://heydonworks.com/article/the-ai-art-paradox/",
+      "title": "The AI Artist Paradox"
+    },
     "https://heydonworks.com/article/the-anchor-element/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
       "first_seen": 1791996325,
@@ -9581,6 +9575,12 @@
       "first_seen": 1791996325,
       "link": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
       "title": "Some more things about Django I've been enjoying"
+    },
+    "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/": {
+      "blog_name": "Julia Evans (Linux/OS)",
+      "first_seen": 1793210486,
+      "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "title": "Replacing the old battery on rechargeable bike lights"
     },
     "https://khalidabuhakmeh.com/posts/a-dotnet-five-guide-from-idea-to-nuget-package/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
@@ -11952,6 +11952,12 @@
       "link": "https://medium.com/@nathanacurtis/spec-driven-ui-component-development-6e3f43f52450?source=rss-799c7c7840a------2",
       "title": "Spec-Driven UI Component Development"
     },
+    "https://medium.com/p/743bb9bd0b0e": {
+      "blog_name": "Angular Blog (Official)",
+      "first_seen": 1793210486,
+      "link": "https://blog.angular.dev/styling-mastery-and-declarative-form-submissions-743bb9bd0b0e?source=rss----447683c3d9a3---4",
+      "title": "Styling Mastery and Declarative Form Submissions"
+    },
     "https://medium.com/p/826bc54ae3a9": {
       "blog_name": "Angular Blog (Official)",
       "first_seen": 1792986372,
@@ -12756,6 +12762,24 @@
       "link": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
       "title": "Game Boy Color on My Conference Badge"
     },
+    "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1793210486,
+      "link": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+      "title": "GitHub Octoverse 2026"
+    },
+    "https://simonwillison.net/2026/Oct/28/terk-terkowitz/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1793210486,
+      "link": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+      "title": "Quoting Terk Terkowitz"
+    },
+    "https://simonwillison.net/2026/Oct/28/vibe-game-development/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1793210486,
+      "link": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+      "title": "The October inflection point for vibe game development"
+    },
     "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791081483,
@@ -12900,18 +12924,6 @@
       "link": "https://simonwillison.net/2026/Oct/9/ttok/",
       "title": "ttok 1.0"
     },
-    "https://simonwillison.net/2026/Sep/23/hn-49823961/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1790584546,
-      "link": "https://simonwillison.net/2026/Sep/23/hn-49823961/",
-      "title": "We just shipped support for the ugliest part of HTTP: Vary"
-    },
-    "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1790584546,
-      "link": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
-      "title": "Bluesky reply bot checker"
-    },
     "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1790634740,
@@ -12929,12 +12941,6 @@
       "first_seen": 1791231906,
       "link": "https://simonwillison.net/2026/Sep/28/llm-anthropic/",
       "title": "llm-anthropic 0.30"
-    },
-    "https://simonwillison.net/2026/Sep/28/muse-ai-agent/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1790584546,
-      "link": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
-      "title": "Quoting Muse AI Agent"
     },
     "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
