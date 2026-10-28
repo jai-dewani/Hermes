@@ -9246,12 +9246,6 @@
       "link": "https://heydonworks.com/article/the-agreement/",
       "title": "The Agreement"
     },
-    "https://heydonworks.com/article/the-ai-art-paradox/": {
-      "blog_name": "Heydon Pickering (Inclusive Design)",
-      "first_seen": 1790531594,
-      "link": "https://heydonworks.com/article/the-ai-art-paradox/",
-      "title": "The AI Artist Paradox"
-    },
     "https://heydonworks.com/article/the-anchor-element/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
       "first_seen": 1791996325,
@@ -9587,12 +9581,6 @@
       "first_seen": 1791996325,
       "link": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
       "title": "Some more things about Django I've been enjoying"
-    },
-    "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/": {
-      "blog_name": "Julia Evans (Linux/OS)",
-      "first_seen": 1790531594,
-      "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-      "title": "Replacing the old battery on rechargeable bike lights"
     },
     "https://khalidabuhakmeh.com/posts/a-dotnet-five-guide-from-idea-to-nuget-package/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
@@ -11964,12 +11952,6 @@
       "link": "https://medium.com/@nathanacurtis/spec-driven-ui-component-development-6e3f43f52450?source=rss-799c7c7840a------2",
       "title": "Spec-Driven UI Component Development"
     },
-    "https://medium.com/p/743bb9bd0b0e": {
-      "blog_name": "Angular Blog (Official)",
-      "first_seen": 1790542205,
-      "link": "https://blog.angular.dev/styling-mastery-and-declarative-form-submissions-743bb9bd0b0e?source=rss----447683c3d9a3---4",
-      "title": "Styling Mastery and Declarative Form Submissions"
-    },
     "https://medium.com/p/826bc54ae3a9": {
       "blog_name": "Angular Blog (Official)",
       "first_seen": 1792986372,
@@ -12768,6 +12750,12 @@
       "link": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
       "title": "webframe: evaluated as a scraper and a sandbox"
     },
+    "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1793162243,
+      "link": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+      "title": "Game Boy Color on My Conference Badge"
+    },
     "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791081483,
@@ -12918,23 +12906,11 @@
       "link": "https://simonwillison.net/2026/Sep/23/hn-49823961/",
       "title": "We just shipped support for the ugliest part of HTTP: Vary"
     },
-    "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1790560751,
-      "link": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
-      "title": "2026 in LLMs (so far)"
-    },
     "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1790584546,
       "link": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
       "title": "Bluesky reply bot checker"
-    },
-    "https://simonwillison.net/2026/Sep/27/hn-49871741/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1790560751,
-      "link": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
-      "title": "S3 Is the Future, S3 Is the Past"
     },
     "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
