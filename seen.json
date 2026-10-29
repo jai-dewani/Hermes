@@ -6426,6 +6426,12 @@
       "link": "https://nodejs.org/en/blog/wg/diag-wg-update-2017-02",
       "title": "Diag WG Update - Many new tools, phasing out some old ones"
     },
+    "2f16d7d4-32a3-4a55-9e21-93a1cbb15cf5": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1793297432,
+      "link": "https://www.meziantou.net/dotnet-11-runtime-async-the-runtime-takes-over-await.htm?utm_medium=social&utm_source=syndication",
+      "title": ".NET 11 runtime async: the runtime takes over await"
+    },
     "2f5d26e6-6888-471e-9574-dbbd2a86eae9": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1791996325,
@@ -8795,6 +8801,12 @@
       "first_seen": 1793122781,
       "link": "https://devblogs.microsoft.com/dotnet/blazor-welcomes-infragistics/",
       "title": "Blazor Welcomes Open-Source Contributions from Infragistics"
+    },
+    "https://devblogs.microsoft.com/dotnet/?p=61123": {
+      "blog_name": ".NET Blog (Microsoft)",
+      "first_seen": 1793297432,
+      "link": "https://devblogs.microsoft.com/dotnet/blazor-welcomes-syncfusion/",
+      "title": "Blazor Welcomes Open-Source Contributions from Syncfusion"
     },
     "https://heydonworks.com/article/a-double-edged-sword/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
@@ -12084,6 +12096,12 @@
       "link": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
       "title": "Why has Shopify dropped React Native?"
     },
+    "https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1793297432,
+      "link": "https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and",
+      "title": "Software engineering at Google & CS education with Titus Winters"
+    },
     "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-five-years": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1790906318,
@@ -12797,6 +12815,18 @@
       "first_seen": 1793210486,
       "link": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
       "title": "The October inflection point for vibe game development"
+    },
+    "https://simonwillison.net/2026/Oct/29/ben-hylak/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1793297432,
+      "link": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
+      "title": "Quoting Ben Hylak"
+    },
+    "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1793297432,
+      "link": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+      "title": "Building a multiplayer game world with autonomous Fable-class models"
     },
     "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
