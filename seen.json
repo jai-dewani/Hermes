@@ -7728,12 +7728,6 @@
       "link": "https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/",
       "title": "The Windows File Explorer replacement, File Pilot, is awesome"
     },
-    "https://azure.microsoft.com/en-us/blog/?p=54081": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1790758318,
-      "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/",
-      "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents"
-    },
     "https://azure.microsoft.com/en-us/blog/?p=54217": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1790879453,
@@ -7811,6 +7805,12 @@
       "first_seen": 1793039129,
       "link": "https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/",
       "title": "Scale reservoir uncertainty analysis with agile reservoir modeling"
+    },
+    "https://azure.microsoft.com/en-us/blog/?p=54722": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1793382525,
+      "link": "https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/",
+      "title": "Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance"
     },
     "https://azure.microsoft.com/en-us/blog/?p=54760": {
       "blog_name": "Microsoft Azure Blog",
@@ -12102,6 +12102,12 @@
       "link": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
       "title": "Inside OpenAI\u2019s agentic software factory"
     },
+    "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1793382525,
+      "link": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
+      "title": "Why has Shopify dropped React Native?"
+    },
     "https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1793297432,
@@ -12119,6 +12125,12 @@
       "first_seen": 1791739728,
       "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-191-a-new-trend-of-cpu",
       "title": "The Pulse #191: a new trend of CPU shortages"
+    },
+    "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1793382525,
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding",
+      "title": "The Pulse: Anthropic kills the coding interview"
     },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software": {
       "blog_name": "The Pragmatic Engineer",
