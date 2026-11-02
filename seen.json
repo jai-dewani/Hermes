@@ -7920,12 +7920,6 @@
       "link": "https://bradfrost.com/links/post/design-system-maturity-model-zeroheight/",
       "title": "Design System Maturity Model - zeroheight"
     },
-    "https://bradfrost.com/links/post/github-cli-media-in-issues-pull-requests-and-comments-github-changelog/": {
-      "blog_name": "Brad Frost (Design Systems)",
-      "first_seen": 1790993501,
-      "link": "https://bradfrost.com/links/post/github-cli-media-in-issues-pull-requests-and-comments-github-changelog/",
-      "title": "GitHub CLI: Media in issues, pull requests, and comments - GitHub Changelog"
-    },
     "https://bradfrost.com/links/post/just-you-wait-by-chris-shiflett/": {
       "blog_name": "Brad Frost (Design Systems)",
       "first_seen": 1791996325,
@@ -8069,6 +8063,12 @@
       "first_seen": 1791996325,
       "link": "https://danluu.com/broken-builds/",
       "title": "How often is the build broken?"
+    },
+    "https://danluu.com/bug-blind/": {
+      "blog_name": "Dan Luu (Hardware/Systems)",
+      "first_seen": 1793595434,
+      "link": "https://danluu.com/bug-blind/",
+      "title": "Bug blindness"
     },
     "https://danluu.com/bugalytics/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
@@ -8723,6 +8723,12 @@
       "first_seen": 1791996325,
       "link": "https://danluu.com/yegge-predictions/",
       "title": "Steve Yegge's prediction record"
+    },
+    "https://danluu.com/zitron/": {
+      "blog_name": "Dan Luu (Hardware/Systems)",
+      "first_seen": 1793595434,
+      "link": "https://danluu.com/zitron/",
+      "title": "Ed Zitron's AI prediction track record"
     },
     "https://devblogs.microsoft.com/dotnet/?p=60726": {
       "blog_name": ".NET Blog (Microsoft)",
@@ -9594,6 +9600,24 @@
       "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
       "title": "Replacing the old battery on rechargeable bike lights"
     },
+    "https://khalidabuhakmeh.com/posts/alpinejs-polling-aspnet-core-apis-for-updates/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1793595434,
+      "link": "https://khalidabuhakmeh.com/posts/alpinejs-polling-aspnet-core-apis-for-updates/",
+      "title": "Alpine.Js Polling ASP.NET Core APIs For Updates"
+    },
+    "https://khalidabuhakmeh.com/posts/aspnet-core-and-chunking-http-cookies/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1793595434,
+      "link": "https://khalidabuhakmeh.com/posts/aspnet-core-and-chunking-http-cookies/",
+      "title": "ASP.NET Core and Chunking HTTP Cookies"
+    },
+    "https://khalidabuhakmeh.com/posts/building-a-persistent-counter-with-alpinejs/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1793595434,
+      "link": "https://khalidabuhakmeh.com/posts/building-a-persistent-counter-with-alpinejs/",
+      "title": "Building a Persistent Counter with Alpine.Js"
+    },
     "https://khalidabuhakmeh.com/posts/collection-expression-arguments-csharp-15/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
       "first_seen": 1791918046,
@@ -9618,11 +9642,35 @@
       "link": "https://khalidabuhakmeh.com/posts/directory-build-props-share-settings-across-dotnet-projects/",
       "title": "Directory.Build.props: Share Settings Across .NET Projects"
     },
+    "https://khalidabuhakmeh.com/posts/dynamic-htmx-islands-with-aspnet-core/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1793595434,
+      "link": "https://khalidabuhakmeh.com/posts/dynamic-htmx-islands-with-aspnet-core/",
+      "title": "Dynamic Htmx Islands with ASP.NET Core"
+    },
+    "https://khalidabuhakmeh.com/posts/generic-csharp-methods-with-enum-constraints-for-dotnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1793595434,
+      "link": "https://khalidabuhakmeh.com/posts/generic-csharp-methods-with-enum-constraints-for-dotnet/",
+      "title": "Generic C# Methods with Enum Constraints for .NET"
+    },
+    "https://khalidabuhakmeh.com/posts/great-dotnet-documentation-with-astro-starlight-and-markdownsnippets/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1793595434,
+      "link": "https://khalidabuhakmeh.com/posts/great-dotnet-documentation-with-astro-starlight-and-markdownsnippets/",
+      "title": "Great .NET Docs with Astro, Starlight, and MarkdownSnippets"
+    },
     "https://khalidabuhakmeh.com/posts/how-to-loop-through-a-list-in-csharp/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
       "first_seen": 1793122781,
       "link": "https://khalidabuhakmeh.com/posts/how-to-loop-through-a-list-in-csharp/",
       "title": "How to Loop Through a List in C#: Every Way, Benchmarked"
+    },
+    "https://khalidabuhakmeh.com/posts/initialize-aspnet-core-taghelpers-with-shared-data/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1793595434,
+      "link": "https://khalidabuhakmeh.com/posts/initialize-aspnet-core-taghelpers-with-shared-data/",
+      "title": "Initialize ASP.NET Core TagHelpers with Shared Data"
     },
     "https://khalidabuhakmeh.com/posts/minimal-api-validation-localization/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
@@ -9636,11 +9684,41 @@
       "link": "https://khalidabuhakmeh.com/posts/rails-developers-map-to-dotnet/",
       "title": "Rails to ASP.NET Core: A Developer's Map"
     },
+    "https://khalidabuhakmeh.com/posts/server-sent-events-in-aspnet-core-and-dotnet-10/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1793595434,
+      "link": "https://khalidabuhakmeh.com/posts/server-sent-events-in-aspnet-core-and-dotnet-10/",
+      "title": "Server-Sent Events in ASP.NET Core and .NET 10"
+    },
+    "https://khalidabuhakmeh.com/posts/strongly-typed-markdown-for-aspnet-core-content-apps/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1793595434,
+      "link": "https://khalidabuhakmeh.com/posts/strongly-typed-markdown-for-aspnet-core-content-apps/",
+      "title": "Strongly-Typed Markdown for ASP.NET Core Content Apps"
+    },
     "https://khalidabuhakmeh.com/posts/swap-system-text-json-for-redox-minimal-api/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
       "first_seen": 1791918046,
       "link": "https://khalidabuhakmeh.com/posts/swap-system-text-json-for-redox-minimal-api/",
       "title": "Swap System.Text.Json for REDox in a Minimal API"
+    },
+    "https://khalidabuhakmeh.com/posts/the-curious-case-of-dotnet-concurrentdictionary-and-closures/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1793595434,
+      "link": "https://khalidabuhakmeh.com/posts/the-curious-case-of-dotnet-concurrentdictionary-and-closures/",
+      "title": "ConcurrentDictionary GetOrAdd and Closures in .NET"
+    },
+    "https://khalidabuhakmeh.com/posts/vogen-and-value-objects-with-csharp-and-dotnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1793595434,
+      "link": "https://khalidabuhakmeh.com/posts/vogen-and-value-objects-with-csharp-and-dotnet/",
+      "title": "Vogen and Value Objects with C# and .NET"
+    },
+    "https://khalidabuhakmeh.com/posts/writing-a-string-numeric-comparer-with-dotnet-9/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1793595434,
+      "link": "https://khalidabuhakmeh.com/posts/writing-a-string-numeric-comparer-with-dotnet-9/",
+      "title": "Writing a String Numeric Comparer with .NET 9"
     },
     "https://medium.com/p/05440da623ad": {
       "blog_name": "Angular Blog (Official)",
@@ -9665,6 +9743,12 @@
       "first_seen": 1791569168,
       "link": "https://blog.angular.dev/signal-value-transforms-routing-essentials-and-video-extension-with-veo-3846cae9283a?source=rss----447683c3d9a3---4",
       "title": "Signal Value Transforms, Routing Essentials, and Video Extension with Veo! \u26a1"
+    },
+    "https://medium.com/p/39ff8e0271a4": {
+      "blog_name": "Angular Blog (Official)",
+      "first_seen": 1793595434,
+      "link": "https://blog.angular.dev/customizing-angular-aria-tabs-quickly-with-google-antigravity-cli-39ff8e0271a4?source=rss----447683c3d9a3---4",
+      "title": "Customizing Angular Aria Tabs Quickly with Google Antigravity CLI"
     },
     "https://medium.com/p/4f1ab881b7a9": {
       "blog_name": "Nathan Curtis (Design Systems)",
@@ -10265,6 +10349,12 @@
       "first_seen": 1791996325,
       "link": "https://overreacted.io/writing-resilient-components/",
       "title": "Writing Resilient Components"
+    },
+    "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1793595434,
+      "link": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+      "title": "If in doubt, delete the uv.lock file"
     },
     "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
