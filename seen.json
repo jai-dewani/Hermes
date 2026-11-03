@@ -9954,12 +9954,6 @@
       "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
       "title": "The Pulse: OpenAI software engineer accused of spying"
     },
-    "https://newsletter.pragmaticengineer.com/p/the-pulse-tech-companies-move-to": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1791081483,
-      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-tech-companies-move-to",
-      "title": "The Pulse: tech companies move to open AI models"
-    },
     "https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1792640739,
@@ -10368,6 +10362,24 @@
       "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
       "title": "The U.S. Census Bureau and \u201cSuper Intelligence\u201d"
     },
+    "https://simonwillison.net/2026/Nov/2/llm/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1793684750,
+      "link": "https://simonwillison.net/2026/Nov/2/llm/",
+      "title": "llm 0.37"
+    },
+    "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1793684750,
+      "link": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube"
+    },
+    "https://simonwillison.net/2026/Nov/3/october-newsletter/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1793684750,
+      "link": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+      "title": "October sponsors-only newsletter"
+    },
     "https://simonwillison.net/2026/Oct/1/pwasm/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791231906,
@@ -10649,18 +10661,6 @@
       "first_seen": 1793297432,
       "link": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
       "title": "Building a multiplayer game world with autonomous Fable-class models"
-    },
-    "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791081483,
-      "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "title": "We're going to need default hard budget caps on pretty much everything"
-    },
-    "https://simonwillison.net/2026/Oct/3/newsletter/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791068569,
-      "link": "https://simonwillison.net/2026/Oct/3/newsletter/",
-      "title": "September sponsors-only newsletter"
     },
     "https://simonwillison.net/2026/Oct/30/nesformer/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
