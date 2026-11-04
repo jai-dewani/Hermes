@@ -7494,12 +7494,6 @@
       "link": "http://brooker.co.za/blog/2026/09/28/engineering-system-one.html",
       "title": "Small Decisions: Engineering a Leading Model"
     },
-    "http://brooker.co.za/blog/2026/10/04/encoders": {
-      "blog_name": "Marc Brooker (AWS/Systems)",
-      "first_seen": 1791175143,
-      "link": "http://brooker.co.za/blog/2026/10/04/encoders.html",
-      "title": "Strands Decider: Why Not an Encoder?"
-    },
     "http://brooker.co.za/blog/2026/10/23/animations": {
       "blog_name": "Marc Brooker (AWS/Systems)",
       "first_seen": 1792773605,
@@ -7823,6 +7817,12 @@
       "first_seen": 1793335882,
       "link": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
       "title": "Introducing the Microsoft Copilot harness in Foundry Agent Service"
+    },
+    "https://azure.microsoft.com/en-us/blog/?p=54846": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1793769678,
+      "link": "https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/",
+      "title": "The Platform Behind the Next AI Breakthrough"
     },
     "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/": {
       "blog_name": "Microsoft Azure Blog",
