@@ -5820,6 +5820,12 @@
       "link": "https://nodejs.org/en/blog/vulnerability/november-2022-security-releases",
       "title": "Nov 3 2022 Security Releases"
     },
+    "/blog/vulnerability/november-2026-security-releases?1793746800000": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1793820566,
+      "link": "https://nodejs.org/en/blog/vulnerability/november-2026-security-releases",
+      "title": "Wednesday, November 11, 2026 Security Releases"
+    },
     "/blog/vulnerability/npm-tokens-leak-march-2016": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1791996325,
@@ -6455,6 +6461,12 @@
       "first_seen": 1792687718,
       "link": "https://www.meziantou.net/using-jsonpath-with-system-text-json-to-query-json-in-dotnet.htm?utm_medium=social&utm_source=syndication",
       "title": "Using JsonPath with System.Text.Json to query JSON in .NET"
+    },
+    "615ba828-ebb8-4bf7-b4e8-634f2efe83ad": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1793820566,
+      "link": "https://www.meziantou.net/sync-vs-async-file-i-o-in-dotnet-raw-throughput-scalability-and-buffer-size.htm?utm_medium=social&utm_source=syndication",
+      "title": "Sync vs Async File I/O in .NET: Raw Throughput, Scalability, and Buffer Size"
     },
     "79429f3e-7781-4012-9f75-ec73b0e98437": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
@@ -7493,6 +7505,12 @@
       "first_seen": 1793249493,
       "link": "http://brooker.co.za/blog/2026/09/28/engineering-system-one.html",
       "title": "Small Decisions: Engineering a Leading Model"
+    },
+    "http://brooker.co.za/blog/2026/10/04/encoders": {
+      "blog_name": "Marc Brooker (AWS/Systems)",
+      "first_seen": 1793820566,
+      "link": "http://brooker.co.za/blog/2026/10/04/encoders.html",
+      "title": "Strands Decider: Why Not an Encoder?"
     },
     "http://brooker.co.za/blog/2026/10/23/animations": {
       "blog_name": "Marc Brooker (AWS/Systems)",
@@ -10410,6 +10428,18 @@
       "link": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
       "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube"
     },
+    "https://simonwillison.net/2026/Nov/3/datasette-agent/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1793820566,
+      "link": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
+      "title": "datasette-agent 0.5a0"
+    },
+    "https://simonwillison.net/2026/Nov/3/llm/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1793820566,
+      "link": "https://simonwillison.net/2026/Nov/3/llm/",
+      "title": "llm 0.37.1"
+    },
     "https://simonwillison.net/2026/Nov/3/october-newsletter/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1793684750,
@@ -10421,6 +10451,18 @@
       "first_seen": 1793733231,
       "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
       "title": "Qwen 3.8 27B on my laptop can interpret model weights, too"
+    },
+    "https://simonwillison.net/2026/Nov/4/datasette-apps/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1793820566,
+      "link": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+      "title": "datasette-apps 0.3a0"
+    },
+    "https://simonwillison.net/2026/Nov/4/datasette-llm/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1793820566,
+      "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+      "title": "datasette-llm 0.1a10"
     },
     "https://simonwillison.net/2026/Oct/1/pwasm/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
