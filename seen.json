@@ -8766,12 +8766,6 @@
       "link": "https://devblogs.microsoft.com/dotnet/unions-and-closed-hierarchies-in-aspnetcore/",
       "title": "Use C# unions and closed hierarchies in ASP.NET Core"
     },
-    "https://devblogs.microsoft.com/dotnet/?p=60962": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1791231906,
-      "link": "https://devblogs.microsoft.com/dotnet/testing-uwp-and-winui-3-apps-with-mstest/",
-      "title": "UWP and WinUI 3 apps: UI testing with MSTest"
-    },
     "https://devblogs.microsoft.com/dotnet/?p=60983": {
       "blog_name": ".NET Blog (Microsoft)",
       "first_seen": 1791309821,
@@ -9666,12 +9660,6 @@
       "link": "https://khalidabuhakmeh.com/posts/collection-expression-arguments-csharp-15/",
       "title": "Collection Expression Arguments Fix the Comparer Problem in C# 15"
     },
-    "https://khalidabuhakmeh.com/posts/convert-a-string-to-an-int-in-csharp/": {
-      "blog_name": "Khalid Abuhakmeh (.NET)",
-      "first_seen": 1791231906,
-      "link": "https://khalidabuhakmeh.com/posts/convert-a-string-to-an-int-in-csharp/",
-      "title": "Convert a String to an Int in C#"
-    },
     "https://khalidabuhakmeh.com/posts/csharp-15-union-workflows/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
       "first_seen": 1791838923,
@@ -9719,12 +9707,6 @@
       "first_seen": 1792513868,
       "link": "https://khalidabuhakmeh.com/posts/minimal-api-validation-localization/",
       "title": "Localize Minimal API Validation Messages in .NET 11"
-    },
-    "https://khalidabuhakmeh.com/posts/rails-developers-map-to-dotnet/": {
-      "blog_name": "Khalid Abuhakmeh (.NET)",
-      "first_seen": 1791231906,
-      "link": "https://khalidabuhakmeh.com/posts/rails-developers-map-to-dotnet/",
-      "title": "Rails to ASP.NET Core: A Developer's Map"
     },
     "https://khalidabuhakmeh.com/posts/server-sent-events-in-aspnet-core-and-dotnet-10/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
@@ -10464,12 +10446,6 @@
       "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
       "title": "datasette-llm 0.1a10"
     },
-    "https://simonwillison.net/2026/Oct/1/pwasm/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791231906,
-      "link": "https://simonwillison.net/2026/Oct/1/pwasm/",
-      "title": "pwasm 0.2a0"
-    },
     "https://simonwillison.net/2026/Oct/10/python-actions/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791693587,
@@ -10764,18 +10740,6 @@
       "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
       "title": "How We Took Over ChatGPT Accounts"
     },
-    "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791231906,
-      "link": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
-      "title": "Qwen3.8 27B addition in words"
-    },
-    "https://simonwillison.net/2026/Oct/5/felix-rieseberg/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791264307,
-      "link": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
-      "title": "Quoting Felix Rieseberg"
-    },
     "https://simonwillison.net/2026/Oct/6/datasette-atom/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791348856,
@@ -10895,12 +10859,6 @@
       "first_seen": 1791522446,
       "link": "https://simonwillison.net/2026/Oct/9/ttok/",
       "title": "ttok 1.0"
-    },
-    "https://simonwillison.net/2026/Sep/28/llm-anthropic/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791231906,
-      "link": "https://simonwillison.net/2026/Sep/28/llm-anthropic/",
-      "title": "llm-anthropic 0.30"
     },
     "https://tkdodo.eu/blog/2021-in-review": {
       "blog_name": "Dominik Dorfmeister (TkDodo)",
