@@ -186,6 +186,12 @@
       "link": "https://nodejs.org/en/blog/announcements/nodejs16-eol",
       "title": "Bringing forward the End-of-Life Date for Node.js 16"
     },
+    "/blog/announcements/notable-v8-changes-from-node-js-26-to-27-alpha?1793880000000": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1793907546,
+      "link": "https://nodejs.org/en/blog/announcements/notable-v8-changes-from-node-js-26-to-27-alpha",
+      "title": "Notable V8 changes from Node.js 26 to 27 (Alpha)"
+    },
     "/blog/announcements/official-discord-launch-announcement": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1791996325,
@@ -7722,12 +7728,6 @@
       "link": "https://andrewlock.net/splitting-the-netescapades-enumgenerators-packages-the-road-to-a-stable-release/",
       "title": "Splitting the NetEscapades.EnumGenerators packages: the road to a stable release"
     },
-    "https://andrewlock.net/stripping-extra-dependencies-in-.net-nativeaot-apps-using-linker-substitutions/": {
-      "blog_name": "Andrew Lock (.NET)",
-      "first_seen": 1791309821,
-      "link": "https://andrewlock.net/stripping-extra-dependencies-in-.net-nativeaot-apps-using-linker-substitutions/",
-      "title": "Stripping extra dependencies in .NET NativeAOT apps using linker substitutions"
-    },
     "https://andrewlock.net/understanding-device-bound-session-credentials/": {
       "blog_name": "Andrew Lock (.NET)",
       "first_seen": 1792121872,
@@ -7895,12 +7895,6 @@
       "first_seen": 1791996325,
       "link": "https://bradfrost.com/blog/post/grief-in-the-ai-age/",
       "title": "Grief in the AI Age"
-    },
-    "https://bradfrost.com/blog/post/laser-storm/": {
-      "blog_name": "Brad Frost (Design Systems)",
-      "first_seen": 1791309821,
-      "link": "https://bradfrost.com/blog/post/laser-storm/",
-      "title": "Laser Storm"
     },
     "https://bradfrost.com/blog/post/last-chance-to-get-our-courses-at-pre-release-prices/": {
       "blog_name": "Brad Frost (Design Systems)",
@@ -8766,12 +8760,6 @@
       "link": "https://devblogs.microsoft.com/dotnet/unions-and-closed-hierarchies-in-aspnetcore/",
       "title": "Use C# unions and closed hierarchies in ASP.NET Core"
     },
-    "https://devblogs.microsoft.com/dotnet/?p=60983": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1791309821,
-      "link": "https://devblogs.microsoft.com/dotnet/faster-lighter-csharp-dev-kit/",
-      "title": "A faster, lighter C# Dev Kit"
-    },
     "https://devblogs.microsoft.com/dotnet/?p=61017": {
       "blog_name": ".NET Blog (Microsoft)",
       "first_seen": 1791838923,
@@ -8837,6 +8825,18 @@
       "first_seen": 1793733231,
       "link": "https://devblogs.microsoft.com/dotnet/delivering-skills-in-nuget-packages/",
       "title": "Delivering Skills in NuGet packages"
+    },
+    "https://devblogs.microsoft.com/dotnet/?p=61184": {
+      "blog_name": ".NET Blog (Microsoft)",
+      "first_seen": 1793907546,
+      "link": "https://devblogs.microsoft.com/dotnet/modernize-dotnet-apps-for-windows-arm64/",
+      "title": "Modernize your .NET apps for Windows Arm64 with GitHub Copilot"
+    },
+    "https://devblogs.microsoft.com/dotnet/?p=61189": {
+      "blog_name": ".NET Blog (Microsoft)",
+      "first_seen": 1793907546,
+      "link": "https://devblogs.microsoft.com/dotnet/dotnet-developer-survey-2026/",
+      "title": "Help Shape the Future of .NET: Take the 2026 .NET Developer Survey"
     },
     "https://heydonworks.com/article/a-double-edged-sword/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
@@ -9077,6 +9077,12 @@
       "first_seen": 1791996325,
       "link": "https://heydonworks.com/article/html-is-broken/",
       "title": "HTML Is Broken"
+    },
+    "https://heydonworks.com/article/i-am-not-an-accessibility-specialist-hire-me/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1793907546,
+      "link": "https://heydonworks.com/article/i-am-not-an-accessibility-specialist-hire-me/",
+      "title": "I am not a developer or an accessibility specialist. Hire me?"
     },
     "https://heydonworks.com/article/i-cant-breathe/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
@@ -9660,6 +9666,12 @@
       "link": "https://khalidabuhakmeh.com/posts/collection-expression-arguments-csharp-15/",
       "title": "Collection Expression Arguments Fix the Comparer Problem in C# 15"
     },
+    "https://khalidabuhakmeh.com/posts/convert-a-string-to-an-int-in-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1793907546,
+      "link": "https://khalidabuhakmeh.com/posts/convert-a-string-to-an-int-in-csharp/",
+      "title": "Convert a String to an Int in C#"
+    },
     "https://khalidabuhakmeh.com/posts/csharp-15-union-workflows/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
       "first_seen": 1791838923,
@@ -9707,6 +9719,12 @@
       "first_seen": 1792513868,
       "link": "https://khalidabuhakmeh.com/posts/minimal-api-validation-localization/",
       "title": "Localize Minimal API Validation Messages in .NET 11"
+    },
+    "https://khalidabuhakmeh.com/posts/rails-developers-map-to-dotnet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1793907546,
+      "link": "https://khalidabuhakmeh.com/posts/rails-developers-map-to-dotnet/",
+      "title": "Rails to ASP.NET Core: A Developer's Map"
     },
     "https://khalidabuhakmeh.com/posts/server-sent-events-in-aspnet-core-and-dotnet-10/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
@@ -9936,6 +9954,12 @@
       "link": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
       "title": "Inside OpenAI\u2019s agentic software factory"
     },
+    "https://newsletter.pragmaticengineer.com/p/scaling-slack-and-github-with-maude": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1793907546,
+      "link": "https://newsletter.pragmaticengineer.com/p/scaling-slack-and-github-with-maude",
+      "title": "Scaling Slack and GitHub with Maude Lemaire"
+    },
     "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1793382525,
@@ -9995,12 +10019,6 @@
       "first_seen": 1792640739,
       "link": "https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering",
       "title": "The revised rules of engineering management with Will Larson"
-    },
-    "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1791309821,
-      "link": "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in",
-      "title": "The state of the tech industry in 2026"
     },
     "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside": {
       "blog_name": "The Pragmatic Engineer",
@@ -10446,6 +10464,12 @@
       "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
       "title": "datasette-llm 0.1a10"
     },
+    "https://simonwillison.net/2026/Nov/5/paul-ford/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1793907546,
+      "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
+      "title": "Quoting Paul Ford"
+    },
     "https://simonwillison.net/2026/Oct/10/python-actions/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791693587,
@@ -10781,12 +10805,6 @@
       "first_seen": 1791348856,
       "link": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
       "title": "llm-openai-decisions 0.1a0"
-    },
-    "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791309821,
-      "link": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
-      "title": "Scrimshaw Jukebox"
     },
     "https://simonwillison.net/2026/Oct/6/victoria-kim/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
