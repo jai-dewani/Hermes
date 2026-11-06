@@ -4230,12 +4230,6 @@
       "link": "https://nodejs.org/en/blog/release/v26.10.0",
       "title": "Node.js 26.10.0 (Current)"
     },
-    "/blog/release/v26.11.0?1791384309757": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1791398181,
-      "link": "https://nodejs.org/en/blog/release/v26.11.0",
-      "title": "Node.js 26.11.0 (Current)"
-    },
     "/blog/release/v26.11.1?1791417386441": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1791435867,
@@ -8046,6 +8040,12 @@
       "link": "https://danluu.com/assembly-intrinsics/",
       "title": "Assembly v. intrinsics"
     },
+    "https://danluu.com/astra-testing/": {
+      "blog_name": "Dan Luu (Hardware/Systems)",
+      "first_seen": 1793991653,
+      "link": "https://danluu.com/astra-testing/",
+      "title": "Test and verification technique effectiveness with GPT-6 Astra"
+    },
     "https://danluu.com/bad-decisions/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
       "first_seen": 1791996325,
@@ -9882,6 +9882,12 @@
       "link": "https://medium.com/@nathanacurtis/implementing-slots-in-a-figma-library-a9d6185318c2?source=rss-799c7c7840a------2",
       "title": "Implementing Slots in a Figma Library"
     },
+    "https://medium.com/p/be82fd4a8c87": {
+      "blog_name": "Angular Blog (Official)",
+      "first_seen": 1793991653,
+      "link": "https://blog.angular.dev/core-vitals-optimization-ssr-deployments-and-signal-first-architecture-be82fd4a8c87?source=rss----447683c3d9a3---4",
+      "title": "Core Vitals Optimization, SSR Deployments, and Signal-First Architecture \u26a1"
+    },
     "https://medium.com/p/e1ffea2303bd": {
       "blog_name": "Angular Blog (Official)",
       "first_seen": 1791996325,
@@ -9935,12 +9941,6 @@
       "first_seen": 1791918046,
       "link": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems",
       "title": "Building resilient AI-powered software, and planning for when things go wrong"
-    },
-    "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1791398181,
-      "link": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
-      "title": "Building resilient systems with Sam Newman"
     },
     "https://newsletter.pragmaticengineer.com/p/design-engineering-with-maggie-appleton": {
       "blog_name": "The Pragmatic Engineer",
@@ -10488,6 +10488,12 @@
       "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
       "title": "Quoting Paul Ford"
     },
+    "https://simonwillison.net/2026/Nov/6/nilay-patel/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1793991653,
+      "link": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+      "title": "Quoting Nilay Patel"
+    },
     "https://simonwillison.net/2026/Oct/10/python-actions/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791693587,
@@ -10782,12 +10788,6 @@
       "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
       "title": "How We Took Over ChatGPT Accounts"
     },
-    "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791398181,
-      "link": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
-      "title": "Anti-Patterns in Software Blogging"
-    },
     "https://simonwillison.net/2026/Oct/7/ben-affleck/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791435867,
@@ -10799,12 +10799,6 @@
       "first_seen": 1791435867,
       "link": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
       "title": "Claude Haiku 5.5"
-    },
-    "https://simonwillison.net/2026/Oct/7/jake-boggan/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791398181,
-      "link": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
-      "title": "Quoting Jake Boggan"
     },
     "https://simonwillison.net/2026/Oct/8/carson-gross/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
