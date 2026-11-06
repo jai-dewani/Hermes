@@ -7728,6 +7728,12 @@
       "link": "https://andrewlock.net/splitting-the-netescapades-enumgenerators-packages-the-road-to-a-stable-release/",
       "title": "Splitting the NetEscapades.EnumGenerators packages: the road to a stable release"
     },
+    "https://andrewlock.net/stripping-extra-dependencies-in-.net-nativeaot-apps-using-linker-substitutions/": {
+      "blog_name": "Andrew Lock (.NET)",
+      "first_seen": 1793943431,
+      "link": "https://andrewlock.net/stripping-extra-dependencies-in-.net-nativeaot-apps-using-linker-substitutions/",
+      "title": "Stripping extra dependencies in .NET NativeAOT apps using linker substitutions"
+    },
     "https://andrewlock.net/understanding-device-bound-session-credentials/": {
       "blog_name": "Andrew Lock (.NET)",
       "first_seen": 1792121872,
@@ -7757,12 +7763,6 @@
       "first_seen": 1791996325,
       "link": "https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/",
       "title": "The Windows File Explorer replacement, File Pilot, is awesome"
-    },
-    "https://azure.microsoft.com/en-us/blog/?p=54330": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1791348856,
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/",
-      "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Global Industrial AIoT Platforms"
     },
     "https://azure.microsoft.com/en-us/blog/?p=54366": {
       "blog_name": "Microsoft Azure Blog",
@@ -7836,6 +7836,12 @@
       "link": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
       "title": "Introducing the Microsoft Copilot harness in Foundry Agent Service"
     },
+    "https://azure.microsoft.com/en-us/blog/?p=54784": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1793943431,
+      "link": "https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/",
+      "title": "Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads"
+    },
     "https://azure.microsoft.com/en-us/blog/?p=54846": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1793769678,
@@ -7895,6 +7901,12 @@
       "first_seen": 1791996325,
       "link": "https://bradfrost.com/blog/post/grief-in-the-ai-age/",
       "title": "Grief in the AI Age"
+    },
+    "https://bradfrost.com/blog/post/laser-storm/": {
+      "blog_name": "Brad Frost (Design Systems)",
+      "first_seen": 1793943431,
+      "link": "https://bradfrost.com/blog/post/laser-storm/",
+      "title": "Laser Storm"
     },
     "https://bradfrost.com/blog/post/last-chance-to-get-our-courses-at-pre-release-prices/": {
       "blog_name": "Brad Frost (Design Systems)",
@@ -10020,6 +10032,12 @@
       "link": "https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering",
       "title": "The revised rules of engineering management with Will Larson"
     },
+    "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1793943431,
+      "link": "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in",
+      "title": "The state of the tech industry in 2026"
+    },
     "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1791996325,
@@ -10764,54 +10782,6 @@
       "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
       "title": "How We Took Over ChatGPT Accounts"
     },
-    "https://simonwillison.net/2026/Oct/6/datasette-atom/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791348856,
-      "link": "https://simonwillison.net/2026/Oct/6/datasette-atom/",
-      "title": "datasette-atom 0.11a0"
-    },
-    "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791348856,
-      "link": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
-      "title": "Using Parseable with Datasette for OpenTelemetry traces"
-    },
-    "https://simonwillison.net/2026/Oct/6/hn-49982139/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791348856,
-      "link": "https://simonwillison.net/2026/Oct/6/hn-49982139/",
-      "title": "Mistral Large 4"
-    },
-    "https://simonwillison.net/2026/Oct/6/hn-49983751/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791348856,
-      "link": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
-      "title": "EmbeddingGemma 2"
-    },
-    "https://simonwillison.net/2026/Oct/6/le-chonk/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791348856,
-      "link": "https://simonwillison.net/2026/Oct/6/le-chonk/",
-      "title": "Introducing Mistral Large 4: Le chonk"
-    },
-    "https://simonwillison.net/2026/Oct/6/llm-mistral/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791348856,
-      "link": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
-      "title": "llm-mistral 0.16"
-    },
-    "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791348856,
-      "link": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
-      "title": "llm-openai-decisions 0.1a0"
-    },
-    "https://simonwillison.net/2026/Oct/6/victoria-kim/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791348856,
-      "link": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
-      "title": "Quoting Victoria Kim"
-    },
     "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791398181,
@@ -10835,12 +10805,6 @@
       "first_seen": 1791398181,
       "link": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
       "title": "Quoting Jake Boggan"
-    },
-    "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791348856,
-      "link": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
-      "title": "OpenAI \u201crogue\u201d agent activities found on Wikimedia projects"
     },
     "https://simonwillison.net/2026/Oct/8/carson-gross/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
