@@ -4230,11 +4230,11 @@
       "link": "https://nodejs.org/en/blog/release/v26.10.0",
       "title": "Node.js 26.10.0 (Current)"
     },
-    "/blog/release/v26.11.1?1791417386441": {
+    "/blog/release/v26.11.0?1791384309757": {
       "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1791435867,
-      "link": "https://nodejs.org/en/blog/release/v26.11.1",
-      "title": "Node.js 26.11.1 (Current)"
+      "first_seen": 1794027957,
+      "link": "https://nodejs.org/en/blog/release/v26.11.0",
+      "title": "Node.js 26.11.0 (Current)"
     },
     "/blog/release/v26.12.0?1791991386239": {
       "blog_name": "Node.js Blog (Official)",
@@ -6485,12 +6485,6 @@
       "first_seen": 1791996325,
       "link": "https://www.meziantou.net/adding-a-clone-method-to-a-csharp-record.htm?utm_medium=social&utm_source=syndication",
       "title": "Adding a Clone method to a C# record"
-    },
-    "a98cd9bd-d1ef-4bf7-a6b8-94bfec99787e": {
-      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
-      "first_seen": 1791435867,
-      "link": "https://www.meziantou.net/run-temporary-containers-in-dotnet-tests-with-meziantou-framework-temporaryconta.htm?utm_medium=social&utm_source=syndication",
-      "title": "Run temporary containers in .NET tests with Meziantou.Framework.TemporaryContainers"
     },
     "bbd64a77-f19c-430c-8a4e-1d29175687ff": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
@@ -9666,6 +9660,12 @@
       "link": "https://khalidabuhakmeh.com/posts/aspnet-core-and-chunking-http-cookies/",
       "title": "ASP.NET Core and Chunking HTTP Cookies"
     },
+    "https://khalidabuhakmeh.com/posts/blazor-render-modes-wasm-server-hybrid/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1794027957,
+      "link": "https://khalidabuhakmeh.com/posts/blazor-render-modes-wasm-server-hybrid/",
+      "title": "Blazor WASM vs Server vs Hybrid: Which Render Mode Should You Use?"
+    },
     "https://khalidabuhakmeh.com/posts/building-a-persistent-counter-with-alpinejs/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
       "first_seen": 1793595434,
@@ -9942,6 +9942,12 @@
       "link": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems",
       "title": "Building resilient AI-powered software, and planning for when things go wrong"
     },
+    "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1794027957,
+      "link": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
+      "title": "Building resilient systems with Sam Newman"
+    },
     "https://newsletter.pragmaticengineer.com/p/design-engineering-with-maggie-appleton": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1792856032,
@@ -9983,6 +9989,12 @@
       "first_seen": 1793297432,
       "link": "https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and",
       "title": "Software engineering at Google & CS education with Titus Winters"
+    },
+    "https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-2027": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1794027957,
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-2027",
+      "title": "The Pragmatic Summit 2027"
     },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-191-a-new-trend-of-cpu": {
       "blog_name": "The Pragmatic Engineer",
@@ -10787,18 +10799,6 @@
       "first_seen": 1793508995,
       "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
       "title": "How We Took Over ChatGPT Accounts"
-    },
-    "https://simonwillison.net/2026/Oct/7/ben-affleck/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791435867,
-      "link": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
-      "title": "Quoting Ben Affleck"
-    },
-    "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791435867,
-      "link": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
-      "title": "Claude Haiku 5.5"
     },
     "https://simonwillison.net/2026/Oct/8/carson-gross/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
