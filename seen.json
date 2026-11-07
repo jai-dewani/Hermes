@@ -4236,6 +4236,12 @@
       "link": "https://nodejs.org/en/blog/release/v26.11.0",
       "title": "Node.js 26.11.0 (Current)"
     },
+    "/blog/release/v26.11.1?1791417386441": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1794072844,
+      "link": "https://nodejs.org/en/blog/release/v26.11.1",
+      "title": "Node.js 26.11.1 (Current)"
+    },
     "/blog/release/v26.12.0?1791991386239": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1791996325,
@@ -6485,6 +6491,12 @@
       "first_seen": 1791996325,
       "link": "https://www.meziantou.net/adding-a-clone-method-to-a-csharp-record.htm?utm_medium=social&utm_source=syndication",
       "title": "Adding a Clone method to a C# record"
+    },
+    "a98cd9bd-d1ef-4bf7-a6b8-94bfec99787e": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1794072844,
+      "link": "https://www.meziantou.net/run-temporary-containers-in-dotnet-tests-with-meziantou-framework-temporaryconta.htm?utm_medium=social&utm_source=syndication",
+      "title": "Run temporary containers in .NET tests with Meziantou.Framework.TemporaryContainers"
     },
     "bbd64a77-f19c-430c-8a4e-1d29175687ff": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
