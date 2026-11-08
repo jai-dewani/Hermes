@@ -7854,6 +7854,12 @@
       "link": "https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/",
       "title": "The Platform Behind the Next AI Breakthrough"
     },
+    "https://azure.microsoft.com/en-us/blog/?p=54939": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1794159869,
+      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032",
+      "title": "Building the next generation of multimodal AI experiences with fal in Microsoft Foundry"
+    },
     "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1792554360,
@@ -10044,6 +10050,12 @@
       "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-firebases-global-outage",
       "title": "The Pulse: Firebase\u2019s global outage & poor response"
     },
+    "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1794159869,
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
+      "title": "The Pulse: new trend of building \u201cinternal vibe-coding apps\u201d at tech companies"
+    },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1792121872,
@@ -10067,12 +10079,6 @@
       "first_seen": 1791996325,
       "link": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
       "title": "Uber\u2019s AI infra, from the inside"
-    },
-    "https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1791522446,
-      "link": "https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews",
-      "title": "What is happening with code reviews?"
     },
     "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers": {
       "blog_name": "The Pragmatic Engineer",
@@ -10818,18 +10824,6 @@
       "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
       "title": "How We Took Over ChatGPT Accounts"
     },
-    "https://simonwillison.net/2026/Oct/8/carson-gross/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791522446,
-      "link": "https://simonwillison.net/2026/Oct/8/carson-gross/",
-      "title": "Quoting Carson Gross"
-    },
-    "https://simonwillison.net/2026/Oct/8/ttok/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791522446,
-      "link": "https://simonwillison.net/2026/Oct/8/ttok/",
-      "title": "ttok 0.4"
-    },
     "https://simonwillison.net/2026/Oct/9/built-using-my-voice/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791569168,
@@ -10847,12 +10841,6 @@
       "first_seen": 1791569168,
       "link": "https://simonwillison.net/2026/Oct/9/matthew-green/",
       "title": "Quoting Matthew Green"
-    },
-    "https://simonwillison.net/2026/Oct/9/ttok/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791522446,
-      "link": "https://simonwillison.net/2026/Oct/9/ttok/",
-      "title": "ttok 1.0"
     },
     "https://tkdodo.eu/blog/2021-in-review": {
       "blog_name": "Dominik Dorfmeister (TkDodo)",
