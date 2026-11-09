@@ -4056,12 +4056,6 @@
       "link": "https://nodejs.org/en/blog/release/v24.20.0",
       "title": "Node.js 24.20.0 (LTS)"
     },
-    "/blog/release/v24.21.0?1788954920945": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1791607980,
-      "link": "https://nodejs.org/en/blog/release/v24.21.0",
-      "title": "Node.js 24.21.0 (LTS)"
-    },
     "/blog/release/v24.22.0?1791991608742": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1791996325,
@@ -4319,12 +4313,6 @@
       "first_seen": 1793074151,
       "link": "https://nodejs.org/en/blog/release/v26.8.1",
       "title": "Node.js 26.8.1 (Current)"
-    },
-    "/blog/release/v26.8.2?1788970157773": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1791607980,
-      "link": "https://nodejs.org/en/blog/release/v26.8.2",
-      "title": "Node.js 26.8.2 (Current)"
     },
     "/blog/release/v26.9.0?1789582662027": {
       "blog_name": "Node.js Blog (Official)",
@@ -7932,11 +7920,11 @@
       "link": "https://bradfrost.com/blog/post/mouth-coding/",
       "title": "Mouth Coding"
     },
-    "https://bradfrost.com/blog/post/our-ai-design-systems-course-is-complete/": {
+    "https://bradfrost.com/blog/post/playing-my-world-helsinki-cathedral/": {
       "blog_name": "Brad Frost (Design Systems)",
-      "first_seen": 1791607980,
-      "link": "https://bradfrost.com/blog/post/our-ai-design-systems-course-is-complete/",
-      "title": "Our AI & Design Systems Course Is COMPLETE!"
+      "first_seen": 1794201015,
+      "link": "https://bradfrost.com/blog/post/playing-my-world-helsinki-cathedral/",
+      "title": "Playing My World: Helsinki Cathedral"
     },
     "https://bradfrost.com/blog/post/things-take-the-time-they-take-a-42nd-thought-at-42/": {
       "blog_name": "Brad Frost (Design Systems)",
@@ -7967,6 +7955,12 @@
       "first_seen": 1793654968,
       "link": "https://bradfrost.com/links/post/github-cli-media-in-issues-pull-requests-and-comments-github-changelog/",
       "title": "GitHub CLI: Media in issues, pull requests, and comments - GitHub Changelog"
+    },
+    "https://bradfrost.com/links/post/in-your-face-meeting-reminder-app-for-mac-windows-iphone-and-ipad-in-your-face/": {
+      "blog_name": "Brad Frost (Design Systems)",
+      "first_seen": 1794201015,
+      "link": "https://bradfrost.com/links/post/in-your-face-meeting-reminder-app-for-mac-windows-iphone-and-ipad-in-your-face/",
+      "title": "In Your Face - Meeting reminder app for Mac, Windows, iPhone, and iPad | In Your Face"
     },
     "https://bradfrost.com/links/post/just-you-wait-by-chris-shiflett/": {
       "blog_name": "Brad Frost (Design Systems)",
@@ -8009,12 +8003,6 @@
       "first_seen": 1791996325,
       "link": "https://danluu.com/3c-conflict/",
       "title": "Data alignment and caches"
-    },
-    "https://danluu.com/agentic-testing/": {
-      "blog_name": "Dan Luu (Hardware/Systems)",
-      "first_seen": 1791607980,
-      "link": "https://danluu.com/agentic-testing/",
-      "title": "How well do agents use test and verification techniques?"
     },
     "https://danluu.com/ai-bias/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
@@ -9822,12 +9810,6 @@
       "link": "https://blog.angular.dev/community-engineering-agentic-coding-and-real-user-component-testing-%EF%B8%8F-15c768142043?source=rss----447683c3d9a3---4",
       "title": "Community Engineering, Agentic Coding, and Real-User Component Testing \ufe0f"
     },
-    "https://medium.com/p/3846cae9283a": {
-      "blog_name": "Angular Blog (Official)",
-      "first_seen": 1791569168,
-      "link": "https://blog.angular.dev/signal-value-transforms-routing-essentials-and-video-extension-with-veo-3846cae9283a?source=rss----447683c3d9a3---4",
-      "title": "Signal Value Transforms, Routing Essentials, and Video Extension with Veo! \u26a1"
-    },
     "https://medium.com/p/39ff8e0271a4": {
       "blog_name": "Angular Blog (Official)",
       "first_seen": 1793595434,
@@ -9953,12 +9935,6 @@
       "first_seen": 1793122781,
       "link": "https://newsletter.pragmaticengineer.com/p/ai-sre",
       "title": "AI SRE: what is it, how could it change on-call \u2013 and does it work?"
-    },
-    "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1791607980,
-      "link": "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux",
-      "title": "Building Codex with Tibo Sottiaux"
     },
     "https://newsletter.pragmaticengineer.com/p/building-resilient-systems": {
       "blog_name": "The Pragmatic Engineer",
@@ -10482,6 +10458,12 @@
       "link": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
       "title": "datasette-agent 0.5a0"
     },
+    "https://simonwillison.net/2026/Nov/3/hn-50354278/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794201015,
+      "link": "https://simonwillison.net/2026/Nov/3/hn-50354278/",
+      "title": "AI is destroying my CS degree"
+    },
     "https://simonwillison.net/2026/Nov/3/llm/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1793820566,
@@ -10524,23 +10506,41 @@
       "link": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
       "title": "Quoting Nilay Patel"
     },
+    "https://simonwillison.net/2026/Nov/7/hn-50407316/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794201015,
+      "link": "https://simonwillison.net/2026/Nov/7/hn-50407316/",
+      "title": "Terry Pratchett's Study"
+    },
     "https://simonwillison.net/2026/Nov/7/link-rel-next/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1794113979,
       "link": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
       "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages"
     },
+    "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794201015,
+      "link": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+      "title": "parse_number() as a SQLite extension: C vs Rust"
+    },
+    "https://simonwillison.net/2026/Nov/9/details-summary/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794201015,
+      "link": "https://simonwillison.net/2026/Nov/9/details-summary/",
+      "title": "Hide your slop PR descriptions behind <details><summary>"
+    },
+    "https://simonwillison.net/2026/Nov/9/hn-50421091/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794201015,
+      "link": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+      "title": "The Web Is More Than Enough, by Paul Ford"
+    },
     "https://simonwillison.net/2026/Oct/10/python-actions/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791693587,
       "link": "https://simonwillison.net/2026/Oct/10/python-actions/",
       "title": "Python 3.15.0 added to actions/python-versions"
-    },
-    "https://simonwillison.net/2026/Oct/10/the-new-york-times/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791607980,
-      "link": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
-      "title": "Quoting The New York Times"
     },
     "https://simonwillison.net/2026/Oct/11/dwarf-fortress/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
@@ -10823,24 +10823,6 @@
       "first_seen": 1793508995,
       "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
       "title": "How We Took Over ChatGPT Accounts"
-    },
-    "https://simonwillison.net/2026/Oct/9/built-using-my-voice/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791569168,
-      "link": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
-      "title": "A new feature for my blog, built using my voice"
-    },
-    "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791607980,
-      "link": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
-      "title": "Deno is joining Cloudflare"
-    },
-    "https://simonwillison.net/2026/Oct/9/matthew-green/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791569168,
-      "link": "https://simonwillison.net/2026/Oct/9/matthew-green/",
-      "title": "Quoting Matthew Green"
     },
     "https://tkdodo.eu/blog/2021-in-review": {
       "blog_name": "Dominik Dorfmeister (TkDodo)",
@@ -11393,12 +11375,6 @@
       "first_seen": 1791996325,
       "link": "https://tkdodo.eu/blog/zustand-and-react-context",
       "title": "Zustand and React Context"
-    },
-    "https://www.robinwieruch.de/agentic-code-review-loop/": {
-      "blog_name": "Robin Wieruch (React/TS)",
-      "first_seen": 1791569168,
-      "link": "https://www.robinwieruch.de/agentic-code-review-loop/",
-      "title": "Toward a Self-Improving Agentic Code Review Loop"
     },
     "https://www.robinwieruch.de/agentic-coding-bet-on-primitives/": {
       "blog_name": "Robin Wieruch (React/TS)",
