@@ -4056,6 +4056,12 @@
       "link": "https://nodejs.org/en/blog/release/v24.20.0",
       "title": "Node.js 24.20.0 (LTS)"
     },
+    "/blog/release/v24.21.0?1788954920945": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1794261703,
+      "link": "https://nodejs.org/en/blog/release/v24.21.0",
+      "title": "Node.js 24.21.0 (LTS)"
+    },
     "/blog/release/v24.22.0?1791991608742": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1791996325,
@@ -4313,6 +4319,12 @@
       "first_seen": 1793074151,
       "link": "https://nodejs.org/en/blog/release/v26.8.1",
       "title": "Node.js 26.8.1 (Current)"
+    },
+    "/blog/release/v26.8.2?1788970157773": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1794261703,
+      "link": "https://nodejs.org/en/blog/release/v26.8.2",
+      "title": "Node.js 26.8.2 (Current)"
     },
     "/blog/release/v26.9.0?1789582662027": {
       "blog_name": "Node.js Blog (Official)",
@@ -6450,6 +6462,12 @@
       "link": "https://www.meziantou.net/limit-what-nuget-packages-can-do-in-your-project.htm?utm_medium=social&utm_source=syndication",
       "title": "Limit what NuGet packages can do in your project"
     },
+    "420637e0-ec92-487f-9503-9f959ddc9a3e": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1794261703,
+      "link": "https://www.meziantou.net/speed-up-ci-builds-with-meziantou-deltabuild.htm?utm_medium=social&utm_source=syndication",
+      "title": "Speed up CI builds with Meziantou.DeltaBuild"
+    },
     "5ea8dd48-6ec5-476d-8d39-b9dce811bcc7": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1792687718,
@@ -7920,6 +7938,12 @@
       "link": "https://bradfrost.com/blog/post/mouth-coding/",
       "title": "Mouth Coding"
     },
+    "https://bradfrost.com/blog/post/our-ai-design-systems-course-is-complete/": {
+      "blog_name": "Brad Frost (Design Systems)",
+      "first_seen": 1794261703,
+      "link": "https://bradfrost.com/blog/post/our-ai-design-systems-course-is-complete/",
+      "title": "Our AI & Design Systems Course Is COMPLETE!"
+    },
     "https://bradfrost.com/blog/post/playing-my-world-helsinki-cathedral/": {
       "blog_name": "Brad Frost (Design Systems)",
       "first_seen": 1794201015,
@@ -8003,6 +8027,12 @@
       "first_seen": 1791996325,
       "link": "https://danluu.com/3c-conflict/",
       "title": "Data alignment and caches"
+    },
+    "https://danluu.com/agentic-testing/": {
+      "blog_name": "Dan Luu (Hardware/Systems)",
+      "first_seen": 1794261703,
+      "link": "https://danluu.com/agentic-testing/",
+      "title": "How well do agents use test and verification techniques?"
     },
     "https://danluu.com/ai-bias/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
@@ -9810,6 +9840,12 @@
       "link": "https://blog.angular.dev/community-engineering-agentic-coding-and-real-user-component-testing-%EF%B8%8F-15c768142043?source=rss----447683c3d9a3---4",
       "title": "Community Engineering, Agentic Coding, and Real-User Component Testing \ufe0f"
     },
+    "https://medium.com/p/3846cae9283a": {
+      "blog_name": "Angular Blog (Official)",
+      "first_seen": 1794261703,
+      "link": "https://blog.angular.dev/signal-value-transforms-routing-essentials-and-video-extension-with-veo-3846cae9283a?source=rss----447683c3d9a3---4",
+      "title": "Signal Value Transforms, Routing Essentials, and Video Extension with Veo! \u26a1"
+    },
     "https://medium.com/p/39ff8e0271a4": {
       "blog_name": "Angular Blog (Official)",
       "first_seen": 1793595434,
@@ -11375,6 +11411,12 @@
       "first_seen": 1791996325,
       "link": "https://tkdodo.eu/blog/zustand-and-react-context",
       "title": "Zustand and React Context"
+    },
+    "https://www.robinwieruch.de/agentic-code-review-loop/": {
+      "blog_name": "Robin Wieruch (React/TS)",
+      "first_seen": 1794261703,
+      "link": "https://www.robinwieruch.de/agentic-code-review-loop/",
+      "title": "Toward a Self-Improving Agentic Code Review Loop"
     },
     "https://www.robinwieruch.de/agentic-coding-bet-on-primitives/": {
       "blog_name": "Robin Wieruch (React/TS)",
