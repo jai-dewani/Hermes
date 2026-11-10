@@ -7962,12 +7962,6 @@
       "link": "https://bradfrost.com/links/post/backyard-designers-draft-your-dream-design-team/",
       "title": "Backyard Designers: Draft Your Dream Design Team"
     },
-    "https://bradfrost.com/links/post/code-snack/": {
-      "blog_name": "Brad Frost (Design Systems)",
-      "first_seen": 1791739728,
-      "link": "https://bradfrost.com/links/post/code-snack/",
-      "title": "Code Snack"
-    },
     "https://bradfrost.com/links/post/design-system-maturity-model-zeroheight/": {
       "blog_name": "Brad Frost (Design Systems)",
       "first_seen": 1791996325,
@@ -8802,12 +8796,6 @@
       "link": "https://danluu.com/zitron/",
       "title": "Ed Zitron's AI prediction track record"
     },
-    "https://devblogs.microsoft.com/dotnet/?p=60726": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1791739728,
-      "link": "https://devblogs.microsoft.com/dotnet/unions-and-closed-hierarchies-in-aspnetcore/",
-      "title": "Use C# unions and closed hierarchies in ASP.NET Core"
-    },
     "https://devblogs.microsoft.com/dotnet/?p=61017": {
       "blog_name": ".NET Blog (Microsoft)",
       "first_seen": 1791838923,
@@ -8885,6 +8873,18 @@
       "first_seen": 1793907546,
       "link": "https://devblogs.microsoft.com/dotnet/dotnet-developer-survey-2026/",
       "title": "Help Shape the Future of .NET: Take the 2026 .NET Developer Survey"
+    },
+    "https://devblogs.microsoft.com/dotnet/?p=61205": {
+      "blog_name": ".NET Blog (Microsoft)",
+      "first_seen": 1794338777,
+      "link": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+      "title": "Announcing .NET 11"
+    },
+    "https://devblogs.microsoft.com/dotnet/?p=61211": {
+      "blog_name": ".NET Blog (Microsoft)",
+      "first_seen": 1794338777,
+      "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2026-servicing-updates/",
+      "title": ".NET and .NET Framework November 2026 servicing updates"
     },
     "https://heydonworks.com/article/a-double-edged-sword/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
@@ -9732,6 +9732,12 @@
       "link": "https://khalidabuhakmeh.com/posts/csharp-15-union-workflows/",
       "title": "C# 15 Union Types: Build Serializable Workflows"
     },
+    "https://khalidabuhakmeh.com/posts/csharp-cheat-sheet/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1794338777,
+      "link": "https://khalidabuhakmeh.com/posts/csharp-cheat-sheet/",
+      "title": "C# Cheat Sheet: Modern Syntax Reference with Examples"
+    },
     "https://khalidabuhakmeh.com/posts/directory-build-props-share-settings-across-dotnet-projects/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
       "first_seen": 1791838923,
@@ -10020,6 +10026,12 @@
       "link": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
       "title": "Why has Shopify dropped React Native?"
     },
+    "https://newsletter.pragmaticengineer.com/p/software-correctness": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1794338777,
+      "link": "https://newsletter.pragmaticengineer.com/p/software-correctness",
+      "title": "Software correctness & supply chain security, with Sean Allen"
+    },
     "https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1793297432,
@@ -10031,12 +10043,6 @@
       "first_seen": 1794027957,
       "link": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-2027",
       "title": "The Pragmatic Summit 2027"
-    },
-    "https://newsletter.pragmaticengineer.com/p/the-pulse-191-a-new-trend-of-cpu": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1791739728,
-      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-191-a-new-trend-of-cpu",
-      "title": "The Pulse #191: a new trend of CPU shortages"
     },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding": {
       "blog_name": "The Pragmatic Engineer",
@@ -10470,11 +10476,23 @@
       "link": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
       "title": "Quoting Kyle Kingsbury"
     },
+    "https://simonwillison.net/2026/Nov/10/muse-ember/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794338777,
+      "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember"
+    },
     "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1794291934,
       "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
       "title": "Quoting Prompting Claude Fable 5.2"
+    },
+    "https://simonwillison.net/2026/Nov/10/yonkers-rises/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794338777,
+      "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
+      "title": "Yonkers Rises"
     },
     "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
