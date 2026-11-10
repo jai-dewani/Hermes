@@ -10470,6 +10470,12 @@
       "link": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
       "title": "Quoting Kyle Kingsbury"
     },
+    "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794291934,
+      "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+      "title": "Quoting Prompting Claude Fable 5.2"
+    },
     "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1793654968,
@@ -10572,17 +10578,17 @@
       "link": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
       "title": "The Web Is More Than Enough, by Paul Ford"
     },
-    "https://simonwillison.net/2026/Oct/10/python-actions/": {
+    "https://simonwillison.net/2026/Nov/9/llm-anthropic/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791693587,
-      "link": "https://simonwillison.net/2026/Oct/10/python-actions/",
-      "title": "Python 3.15.0 added to actions/python-versions"
+      "first_seen": 1794291934,
+      "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+      "title": "llm-anthropic 0.31"
     },
-    "https://simonwillison.net/2026/Oct/11/dwarf-fortress/": {
+    "https://simonwillison.net/2026/Nov/9/mysterious-beeps/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791693587,
-      "link": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
-      "title": "Dwarf Fortress uses version control now"
+      "first_seen": 1794291934,
+      "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "title": "Locating the source of a mysterious beep with Claude"
     },
     "https://simonwillison.net/2026/Oct/12/datasette-ports/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
