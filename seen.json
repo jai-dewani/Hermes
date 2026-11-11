@@ -3798,6 +3798,12 @@
       "link": "https://nodejs.org/en/blog/release/v22.23.4",
       "title": "Node.js 22.23.4 (LTS)"
     },
+    "/blog/release/v22.23.5?1794415498310": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1794424888,
+      "link": "https://nodejs.org/en/blog/release/v22.23.5",
+      "title": "Node.js 22.23.5 (LTS)"
+    },
     "/blog/release/v22.3.0": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1791996325,
@@ -4080,6 +4086,12 @@
       "link": "https://nodejs.org/en/blog/release/v24.22.2",
       "title": "Node.js 24.22.2 (LTS)"
     },
+    "/blog/release/v24.22.3?1794415511877": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1794424888,
+      "link": "https://nodejs.org/en/blog/release/v24.22.3",
+      "title": "Node.js 24.22.3 (LTS)"
+    },
     "/blog/release/v24.3.0?1750806350672": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1791996325,
@@ -4259,6 +4271,12 @@
       "first_seen": 1793210486,
       "link": "https://nodejs.org/en/blog/release/v26.13.0",
       "title": "Node.js 26.13.0 (LTS)"
+    },
+    "/blog/release/v26.13.1?1794415520703": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1794424888,
+      "link": "https://nodejs.org/en/blog/release/v26.13.1",
+      "title": "Node.js 26.13.1 (LTS)"
     },
     "/blog/release/v26.2.0?1779282208511": {
       "blog_name": "Node.js Blog (Official)",
@@ -5829,6 +5847,12 @@
     "/blog/vulnerability/november-2026-security-releases?1793746800000": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1793820566,
+      "link": "https://nodejs.org/en/blog/vulnerability/november-2026-security-releases",
+      "title": "Wednesday, November 11, 2026 Security Releases"
+    },
+    "/blog/vulnerability/november-2026-security-releases?1794355200000": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1794424888,
       "link": "https://nodejs.org/en/blog/vulnerability/november-2026-security-releases",
       "title": "Wednesday, November 11, 2026 Security Releases"
     },
@@ -10505,6 +10529,24 @@
       "first_seen": 1794338777,
       "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
       "title": "Yonkers Rises"
+    },
+    "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794424888,
+      "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+      "title": "Anthropic's IPO roadshow video"
+    },
+    "https://simonwillison.net/2026/Nov/11/llm/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794424888,
+      "link": "https://simonwillison.net/2026/Nov/11/llm/",
+      "title": "llm 0.37.2"
+    },
+    "https://simonwillison.net/2026/Nov/11/tools-tags/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794424888,
+      "link": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+      "title": "Browse tools.simonwillison.net by tag"
     },
     "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
