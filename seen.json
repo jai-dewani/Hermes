@@ -7962,6 +7962,12 @@
       "link": "https://bradfrost.com/links/post/backyard-designers-draft-your-dream-design-team/",
       "title": "Backyard Designers: Draft Your Dream Design Team"
     },
+    "https://bradfrost.com/links/post/code-snack/": {
+      "blog_name": "Brad Frost (Design Systems)",
+      "first_seen": 1794373897,
+      "link": "https://bradfrost.com/links/post/code-snack/",
+      "title": "Code Snack"
+    },
     "https://bradfrost.com/links/post/design-system-maturity-model-zeroheight/": {
       "blog_name": "Brad Frost (Design Systems)",
       "first_seen": 1791996325,
@@ -10475,6 +10481,12 @@
       "first_seen": 1793555036,
       "link": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
       "title": "Quoting Kyle Kingsbury"
+    },
+    "https://simonwillison.net/2026/Nov/10/llm-gemini/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794373897,
+      "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+      "title": "llm-gemini 0.36"
     },
     "https://simonwillison.net/2026/Nov/10/muse-ember/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
