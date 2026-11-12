@@ -7794,12 +7794,6 @@
       "link": "https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/",
       "title": "The Windows File Explorer replacement, File Pilot, is awesome"
     },
-    "https://azure.microsoft.com/en-us/blog/?p=54429": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1791871000,
-      "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
-      "title": "Deep dive into Azure Maia 300 architecture"
-    },
     "https://azure.microsoft.com/en-us/blog/?p=54448": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1792121872,
@@ -7901,12 +7895,6 @@
       "first_seen": 1792727397,
       "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
       "title": "Evolving the cloud-native foundation for the next generation of AI"
-    },
-    "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1791871000,
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/",
-      "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Global Industrial AIoT Platforms"
     },
     "https://bradfrost.com/blog/post/adaptability-curiosity-creative-breadth-with-brendan-dawes/": {
       "blog_name": "Brad Frost (Design Systems)",
@@ -8825,12 +8813,6 @@
       "first_seen": 1793595434,
       "link": "https://danluu.com/zitron/",
       "title": "Ed Zitron's AI prediction track record"
-    },
-    "https://devblogs.microsoft.com/dotnet/?p=61017": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1791838923,
-      "link": "https://devblogs.microsoft.com/dotnet/durable-task-in-the-real-world/",
-      "title": "Durable Task in the Real World: What Problems Does It Actually Solve?"
     },
     "https://devblogs.microsoft.com/dotnet/?p=61028": {
       "blog_name": ".NET Blog (Microsoft)",
@@ -9756,23 +9738,11 @@
       "link": "https://khalidabuhakmeh.com/posts/convert-a-string-to-an-int-in-csharp/",
       "title": "Convert a String to an Int in C#"
     },
-    "https://khalidabuhakmeh.com/posts/csharp-15-union-workflows/": {
-      "blog_name": "Khalid Abuhakmeh (.NET)",
-      "first_seen": 1791838923,
-      "link": "https://khalidabuhakmeh.com/posts/csharp-15-union-workflows/",
-      "title": "C# 15 Union Types: Build Serializable Workflows"
-    },
     "https://khalidabuhakmeh.com/posts/csharp-cheat-sheet/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
       "first_seen": 1794338777,
       "link": "https://khalidabuhakmeh.com/posts/csharp-cheat-sheet/",
       "title": "C# Cheat Sheet: Modern Syntax Reference with Examples"
-    },
-    "https://khalidabuhakmeh.com/posts/directory-build-props-share-settings-across-dotnet-projects/": {
-      "blog_name": "Khalid Abuhakmeh (.NET)",
-      "first_seen": 1791838923,
-      "link": "https://khalidabuhakmeh.com/posts/directory-build-props-share-settings-across-dotnet-projects/",
-      "title": "Directory.Build.props: Share Settings Across .NET Projects"
     },
     "https://khalidabuhakmeh.com/posts/dynamic-htmx-islands-with-aspnet-core/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
@@ -10536,6 +10506,18 @@
       "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
       "title": "Anthropic's IPO roadshow video"
     },
+    "https://simonwillison.net/2026/Nov/11/aws-emulator/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794464124,
+      "link": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+      "title": "aws-emulator"
+    },
+    "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794464124,
+      "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+      "title": "Gemini Decisions API"
+    },
     "https://simonwillison.net/2026/Nov/11/llm/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1794424888,
@@ -10662,12 +10644,6 @@
       "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
       "title": "Locating the source of a mysterious beep with Claude"
     },
-    "https://simonwillison.net/2026/Oct/12/datasette-ports/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791838923,
-      "link": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
-      "title": "datasette-ports 0.4"
-    },
     "https://simonwillison.net/2026/Oct/12/llm-meta-ai/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1791950371,
@@ -10679,18 +10655,6 @@
       "first_seen": 1791950371,
       "link": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
       "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps"
-    },
-    "https://simonwillison.net/2026/Oct/12/python-3-15/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791838923,
-      "link": "https://simonwillison.net/2026/Oct/12/python-3-15/",
-      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11"
-    },
-    "https://simonwillison.net/2026/Oct/12/web-edit/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791871000,
-      "link": "https://simonwillison.net/2026/Oct/12/web-edit/",
-      "title": "web-edit 0.1a0"
     },
     "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
