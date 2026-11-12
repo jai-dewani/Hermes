@@ -4356,6 +4356,12 @@
       "link": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.0.0",
       "title": "Node.js 27.0.0-alpha.0.0.0 (Alpha)"
     },
+    "/blog/release/v27.0.0-alpha.0.1.0?1794490570130": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1794512383,
+      "link": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.0",
+      "title": "Node.js 27.0.0-alpha.0.1.0 (Alpha)"
+    },
     "/blog/release/v4.0.0": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1791996325,
@@ -9726,23 +9732,29 @@
       "link": "https://khalidabuhakmeh.com/posts/building-a-persistent-counter-with-alpinejs/",
       "title": "Building a Persistent Counter with Alpine.Js"
     },
-    "https://khalidabuhakmeh.com/posts/collection-expression-arguments-csharp-15/": {
-      "blog_name": "Khalid Abuhakmeh (.NET)",
-      "first_seen": 1791918046,
-      "link": "https://khalidabuhakmeh.com/posts/collection-expression-arguments-csharp-15/",
-      "title": "Collection Expression Arguments Fix the Comparer Problem in C# 15"
-    },
     "https://khalidabuhakmeh.com/posts/convert-a-string-to-an-int-in-csharp/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
       "first_seen": 1793907546,
       "link": "https://khalidabuhakmeh.com/posts/convert-a-string-to-an-int-in-csharp/",
       "title": "Convert a String to an Int in C#"
     },
+    "https://khalidabuhakmeh.com/posts/csharp-15-union-workflows/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1794512383,
+      "link": "https://khalidabuhakmeh.com/posts/csharp-15-union-workflows/",
+      "title": "C# 15 Union Types: Build Serializable Workflows"
+    },
     "https://khalidabuhakmeh.com/posts/csharp-cheat-sheet/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
       "first_seen": 1794338777,
       "link": "https://khalidabuhakmeh.com/posts/csharp-cheat-sheet/",
       "title": "C# Cheat Sheet: Modern Syntax Reference with Examples"
+    },
+    "https://khalidabuhakmeh.com/posts/directory-build-props-share-settings-across-dotnet-projects/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1794512383,
+      "link": "https://khalidabuhakmeh.com/posts/directory-build-props-share-settings-across-dotnet-projects/",
+      "title": "Directory.Build.props: Share Settings Across .NET Projects"
     },
     "https://khalidabuhakmeh.com/posts/dynamic-htmx-islands-with-aspnet-core/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
@@ -9803,12 +9815,6 @@
       "first_seen": 1793595434,
       "link": "https://khalidabuhakmeh.com/posts/strongly-typed-markdown-for-aspnet-core-content-apps/",
       "title": "Strongly-Typed Markdown for ASP.NET Core Content Apps"
-    },
-    "https://khalidabuhakmeh.com/posts/swap-system-text-json-for-redox-minimal-api/": {
-      "blog_name": "Khalid Abuhakmeh (.NET)",
-      "first_seen": 1791918046,
-      "link": "https://khalidabuhakmeh.com/posts/swap-system-text-json-for-redox-minimal-api/",
-      "title": "Swap System.Text.Json for REDox in a Minimal API"
     },
     "https://khalidabuhakmeh.com/posts/the-curious-case-of-dotnet-concurrentdictionary-and-closures/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
@@ -9978,12 +9984,6 @@
       "link": "https://newsletter.pragmaticengineer.com/p/ai-sre",
       "title": "AI SRE: what is it, how could it change on-call \u2013 and does it work?"
     },
-    "https://newsletter.pragmaticengineer.com/p/building-resilient-systems": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1791918046,
-      "link": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems",
-      "title": "Building resilient AI-powered software, and planning for when things go wrong"
-    },
     "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1794027957,
@@ -10079,6 +10079,12 @@
       "first_seen": 1792121872,
       "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
       "title": "The Pulse: OpenAI software engineer accused of spying"
+    },
+    "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1794512383,
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114",
+      "title": "The Pulse: What can we learn from the Railway hack?"
     },
     "https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering": {
       "blog_name": "The Pragmatic Engineer",
@@ -10655,12 +10661,6 @@
       "first_seen": 1791950371,
       "link": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
       "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps"
-    },
-    "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791918046,
-      "link": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
-      "title": "Quoting Geoffrey Huntley"
     },
     "https://simonwillison.net/2026/Oct/13/llm-gemini/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
