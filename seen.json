@@ -8820,18 +8820,6 @@
       "link": "https://danluu.com/zitron/",
       "title": "Ed Zitron's AI prediction track record"
     },
-    "https://devblogs.microsoft.com/dotnet/?p=61028": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1791950371,
-      "link": "https://devblogs.microsoft.com/dotnet/dotnet-11-rc-2/",
-      "title": "Announcing .NET 11 Release Candidate 2"
-    },
-    "https://devblogs.microsoft.com/dotnet/?p=61032": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1791950371,
-      "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2026-servicing-updates/",
-      "title": ".NET and .NET Framework October 2026 servicing releases updates"
-    },
     "https://devblogs.microsoft.com/dotnet/?p=61046": {
       "blog_name": ".NET Blog (Microsoft)",
       "first_seen": 1792121872,
@@ -9732,6 +9720,12 @@
       "link": "https://khalidabuhakmeh.com/posts/building-a-persistent-counter-with-alpinejs/",
       "title": "Building a Persistent Counter with Alpine.Js"
     },
+    "https://khalidabuhakmeh.com/posts/collection-expression-arguments-csharp-15/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1794548226,
+      "link": "https://khalidabuhakmeh.com/posts/collection-expression-arguments-csharp-15/",
+      "title": "Collection Expression Arguments Fix the Comparer Problem in C# 15"
+    },
     "https://khalidabuhakmeh.com/posts/convert-a-string-to-an-int-in-csharp/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
       "first_seen": 1793907546,
@@ -9749,6 +9743,12 @@
       "first_seen": 1794338777,
       "link": "https://khalidabuhakmeh.com/posts/csharp-cheat-sheet/",
       "title": "C# Cheat Sheet: Modern Syntax Reference with Examples"
+    },
+    "https://khalidabuhakmeh.com/posts/csharp-read-excel-file/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1794548226,
+      "link": "https://khalidabuhakmeh.com/posts/csharp-read-excel-file/",
+      "title": "Read an Excel File in C#: ExcelDataReader, ClosedXML, and No-Library OpenXML"
     },
     "https://khalidabuhakmeh.com/posts/directory-build-props-share-settings-across-dotnet-projects/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
@@ -9815,6 +9815,12 @@
       "first_seen": 1793595434,
       "link": "https://khalidabuhakmeh.com/posts/strongly-typed-markdown-for-aspnet-core-content-apps/",
       "title": "Strongly-Typed Markdown for ASP.NET Core Content Apps"
+    },
+    "https://khalidabuhakmeh.com/posts/swap-system-text-json-for-redox-minimal-api/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1794548226,
+      "link": "https://khalidabuhakmeh.com/posts/swap-system-text-json-for-redox-minimal-api/",
+      "title": "Swap System.Text.Json for REDox in a Minimal API"
     },
     "https://khalidabuhakmeh.com/posts/the-curious-case-of-dotnet-concurrentdictionary-and-closures/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
@@ -9983,6 +9989,12 @@
       "first_seen": 1793122781,
       "link": "https://newsletter.pragmaticengineer.com/p/ai-sre",
       "title": "AI SRE: what is it, how could it change on-call \u2013 and does it work?"
+    },
+    "https://newsletter.pragmaticengineer.com/p/building-resilient-systems": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1794548226,
+      "link": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems",
+      "title": "Building resilient AI-powered software, and planning for when things go wrong"
     },
     "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam": {
       "blog_name": "The Pragmatic Engineer",
@@ -10536,6 +10548,12 @@
       "link": "https://simonwillison.net/2026/Nov/11/tools-tags/",
       "title": "Browse tools.simonwillison.net by tag"
     },
+    "https://simonwillison.net/2026/Nov/12/llm-gemini/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794548226,
+      "link": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+      "title": "llm-gemini 0.37"
+    },
     "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1793654968,
@@ -10649,36 +10667,6 @@
       "first_seen": 1794291934,
       "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
       "title": "Locating the source of a mysterious beep with Claude"
-    },
-    "https://simonwillison.net/2026/Oct/12/llm-meta-ai/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791950371,
-      "link": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
-      "title": "llm-meta-ai 0.2"
-    },
-    "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791950371,
-      "link": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
-      "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps"
-    },
-    "https://simonwillison.net/2026/Oct/13/llm-gemini/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791950371,
-      "link": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
-      "title": "llm-gemini 0.35"
-    },
-    "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791950371,
-      "link": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
-      "title": "Redesigning source control at Anthropic"
-    },
-    "https://simonwillison.net/2026/Oct/13/web-edit/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1791950371,
-      "link": "https://simonwillison.net/2026/Oct/13/web-edit/",
-      "title": "web-edit 0.1a1"
     },
     "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
