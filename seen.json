@@ -360,12 +360,6 @@
       "link": "https://nodejs.org/en/blog/events/collab-summit-2026-london",
       "title": "Trip report: Node.js collaboration summit (2026 London)"
     },
-    "/blog/events/nodejs-interactive-2026?1786665600000": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1792081866,
-      "link": "https://nodejs.org/en/blog/events/nodejs-interactive-2026",
-      "title": "Node.js Interactive 2026: A Recap"
-    },
     "/blog/feature/streams2": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1794634049,
@@ -6522,6 +6516,12 @@
       "link": "https://www.meziantou.net/generate-and-review-the-public-api-of-a-dotnet-library.htm?utm_medium=social&utm_source=syndication",
       "title": "Generate and review the public API of a .NET library"
     },
+    "d6dbd2bc-76f7-470e-8c6c-94d5e4286f8a": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1794678327,
+      "link": "https://www.meziantou.net/xpath-for-custom-types-in-dotnet.htm?utm_medium=social&utm_source=syndication",
+      "title": "XPath for custom types in .NET"
+    },
     "dd769ed6-0683-4175-a37b-3e8f85515331": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1793555036,
@@ -10049,12 +10049,6 @@
       "first_seen": 1794291934,
       "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
       "title": "Locating the source of a mysterious beep with Claude"
-    },
-    "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1792081866,
-      "link": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO"
     },
     "https://simonwillison.net/2026/Oct/15/chirp-pong/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
