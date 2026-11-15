@@ -7746,6 +7746,12 @@
       "link": "https://andrewlock.net/stripping-extra-dependencies-in-.net-nativeaot-apps-using-linker-substitutions/",
       "title": "Stripping extra dependencies in .NET NativeAOT apps using linker substitutions"
     },
+    "https://andrewlock.net/understanding-device-bound-session-credentials/": {
+      "blog_name": "Andrew Lock (.NET)",
+      "first_seen": 1794767772,
+      "link": "https://andrewlock.net/understanding-device-bound-session-credentials/",
+      "title": "Understanding Device Bound Session Credentials (DBSC)"
+    },
     "https://andrewlock.net/understanding-lazy-thread-safety-modes/": {
       "blog_name": "Andrew Lock (.NET)",
       "first_seen": 1793733231,
@@ -7763,12 +7769,6 @@
       "first_seen": 1792294488,
       "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
       "title": "Evolving the cloud-native foundation for the next generation of AI"
-    },
-    "https://azure.microsoft.com/en-us/blog/?p=54576": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1792167365,
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/",
-      "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Server Virtualization Platforms"
     },
     "https://azure.microsoft.com/en-us/blog/?p=54636": {
       "blog_name": "Microsoft Azure Blog",
@@ -8808,17 +8808,689 @@
       "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2026-servicing-updates/",
       "title": ".NET and .NET Framework November 2026 servicing updates"
     },
+    "https://heydonworks.com/article/a-double-edged-sword/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/a-double-edged-sword/",
+      "title": "A Double Edged Sword"
+    },
+    "https://heydonworks.com/article/a-free-icon-web-font/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/a-free-icon-web-font/",
+      "title": "A Free Icon Web Font"
+    },
+    "https://heydonworks.com/article/a-minute-of-listening/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/a-minute-of-listening/",
+      "title": "A Minute Of Listening"
+    },
+    "https://heydonworks.com/article/a-perch-xml-sitemap/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/a-perch-xml-sitemap/",
+      "title": "A Perch XML Sitemap"
+    },
+    "https://heydonworks.com/article/accessibility-the-free-market-and-punching-nazis-while-sitting-down/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/accessibility-the-free-market-and-punching-nazis-while-sitting-down/",
+      "title": "Accessibility, The Free Market, and Punching Nazis While Sitting Down"
+    },
+    "https://heydonworks.com/article/accessible-buttons-jquery-plugin/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/accessible-buttons-jquery-plugin/",
+      "title": "Accessible Buttons Jquery Plugin"
+    },
+    "https://heydonworks.com/article/accessible-rick-rolling/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/accessible-rick-rolling/",
+      "title": "Accessible Rickrolling"
+    },
+    "https://heydonworks.com/article/accessible-text-replacement/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/accessible-text-replacement/",
+      "title": "Accessible Text Replacement"
+    },
+    "https://heydonworks.com/article/advertising-on-this-blog/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/advertising-on-this-blog/",
+      "title": "Advertising? On my blog?"
+    },
+    "https://heydonworks.com/article/an-album-for-a11y/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/an-album-for-a11y/",
+      "title": "An album for a11y"
+    },
+    "https://heydonworks.com/article/an-app-icon-font/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/an-app-icon-font/",
+      "title": "An App Icon Font"
+    },
+    "https://heydonworks.com/article/an-open-data-logo/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/an-open-data-logo/",
+      "title": "An Open Data Logo"
+    },
+    "https://heydonworks.com/article/apps-for-all:-praise-and-errata/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/apps-for-all:-praise-and-errata/",
+      "title": "Apps For All: Praise And Errata"
+    },
+    "https://heydonworks.com/article/aria-controls-is-poop/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/aria-controls-is-poop/",
+      "title": "Aria-Controls is Poop"
+    },
+    "https://heydonworks.com/article/aria-label-is-a-xenophobe/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/aria-label-is-a-xenophobe/",
+      "title": "aria-label is a xenophobe"
+    },
+    "https://heydonworks.com/article/auticons/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/auticons/",
+      "title": "Auticons"
+    },
+    "https://heydonworks.com/article/bobby-howitzer/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/bobby-howitzer/",
+      "title": "Bobby Howitzer"
+    },
+    "https://heydonworks.com/article/burnout-and-ambient-music/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/burnout-and-ambient-music/",
+      "title": "Ambient Burnout"
+    },
+    "https://heydonworks.com/article/can't-touch-me/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/can't-touch-me/",
+      "title": "Can't Touch Me"
+    },
+    "https://heydonworks.com/article/centennial-by-agonyst/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/centennial-by-agonyst/",
+      "title": "Centennial By Agonyst"
+    },
+    "https://heydonworks.com/article/confessions-of-a-css-expert/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/confessions-of-a-css-expert/",
+      "title": "Confessions Of A CSS Expert"
+    },
+    "https://heydonworks.com/article/css-is-not-simple/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/css-is-not-simple/",
+      "title": "CSS Is Not Simple"
+    },
+    "https://heydonworks.com/article/css:-a-new-kind-of-javascript/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/css:-a-new-kind-of-javascript/",
+      "title": "CSS: A New Kind Of JavaScript"
+    },
+    "https://heydonworks.com/article/design-clients-on-famous-logotypes/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/design-clients-on-famous-logotypes/",
+      "title": "Design Clients On Famous Logotypes"
+    },
+    "https://heydonworks.com/article/design-tokens-in-eleventy/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/design-tokens-in-eleventy/",
+      "title": "Easily Use Design Tokens In Eleventy"
+    },
+    "https://heydonworks.com/article/designer-is-not-a-profession/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/designer-is-not-a-profession/",
+      "title": "Designer Is Not A Profession"
+    },
+    "https://heydonworks.com/article/developer-fallacies/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/developer-fallacies/",
+      "title": "Developer Fallacies"
+    },
+    "https://heydonworks.com/article/dilapidated/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/dilapidated/",
+      "title": "Dilapidated"
+    },
+    "https://heydonworks.com/article/display:-none-issues/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/display:-none-issues/",
+      "title": "Display: None Issues"
+    },
+    "https://heydonworks.com/article/dynamically-loading-custom-elements/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/dynamically-loading-custom-elements/",
+      "title": "How To Dynamically Install Custom Elements"
+    },
+    "https://heydonworks.com/article/every-layout-is-released:-some-facts/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/every-layout-is-released:-some-facts/",
+      "title": "Every Layout Is Released: Some Facts"
+    },
+    "https://heydonworks.com/article/facebook-withdraws-react/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/facebook-withdraws-react/",
+      "title": "Facebook Withdraws React"
+    },
+    "https://heydonworks.com/article/flexbox-grid-finesse/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/flexbox-grid-finesse/",
+      "title": "Flexbox Grid Finesse"
+    },
+    "https://heydonworks.com/article/font-hacking/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/font-hacking/",
+      "title": "Font Hacking"
+    },
+    "https://heydonworks.com/article/frame-based-animation-with-sass/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/frame-based-animation-with-sass/",
+      "title": "Frame Based Animation With Sass"
+    },
+    "https://heydonworks.com/article/functional-documentation/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/functional-documentation/",
+      "title": "Functional documentation"
+    },
+    "https://heydonworks.com/article/hel-variable-font/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/hel-variable-font/",
+      "title": "Hel: A 3-Axis, Obliterated Variable Font"
+    },
+    "https://heydonworks.com/article/heydon-is-dead/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/heydon-is-dead/",
+      "title": "Heydon Is Dead"
+    },
+    "https://heydonworks.com/article/how-i-accidentally-killed-several-ux-designers/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/how-i-accidentally-killed-several-ux-designers/",
+      "title": "How I Accidentally Killed Several UX Designers"
+    },
+    "https://heydonworks.com/article/html-is-broken/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/html-is-broken/",
+      "title": "HTML Is Broken"
+    },
     "https://heydonworks.com/article/i-am-not-an-accessibility-specialist-hire-me/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
       "first_seen": 1793907546,
       "link": "https://heydonworks.com/article/i-am-not-an-accessibility-specialist-hire-me/",
       "title": "I am not a developer or an accessibility specialist. Hire me?"
     },
+    "https://heydonworks.com/article/i-cant-breathe/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/i-cant-breathe/",
+      "title": "I Can\u2019t Breathe"
+    },
+    "https://heydonworks.com/article/i-do-care-about-sin/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/i-do-care-about-sin/",
+      "title": "I Do Care About Sin"
+    },
+    "https://heydonworks.com/article/leveraging-the-super-keyword-in-custom-elements/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/leveraging-the-super-keyword-in-custom-elements/",
+      "title": "Leveraging The Super Keyword In Custom Elements"
+    },
+    "https://heydonworks.com/article/listen-to-me-not-google/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/listen-to-me-not-google/",
+      "title": "Listen To Me And Not Google"
+    },
+    "https://heydonworks.com/article/london-book-fair/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/london-book-fair/",
+      "title": "London Book Fair"
+    },
+    "https://heydonworks.com/article/look-at-this-shitty-tweet-button/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/look-at-this-shitty-tweet-button/",
+      "title": "Look At This Shitty Tweet Button"
+    },
+    "https://heydonworks.com/article/lowered-expectations/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/lowered-expectations/",
+      "title": "Lowered Expectations"
+    },
+    "https://heydonworks.com/article/marxian-alienation-and-web-development/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/marxian-alienation-and-web-development/",
+      "title": "Marxian Alienation And Web Development"
+    },
+    "https://heydonworks.com/article/offloading-javascript-with-custom-properties/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/offloading-javascript-with-custom-properties/",
+      "title": "Offloading JavaScript With Custom Properties"
+    },
+    "https://heydonworks.com/article/paragrabbr/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/paragrabbr/",
+      "title": "Paragrabbr"
+    },
+    "https://heydonworks.com/article/pingomatic-for-perch/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/pingomatic-for-perch/",
+      "title": "Pingomatic For Perch"
+    },
+    "https://heydonworks.com/article/poisoning-well/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/poisoning-well/",
+      "title": "Poisoning Well"
+    },
+    "https://heydonworks.com/article/practical-aria-examples/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/practical-aria-examples/",
+      "title": "Practical Aria Examples"
+    },
+    "https://heydonworks.com/article/pride-shame-and-accessibility/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/pride-shame-and-accessibility/",
+      "title": "Pride, shame, and accessibility"
+    },
+    "https://heydonworks.com/article/progressive-enhancement-makes-me-sad/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/progressive-enhancement-makes-me-sad/",
+      "title": "Progressive Enhancement Makes Me Sad"
+    },
+    "https://heydonworks.com/article/pseudo-class-deception/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/pseudo-class-deception/",
+      "title": "Pseudo-class Deception"
+    },
+    "https://heydonworks.com/article/quick-2018-review/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/quick-2018-review/",
+      "title": "Quick 2018 Review"
+    },
+    "https://heydonworks.com/article/reinventing-the-hyperlink/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/reinventing-the-hyperlink/",
+      "title": "Reinventing The Hyperlink"
+    },
+    "https://heydonworks.com/article/reluctant-gatekeeping:-the-problem-with-full-stack/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/reluctant-gatekeeping:-the-problem-with-full-stack/",
+      "title": "Reluctant Gatekeeping: The Problem With Full Stack"
+    },
+    "https://heydonworks.com/article/responses-to-the-screen-reader-strategy-survey/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/responses-to-the-screen-reader-strategy-survey/",
+      "title": "Responses To The Screen Reader Strategy Survey"
+    },
+    "https://heydonworks.com/article/revenge.css/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/revenge.css/",
+      "title": "Revenge.css"
+    },
+    "https://heydonworks.com/article/screen-reader-strategy-survey/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/screen-reader-strategy-survey/",
+      "title": "Screen Reader Strategy Survey"
+    },
+    "https://heydonworks.com/article/shit-yourself/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/shit-yourself/",
+      "title": "Shit yourself"
+    },
+    "https://heydonworks.com/article/shrinking-button-outlines/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/shrinking-button-outlines/",
+      "title": "Shrinking Button Outlines"
+    },
+    "https://heydonworks.com/article/sickly-headache/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/sickly-headache/",
+      "title": "Sickly Headache"
+    },
+    "https://heydonworks.com/article/signs-you-may-be-a-designer-not-just-a-coder/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/signs-you-may-be-a-designer-not-just-a-coder/",
+      "title": "Signs You May Be A Designer, Not Just A Coder"
+    },
+    "https://heydonworks.com/article/skune-hand-drawn-variable-font/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/skune-hand-drawn-variable-font/",
+      "title": "Skune: A hand drawn variable font"
+    },
+    "https://heydonworks.com/article/squib-font/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/squib-font/",
+      "title": "Squib Font"
+    },
+    "https://heydonworks.com/article/star-trek-tng:-first-impressions/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/star-trek-tng:-first-impressions/",
+      "title": "Star Trek TNG: First Impressions"
+    },
+    "https://heydonworks.com/article/testing-html-with-modern-css/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/testing-html-with-modern-css/",
+      "title": "Testing HTML With Modern CSS"
+    },
+    "https://heydonworks.com/article/tetris-and-the-power-of-css/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/tetris-and-the-power-of-css/",
+      "title": "Tetris And The Power Of CSS"
+    },
+    "https://heydonworks.com/article/the-abbr-element/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-abbr-element/",
+      "title": "The abbr element"
+    },
+    "https://heydonworks.com/article/the-accessible-current-page-link-conundrum/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-accessible-current-page-link-conundrum/",
+      "title": "The Accessible Current Page Link Conundrum"
+    },
+    "https://heydonworks.com/article/the-address-element/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-address-element/",
+      "title": "The address element"
+    },
+    "https://heydonworks.com/article/the-agreement/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-agreement/",
+      "title": "The Agreement"
+    },
     "https://heydonworks.com/article/the-ai-art-paradox/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
       "first_seen": 1793210486,
       "link": "https://heydonworks.com/article/the-ai-art-paradox/",
       "title": "The AI Artist Paradox"
+    },
+    "https://heydonworks.com/article/the-anchor-element/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-anchor-element/",
+      "title": "The anchor element"
+    },
+    "https://heydonworks.com/article/the-area-element/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-area-element/",
+      "title": "The area element"
+    },
+    "https://heydonworks.com/article/the-article-element/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-article-element/",
+      "title": "The article element"
+    },
+    "https://heydonworks.com/article/the-aside-element/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-aside-element/",
+      "title": "The aside element"
+    },
+    "https://heydonworks.com/article/the-audio-element/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-audio-element/",
+      "title": "The audio element"
+    },
+    "https://heydonworks.com/article/the-b-element/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-b-element/",
+      "title": "The b element"
+    },
+    "https://heydonworks.com/article/the-bdi-element/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-bdi-element/",
+      "title": "The bdi element"
+    },
+    "https://heydonworks.com/article/the-bdo-element/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-bdo-element/",
+      "title": "The bdo element"
+    },
+    "https://heydonworks.com/article/the-blockquote-element/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-blockquote-element/",
+      "title": "The blockquote element"
+    },
+    "https://heydonworks.com/article/the-body-element/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-body-element/",
+      "title": "The body element"
+    },
+    "https://heydonworks.com/article/the-br-element/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-br-element/",
+      "title": "The br element"
+    },
+    "https://heydonworks.com/article/the-button-element/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-button-element/",
+      "title": "The button element"
+    },
+    "https://heydonworks.com/article/the-canvas-element/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-canvas-element/",
+      "title": "The canvas element"
+    },
+    "https://heydonworks.com/article/the-caption-element/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-caption-element/",
+      "title": "The caption element"
+    },
+    "https://heydonworks.com/article/the-cite-element/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-cite-element/",
+      "title": "The cite element"
+    },
+    "https://heydonworks.com/article/the-code-element/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-code-element/",
+      "title": "The code element"
+    },
+    "https://heydonworks.com/article/the-col-element/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-col-element/",
+      "title": "The col element"
+    },
+    "https://heydonworks.com/article/the-flexbox-holy-albatross-reincarnated/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-flexbox-holy-albatross-reincarnated/",
+      "title": "The Flexbox Holy Albatross Reincarnated"
+    },
+    "https://heydonworks.com/article/the-flexbox-holy-albatross/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-flexbox-holy-albatross/",
+      "title": "The Flexbox Holy Albatross"
+    },
+    "https://heydonworks.com/article/the-new-linkin-park-album-is-not-by-nasum/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-new-linkin-park-album-is-not-by-nasum/",
+      "title": "The New Linkin Park Album Is Not By Nasum"
+    },
+    "https://heydonworks.com/article/the-precarious-x-in-ux/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-precarious-x-in-ux/",
+      "title": "The Precarious X In UX"
+    },
+    "https://heydonworks.com/article/the-random-link/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-random-link/",
+      "title": "The Random Link In The Age Of Static Sites"
+    },
+    "https://heydonworks.com/article/the-word-user-is-fine/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/the-word-user-is-fine/",
+      "title": "The Word User Is Fine"
+    },
+    "https://heydonworks.com/article/types-of-web-developer/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/types-of-web-developer/",
+      "title": "Types Of Web Developer"
+    },
+    "https://heydonworks.com/article/using-icon-web-fonts/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/using-icon-web-fonts/",
+      "title": "Using Icon Web Fonts"
+    },
+    "https://heydonworks.com/article/using-the-cascade/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/using-the-cascade/",
+      "title": "Using The Cascade"
+    },
+    "https://heydonworks.com/article/vintage-tobacco-advertising/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/vintage-tobacco-advertising/",
+      "title": "Vintage Tobacco Advertising"
+    },
+    "https://heydonworks.com/article/web-accessibility-is-out-to-get-you-and-make-you-feel-sad/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/web-accessibility-is-out-to-get-you-and-make-you-feel-sad/",
+      "title": "Web Accessibility Is Out To Get You And Make You Feel Sad"
+    },
+    "https://heydonworks.com/article/what-are-accessibility-overlays-transcript/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/what-are-accessibility-overlays-transcript/",
+      "title": "Transcript: What Are Accessibility Overlays?"
+    },
+    "https://heydonworks.com/article/what-is-a-single-page-application/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/what-is-a-single-page-application/",
+      "title": "What Is A Single-page Application?"
+    },
+    "https://heydonworks.com/article/what-is-utility-first-css/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/what-is-utility-first-css/",
+      "title": "What is Utility-First CSS?"
+    },
+    "https://heydonworks.com/article/who-is-inclusive-design-for/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/who-is-inclusive-design-for/",
+      "title": "Who Is Inclusive Design For?"
+    },
+    "https://heydonworks.com/article/wordpress-to-eleventy/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/wordpress-to-eleventy/",
+      "title": "From Wordpress To Eleventy With Ease"
+    },
+    "https://heydonworks.com/article/working-for-people/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/working-for-people/",
+      "title": "Working For People"
+    },
+    "https://heydonworks.com/article/writing-less-damn-code/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/writing-less-damn-code/",
+      "title": "Writing Less Damn Code"
+    },
+    "https://heydonworks.com/article/your-libertarianism-isnt-what-you-think/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/your-libertarianism-isnt-what-you-think/",
+      "title": "Libertarianism Is Not What You Think"
+    },
+    "https://heydonworks.com/article/your-tooltips-are-bogus/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1794767772,
+      "link": "https://heydonworks.com/article/your-tooltips-are-bogus/",
+      "title": "Your Tooltips Are Bogus"
     },
     "https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/": {
       "blog_name": "Julia Evans (Linux/OS)",
@@ -9252,12 +9924,6 @@
       "link": "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing",
       "title": "How software engineering is changing: a tale of two eras"
     },
-    "https://newsletter.pragmaticengineer.com/p/openai-software-factory": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1792167365,
-      "link": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
-      "title": "Inside OpenAI\u2019s agentic software factory"
-    },
     "https://newsletter.pragmaticengineer.com/p/scaling-slack-and-github-with-maude": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1793907546,
@@ -9317,6 +9983,12 @@
       "first_seen": 1794159869,
       "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
       "title": "The Pulse: new trend of building \u201cinternal vibe-coding apps\u201d at tech companies"
+    },
+    "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1794767772,
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
+      "title": "The Pulse: OpenAI software engineer accused of spying"
     },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114": {
       "blog_name": "The Pragmatic Engineer",
