@@ -360,6 +360,12 @@
       "link": "https://nodejs.org/en/blog/events/collab-summit-2026-london",
       "title": "Trip report: Node.js collaboration summit (2026 London)"
     },
+    "/blog/events/nodejs-interactive-2026?1786665600000": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1794720302,
+      "link": "https://nodejs.org/en/blog/events/nodejs-interactive-2026",
+      "title": "Node.js Interactive 2026: A Recap"
+    },
     "/blog/feature/streams2": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1794634049,
@@ -7740,12 +7746,6 @@
       "link": "https://andrewlock.net/stripping-extra-dependencies-in-.net-nativeaot-apps-using-linker-substitutions/",
       "title": "Stripping extra dependencies in .NET NativeAOT apps using linker substitutions"
     },
-    "https://andrewlock.net/understanding-device-bound-session-credentials/": {
-      "blog_name": "Andrew Lock (.NET)",
-      "first_seen": 1792121872,
-      "link": "https://andrewlock.net/understanding-device-bound-session-credentials/",
-      "title": "Understanding Device Bound Session Credentials (DBSC)"
-    },
     "https://andrewlock.net/understanding-lazy-thread-safety-modes/": {
       "blog_name": "Andrew Lock (.NET)",
       "first_seen": 1793733231,
@@ -7757,18 +7757,6 @@
       "first_seen": 1794634049,
       "link": "https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/",
       "title": "Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends"
-    },
-    "https://azure.microsoft.com/en-us/blog/?p=54448": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1792121872,
-      "link": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/",
-      "title": "Infrastructure for the frontier era: Scaling intelligence through open industry collaboration"
-    },
-    "https://azure.microsoft.com/en-us/blog/?p=54512": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1792121872,
-      "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/",
-      "title": "Advancing hardware security with open-source Integrated HSM technology"
     },
     "https://azure.microsoft.com/en-us/blog/?p=54554": {
       "blog_name": "Microsoft Azure Blog",
@@ -8754,12 +8742,6 @@
       "link": "https://danluu.com/zitron/",
       "title": "Ed Zitron's AI prediction track record"
     },
-    "https://devblogs.microsoft.com/dotnet/?p=61046": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1792121872,
-      "link": "https://devblogs.microsoft.com/dotnet/introducing-dotnetup/",
-      "title": "Introducing dotnetup: A toolchain manager for .NET"
-    },
     "https://devblogs.microsoft.com/dotnet/?p=61061": {
       "blog_name": ".NET Blog (Microsoft)",
       "first_seen": 1792434532,
@@ -9335,12 +9317,6 @@
       "first_seen": 1794159869,
       "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
       "title": "The Pulse: new trend of building \u201cinternal vibe-coding apps\u201d at tech companies"
-    },
-    "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1792121872,
-      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
-      "title": "The Pulse: OpenAI software engineer accused of spying"
     },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114": {
       "blog_name": "The Pragmatic Engineer",
@@ -9936,6 +9912,18 @@
       "link": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
       "title": "datasette-leaflet 0.3"
     },
+    "https://simonwillison.net/2026/Nov/14/datasette-llm/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794720302,
+      "link": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+      "title": "datasette-llm 0.1a11"
+    },
+    "https://simonwillison.net/2026/Nov/14/datasette-vega/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794720302,
+      "link": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+      "title": "datasette-vega 0.7"
+    },
     "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1793654968,
@@ -10049,12 +10037,6 @@
       "first_seen": 1794291934,
       "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
       "title": "Locating the source of a mysterious beep with Claude"
-    },
-    "https://simonwillison.net/2026/Oct/15/chirp-pong/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1792121872,
-      "link": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
-      "title": "Chirp Pong"
     },
     "https://simonwillison.net/2026/Oct/15/latex/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
