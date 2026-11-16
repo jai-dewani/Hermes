@@ -4344,12 +4344,6 @@
       "link": "https://nodejs.org/en/blog/release/v26.8.2",
       "title": "Node.js 26.8.2 (Current)"
     },
-    "/blog/release/v26.9.0?1789582662027": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1792249812,
-      "link": "https://nodejs.org/en/blog/release/v26.9.0",
-      "title": "Node.js 26.9.0 (Current)"
-    },
     "/blog/release/v27.0.0-alpha.0.0.0?1793303549250": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1793335882,
@@ -6492,6 +6486,12 @@
       "link": "https://www.meziantou.net/using-jsonpath-with-system-text-json-to-query-json-in-dotnet.htm?utm_medium=social&utm_source=syndication",
       "title": "Using JsonPath with System.Text.Json to query JSON in .NET"
     },
+    "5fc58373-f267-4a03-bf95-78f837a458e0": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1794865474,
+      "link": "https://www.meziantou.net/analyzing-a-dotnet-crash-dump-with-an-ai-agent.htm?utm_medium=social&utm_source=syndication",
+      "title": "Analyzing a .NET crash dump with an AI agent"
+    },
     "615ba828-ebb8-4bf7-b4e8-634f2efe83ad": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1793820566,
@@ -7536,6 +7536,12 @@
       "link": "http://brooker.co.za/blog/2026/10/23/animations.html",
       "title": "Animations for System Builders: Metastability and Lost Writes"
     },
+    "http://brooker.co.za/blog/2026/11/16/understanding": {
+      "blog_name": "Marc Brooker (AWS/Systems)",
+      "first_seen": 1794865474,
+      "link": "http://brooker.co.za/blog/2026/11/16/understanding.html",
+      "title": "What does it mean to understand what we built?"
+    },
     "http://use-the-index-luke.com/blog/2017-05/new-sql-standard-oracle-122-acidrain": {
       "blog_name": "Use The Index, Luke (DB Indexing)",
       "first_seen": 1794634049,
@@ -7865,6 +7871,12 @@
       "first_seen": 1794634049,
       "link": "https://bradfrost.com/blog/post/coming-up-for-air/",
       "title": "Coming Up For Air"
+    },
+    "https://bradfrost.com/blog/post/foundations-matter-more-than-ever/": {
+      "blog_name": "Brad Frost (Design Systems)",
+      "first_seen": 1794865474,
+      "link": "https://bradfrost.com/blog/post/foundations-matter-more-than-ever/",
+      "title": "Foundations matter more than ever"
     },
     "https://bradfrost.com/blog/post/grief-in-the-ai-age/": {
       "blog_name": "Brad Frost (Design Systems)",
@@ -9941,6 +9953,12 @@
       "first_seen": 1794338777,
       "link": "https://newsletter.pragmaticengineer.com/p/software-correctness",
       "title": "Software correctness & supply chain security, with Sean Allen"
+    },
+    "https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1794865474,
+      "link": "https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes",
+      "title": "Software engineering after code becomes cheap with Satya Nadella"
     },
     "https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and": {
       "blog_name": "The Pragmatic Engineer",
