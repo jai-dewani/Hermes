@@ -10596,6 +10596,36 @@
       "link": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
       "title": "datasette-vega 0.7"
     },
+    "https://simonwillison.net/2026/Nov/15/datasette-2/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794806567,
+      "link": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+      "title": "datasette 0.65.6"
+    },
+    "https://simonwillison.net/2026/Nov/15/datasette-agent/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794806567,
+      "link": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+      "title": "datasette-agent 0.6a0"
+    },
+    "https://simonwillison.net/2026/Nov/15/datasette-apps/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794806567,
+      "link": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+      "title": "datasette-apps 0.4a0"
+    },
+    "https://simonwillison.net/2026/Nov/15/datasette-maplibre/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794806567,
+      "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+      "title": "datasette-maplibre 0.1a0"
+    },
+    "https://simonwillison.net/2026/Nov/15/datasette/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794806567,
+      "link": "https://simonwillison.net/2026/Nov/15/datasette/",
+      "title": "datasette 1.0a43"
+    },
     "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1793654968,
@@ -10709,18 +10739,6 @@
       "first_seen": 1794291934,
       "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
       "title": "Locating the source of a mysterious beep with Claude"
-    },
-    "https://simonwillison.net/2026/Oct/15/latex/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1792207671,
-      "link": "https://simonwillison.net/2026/Oct/15/latex/",
-      "title": "LaTeX renderer"
-    },
-    "https://simonwillison.net/2026/Oct/16/code-review/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1792207671,
-      "link": "https://simonwillison.net/2026/Oct/16/code-review/",
-      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang"
     },
     "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
