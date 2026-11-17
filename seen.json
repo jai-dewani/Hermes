@@ -4362,6 +4362,12 @@
       "link": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.0",
       "title": "Node.js 27.0.0-alpha.0.1.0 (Alpha)"
     },
+    "/blog/release/v27.0.0-alpha.0.1.1?1794904867602": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1794947706,
+      "link": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.1",
+      "title": "Node.js 27.0.0-alpha.0.1.1 (Alpha)"
+    },
     "/blog/release/v4.0.0": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1794634049,
@@ -6515,6 +6521,12 @@
       "first_seen": 1792554360,
       "link": "https://www.meziantou.net/querying-roslyn-syntax-trees-with-xpath.htm?utm_medium=social&utm_source=syndication",
       "title": "Querying Roslyn syntax trees with XPath"
+    },
+    "a53b29df-2698-48b1-87f2-35ef3b28fb2c": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1794947706,
+      "link": "https://www.meziantou.net/finding-a-deadlock-in-a-dotnet-dump-with-an-ai-agent.htm?utm_medium=social&utm_source=syndication",
+      "title": "Finding a deadlock in a .NET dump with an AI agent"
     },
     "a98cd9bd-d1ef-4bf7-a6b8-94bfec99787e": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
@@ -9672,6 +9684,12 @@
       "link": "https://khalidabuhakmeh.com/posts/csharp-cheat-sheet/",
       "title": "C# Cheat Sheet: Modern Syntax Reference with Examples"
     },
+    "https://khalidabuhakmeh.com/posts/csharp-exception-handling-try-catch/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1794947706,
+      "link": "https://khalidabuhakmeh.com/posts/csharp-exception-handling-try-catch/",
+      "title": "C# try/catch: Exception Handling in C# with Examples"
+    },
     "https://khalidabuhakmeh.com/posts/csharp-read-excel-file/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
       "first_seen": 1794548226,
@@ -9929,6 +9947,12 @@
       "first_seen": 1793733231,
       "link": "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing",
       "title": "How software engineering is changing: a tale of two eras"
+    },
+    "https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1794947706,
+      "link": "https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers",
+      "title": "Inference engineering for software engineers"
     },
     "https://newsletter.pragmaticengineer.com/p/scaling-slack-and-github-with-maude": {
       "blog_name": "The Pragmatic Engineer",
@@ -10644,6 +10668,12 @@
       "link": "https://simonwillison.net/2026/Nov/16/llm/",
       "title": "llm 0.37.3"
     },
+    "https://simonwillison.net/2026/Nov/17/datasette-lite/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794947706,
+      "link": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+      "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide"
+    },
     "https://simonwillison.net/2026/Nov/17/go-proverbs/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1794898901,
@@ -11315,12 +11345,6 @@
       "first_seen": 1794634049,
       "link": "https://tkdodo.eu/blog/refs-events-and-escape-hatches",
       "title": "Refs, Events and Escape Hatches"
-    },
-    "https://tkdodo.eu/blog/reliable-query-prefetching-with-tanstack-router": {
-      "blog_name": "Dominik Dorfmeister (TkDodo)",
-      "first_seen": 1792337557,
-      "link": "https://tkdodo.eu/blog/reliable-query-prefetching-with-tanstack-router",
-      "title": "Reliable Query Prefetching with TanStack Router"
     },
     "https://tkdodo.eu/blog/road-to-refactoring": {
       "blog_name": "Dominik Dorfmeister (TkDodo)",
