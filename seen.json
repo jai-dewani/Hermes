@@ -4344,6 +4344,12 @@
       "link": "https://nodejs.org/en/blog/release/v26.8.2",
       "title": "Node.js 26.8.2 (Current)"
     },
+    "/blog/release/v26.9.0?1789582662027": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1794898901,
+      "link": "https://nodejs.org/en/blog/release/v26.9.0",
+      "title": "Node.js 26.9.0 (Current)"
+    },
     "/blog/release/v27.0.0-alpha.0.0.0?1793303549250": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1793335882,
@@ -7770,12 +7776,6 @@
       "link": "https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/",
       "title": "Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends"
     },
-    "https://azure.microsoft.com/en-us/blog/?p=54554": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1792294488,
-      "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
-      "title": "Evolving the cloud-native foundation for the next generation of AI"
-    },
     "https://azure.microsoft.com/en-us/blog/?p=54636": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1792468567,
@@ -9894,12 +9894,6 @@
       "link": "https://medium.com/@nathanacurtis/component-contracts-and-schemas-f7c7a6651273?source=rss-799c7c7840a------2",
       "title": "Component Contracts and Schemas"
     },
-    "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1792294488,
-      "link": "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock",
-      "title": "AI Skills with Matt Pocock"
-    },
     "https://newsletter.pragmaticengineer.com/p/ai-sre": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1793122781,
@@ -10644,6 +10638,18 @@
       "link": "https://simonwillison.net/2026/Nov/15/datasette/",
       "title": "datasette 1.0a43"
     },
+    "https://simonwillison.net/2026/Nov/16/llm/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794898901,
+      "link": "https://simonwillison.net/2026/Nov/16/llm/",
+      "title": "llm 0.37.3"
+    },
+    "https://simonwillison.net/2026/Nov/17/go-proverbs/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794898901,
+      "link": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
+      "title": "Quoting Go Proverbs"
+    },
     "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1793654968,
@@ -10763,18 +10769,6 @@
       "first_seen": 1792601311,
       "link": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/",
       "title": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust"
-    },
-    "https://simonwillison.net/2026/Oct/17/document-currentscript/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1792294488,
-      "link": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
-      "title": "Inline rendering with document\u200b.currentScript"
-    },
-    "https://simonwillison.net/2026/Oct/17/web-edit/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1792294488,
-      "link": "https://simonwillison.net/2026/Oct/17/web-edit/",
-      "title": "web-edit 0.1a2"
     },
     "https://simonwillison.net/2026/Oct/18/llm-echo/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
