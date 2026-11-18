@@ -6474,6 +6474,12 @@
       "link": "https://nodejs.org/en/blog/wg/diag-wg-update-2017-02",
       "title": "Diag WG Update - Many new tools, phasing out some old ones"
     },
+    "093263aa-e74c-4456-a646-3ac97f2a4e08": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1795032464,
+      "link": "https://www.meziantou.net/finding-an-async-deadlock-caused-by-a-synchronizationcontext-with-an-ai-agent.htm?utm_medium=social&utm_source=syndication",
+      "title": "Finding an async deadlock caused by a SynchronizationContext with an AI agent"
+    },
     "2f16d7d4-32a3-4a55-9e21-93a1cbb15cf5": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1793297432,
@@ -7560,6 +7566,12 @@
       "link": "http://brooker.co.za/blog/2026/11/16/understanding.html",
       "title": "What does it mean to understand what we built?"
     },
+    "http://brooker.co.za/blog/2026/11/18/workload-mix": {
+      "blog_name": "Marc Brooker (AWS/Systems)",
+      "first_seen": 1795032464,
+      "link": "http://brooker.co.za/blog/2026/11/18/workload-mix.html",
+      "title": "Traffic mix matters"
+    },
     "http://use-the-index-luke.com/blog/2017-05/new-sql-standard-oracle-122-acidrain": {
       "blog_name": "Use The Index, Luke (DB Indexing)",
       "first_seen": 1794634049,
@@ -7854,6 +7866,42 @@
       "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032",
       "title": "Building the next generation of multimodal AI experiences with fal in Microsoft Foundry"
     },
+    "https://azure.microsoft.com/en-us/blog/?p=55002": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1795032464,
+      "link": "https://azure.microsoft.com/en-us/blog/azure-cobalt-200-vms-now-available-proven-on-real-workloads-and-built-for-the-agentic-era/",
+      "title": "Azure Cobalt 200 VMs now available, proven on real workloads and built for the agentic era"
+    },
+    "https://azure.microsoft.com/en-us/blog/?p=55004": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1795032464,
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai/",
+      "title": "Microsoft Ignite 2026: What\u2019s new in Azure, the platform purpose-built for AI"
+    },
+    "https://azure.microsoft.com/en-us/blog/?p=55141": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1795032464,
+      "link": "https://azure.microsoft.com/en-us/blog/continuous-improvement-comes-to-microsoft-foundry/",
+      "title": "Continuous improvement comes to Microsoft Foundry"
+    },
+    "https://azure.microsoft.com/en-us/blog/?p=55161": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1795032464,
+      "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-catalyst-agentic-modernization-and-new-ai-infrastructure-innovations/",
+      "title": "Introducing Azure Catalyst agentic modernization and new AI infrastructure innovations"
+    },
+    "https://azure.microsoft.com/en-us/blog/?p=55303": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1795032464,
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-bring-agentic-ai-into-flow-of-enterprise-work/",
+      "title": "Microsoft and Oracle bring agentic AI into flow of enterprise work"
+    },
+    "https://azure.microsoft.com/en-us/blog/?p=55320": {
+      "blog_name": "Microsoft Azure Blog",
+      "first_seen": 1795032464,
+      "link": "https://azure.microsoft.com/en-us/blog/introducing-the-new-microsoft-iq-putting-your-organizations-intelligence-to-work-in-every-agent/",
+      "title": "Introducing the new Microsoft IQ: Putting your organization\u2019s intelligence to work in every agent"
+    },
     "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1792554360,
@@ -7925,6 +7973,12 @@
       "first_seen": 1794201015,
       "link": "https://bradfrost.com/blog/post/playing-my-world-helsinki-cathedral/",
       "title": "Playing My World: Helsinki Cathedral"
+    },
+    "https://bradfrost.com/blog/post/skills-to-pay-the-bills/": {
+      "blog_name": "Brad Frost (Design Systems)",
+      "first_seen": 1795032464,
+      "link": "https://bradfrost.com/blog/post/skills-to-pay-the-bills/",
+      "title": "Skills to pay the bills...and address your design system's check engine light"
     },
     "https://bradfrost.com/blog/post/things-take-the-time-they-take-a-42nd-thought-at-42/": {
       "blog_name": "Brad Frost (Design Systems)",
@@ -8069,12 +8123,6 @@
       "first_seen": 1794634049,
       "link": "https://danluu.com/ballmer/",
       "title": "Steve Ballmer was an underrated CEO"
-    },
-    "https://danluu.com/benchpocalypse/": {
-      "blog_name": "Dan Luu (Hardware/Systems)",
-      "first_seen": 1792434532,
-      "link": "https://danluu.com/benchpocalypse/",
-      "title": "The benchmarkpocalypse"
     },
     "https://danluu.com/bimodal-compensation/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
@@ -8765,18 +8813,6 @@
       "first_seen": 1793595434,
       "link": "https://danluu.com/zitron/",
       "title": "Ed Zitron's AI prediction track record"
-    },
-    "https://devblogs.microsoft.com/dotnet/?p=61061": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1792434532,
-      "link": "https://devblogs.microsoft.com/dotnet/bring-your-own-model-to-the-github-copilot-sdk-with-csharp/",
-      "title": "Bring Your Own Model to the GitHub Copilot SDK with C#"
-    },
-    "https://devblogs.microsoft.com/dotnet/?p=61063": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1792434532,
-      "link": "https://devblogs.microsoft.com/dotnet/migrate-dotnet-maui-apps-uikit-scene-lifecycle/",
-      "title": "Get Your .NET MAUI App Ready for Xcode 27"
     },
     "https://devblogs.microsoft.com/dotnet/?p=61101": {
       "blog_name": ".NET Blog (Microsoft)",
@@ -9990,6 +10026,12 @@
       "link": "https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and",
       "title": "Software engineering at Google & CS education with Titus Winters"
     },
+    "https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1795032464,
+      "link": "https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews",
+      "title": "Software factories and code reviews with Harjot Gill"
+    },
     "https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-2027": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1794027957,
@@ -10163,12 +10205,6 @@
       "first_seen": 1794634049,
       "link": "https://overreacted.io/how-does-the-development-mode-work/",
       "title": "How Does the Development Mode Work?"
-    },
-    "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/": {
-      "blog_name": "Dan Abramov (Overreacted)",
-      "first_seen": 1792434532,
-      "link": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
-      "title": "How I Vibed a Proof of Conway\u2019s Conjecture"
     },
     "https://overreacted.io/how-imports-work-in-rsc/": {
       "blog_name": "Dan Abramov (Overreacted)",
@@ -10697,6 +10733,18 @@
       "first_seen": 1794983138,
       "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
       "title": "GPT\u20116.2 Astra and GPT\u20116.2 Sol"
+    },
+    "https://simonwillison.net/2026/Nov/18/daniel-stenberg/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1795032464,
+      "link": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+      "title": "Quoting Daniel Stenberg"
+    },
+    "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1795032464,
+      "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+      "title": "The PSF end-of-year fundraiser"
     },
     "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
