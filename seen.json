@@ -8832,6 +8832,12 @@
       "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2026-servicing-updates/",
       "title": ".NET and .NET Framework November 2026 servicing updates"
     },
+    "https://devblogs.microsoft.com/dotnet/?p=61260": {
+      "blog_name": ".NET Blog (Microsoft)",
+      "first_seen": 1794983138,
+      "link": "https://devblogs.microsoft.com/dotnet/nuget-staged-publishing/",
+      "title": "Introducing staged publishing on NuGet.org"
+    },
     "https://heydonworks.com/article/a-double-edged-sword/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
       "first_seen": 1794767772,
@@ -10674,11 +10680,23 @@
       "link": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
       "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide"
     },
+    "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794983138,
+      "link": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+      "title": "External sandboxes for coding agents"
+    },
     "https://simonwillison.net/2026/Nov/17/go-proverbs/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1794898901,
       "link": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
       "title": "Quoting Go Proverbs"
+    },
+    "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1794983138,
+      "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+      "title": "GPT\u20116.2 Astra and GPT\u20116.2 Sol"
     },
     "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
@@ -10799,18 +10817,6 @@
       "first_seen": 1792601311,
       "link": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/",
       "title": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust"
-    },
-    "https://simonwillison.net/2026/Oct/18/llm-echo/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1792381494,
-      "link": "https://simonwillison.net/2026/Oct/18/llm-echo/",
-      "title": "llm-echo 0.5"
-    },
-    "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1792381494,
-      "link": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
-      "title": "llm-tools-datasette 0.1.1"
     },
     "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
@@ -11345,6 +11351,12 @@
       "first_seen": 1794634049,
       "link": "https://tkdodo.eu/blog/refs-events-and-escape-hatches",
       "title": "Refs, Events and Escape Hatches"
+    },
+    "https://tkdodo.eu/blog/reliable-query-prefetching-with-tanstack-router": {
+      "blog_name": "Dominik Dorfmeister (TkDodo)",
+      "first_seen": 1794983138,
+      "link": "https://tkdodo.eu/blog/reliable-query-prefetching-with-tanstack-router",
+      "title": "Reliable Query Prefetching with TanStack Router"
     },
     "https://tkdodo.eu/blog/road-to-refactoring": {
       "blog_name": "Dominik Dorfmeister (TkDodo)",
