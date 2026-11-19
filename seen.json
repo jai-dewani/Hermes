@@ -6516,6 +6516,12 @@
       "link": "https://www.meziantou.net/sync-vs-async-file-i-o-in-dotnet-raw-throughput-scalability-and-buffer-size.htm?utm_medium=social&utm_source=syndication",
       "title": "Sync vs Async File I/O in .NET: Raw Throughput, Scalability, and Buffer Size"
     },
+    "729fc76f-53c1-46bd-b518-3d4d827a0f87": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1795118888,
+      "link": "https://www.meziantou.net/diagnosing-thread-pool-starvation-from-a-dotnet-dump-with-an-ai-agent.htm?utm_medium=social&utm_source=syndication",
+      "title": "Diagnosing thread pool starvation from a .NET dump with an AI agent"
+    },
     "79429f3e-7781-4012-9f75-ec73b0e98437": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1793249493,
@@ -7650,12 +7656,6 @@
       "link": "http://www.brendangregg.com/blog//2026-02-07/why-i-joined-openai.html",
       "title": "Why I joined OpenAI"
     },
-    "https://andrewlock.net/an-introduction-to-compact-binary-object-notation-in-dotnet/": {
-      "blog_name": "Andrew Lock (.NET)",
-      "first_seen": 1792513868,
-      "link": "https://andrewlock.net/an-introduction-to-compact-binary-object-notation-in-dotnet/",
-      "title": "An introduction to Compact Binary Object Notation (CBOR) in .NET"
-    },
     "https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/": {
       "blog_name": "Andrew Lock (.NET)",
       "first_seen": 1794634049,
@@ -8009,6 +8009,12 @@
       "first_seen": 1794634049,
       "link": "https://bradfrost.com/links/post/just-you-wait-by-chris-shiflett/",
       "title": "Just You Wait, by Chris Shiflett"
+    },
+    "https://bradfrost.com/links/post/manuela-costa-design-systems-ai/": {
+      "blog_name": "Brad Frost (Design Systems)",
+      "first_seen": 1795118888,
+      "link": "https://bradfrost.com/links/post/manuela-costa-design-systems-ai/",
+      "title": "Manuela Costa \u00b7 Design Systems & AI"
     },
     "https://bradfrost.com/links/post/periodic-table-of-html-elements/": {
       "blog_name": "Brad Frost (Design Systems)",
@@ -9768,12 +9774,6 @@
       "link": "https://khalidabuhakmeh.com/posts/initialize-aspnet-core-taghelpers-with-shared-data/",
       "title": "Initialize ASP.NET Core TagHelpers with Shared Data"
     },
-    "https://khalidabuhakmeh.com/posts/minimal-api-validation-localization/": {
-      "blog_name": "Khalid Abuhakmeh (.NET)",
-      "first_seen": 1792513868,
-      "link": "https://khalidabuhakmeh.com/posts/minimal-api-validation-localization/",
-      "title": "Localize Minimal API Validation Messages in .NET 11"
-    },
     "https://khalidabuhakmeh.com/posts/rails-developers-map-to-dotnet/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
       "first_seen": 1793907546,
@@ -10055,6 +10055,12 @@
       "first_seen": 1793555036,
       "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-firebases-global-outage",
       "title": "The Pulse: Firebase\u2019s global outage & poor response"
+    },
+    "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1795118888,
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
+      "title": "The Pulse: Is Amazon\u2019s writing culture collapsing because of AI?"
     },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal": {
       "blog_name": "The Pragmatic Engineer",
@@ -10745,6 +10751,12 @@
       "first_seen": 1795069625,
       "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
       "title": "datasette-arrows 0.1a0"
+    },
+    "https://simonwillison.net/2026/Nov/18/llm-gemini/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1795118888,
+      "link": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+      "title": "llm-gemini 0.38"
     },
     "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
