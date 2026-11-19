@@ -7800,18 +7800,6 @@
       "link": "https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/",
       "title": "Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends"
     },
-    "https://azure.microsoft.com/en-us/blog/?p=54636": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1792468567,
-      "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
-      "title": "Designing for sovereign AI: A shared foundation from edge to cloud"
-    },
-    "https://azure.microsoft.com/en-us/blog/?p=54665": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1792468567,
-      "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/",
-      "title": "Managing open-weight model risk in enterprise deployments"
-    },
     "https://azure.microsoft.com/en-us/blog/?p=54703": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1792554360,
@@ -8123,6 +8111,12 @@
       "first_seen": 1794634049,
       "link": "https://danluu.com/ballmer/",
       "title": "Steve Ballmer was an underrated CEO"
+    },
+    "https://danluu.com/benchpocalypse/": {
+      "blog_name": "Dan Luu (Hardware/Systems)",
+      "first_seen": 1795069625,
+      "link": "https://danluu.com/benchpocalypse/",
+      "title": "The benchmarkpocalypse"
     },
     "https://danluu.com/bimodal-compensation/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
@@ -10206,6 +10200,12 @@
       "link": "https://overreacted.io/how-does-the-development-mode-work/",
       "title": "How Does the Development Mode Work?"
     },
+    "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/": {
+      "blog_name": "Dan Abramov (Overreacted)",
+      "first_seen": 1795069625,
+      "link": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+      "title": "How I Vibed a Proof of Conway\u2019s Conjecture"
+    },
     "https://overreacted.io/how-imports-work-in-rsc/": {
       "blog_name": "Dan Abramov (Overreacted)",
       "first_seen": 1794634049,
@@ -10740,6 +10740,12 @@
       "link": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
       "title": "Quoting Daniel Stenberg"
     },
+    "https://simonwillison.net/2026/Nov/18/datasette-arrows/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1795069625,
+      "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+      "title": "datasette-arrows 0.1a0"
+    },
     "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1795032464,
@@ -10865,12 +10871,6 @@
       "first_seen": 1792601311,
       "link": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/",
       "title": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust"
-    },
-    "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1792468567,
-      "link": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
-      "title": "My obituary for programming"
     },
     "https://simonwillison.net/2026/Oct/20/battledrones/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
