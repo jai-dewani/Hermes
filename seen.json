@@ -6528,12 +6528,6 @@
       "link": "https://www.meziantou.net/adding-jsonpath-support-to-custom-object-models-in-dotnet.htm?utm_medium=social&utm_source=syndication",
       "title": "Adding JsonPath support to custom object models in .NET"
     },
-    "a013cf7e-2dac-4727-9240-74fa2f79697f": {
-      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
-      "first_seen": 1792554360,
-      "link": "https://www.meziantou.net/querying-roslyn-syntax-trees-with-xpath.htm?utm_medium=social&utm_source=syndication",
-      "title": "Querying Roslyn syntax trees with XPath"
-    },
     "a53b29df-2698-48b1-87f2-35ef3b28fb2c": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1794947706,
@@ -7656,6 +7650,12 @@
       "link": "http://www.brendangregg.com/blog//2026-02-07/why-i-joined-openai.html",
       "title": "Why I joined OpenAI"
     },
+    "https://andrewlock.net/an-introduction-to-compact-binary-object-notation-in-dotnet/": {
+      "blog_name": "Andrew Lock (.NET)",
+      "first_seen": 1795155243,
+      "link": "https://andrewlock.net/an-introduction-to-compact-binary-object-notation-in-dotnet/",
+      "title": "An introduction to Compact Binary Object Representation (CBOR) in .NET"
+    },
     "https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/": {
       "blog_name": "Andrew Lock (.NET)",
       "first_seen": 1794634049,
@@ -7800,12 +7800,6 @@
       "link": "https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/",
       "title": "Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends"
     },
-    "https://azure.microsoft.com/en-us/blog/?p=54703": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1792554360,
-      "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
-      "title": "Advancing digital sovereignty with greater control and choice"
-    },
     "https://azure.microsoft.com/en-us/blog/?p=54706": {
       "blog_name": "Microsoft Azure Blog",
       "first_seen": 1793039129,
@@ -7889,12 +7883,6 @@
       "first_seen": 1795032464,
       "link": "https://azure.microsoft.com/en-us/blog/introducing-the-new-microsoft-iq-putting-your-organizations-intelligence-to-work-in-every-agent/",
       "title": "Introducing the new Microsoft IQ: Putting your organization\u2019s intelligence to work in every agent"
-    },
-    "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1792554360,
-      "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
-      "title": "Deep dive into Azure Maia 300 architecture"
     },
     "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/": {
       "blog_name": "Microsoft Azure Blog",
@@ -9774,6 +9762,12 @@
       "link": "https://khalidabuhakmeh.com/posts/initialize-aspnet-core-taghelpers-with-shared-data/",
       "title": "Initialize ASP.NET Core TagHelpers with Shared Data"
     },
+    "https://khalidabuhakmeh.com/posts/minimal-api-validation-localization/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1795155243,
+      "link": "https://khalidabuhakmeh.com/posts/minimal-api-validation-localization/",
+      "title": "Localize Minimal API Validation Messages in .NET 11"
+    },
     "https://khalidabuhakmeh.com/posts/rails-developers-map-to-dotnet/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
       "first_seen": 1793907546,
@@ -9887,6 +9881,12 @@
       "first_seen": 1793210486,
       "link": "https://blog.angular.dev/styling-mastery-and-declarative-form-submissions-743bb9bd0b0e?source=rss----447683c3d9a3---4",
       "title": "Styling Mastery and Declarative Form Submissions"
+    },
+    "https://medium.com/p/7d69d0d07a69": {
+      "blog_name": "Angular Blog (Official)",
+      "first_seen": 1795155243,
+      "link": "https://blog.angular.dev/the-momentum-across-the-global-angular-ecosystem-never-slows-down-7d69d0d07a69?source=rss----447683c3d9a3---4",
+      "title": "The momentum across the global Angular ecosystem never slows down!"
     },
     "https://medium.com/p/826bc54ae3a9": {
       "blog_name": "Angular Blog (Official)",
@@ -10097,12 +10097,6 @@
       "first_seen": 1794634049,
       "link": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
       "title": "Uber\u2019s AI infra, from the inside"
-    },
-    "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1792554360,
-      "link": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
-      "title": "What\u2019s the ROI of software engineers\u2019 spending on AI?"
     },
     "https://newsletter.pragmaticengineer.com/p/windows-and-ai": {
       "blog_name": "The Pragmatic Engineer",
@@ -10764,6 +10758,12 @@
       "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
       "title": "The PSF end-of-year fundraiser"
     },
+    "https://simonwillison.net/2026/Nov/19/postgresql-19/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1795155243,
+      "link": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+      "title": "PostgreSQL 19 Released"
+    },
     "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1793654968,
@@ -10775,6 +10775,12 @@
       "first_seen": 1793684750,
       "link": "https://simonwillison.net/2026/Nov/2/llm/",
       "title": "llm 0.37"
+    },
+    "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1795155243,
+      "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+      "title": "Token fraud is here and it\u2019s BAD (YouTube)"
     },
     "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
@@ -10883,18 +10889,6 @@
       "first_seen": 1792601311,
       "link": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/",
       "title": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust"
-    },
-    "https://simonwillison.net/2026/Oct/20/battledrones/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1792554360,
-      "link": "https://simonwillison.net/2026/Oct/20/battledrones/",
-      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer"
-    },
-    "https://simonwillison.net/2026/Oct/20/emudhra-certificates/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1792554360,
-      "link": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
-      "title": "eMudhra Intermediate CA Compromise"
     },
     "https://simonwillison.net/2026/Oct/21/panache/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
@@ -11153,12 +11147,6 @@
       "first_seen": 1794634049,
       "link": "https://tkdodo.eu/blog/creating-query-abstractions",
       "title": "Creating Query Abstractions"
-    },
-    "https://tkdodo.eu/blog/dead-code-shouldnt-exist": {
-      "blog_name": "Dominik Dorfmeister (TkDodo)",
-      "first_seen": 1792554360,
-      "link": "https://tkdodo.eu/blog/dead-code-shouldnt-exist",
-      "title": "Dead Code Shouldn't Exist"
     },
     "https://tkdodo.eu/blog/deriving-client-state-from-server-state": {
       "blog_name": "Dominik Dorfmeister (TkDodo)",
