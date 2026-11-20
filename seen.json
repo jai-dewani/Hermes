@@ -3792,12 +3792,6 @@
       "link": "https://nodejs.org/en/blog/release/v22.23.3",
       "title": "Node.js 22.23.3 (LTS)"
     },
-    "/blog/release/v22.23.4?1792579152420": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1792601311,
-      "link": "https://nodejs.org/en/blog/release/v22.23.4",
-      "title": "Node.js 22.23.4 (LTS)"
-    },
     "/blog/release/v22.23.5?1794415498310": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1794424888,
@@ -4074,12 +4068,6 @@
       "link": "https://nodejs.org/en/blog/release/v24.22.0",
       "title": "Node.js 24.22.0 (LTS)"
     },
-    "/blog/release/v24.22.1?1792579154786": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1792601311,
-      "link": "https://nodejs.org/en/blog/release/v24.22.1",
-      "title": "Node.js 24.22.1 (LTS)"
-    },
     "/blog/release/v24.22.2?1793212814932": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1793249493,
@@ -4259,12 +4247,6 @@
       "first_seen": 1794634049,
       "link": "https://nodejs.org/en/blog/release/v26.12.0",
       "title": "Node.js 26.12.0 (Current)"
-    },
-    "/blog/release/v26.12.1?1792579160400": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1792601311,
-      "link": "https://nodejs.org/en/blog/release/v26.12.1",
-      "title": "Node.js 26.12.1 (Current)"
     },
     "/blog/release/v26.13.0?1793206720303": {
       "blog_name": "Node.js Blog (Official)",
@@ -5898,12 +5880,6 @@
       "link": "https://nodejs.org/en/blog/vulnerability/october-2023-security-releases",
       "title": "Friday October 13 2023 Security Releases"
     },
-    "/blog/vulnerability/october-2026-security-releases?1792620000000": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1792601311,
-      "link": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-      "title": "Wednesday, October 21, 2026 Security Releases"
-    },
     "/blog/vulnerability/openssl-and-low-severity-fixes-jan-2016": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1794634049,
@@ -6551,6 +6527,12 @@
       "first_seen": 1794678327,
       "link": "https://www.meziantou.net/xpath-for-custom-types-in-dotnet.htm?utm_medium=social&utm_source=syndication",
       "title": "XPath for custom types in .NET"
+    },
+    "db5b973e-15f2-48ad-a092-8d6e6fd4947b": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1795203825,
+      "link": "https://www.meziantou.net/finding-a-memory-leak-in-a-dotnet-dump-with-an-ai-agent.htm?utm_medium=social&utm_source=syndication",
+      "title": "Finding a memory leak in a .NET dump with an AI agent"
     },
     "dd769ed6-0683-4175-a37b-3e8f85515331": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
@@ -8004,12 +7986,6 @@
       "link": "https://bradfrost.com/links/post/manuela-costa-design-systems-ai/",
       "title": "Manuela Costa \u00b7 Design Systems & AI"
     },
-    "https://bradfrost.com/links/post/periodic-table-of-html-elements/": {
-      "blog_name": "Brad Frost (Design Systems)",
-      "first_seen": 1792601311,
-      "link": "https://bradfrost.com/links/post/periodic-table-of-html-elements/",
-      "title": "Periodic Table of HTML Elements"
-    },
     "https://bradfrost.com/links/post/poetic-css/": {
       "blog_name": "Brad Frost (Design Systems)",
       "first_seen": 1794634049,
@@ -8861,6 +8837,12 @@
       "first_seen": 1794983138,
       "link": "https://devblogs.microsoft.com/dotnet/nuget-staged-publishing/",
       "title": "Introducing staged publishing on NuGet.org"
+    },
+    "https://devblogs.microsoft.com/dotnet/?p=61288": {
+      "blog_name": ".NET Blog (Microsoft)",
+      "first_seen": 1795203825,
+      "link": "https://devblogs.microsoft.com/dotnet/ai-cross-platform-decision-matrix/",
+      "title": "AI is Changing the Cross-Platform Decision Matrix"
     },
     "https://heydonworks.com/article/a-double-edged-sword/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
@@ -9726,6 +9708,12 @@
       "link": "https://khalidabuhakmeh.com/posts/csharp-read-excel-file/",
       "title": "Read an Excel File in C#: ExcelDataReader, ClosedXML, and No-Library OpenXML"
     },
+    "https://khalidabuhakmeh.com/posts/csharp-write-to-file/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1795203825,
+      "link": "https://khalidabuhakmeh.com/posts/csharp-write-to-file/",
+      "title": "C# Write to File: WriteAllText, WriteAllLines, AppendAllText, and StreamWriter"
+    },
     "https://khalidabuhakmeh.com/posts/directory-build-props-share-settings-across-dotnet-projects/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
       "first_seen": 1794512383,
@@ -10097,6 +10085,12 @@
       "first_seen": 1794634049,
       "link": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
       "title": "Uber\u2019s AI infra, from the inside"
+    },
+    "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1795203825,
+      "link": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
+      "title": "What\u2019s the ROI of software engineers\u2019 spending on AI?"
     },
     "https://newsletter.pragmaticengineer.com/p/windows-and-ai": {
       "blog_name": "The Pragmatic Engineer",
@@ -10776,6 +10770,18 @@
       "link": "https://simonwillison.net/2026/Nov/2/llm/",
       "title": "llm 0.37"
     },
+    "https://simonwillison.net/2026/Nov/20/levent-alpoge/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1795203825,
+      "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+      "title": "Quoting Levent Alp\u00f6ge"
+    },
+    "https://simonwillison.net/2026/Nov/20/ravi-vakil/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1795203825,
+      "link": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+      "title": "Quoting Ravi Vakil"
+    },
     "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1795155243,
@@ -10883,18 +10889,6 @@
       "first_seen": 1794291934,
       "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
       "title": "Locating the source of a mysterious beep with Claude"
-    },
-    "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1792601311,
-      "link": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/",
-      "title": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust"
-    },
-    "https://simonwillison.net/2026/Oct/21/panache/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1792601311,
-      "link": "https://simonwillison.net/2026/Oct/21/panache/",
-      "title": "Panache \u2014 RTS Belle \u00c9poque pour mobile"
     },
     "https://simonwillison.net/2026/Oct/21/php-security-release/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
@@ -11147,6 +11141,12 @@
       "first_seen": 1794634049,
       "link": "https://tkdodo.eu/blog/creating-query-abstractions",
       "title": "Creating Query Abstractions"
+    },
+    "https://tkdodo.eu/blog/dead-code-shouldnt-exist": {
+      "blog_name": "Dominik Dorfmeister (TkDodo)",
+      "first_seen": 1795203825,
+      "link": "https://tkdodo.eu/blog/dead-code-shouldnt-exist",
+      "title": "Dead Code Shouldn't Exist"
     },
     "https://tkdodo.eu/blog/deriving-client-state-from-server-state": {
       "blog_name": "Dominik Dorfmeister (TkDodo)",
@@ -11849,12 +11849,6 @@
       "first_seen": 1794634049,
       "link": "https://www.robinwieruch.de/react-trends/",
       "title": "React Trends in 2025"
-    },
-    "https://www.robinwieruch.de/testing-ai-generated-code/": {
-      "blog_name": "Robin Wieruch (React/TS)",
-      "first_seen": 1792601311,
-      "link": "https://www.robinwieruch.de/testing-ai-generated-code/",
-      "title": "Testing AI-Generated Code: Lint the Pattern, Test the Decision"
     },
     "https://www.robinwieruch.de/typescript-monorepo-resource-names/": {
       "blog_name": "Robin Wieruch (React/TS)",
