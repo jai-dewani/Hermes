@@ -6498,12 +6498,6 @@
       "link": "https://www.meziantou.net/speed-up-ci-builds-with-meziantou-deltabuild.htm?utm_medium=social&utm_source=syndication",
       "title": "Speed up CI builds with Meziantou.DeltaBuild"
     },
-    "5ea8dd48-6ec5-476d-8d39-b9dce811bcc7": {
-      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
-      "first_seen": 1792687718,
-      "link": "https://www.meziantou.net/using-jsonpath-with-system-text-json-to-query-json-in-dotnet.htm?utm_medium=social&utm_source=syndication",
-      "title": "Using JsonPath with System.Text.Json to query JSON in .NET"
-    },
     "5fc58373-f267-4a03-bf95-78f837a458e0": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1794865474,
@@ -6515,6 +6509,12 @@
       "first_seen": 1793820566,
       "link": "https://www.meziantou.net/sync-vs-async-file-i-o-in-dotnet-raw-throughput-scalability-and-buffer-size.htm?utm_medium=social&utm_source=syndication",
       "title": "Sync vs Async File I/O in .NET: Raw Throughput, Scalability, and Buffer Size"
+    },
+    "659b61bb-f756-4415-aaa1-eb90d6dec6d7": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1795286953,
+      "link": "https://www.meziantou.net/finding-a-leak-rooted-by-an-event-handler-or-a-timer-with-an-ai-agent.htm?utm_medium=social&utm_source=syndication",
+      "title": "Finding a leak rooted by an event handler or a timer with an AI agent"
     },
     "729fc76f-53c1-46bd-b518-3d4d827a0f87": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
@@ -8592,12 +8592,6 @@
       "link": "https://danluu.com/percentile-latency/",
       "title": "Goodhearting IQ, cholesterol, and tail latency"
     },
-    "https://danluu.com/perf-opt/": {
-      "blog_name": "Dan Luu (Hardware/Systems)",
-      "first_seen": 1792687718,
-      "link": "https://danluu.com/perf-opt/",
-      "title": "There's no reason for software to be slow anymore"
-    },
     "https://danluu.com/perf-tracing/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
       "first_seen": 1794634049,
@@ -10062,12 +10056,6 @@
       "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding",
       "title": "The Pulse: Anthropic kills the coding interview"
     },
-    "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1792687718,
-      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software",
-      "title": "The Pulse: Time to rethink software security because of AI?"
-    },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1792943020,
@@ -10103,6 +10091,12 @@
       "first_seen": 1794512383,
       "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114",
       "title": "The Pulse: What can we learn from the Railway hack?"
+    },
+    "https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1795286953,
+      "link": "https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering",
+      "title": "The revised rules of engineering management with Will Larson"
     },
     "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in": {
       "blog_name": "The Pragmatic Engineer",
@@ -10919,12 +10913,6 @@
       "first_seen": 1794291934,
       "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
       "title": "Locating the source of a mysterious beep with Claude"
-    },
-    "https://simonwillison.net/2026/Oct/22/armin-ronacher/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1792687718,
-      "link": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
-      "title": "Quoting Armin Ronacher"
     },
     "https://simonwillison.net/2026/Oct/22/de-staat-freedom/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
