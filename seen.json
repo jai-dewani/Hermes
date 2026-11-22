@@ -4236,12 +4236,6 @@
       "link": "https://nodejs.org/en/blog/release/v26.1.0",
       "title": "Node.js 26.1.0 (Current)"
     },
-    "/blog/release/v26.10.0?1790067829095": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1792727397,
-      "link": "https://nodejs.org/en/blog/release/v26.10.0",
-      "title": "Node.js 26.10.0 (Current)"
-    },
     "/blog/release/v26.11.0?1791384309757": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1794027957,
@@ -7728,12 +7722,6 @@
       "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-7-the-pain-of-serializing-unions-and-closed-class-hierarchies-with-system-text-json/",
       "title": "The pain of serializing unions and closed class hierarchies with System.Text.Json: Exploring the .NET 11 preview - Part 7"
     },
-    "https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/": {
-      "blog_name": "Andrew Lock (.NET)",
-      "first_seen": 1792727397,
-      "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/",
-      "title": "Experimental support for Device Bound Session Credentials (DBSC) in ASP.NET Core: Exploring the .NET 11 preview - Part 8"
-    },
     "https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/": {
       "blog_name": "Andrew Lock (.NET)",
       "first_seen": 1792943020,
@@ -7889,12 +7877,6 @@
       "first_seen": 1795032464,
       "link": "https://azure.microsoft.com/en-us/blog/introducing-the-new-microsoft-iq-putting-your-organizations-intelligence-to-work-in-every-agent/",
       "title": "Introducing the new Microsoft IQ: Putting your organization\u2019s intelligence to work in every agent"
-    },
-    "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1792727397,
-      "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
-      "title": "Evolving the cloud-native foundation for the next generation of AI"
     },
     "https://bradfrost.com/blog/post/big-ai-design-systems-course-updates/": {
       "blog_name": "Brad Frost (Design Systems)",
@@ -10056,6 +10038,12 @@
       "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding",
       "title": "The Pulse: Anthropic kills the coding interview"
     },
+    "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1795325984,
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software",
+      "title": "The Pulse: Time to rethink software security because of AI?"
+    },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1792943020,
@@ -10800,6 +10788,12 @@
       "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
       "title": "Quoting Levent Alp\u00f6ge"
     },
+    "https://simonwillison.net/2026/Nov/20/llm-gemini/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1795325984,
+      "link": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+      "title": "llm-gemini 0.38.1"
+    },
     "https://simonwillison.net/2026/Nov/20/ravi-vakil/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1795203825,
@@ -10811,6 +10805,12 @@
       "first_seen": 1795155243,
       "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
       "title": "Token fraud is here and it\u2019s BAD (YouTube)"
+    },
+    "https://simonwillison.net/2026/Nov/21/muru/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1795325984,
+      "link": "https://simonwillison.net/2026/Nov/21/muru/",
+      "title": "Muru"
     },
     "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
@@ -10913,18 +10913,6 @@
       "first_seen": 1794291934,
       "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
       "title": "Locating the source of a mysterious beep with Claude"
-    },
-    "https://simonwillison.net/2026/Oct/22/de-staat-freedom/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1792727397,
-      "link": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
-      "title": "DE STAAT - FREEDOM (Official Music Video)"
-    },
-    "https://simonwillison.net/2026/Oct/22/donating-agent-skills/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1792727397,
-      "link": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
-      "title": "Donating Agent Skills to the Agentic AI Foundation"
     },
     "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
