@@ -4236,6 +4236,12 @@
       "link": "https://nodejs.org/en/blog/release/v26.1.0",
       "title": "Node.js 26.1.0 (Current)"
     },
+    "/blog/release/v26.10.0?1790067829095": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1795374672,
+      "link": "https://nodejs.org/en/blog/release/v26.10.0",
+      "title": "Node.js 26.10.0 (Current)"
+    },
     "/blog/release/v26.11.0?1791384309757": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1794027957,
@@ -6522,6 +6528,12 @@
       "link": "https://www.meziantou.net/adding-jsonpath-support-to-custom-object-models-in-dotnet.htm?utm_medium=social&utm_source=syndication",
       "title": "Adding JsonPath support to custom object models in .NET"
     },
+    "92b20012-b7fe-400e-9d3d-0f3108b1aad8": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1795374672,
+      "link": "https://www.meziantou.net/debugging-a-running-dotnet-application-with-windbg-and-an-ai-agent.htm?utm_medium=social&utm_source=syndication",
+      "title": "Debugging a running .NET application with WinDbg and an AI agent"
+    },
     "a53b29df-2698-48b1-87f2-35ef3b28fb2c": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1794947706,
@@ -7554,12 +7566,6 @@
       "link": "http://brooker.co.za/blog/2026/10/04/encoders.html",
       "title": "Strands Decider: Why Not an Encoder?"
     },
-    "http://brooker.co.za/blog/2026/10/23/animations": {
-      "blog_name": "Marc Brooker (AWS/Systems)",
-      "first_seen": 1792773605,
-      "link": "http://brooker.co.za/blog/2026/10/23/animations.html",
-      "title": "Animations for System Builders: Metastability and Lost Writes"
-    },
     "http://brooker.co.za/blog/2026/11/16/understanding": {
       "blog_name": "Marc Brooker (AWS/Systems)",
       "first_seen": 1794865474,
@@ -7721,6 +7727,12 @@
       "first_seen": 1793555036,
       "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-7-the-pain-of-serializing-unions-and-closed-class-hierarchies-with-system-text-json/",
       "title": "The pain of serializing unions and closed class hierarchies with System.Text.Json: Exploring the .NET 11 preview - Part 7"
+    },
+    "https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/": {
+      "blog_name": "Andrew Lock (.NET)",
+      "first_seen": 1795374672,
+      "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/",
+      "title": "Experimental support for Device Bound Session Credentials (DBSC) in ASP.NET Core: Exploring the .NET 11 preview - Part 8"
     },
     "https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/": {
       "blog_name": "Andrew Lock (.NET)",
@@ -9864,12 +9876,6 @@
       "link": "https://medium.com/@nathanacurtis/figma-slots-for-repeating-items-64b28e35f56a?source=rss-799c7c7840a------2",
       "title": "Figma Slots for Repeating Items"
     },
-    "https://medium.com/p/67513b4b85e1": {
-      "blog_name": "Angular Blog (Official)",
-      "first_seen": 1792773605,
-      "link": "https://blog.angular.dev/from-running-edge-rendered-angular-apps-on-cloudflare-workers-to-crafting-lifelike-speech-with-67513b4b85e1?source=rss----447683c3d9a3---4",
-      "title": "From running edge-rendered Angular apps on Cloudflare Workers to crafting lifelike speech with\u2026"
-    },
     "https://medium.com/p/6e3f43f52450": {
       "blog_name": "Nathan Curtis (Design Systems)",
       "first_seen": 1794634049,
@@ -10103,12 +10109,6 @@
       "first_seen": 1795203825,
       "link": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
       "title": "What\u2019s the ROI of software engineers\u2019 spending on AI?"
-    },
-    "https://newsletter.pragmaticengineer.com/p/windows-and-ai": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1792773605,
-      "link": "https://newsletter.pragmaticengineer.com/p/windows-and-ai",
-      "title": "How will AI change operating systems? Part 2: Windows"
     },
     "https://overreacted.io/a-chain-reaction/": {
       "blog_name": "Dan Abramov (Overreacted)",
