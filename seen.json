@@ -6570,6 +6570,12 @@
       "link": "https://www.meziantou.net/runtime-async-benchmarks-dotnet-10-vs-dotnet-11.htm?utm_medium=social&utm_source=syndication",
       "title": "Runtime async benchmarks: .NET 10 vs .NET 11"
     },
+    "e45ef790-0db4-4f08-8291-13dc0f395402": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1795557715,
+      "link": "https://www.meziantou.net/following-a-slow-request-across-services-with-aspire-and-an-ai-agent.htm?utm_medium=social&utm_source=syndication",
+      "title": "Following a slow request across services with Aspire and an AI agent"
+    },
     "ecddc843-31c8-4985-bd1d-577552554584": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1793733231,
@@ -7740,11 +7746,11 @@
       "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/",
       "title": "Experimental support for Device Bound Session Credentials (DBSC) in ASP.NET Core: Exploring the .NET 11 preview - Part 8"
     },
-    "https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/": {
+    "https://andrewlock.net/invariant-culture-string-interpolation-with-interpolatedstringhandler/": {
       "blog_name": "Andrew Lock (.NET)",
-      "first_seen": 1792943020,
-      "link": "https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/",
-      "title": "Finding the total number of processors on a machine with .NET"
+      "first_seen": 1795557715,
+      "link": "https://andrewlock.net/invariant-culture-string-interpolation-with-interpolatedstringhandler/",
+      "title": "Invariant culture string interpolation with [InterpolatedStringHandler]"
     },
     "https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/": {
       "blog_name": "Andrew Lock (.NET)",
@@ -7950,6 +7956,12 @@
       "link": "https://bradfrost.com/blog/post/mouth-coding/",
       "title": "Mouth Coding"
     },
+    "https://bradfrost.com/blog/post/navigating-this-moment-together/": {
+      "blog_name": "Brad Frost (Design Systems)",
+      "first_seen": 1795557715,
+      "link": "https://bradfrost.com/blog/post/navigating-this-moment-together/",
+      "title": "Community matters more than ever"
+    },
     "https://bradfrost.com/blog/post/our-ai-design-systems-course-is-complete/": {
       "blog_name": "Brad Frost (Design Systems)",
       "first_seen": 1794261703,
@@ -8075,12 +8087,6 @@
       "first_seen": 1794634049,
       "link": "https://danluu.com/algorithms-interviews/",
       "title": "Algorithms interviews: theory vs. practice"
-    },
-    "https://danluu.com/ambitious/": {
-      "blog_name": "Dan Luu (Hardware/Systems)",
-      "first_seen": 1792943020,
-      "link": "https://danluu.com/ambitious/",
-      "title": "\u201cWe should be more ambitious with the software we build\u201d"
     },
     "https://danluu.com/android-updates/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
@@ -8550,12 +8556,6 @@
       "link": "https://danluu.com/new-cpu-features/",
       "title": "What's new in CPUs since the 80s?"
     },
-    "https://danluu.com/no-slow/": {
-      "blog_name": "Dan Luu (Hardware/Systems)",
-      "first_seen": 1792943020,
-      "link": "https://danluu.com/no-slow/",
-      "title": "There's no reason for software to be slow anymore"
-    },
     "https://danluu.com/nothing-works/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
       "first_seen": 1794634049,
@@ -8879,6 +8879,12 @@
       "first_seen": 1795203825,
       "link": "https://devblogs.microsoft.com/dotnet/ai-cross-platform-decision-matrix/",
       "title": "AI is Changing the Cross-Platform Decision Matrix"
+    },
+    "https://devblogs.microsoft.com/dotnet/?p=61302": {
+      "blog_name": ".NET Blog (Microsoft)",
+      "first_seen": 1795557715,
+      "link": "https://devblogs.microsoft.com/dotnet/document-extraction-dotnet-preview/",
+      "title": "Introducing DocumentExtractionClient (preview): Extract documents in .NET"
     },
     "https://heydonworks.com/article/a-double-edged-sword/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
@@ -9738,6 +9744,12 @@
       "link": "https://khalidabuhakmeh.com/posts/csharp-exception-handling-try-catch/",
       "title": "C# try/catch: Exception Handling in C# with Examples"
     },
+    "https://khalidabuhakmeh.com/posts/csharp-generics-explained/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1795557715,
+      "link": "https://khalidabuhakmeh.com/posts/csharp-generics-explained/",
+      "title": "C# Generics: A Practical Guide to Generic Classes, Methods, and Constraints"
+    },
     "https://khalidabuhakmeh.com/posts/csharp-read-excel-file/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
       "first_seen": 1794548226,
@@ -9864,12 +9876,6 @@
       "link": "https://blog.angular.dev/customizing-angular-aria-tabs-quickly-with-google-antigravity-cli-39ff8e0271a4?source=rss----447683c3d9a3---4",
       "title": "Customizing Angular Aria Tabs Quickly with Google Antigravity CLI"
     },
-    "https://medium.com/p/4f1ab881b7a9": {
-      "blog_name": "Nathan Curtis (Design Systems)",
-      "first_seen": 1792943020,
-      "link": "https://medium.com/@nathanacurtis/what-component-specs-leave-behind-4f1ab881b7a9?source=rss-799c7c7840a------2",
-      "title": "What Component Specs Leave Behind"
-    },
     "https://medium.com/p/4f96634b0ae3": {
       "blog_name": "Angular Blog (Official)",
       "first_seen": 1794634049,
@@ -9947,12 +9953,6 @@
       "first_seen": 1793991653,
       "link": "https://blog.angular.dev/core-vitals-optimization-ssr-deployments-and-signal-first-architecture-be82fd4a8c87?source=rss----447683c3d9a3---4",
       "title": "Core Vitals Optimization, SSR Deployments, and Signal-First Architecture \u26a1"
-    },
-    "https://medium.com/p/e82b28d33423": {
-      "blog_name": "Nathan Curtis (Design Systems)",
-      "first_seen": 1792943020,
-      "link": "https://medium.com/@nathanacurtis/design-system-conventions-in-figma-e82b28d33423?source=rss-799c7c7840a------2",
-      "title": "Design System Conventions in Figma"
     },
     "https://medium.com/p/ebc715561ca1": {
       "blog_name": "Angular Blog (Official)",
@@ -10044,6 +10044,12 @@
       "link": "https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews",
       "title": "Software factories and code reviews with Harjot Gill"
     },
+    "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1795557715,
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge",
+      "title": "The Pragmatic Engineer Essay Challenge: Category Winners (Part 1)"
+    },
     "https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-2027": {
       "blog_name": "The Pragmatic Engineer",
       "first_seen": 1794027957,
@@ -10061,12 +10067,6 @@
       "first_seen": 1795325984,
       "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software",
       "title": "The Pulse: Time to rethink software security because of AI?"
-    },
-    "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1792943020,
-      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand",
-      "title": "The Pulse: RoR creator sparks new \u201cdeath of coding by hand\u201d debate"
     },
     "https://newsletter.pragmaticengineer.com/p/the-pulse-firebases-global-outage": {
       "blog_name": "The Pragmatic Engineer",
@@ -10847,6 +10847,12 @@
       "first_seen": 1795476754,
       "link": "https://simonwillison.net/2026/Nov/23/ladybird/",
       "title": "Ladybird's first alpha release"
+    },
+    "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1795557715,
+      "link": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery"
     },
     "https://simonwillison.net/2026/Nov/24/datasette-agent/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
