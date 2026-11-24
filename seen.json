@@ -3786,6 +3786,12 @@
       "link": "https://nodejs.org/en/blog/release/v22.23.2",
       "title": "Node.js 22.23.2 (LTS)"
     },
+    "/blog/release/v22.23.3?1790187760940": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1795510511,
+      "link": "https://nodejs.org/en/blog/release/v22.23.3",
+      "title": "Node.js 22.23.3 (LTS)"
+    },
     "/blog/release/v22.23.4?1792579152420": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1795241026,
@@ -7926,6 +7932,12 @@
       "link": "https://bradfrost.com/blog/post/laser-storm/",
       "title": "Laser Storm"
     },
+    "https://bradfrost.com/blog/post/last-chance-to-get-our-courses-at-pre-release-prices/": {
+      "blog_name": "Brad Frost (Design Systems)",
+      "first_seen": 1795510511,
+      "link": "https://bradfrost.com/blog/post/last-chance-to-get-our-courses-at-pre-release-prices/",
+      "title": "Last chance to get our courses at pre-release prices!"
+    },
     "https://bradfrost.com/blog/post/making-better-products-with-design-systems/": {
       "blog_name": "Brad Frost (Design Systems)",
       "first_seen": 1795241026,
@@ -10824,11 +10836,29 @@
       "link": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
       "title": "datasette-charts 0.1a0"
     },
+    "https://simonwillison.net/2026/Nov/23/glm-54/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1795510511,
+      "link": "https://simonwillison.net/2026/Nov/23/glm-54/",
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer"
+    },
     "https://simonwillison.net/2026/Nov/23/ladybird/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1795476754,
       "link": "https://simonwillison.net/2026/Nov/23/ladybird/",
       "title": "Ladybird's first alpha release"
+    },
+    "https://simonwillison.net/2026/Nov/24/datasette-agent/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1795510511,
+      "link": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+      "title": "datasette-agent 0.7a1"
+    },
+    "https://simonwillison.net/2026/Nov/24/datasette-charts/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1795510511,
+      "link": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+      "title": "datasette-charts 0.2a0"
     },
     "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
