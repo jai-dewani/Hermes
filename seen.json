@@ -4056,12 +4056,6 @@
       "link": "https://nodejs.org/en/blog/release/v24.2.0",
       "title": "Node.js 24.2.0 (Current)"
     },
-    "/blog/release/v24.20.0?1787754582505": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1793039129,
-      "link": "https://nodejs.org/en/blog/release/v24.20.0",
-      "title": "Node.js 24.20.0 (LTS)"
-    },
     "/blog/release/v24.21.0?1788954920945": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1794261703,
@@ -4325,12 +4319,6 @@
       "first_seen": 1794634049,
       "link": "https://nodejs.org/en/blog/release/v26.7.0",
       "title": "Node.js 26.7.0 (Current)"
-    },
-    "/blog/release/v26.8.0?1787754588258": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1793039129,
-      "link": "https://nodejs.org/en/blog/release/v26.8.0",
-      "title": "Node.js 26.8.0 (Current)"
     },
     "/blog/release/v26.8.1?1787782296332": {
       "blog_name": "Node.js Blog (Official)",
@@ -6552,6 +6540,12 @@
       "link": "https://www.meziantou.net/generate-and-review-the-public-api-of-a-dotnet-library.htm?utm_medium=social&utm_source=syndication",
       "title": "Generate and review the public API of a .NET library"
     },
+    "c6bfe177-799b-4782-8037-3f9f549f658c": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1795641375,
+      "link": "https://www.meziantou.net/diagnosing-latency-under-load-from-aspire-metrics-with-an-ai-agent.htm?utm_medium=social&utm_source=syndication",
+      "title": "Diagnosing latency under load from Aspire metrics with an AI agent"
+    },
     "d6dbd2bc-76f7-470e-8c6c-94d5e4286f8a": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1794678327,
@@ -7823,12 +7817,6 @@
       "first_seen": 1794634049,
       "link": "https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/",
       "title": "Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends"
-    },
-    "https://azure.microsoft.com/en-us/blog/?p=54706": {
-      "blog_name": "Microsoft Azure Blog",
-      "first_seen": 1793039129,
-      "link": "https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/",
-      "title": "Scale reservoir uncertainty analysis with agile reservoir modeling"
     },
     "https://azure.microsoft.com/en-us/blog/?p=54722": {
       "blog_name": "Microsoft Azure Blog",
@@ -9138,6 +9126,12 @@
       "link": "https://heydonworks.com/article/html-is-broken/",
       "title": "HTML Is Broken"
     },
+    "https://heydonworks.com/article/hybrid-props-for-custom-elements/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1795641375,
+      "link": "https://heydonworks.com/article/hybrid-props-for-custom-elements/",
+      "title": "Hybrid Props For Custom Elements"
+    },
     "https://heydonworks.com/article/i-am-not-an-accessibility-specialist-hire-me/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
       "first_seen": 1793907546,
@@ -9936,6 +9930,12 @@
       "link": "https://blog.angular.dev/the-momentum-across-the-global-angular-ecosystem-never-slows-down-7d69d0d07a69?source=rss----447683c3d9a3---4",
       "title": "The momentum across the global Angular ecosystem never slows down!"
     },
+    "https://medium.com/p/826bc54ae3a9": {
+      "blog_name": "Angular Blog (Official)",
+      "first_seen": 1795641375,
+      "link": "https://blog.angular.dev/architecting-the-modern-web-debounce-apis-rendering-strategies-and-automated-ai-setup-826bc54ae3a9?source=rss----447683c3d9a3---4",
+      "title": "Architecting the Modern Web: Debounce APIs, Rendering Strategies, and Automated AI Setup! \u26a1"
+    },
     "https://medium.com/p/854ca0815e7d": {
       "blog_name": "Nathan Curtis (Design Systems)",
       "first_seen": 1794634049,
@@ -9947,6 +9947,12 @@
       "first_seen": 1794634049,
       "link": "https://medium.com/@NetanelBasal/reconnaitre-un-cheval-en-bonne-sant%C3%A9-95cec5875798?source=rss-8d37f2c358a8------2",
       "title": "reconnaitre un cheval en bonne sant\u00e9\u00a0!"
+    },
+    "https://medium.com/p/9619a35e2b0a": {
+      "blog_name": "Angular Blog (Official)",
+      "first_seen": 1795641375,
+      "link": "https://blog.angular.dev/an-update-on-angulars-typescript-7-powered-compiler-9619a35e2b0a?source=rss----447683c3d9a3---4",
+      "title": "An update on Angular\u2019s TypeScript 7-powered Compiler"
     },
     "https://medium.com/p/a9d6185318c2": {
       "blog_name": "Nathan Curtis (Design Systems)",
@@ -10007,6 +10013,12 @@
       "first_seen": 1793465879,
       "link": "https://newsletter.pragmaticengineer.com/p/distributed-databases-with-peter",
       "title": "Distributed databases with Peter Mattis"
+    },
+    "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1795641375,
+      "link": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
+      "title": "How Anthropic builds software in 2026 with Katelyn Lesse"
     },
     "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing": {
       "blog_name": "The Pragmatic Engineer",
@@ -10985,12 +10997,6 @@
       "first_seen": 1794291934,
       "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
       "title": "Locating the source of a mysterious beep with Claude"
-    },
-    "https://simonwillison.net/2026/Oct/25/seam-cutter/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1793039129,
-      "link": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
-      "title": "Seam Cutter"
     },
     "https://simonwillison.net/2026/Oct/26/gpt-61-terra/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
