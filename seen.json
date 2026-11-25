@@ -7746,6 +7746,12 @@
       "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/",
       "title": "Experimental support for Device Bound Session Credentials (DBSC) in ASP.NET Core: Exploring the .NET 11 preview - Part 8"
     },
+    "https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/": {
+      "blog_name": "Andrew Lock (.NET)",
+      "first_seen": 1795591899,
+      "link": "https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/",
+      "title": "Finding the total number of processors on a machine with .NET"
+    },
     "https://andrewlock.net/invariant-culture-string-interpolation-with-interpolatedstringhandler/": {
       "blog_name": "Andrew Lock (.NET)",
       "first_seen": 1795557715,
@@ -8087,6 +8093,12 @@
       "first_seen": 1794634049,
       "link": "https://danluu.com/algorithms-interviews/",
       "title": "Algorithms interviews: theory vs. practice"
+    },
+    "https://danluu.com/ambitious/": {
+      "blog_name": "Dan Luu (Hardware/Systems)",
+      "first_seen": 1795591899,
+      "link": "https://danluu.com/ambitious/",
+      "title": "\u201cWe should be more ambitious with the software we build\u201d"
     },
     "https://danluu.com/android-updates/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
@@ -8556,6 +8568,12 @@
       "link": "https://danluu.com/new-cpu-features/",
       "title": "What's new in CPUs since the 80s?"
     },
+    "https://danluu.com/no-slow/": {
+      "blog_name": "Dan Luu (Hardware/Systems)",
+      "first_seen": 1795591899,
+      "link": "https://danluu.com/no-slow/",
+      "title": "There's no reason for software to be slow anymore"
+    },
     "https://danluu.com/nothing-works/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
       "first_seen": 1794634049,
@@ -8807,12 +8825,6 @@
       "first_seen": 1793595434,
       "link": "https://danluu.com/zitron/",
       "title": "Ed Zitron's AI prediction track record"
-    },
-    "https://devblogs.microsoft.com/dotnet/?p=61101": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1792986372,
-      "link": "https://devblogs.microsoft.com/dotnet/dotnet-october-2026-oob-security-updates/",
-      "title": ".NET October 2026 Out-of-Band Security Updates"
     },
     "https://devblogs.microsoft.com/dotnet/?p=61112": {
       "blog_name": ".NET Blog (Microsoft)",
@@ -9876,6 +9888,12 @@
       "link": "https://blog.angular.dev/customizing-angular-aria-tabs-quickly-with-google-antigravity-cli-39ff8e0271a4?source=rss----447683c3d9a3---4",
       "title": "Customizing Angular Aria Tabs Quickly with Google Antigravity CLI"
     },
+    "https://medium.com/p/4f1ab881b7a9": {
+      "blog_name": "Nathan Curtis (Design Systems)",
+      "first_seen": 1795591899,
+      "link": "https://medium.com/@nathanacurtis/what-component-specs-leave-behind-4f1ab881b7a9?source=rss-799c7c7840a------2",
+      "title": "What Component Specs Leave Behind"
+    },
     "https://medium.com/p/4f96634b0ae3": {
       "blog_name": "Angular Blog (Official)",
       "first_seen": 1794634049,
@@ -9918,12 +9936,6 @@
       "link": "https://blog.angular.dev/the-momentum-across-the-global-angular-ecosystem-never-slows-down-7d69d0d07a69?source=rss----447683c3d9a3---4",
       "title": "The momentum across the global Angular ecosystem never slows down!"
     },
-    "https://medium.com/p/826bc54ae3a9": {
-      "blog_name": "Angular Blog (Official)",
-      "first_seen": 1792986372,
-      "link": "https://blog.angular.dev/architecting-the-modern-web-debounce-apis-rendering-strategies-and-automated-ai-setup-826bc54ae3a9?source=rss----447683c3d9a3---4",
-      "title": "Architecting the Modern Web: Debounce APIs, Rendering Strategies, and Automated AI Setup! \u26a1"
-    },
     "https://medium.com/p/854ca0815e7d": {
       "blog_name": "Nathan Curtis (Design Systems)",
       "first_seen": 1794634049,
@@ -9936,12 +9948,6 @@
       "link": "https://medium.com/@NetanelBasal/reconnaitre-un-cheval-en-bonne-sant%C3%A9-95cec5875798?source=rss-8d37f2c358a8------2",
       "title": "reconnaitre un cheval en bonne sant\u00e9\u00a0!"
     },
-    "https://medium.com/p/9619a35e2b0a": {
-      "blog_name": "Angular Blog (Official)",
-      "first_seen": 1792986372,
-      "link": "https://blog.angular.dev/an-update-on-angulars-typescript-7-powered-compiler-9619a35e2b0a?source=rss----447683c3d9a3---4",
-      "title": "An update on Angular\u2019s TypeScript 7-powered Compiler"
-    },
     "https://medium.com/p/a9d6185318c2": {
       "blog_name": "Nathan Curtis (Design Systems)",
       "first_seen": 1794634049,
@@ -9953,6 +9959,12 @@
       "first_seen": 1793991653,
       "link": "https://blog.angular.dev/core-vitals-optimization-ssr-deployments-and-signal-first-architecture-be82fd4a8c87?source=rss----447683c3d9a3---4",
       "title": "Core Vitals Optimization, SSR Deployments, and Signal-First Architecture \u26a1"
+    },
+    "https://medium.com/p/e82b28d33423": {
+      "blog_name": "Nathan Curtis (Design Systems)",
+      "first_seen": 1795591899,
+      "link": "https://medium.com/@nathanacurtis/design-system-conventions-in-figma-e82b28d33423?source=rss-799c7c7840a------2",
+      "title": "Design System Conventions in Figma"
     },
     "https://medium.com/p/ebc715561ca1": {
       "blog_name": "Angular Blog (Official)",
@@ -10865,6 +10877,12 @@
       "first_seen": 1795510511,
       "link": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
       "title": "datasette-charts 0.2a0"
+    },
+    "https://simonwillison.net/2026/Nov/24/llm-inflection-points/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1795591899,
+      "link": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+      "title": "Three LLM inflection points in twelve months"
     },
     "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
