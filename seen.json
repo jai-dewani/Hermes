@@ -4332,6 +4332,12 @@
       "link": "https://nodejs.org/en/blog/release/v26.8.0",
       "title": "Node.js 26.8.0 (Current)"
     },
+    "/blog/release/v26.8.1?1787782296332": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1795727062,
+      "link": "https://nodejs.org/en/blog/release/v26.8.1",
+      "title": "Node.js 26.8.1 (Current)"
+    },
     "/blog/release/v26.8.2?1788970157773": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1794261703,
@@ -4361,6 +4367,12 @@
       "first_seen": 1794947706,
       "link": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.1",
       "title": "Node.js 27.0.0-alpha.0.1.1 (Alpha)"
+    },
+    "/blog/release/v27.0.0-alpha.0.2.0?1795689016201": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1795727062,
+      "link": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.2.0",
+      "title": "Node.js 27.0.0-alpha.0.2.0 (Alpha)"
     },
     "/blog/release/v4.0.0": {
       "blog_name": "Node.js Blog (Official)",
@@ -6551,6 +6563,12 @@
       "first_seen": 1795641375,
       "link": "https://www.meziantou.net/diagnosing-latency-under-load-from-aspire-metrics-with-an-ai-agent.htm?utm_medium=social&utm_source=syndication",
       "title": "Diagnosing latency under load from Aspire metrics with an AI agent"
+    },
+    "d606afd1-cdc6-44c5-b2d4-60ca4b61d4b0": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1795727062,
+      "link": "https://www.meziantou.net/adding-custom-opentelemetry-spans-so-an-ai-agent-can-see-inside-a-request.htm?utm_medium=social&utm_source=syndication",
+      "title": "Adding custom OpenTelemetry spans so an AI agent can see inside a request"
     },
     "d6dbd2bc-76f7-470e-8c6c-94d5e4286f8a": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
@@ -8826,12 +8844,6 @@
       "link": "https://danluu.com/zitron/",
       "title": "Ed Zitron's AI prediction track record"
     },
-    "https://devblogs.microsoft.com/dotnet/?p=61112": {
-      "blog_name": ".NET Blog (Microsoft)",
-      "first_seen": 1793122781,
-      "link": "https://devblogs.microsoft.com/dotnet/blazor-welcomes-infragistics/",
-      "title": "Blazor Welcomes Open-Source Contributions from Infragistics"
-    },
     "https://devblogs.microsoft.com/dotnet/?p=61123": {
       "blog_name": ".NET Blog (Microsoft)",
       "first_seen": 1793297432,
@@ -9804,12 +9816,6 @@
       "link": "https://khalidabuhakmeh.com/posts/great-dotnet-documentation-with-astro-starlight-and-markdownsnippets/",
       "title": "Great .NET Docs with Astro, Starlight, and MarkdownSnippets"
     },
-    "https://khalidabuhakmeh.com/posts/how-to-loop-through-a-list-in-csharp/": {
-      "blog_name": "Khalid Abuhakmeh (.NET)",
-      "first_seen": 1793122781,
-      "link": "https://khalidabuhakmeh.com/posts/how-to-loop-through-a-list-in-csharp/",
-      "title": "How to Loop Through a List in C#: Every Way, Benchmarked"
-    },
     "https://khalidabuhakmeh.com/posts/initialize-aspnet-core-taghelpers-with-shared-data/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
       "first_seen": 1793595434,
@@ -10001,12 +10007,6 @@
       "first_seen": 1794634049,
       "link": "https://medium.com/@nathanacurtis/component-contracts-and-schemas-f7c7a6651273?source=rss-799c7c7840a------2",
       "title": "Component Contracts and Schemas"
-    },
-    "https://newsletter.pragmaticengineer.com/p/ai-sre": {
-      "blog_name": "The Pragmatic Engineer",
-      "first_seen": 1793122781,
-      "link": "https://newsletter.pragmaticengineer.com/p/ai-sre",
-      "title": "AI SRE: what is it, how could it change on-call \u2013 and does it work?"
     },
     "https://newsletter.pragmaticengineer.com/p/building-resilient-systems": {
       "blog_name": "The Pragmatic Engineer",
@@ -10925,6 +10925,18 @@
       "first_seen": 1795677634,
       "link": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
       "title": "Quoting Scott Aaronson"
+    },
+    "https://simonwillison.net/2026/Nov/26/hn-50651685/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1795727062,
+      "link": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features"
+    },
+    "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1795727062,
+      "link": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+      "title": "Quoting Jack Despain Zhou"
     },
     "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
