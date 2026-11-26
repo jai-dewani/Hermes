@@ -4056,6 +4056,12 @@
       "link": "https://nodejs.org/en/blog/release/v24.2.0",
       "title": "Node.js 24.2.0 (Current)"
     },
+    "/blog/release/v24.20.0?1787754582505": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1795677634,
+      "link": "https://nodejs.org/en/blog/release/v24.20.0",
+      "title": "Node.js 24.20.0 (LTS)"
+    },
     "/blog/release/v24.21.0?1788954920945": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1794261703,
@@ -4320,11 +4326,11 @@
       "link": "https://nodejs.org/en/blog/release/v26.7.0",
       "title": "Node.js 26.7.0 (Current)"
     },
-    "/blog/release/v26.8.1?1787782296332": {
+    "/blog/release/v26.8.0?1787754588258": {
       "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1793074151,
-      "link": "https://nodejs.org/en/blog/release/v26.8.1",
-      "title": "Node.js 26.8.1 (Current)"
+      "first_seen": 1795677634,
+      "link": "https://nodejs.org/en/blog/release/v26.8.0",
+      "title": "Node.js 26.8.0 (Current)"
     },
     "/blog/release/v26.8.2?1788970157773": {
       "blog_name": "Node.js Blog (Official)",
@@ -8034,6 +8040,12 @@
       "link": "https://bradfrost.com/links/post/poetic-css/",
       "title": "Poetic CSS"
     },
+    "https://bradfrost.com/links/post/psychoscr/": {
+      "blog_name": "Brad Frost (Design Systems)",
+      "first_seen": 1795677634,
+      "link": "https://bradfrost.com/links/post/psychoscr/",
+      "title": "\u2742 PSYCHOSCR\u16ba\u16ca\u16de"
+    },
     "https://bradfrost.com/links/post/spicy-chicken-w-brad-frost-wireframe-live/": {
       "blog_name": "Brad Frost (Design Systems)",
       "first_seen": 1794634049,
@@ -10884,6 +10896,12 @@
       "link": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
       "title": "datasette-agent 0.7a1"
     },
+    "https://simonwillison.net/2026/Nov/24/datasette-charts-2/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1795677634,
+      "link": "https://simonwillison.net/2026/Nov/24/datasette-charts-2/",
+      "title": "datasette-charts 0.2a1"
+    },
     "https://simonwillison.net/2026/Nov/24/datasette-charts/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1795510511,
@@ -10895,6 +10913,24 @@
       "first_seen": 1795591899,
       "link": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
       "title": "Three LLM inflection points in twelve months"
+    },
+    "https://simonwillison.net/2026/Nov/25/datasette-charts/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1795677634,
+      "link": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
+      "title": "datasette-charts 0.3a0"
+    },
+    "https://simonwillison.net/2026/Nov/25/scott-aaronson/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1795677634,
+      "link": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+      "title": "Quoting Scott Aaronson"
+    },
+    "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1795677634,
+      "link": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+      "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite"
     },
     "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
@@ -10997,24 +11033,6 @@
       "first_seen": 1794291934,
       "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
       "title": "Locating the source of a mysterious beep with Claude"
-    },
-    "https://simonwillison.net/2026/Oct/26/gpt-61-terra/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1793074151,
-      "link": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
-      "title": "GPT-6.1 Terra"
-    },
-    "https://simonwillison.net/2026/Oct/26/jason-koebler/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1793074151,
-      "link": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
-      "title": "Quoting Jason Koebler"
-    },
-    "https://simonwillison.net/2026/Oct/26/webframe-evaluation/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1793074151,
-      "link": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
-      "title": "webframe: evaluated as a scraper and a sandbox"
     },
     "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
