@@ -9816,6 +9816,12 @@
       "link": "https://khalidabuhakmeh.com/posts/great-dotnet-documentation-with-astro-starlight-and-markdownsnippets/",
       "title": "Great .NET Docs with Astro, Starlight, and MarkdownSnippets"
     },
+    "https://khalidabuhakmeh.com/posts/how-to-loop-through-a-list-in-csharp/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1795763836,
+      "link": "https://khalidabuhakmeh.com/posts/how-to-loop-through-a-list-in-csharp/",
+      "title": "How to Loop Through a List in C#: Every Way, Benchmarked"
+    },
     "https://khalidabuhakmeh.com/posts/initialize-aspnet-core-taghelpers-with-shared-data/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
       "first_seen": 1793595434,
@@ -10007,6 +10013,12 @@
       "first_seen": 1794634049,
       "link": "https://medium.com/@nathanacurtis/component-contracts-and-schemas-f7c7a6651273?source=rss-799c7c7840a------2",
       "title": "Component Contracts and Schemas"
+    },
+    "https://newsletter.pragmaticengineer.com/p/ai-sre": {
+      "blog_name": "The Pragmatic Engineer",
+      "first_seen": 1795763836,
+      "link": "https://newsletter.pragmaticengineer.com/p/ai-sre",
+      "title": "AI SRE: what is it, how could it change on-call \u2013 and does it work?"
     },
     "https://newsletter.pragmaticengineer.com/p/building-resilient-systems": {
       "blog_name": "The Pragmatic Engineer",
@@ -11045,12 +11057,6 @@
       "first_seen": 1794291934,
       "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
       "title": "Locating the source of a mysterious beep with Claude"
-    },
-    "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1793162243,
-      "link": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
-      "title": "Game Boy Color on My Conference Badge"
     },
     "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
