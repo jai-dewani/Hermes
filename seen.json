@@ -4266,12 +4266,6 @@
       "link": "https://nodejs.org/en/blog/release/v26.12.1",
       "title": "Node.js 26.12.1 (Current)"
     },
-    "/blog/release/v26.13.0?1793206720303": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1793210486,
-      "link": "https://nodejs.org/en/blog/release/v26.13.0",
-      "title": "Node.js 26.13.0 (LTS)"
-    },
     "/blog/release/v26.13.1?1794415520703": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1794424888,
@@ -6557,6 +6551,12 @@
       "first_seen": 1793555036,
       "link": "https://www.meziantou.net/generate-and-review-the-public-api-of-a-dotnet-library.htm?utm_medium=social&utm_source=syndication",
       "title": "Generate and review the public API of a .NET library"
+    },
+    "bf2a0065-0afd-4963-ba0a-ecbd6b69879e": {
+      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
+      "first_seen": 1795812520,
+      "link": "https://www.meziantou.net/running-tests-on-a-windows-machine-over-ssh-with-an-ai-agent.htm?utm_medium=social&utm_source=syndication",
+      "title": "Running tests on a Windows machine over SSH with an AI agent"
     },
     "c6bfe177-799b-4782-8037-3f9f549f658c": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
@@ -9372,12 +9372,6 @@
       "link": "https://heydonworks.com/article/the-agreement/",
       "title": "The Agreement"
     },
-    "https://heydonworks.com/article/the-ai-art-paradox/": {
-      "blog_name": "Heydon Pickering (Inclusive Design)",
-      "first_seen": 1793210486,
-      "link": "https://heydonworks.com/article/the-ai-art-paradox/",
-      "title": "The AI Artist Paradox"
-    },
     "https://heydonworks.com/article/the-anchor-element/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
       "first_seen": 1794767772,
@@ -9714,12 +9708,6 @@
       "link": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
       "title": "Some more things about Django I've been enjoying"
     },
-    "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/": {
-      "blog_name": "Julia Evans (Linux/OS)",
-      "first_seen": 1793210486,
-      "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-      "title": "Replacing the old battery on rechargeable bike lights"
-    },
     "https://khalidabuhakmeh.com/posts/alpinejs-polling-aspnet-core-apis-for-updates/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
       "first_seen": 1793595434,
@@ -9779,6 +9767,12 @@
       "first_seen": 1795557715,
       "link": "https://khalidabuhakmeh.com/posts/csharp-generics-explained/",
       "title": "C# Generics: A Practical Guide to Generic Classes, Methods, and Constraints"
+    },
+    "https://khalidabuhakmeh.com/posts/csharp-nullable-reference-types/": {
+      "blog_name": "Khalid Abuhakmeh (.NET)",
+      "first_seen": 1795812520,
+      "link": "https://khalidabuhakmeh.com/posts/csharp-nullable-reference-types/",
+      "title": "C# Nullable Reference Types and #nullable enable Explained"
     },
     "https://khalidabuhakmeh.com/posts/csharp-read-excel-file/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
@@ -9941,12 +9935,6 @@
       "first_seen": 1794634049,
       "link": "https://medium.com/@nathanacurtis/spec-driven-ui-component-development-6e3f43f52450?source=rss-799c7c7840a------2",
       "title": "Spec-Driven UI Component Development"
-    },
-    "https://medium.com/p/743bb9bd0b0e": {
-      "blog_name": "Angular Blog (Official)",
-      "first_seen": 1793210486,
-      "link": "https://blog.angular.dev/styling-mastery-and-declarative-form-submissions-743bb9bd0b0e?source=rss----447683c3d9a3---4",
-      "title": "Styling Mastery and Declarative Form Submissions"
     },
     "https://medium.com/p/7d69d0d07a69": {
       "blog_name": "Angular Blog (Official)",
@@ -11058,29 +11046,11 @@
       "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
       "title": "Locating the source of a mysterious beep with Claude"
     },
-    "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1793210486,
-      "link": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
-      "title": "GitHub Octoverse 2026"
-    },
     "https://simonwillison.net/2026/Oct/28/ted-sanders/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1793249493,
       "link": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
       "title": "Quoting Ted Sanders"
-    },
-    "https://simonwillison.net/2026/Oct/28/terk-terkowitz/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1793210486,
-      "link": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
-      "title": "Quoting Terk Terkowitz"
-    },
-    "https://simonwillison.net/2026/Oct/28/vibe-game-development/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1793210486,
-      "link": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
-      "title": "The October inflection point for vibe game development"
     },
     "https://simonwillison.net/2026/Oct/29/api-credits/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
