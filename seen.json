@@ -4080,12 +4080,6 @@
       "link": "https://nodejs.org/en/blog/release/v24.22.1",
       "title": "Node.js 24.22.1 (LTS)"
     },
-    "/blog/release/v24.22.2?1793212814932": {
-      "blog_name": "Node.js Blog (Official)",
-      "first_seen": 1793249493,
-      "link": "https://nodejs.org/en/blog/release/v24.22.2",
-      "title": "Node.js 24.22.2 (LTS)"
-    },
     "/blog/release/v24.22.3?1794415511877": {
       "blog_name": "Node.js Blog (Official)",
       "first_seen": 1794424888,
@@ -4265,6 +4259,12 @@
       "first_seen": 1795241026,
       "link": "https://nodejs.org/en/blog/release/v26.12.1",
       "title": "Node.js 26.12.1 (Current)"
+    },
+    "/blog/release/v26.13.0?1793206720303": {
+      "blog_name": "Node.js Blog (Official)",
+      "first_seen": 1795848597,
+      "link": "https://nodejs.org/en/blog/release/v26.13.0",
+      "title": "Node.js 26.13.0 (LTS)"
     },
     "/blog/release/v26.13.1?1794415520703": {
       "blog_name": "Node.js Blog (Official)",
@@ -6522,12 +6522,6 @@
       "link": "https://www.meziantou.net/diagnosing-thread-pool-starvation-from-a-dotnet-dump-with-an-ai-agent.htm?utm_medium=social&utm_source=syndication",
       "title": "Diagnosing thread pool starvation from a .NET dump with an AI agent"
     },
-    "79429f3e-7781-4012-9f75-ec73b0e98437": {
-      "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
-      "first_seen": 1793249493,
-      "link": "https://www.meziantou.net/adding-jsonpath-support-to-custom-object-models-in-dotnet.htm?utm_medium=social&utm_source=syndication",
-      "title": "Adding JsonPath support to custom object models in .NET"
-    },
     "92b20012-b7fe-400e-9d3d-0f3108b1aad8": {
       "blog_name": "G\u00e9rald Barr\u00e9 (Meziantou)",
       "first_seen": 1795374672,
@@ -7578,12 +7572,6 @@
       "link": "http://brooker.co.za/blog/2026/07/29/lorenz-and-little.html",
       "title": "Lorenz and Little: How Much Does Your Tail Cost?"
     },
-    "http://brooker.co.za/blog/2026/09/28/engineering-system-one": {
-      "blog_name": "Marc Brooker (AWS/Systems)",
-      "first_seen": 1793249493,
-      "link": "http://brooker.co.za/blog/2026/09/28/engineering-system-one.html",
-      "title": "Small Decisions: Engineering a Leading Model"
-    },
     "http://brooker.co.za/blog/2026/10/04/encoders": {
       "blog_name": "Marc Brooker (AWS/Systems)",
       "first_seen": 1793820566,
@@ -8177,12 +8165,6 @@
       "first_seen": 1794634049,
       "link": "https://danluu.com/boring-languages/",
       "title": "A defense of boring languages"
-    },
-    "https://danluu.com/brain-off/": {
-      "blog_name": "Dan Luu (Hardware/Systems)",
-      "first_seen": 1793249493,
-      "link": "https://danluu.com/brain-off/",
-      "title": "There's no point at which turning your brain off will work"
     },
     "https://danluu.com/branch-prediction/": {
       "blog_name": "Dan Luu (Hardware/Systems)",
@@ -9372,6 +9354,12 @@
       "link": "https://heydonworks.com/article/the-agreement/",
       "title": "The Agreement"
     },
+    "https://heydonworks.com/article/the-ai-art-paradox/": {
+      "blog_name": "Heydon Pickering (Inclusive Design)",
+      "first_seen": 1795848597,
+      "link": "https://heydonworks.com/article/the-ai-art-paradox/",
+      "title": "The AI Artist Paradox"
+    },
     "https://heydonworks.com/article/the-anchor-element/": {
       "blog_name": "Heydon Pickering (Inclusive Design)",
       "first_seen": 1794767772,
@@ -9708,6 +9696,12 @@
       "link": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
       "title": "Some more things about Django I've been enjoying"
     },
+    "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/": {
+      "blog_name": "Julia Evans (Linux/OS)",
+      "first_seen": 1795848597,
+      "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "title": "Replacing the old battery on rechargeable bike lights"
+    },
     "https://khalidabuhakmeh.com/posts/alpinejs-polling-aspnet-core-apis-for-updates/": {
       "blog_name": "Khalid Abuhakmeh (.NET)",
       "first_seen": 1793595434,
@@ -9935,6 +9929,12 @@
       "first_seen": 1794634049,
       "link": "https://medium.com/@nathanacurtis/spec-driven-ui-component-development-6e3f43f52450?source=rss-799c7c7840a------2",
       "title": "Spec-Driven UI Component Development"
+    },
+    "https://medium.com/p/743bb9bd0b0e": {
+      "blog_name": "Angular Blog (Official)",
+      "first_seen": 1795848597,
+      "link": "https://blog.angular.dev/styling-mastery-and-declarative-form-submissions-743bb9bd0b0e?source=rss----447683c3d9a3---4",
+      "title": "Styling Mastery and Declarative Form Submissions"
     },
     "https://medium.com/p/7d69d0d07a69": {
       "blog_name": "Angular Blog (Official)",
@@ -10944,6 +10944,18 @@
       "link": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
       "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite"
     },
+    "https://simonwillison.net/2026/Nov/27/datasette-charts/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1795848597,
+      "link": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+      "title": "datasette-charts 0.4a0"
+    },
+    "https://simonwillison.net/2026/Nov/27/datasette-mcp/": {
+      "blog_name": "Simon Willison (AI/Web/SQLite)",
+      "first_seen": 1795848597,
+      "link": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+      "title": "datasette-mcp 0.4"
+    },
     "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
       "first_seen": 1793684750,
@@ -11045,12 +11057,6 @@
       "first_seen": 1794291934,
       "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
       "title": "Locating the source of a mysterious beep with Claude"
-    },
-    "https://simonwillison.net/2026/Oct/28/ted-sanders/": {
-      "blog_name": "Simon Willison (AI/Web/SQLite)",
-      "first_seen": 1793249493,
-      "link": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
-      "title": "Quoting Ted Sanders"
     },
     "https://simonwillison.net/2026/Oct/29/api-credits/": {
       "blog_name": "Simon Willison (AI/Web/SQLite)",
